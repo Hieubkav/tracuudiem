@@ -1,0 +1,893 @@
+# Webalizer V2.23-08 Incremental Data - 09/14/2024 03:27:19
+2024 9 14 3 27 19
+2153 1966 70 161 63 56 26321002 1931 179 0
+3 1 1316 3 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+1917 1797 17462912 13 1818 126
+130 97 5680460 28 50 26
+61 53 2705605 9 32 9
+7 2 7068 4 5 3
+2 1 1691 1 2 1
+5 2 4611 3 4 2
+3 1 1858 2 3 2
+8 1 8006 6 4 3
+12 9 442320 3 6 3
+3 1 2922 2 2 1
+0 0 0 0 0 0
+5 2 3549 3 5 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+27 19 652931 17
+9 4 7990 8
+16 7 76645 8
+1 0 168 1
+1 0 1229 0
+2 0 1397 1
+70 56 3640623 27
+34 23 1626802 10
+0 0 0 0
+0 0 0 0
+4 1 5765 2
+1 0 1229 0
+20 17 1275806 6
+0 0 0 0
+0 0 0 0
+2 0 336 2
+2 1 1691 2
+2 0 2458 1
+0 0 0 0
+9 8 439402 4
+563 527 6292474 522
+1316 1259 10504813 1271
+72 43 1787552 47
+2 1 1691 2
+1
+0
+0
+1966
+0
+0
+0
+0
+0
+0
+0
+12
+96
+0
+8
+0
+0
+0
+0
+0
+21
+26
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+23
+0
+0
+0
+0
+0
+# -urls- 
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/40/22
+0 1 94537584097344 15639 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MX0
+0 1 0 3571 0 0
+/api/dot-thi/updateQd-trang-thai/43
+0 4 0 20 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/49/27
+0 1 0 12658 0 0
+/dot-thi/43
+0 13 0 46735 1 1
+/api/dot-xet-tot-nghiep/cap-nhat-xltn
+0 2 0 0 1 0
+/api/dot-thi/xoa-lop-hoc/113/43
+0 1 0 0 0 0
+/api/he-dao-tao/all
+0 351 0 44697 18 25
+/api/quyet-dinh/all/1
+0 31 0 35840 2 1
+/nhap-diem/116/ket-qua-hoc-tap
+0 10 0 99817 3 0
+/mon-hoc
+0 1 0 3632 1 0
+/nhap-diem/46/ket-qua-hoc-tap
+0 4 0 153468 0 0
+/api/nhap-diem/124/hoc-ky
+0 2 0 2434 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/7
+0 1 0 1153 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MSwibWhfaWQiOjc4fQ
+0 1 0 3571 0 0
+/api/sinh-vien/2211
+0 1 0 173 1 0
+/api/dot-xet-tot-nghiep/xoa-lop-du-xet/31
+0 1 0 0 0 0
+/api/quyet-dinh/all/0
+0 91 0 108017 8 4
+/dot-xet-tot-nghiep/31
+0 13 0 47153 2 1
+/api/lop-hoc/46
+0 2 0 614 0 0
+/dot-xet-tot-nghiep/36/danh-sach-xet-tot-nghiep/export
+0 2 0 31308 0 0
+/dot-thi
+0 77 0 277642 4 3
+/api/dot-thi/49
+0 1 0 0 0 0
+/api/nhap-diem/129/bang-diem-dot-thi
+0 9 0 3809 1 1
+/api/dot-xet-tot-nghiep/all
+0 77 0 34114 6 4
+/nhap-diem/74/ket-qua-hoc-tap/export
+0 1 0 14483 0 1
+/images/favicon/apple-touch-icon.png
+0 5 0 242165 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODZ9
+0 1 0 3593 0 0
+/api/nganh-nghe/all
+0 1 0 1341 1 0
+/api/nien-khoa/all
+0 106 0 30104 6 4
+/dot-thi/36/danh-sach-sinh-vien/export
+0 3 0 569409 0 2
+/nhap-diem/124
+0 2 0 7296 0 0
+/api/lop-hoc/129/ds-sinh-vien
+0 2 0 2013 0 0
+/api/nhap-diem/113/bang-diem-dot-thi
+0 3 0 969 1 0
+/dot-xet-tot-nghiep/32/danh-sach-sinh-vien-thi-dat-tn/export
+0 1 0 11423 0 1
+/nhap-diem/112/ket-qua-hoc-tap/export
+0 3 0 50458 0 0
+/api/nhap-diem/46/bang-diem-dot-thi
+0 4 0 1032 0 0
+/api/dot-xet-tot-nghiep/31
+0 2 0 488 0 0
+/api/dot-xet-tot-nghiep/7
+0 1 0 271 0 0
+/api/dot-xet-tot-nghiep
+0 87 0 97777 5 9
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/31
+0 14 0 13285 1 1
+/dot-thi/nhap-diem/129/43
+0 2 0 7304 0 0
+/dot-thi/43/danh-sach-xet-thi-tot-nghiep/export
+0 2 0 30328 0 0
+/dot-xet-tot-nghiep/15
+0 1 0 3622 0 0
+/dot-thi/nhap-diem/46/36
+0 1 0 3668 0 0
+/site.webmanifest
+0 12 0 3156 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/46/36
+0 3 0 30438 0 0
+/api/dot-thi/36/dsmon
+0 1 0 212 1 0
+/lop-hoc/129
+0 1 0 3591 0 0
+/fonts/vendor/font-awesome/fontawesome-webfont.woff2
+0 8 0 617280 0 0
+/dot-xet-tot-nghiep/41/danh-sach-xet-tot-nghiep/export
+0 2 0 38284 0 1
+/dot-thi/43/danh-sach-sinh-vien/export
+0 4 0 673661 0 1
+/dot-xet-tot-nghiep/7/danh-sach-sinh-vien-thi-dat-tn/export
+0 2 0 32138 0 0
+/nhap-diem/72/ket-qua-hoc-tap/export
+0 9 0 104314 2 0
+/nhap-diem/127/ket-qua-hoc-tap
+0 4 0 38623 0 1
+/api/nhap-diem
+0 46 0 64909 6 4
+/api/lop-hoc/116
+0 3 0 924 0 0
+/api/mon-hoc/894
+0 4 0 740 0 1
+/api/nhap-diem/116/bang-diem
+0 1 0 668 0 0
+/js/admin.js
+0 28 0 7812702 0 0
+/_ignition/health-check
+0 1 0 33 0 0
+/api/nhap-diem/116/hoc-ky
+0 2 0 3404 0 1
+/dot-thi/ket-qua-diem-thi-tn/129/43
+0 1 0 5765 0 0
+/dot-thi/ket-qua-hoc-tap/46/36
+0 1 0 8504 0 0
+/dot-xet-tot-nghiep/32
+0 6 0 21774 0 0
+/nhap-diem/127/ket-qua-hoc-tap/export
+0 2 0 25026 0 0
+/nhap-diem/116/ket-qua-hoc-tap/export
+0 3 0 37469 0 1
+/dot-thi/ket-qua-hoc-tap/113/43
+0 1 0 7987 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/8
+0 3 0 1797 0 0
+/favicon.ico
+0 9 0 0 0 0
+/api/lop-hoc/dot-thi-lop-hoc/43
+0 14 0 11476 2 0
+/dot-xet-tot-nghiep/32/danh-sach-sinh-vien
+0 2 0 7276 0 1
+/css/admin2.css
+0 30 0 25974 0 0
+/dot-thi/nhap-diem-excel/113/43
+0 1 0 3591 0 0
+/dot-thi/ket-qua-diem-thi-tn/46/36
+0 2 0 11626 0 0
+/api/khoa-dao-tao/all
+0 60 0 177660 1 6
+/api/mon-hoc/all-by-khoa-dao-tao
+0 2 0 1448 0 0
+/api/user/paginate
+0 2 0 3268 0 0
+/api/lop-hoc/dot-thi-lop-hoc/41
+0 1 0 712 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODV9
+0 1 0 3593 0 0
+/dot-thi/46
+0 1 0 3629 1 0
+/api/dot-thi/48
+0 1 0 0 0 0
+/api/dot-xet-tot-nghiep/9/danhsachsinhvien
+0 3 0 1472 1 0
+/fonts/vendor/bootstrap3/dist/glyphicons-halflings-regular.woff2
+0 15 0 270420 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/32
+0 6 0 6972 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/70/41
+0 8 0 116166 1 0
+/api/lop-hoc/129
+0 8 0 2152 1 1
+/api/dot-thi/all
+0 4 0 987 0 1
+/dot-thi/41/diem-mon-hoc-dot-thi-theo-lop-full/export
+0 2 0 48679 1 0
+/api/mon-hoc
+0 1 0 901 0 0
+/api/dot-xet-tot-nghiep/31/danhsachsinhvien
+0 9 0 6765 0 0
+/api/lop-hoc/113
+0 1 0 290 0 0
+/api/lop-hoc/dot-thi-lop-hoc/36
+0 7 0 5264 0 1
+/dot-thi/nhap-diem/113/43
+0 1 0 3653 0 0
+/api/dot-xet-tot-nghiep/xoa-lop-du-xet/8
+0 1 0 0 0 0
+/dot-thi/43/danh-sach-sinh-vien
+0 10 0 35809 1 0
+/dot-xet-tot-nghiep/31/danh-sach-sinh-vien
+0 9 0 32517 1 1
+/images/favicon/favicon-32x32.png
+0 18 0 50148 0 0
+/login
+0 76 0 115750 16 7
+/api/mon-hoc/886
+0 3 0 606 0 0
+/api/dot-thi/43
+0 1 0 281 0 0
+/user
+0 2 0 7054 0 0
+/api/lop-hoc/paginate
+0 12 0 22329 1 0
+/api/user/2178
+0 5 0 1270 0 0
+/dot-xet-tot-nghiep/9
+0 3 0 10854 0 0
+/api/nhap-diem/124/bang-diem
+0 1 0 998 0 0
+/css/admin.css
+0 30 0 1421056 0 0
+/api/lop-hoc/dot-thi-lop-hoc/46
+0 1 0 704 0 1
+/api/quyet-dinh/all/2
+0 31 0 24645 1 3
+/api/dot-thi/all/dot-xet-tn
+0 83 0 24371 2 6
+/dot-xet-tot-nghiep
+0 88 0 317782 6 2
+/dot-thi/41
+0 1 0 3630 1 0
+/api/lop-hoc/all
+0 1 0 2561 0 0
+/api/dot-thi/43/dsmon
+0 3 0 636 0 0
+/dot-xet-tot-nghiep/8
+0 2 0 7238 0 0
+/nhap-diem/46/ket-qua-hoc-tap/export
+0 3 0 61876 0 0
+/
+0 10 0 88230 50 4
+/dot-xet-tot-nghiep/7/danh-sach-sinh-vien
+0 3 0 10869 1 1
+/dot-thi/36/danh-sach-sinh-vien
+0 3 0 10758 1 0
+/api/dot-thi/updateQd-trang-thai/36
+0 1 0 5 0 0
+/dot-xet-tot-nghiep/9/danh-sach-sinh-vien
+0 3 0 10806 0 0
+/images/favicon/favicon-16x16.png
+0 8 0 7656 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4Nn0
+0 2 0 7196 0 0
+/api/dot-xet-tot-nghiep/8
+0 1 0 196 0 0
+/api/dot-xet-tot-nghiep/cap-nhat-dot-xet-cho-dot-thi
+0 2 0 0 0 0
+/dot-thi/nhap-diem-excel/129/43
+0 2 0 7186 0 0
+/user/2178/edit
+0 2 0 7094 1 1
+/api/dot-thi
+0 88 0 103409 5 4
+/lop-hoc
+0 14 0 50622 0 0
+/api/dot-thi/43/danhsachsinhvien
+0 12 0 5480 1 1
+/lop-hoc/129/hoc-ky
+0 1 0 3569 0 0
+/images/favicon/android-chrome-512x512.png
+0 19 0 4796265 0 0
+/dot-xet-tot-nghiep/7
+0 1 0 3616 0 0
+/nhap-diem/112/ket-qua-hoc-tap
+0 4 0 73638 0 1
+/dot-thi/36/diem-mon-hoc-dot-thi-theo-lop-full/export
+0 2 0 41746 0 1
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/9
+0 3 0 2457 0 0
+/api/dot-xet-tot-nghiep/32/danhsachsinhvien
+0 2 0 1036 0 0
+/tra-cuu-diem/xuat-danh-sach
+0 7 0 413061 0 0
+/nhap-diem
+0 47 0 169741 3 3
+/nhap-diem/116
+0 2 0 7296 0 0
+/nhap-diem/74/ket-qua-hoc-tap
+0 1 0 17033 0 0
+/dot-thi/ket-qua-diem-thi-tn/113/43
+0 1 0 5622 0 0
+/api/dot-thi/cap-nhat-dot-thi-cho-lop
+0 2 0 410 0 0
+/images/default/user_avatar.png
+0 11 0 1257300 0 0
+/nhap-diem/70/ket-qua-hoc-tap
+0 8 0 176115 1 3
+/dot-thi/36
+0 7 0 25396 0 0
+/api/mon-hoc/885
+0 1 0 192 0 0
+/dot-xet-tot-nghiep/27/danh-sach-xet-tot-nghiep/export
+0 1 0 17608 0 0
+/api/lop-hoc/124
+0 3 0 918 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/15
+0 1 0 1579 0 0
+/dot-xet-tot-nghiep/31/danh-sach-sinh-vien-thi-dat-tn/export
+0 5 0 63663 0 0
+/api/dot-xet-tot-nghiep/7/danhsachsinhvien
+0 3 0 8709 1 0
+/dot-thi/ket-qua-hoc-tap/129/43
+0 2 0 16666 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4OTR9
+0 1 0 3593 1 0
+/images/default/sinhvien-nam.svg
+0 4 0 19264 0 0
+/dot-thi/36/danh-sach-xet-thi-tot-nghiep/export
+0 1 0 15934 0 0
+/api/dot-thi/36/danhsachsinhvien
+0 3 0 1786 0 0
+/nhap-diem/72/ket-qua-hoc-tap
+0 13 0 119017 0 2
+/api/mon-hoc/78
+0 1 0 176 0 0
+/api/lop-hoc/129/hoc-ky
+0 2 0 1620 0 0
+/dot-xet-tot-nghiep/9/danh-sach-sinh-vien-thi-dat-tn/export
+0 1 0 13103 0 0
+# End Of Table - urls
+# -sites- (monthly)
+hostedby.privatelayer.com
+0 1 0 1229 0 0
+-
+47.254.76.138
+0 2 1 1689 1 1725445145
+/login
+104.166.80.49
+0 2 1 1691 1 1725408631
+/login
+c53df711d7.scan.leakix.org
+0 2 0 336 1 1725401397
+/
+i5e86b731.versanet.de
+0 8 8 640651 1 1725540361
+/login
+scanner-201.fr7.censys-scanner.com
+0 3 3 3743 0 0
+-
+104.166.80.194
+0 2 1 1689 1 1726016435
+/login
+104.166.80.241
+0 2 1 1693 1 1725929135
+/login
+45.148.10.206
+0 1 0 1229 0 0
+-
+2400:6180:100:d0::393:d001
+0 3 1 336 1 1725432815
+/
+104.166.80.117
+0 2 1 1690 1 1725842270
+/login
+194-195-214-252.ip.linodeusercontent.com
+0 4 4 359834 1 1725432443
+/login
+47.251.15.21
+0 1 0 2038 0 0
+-
+45.81.148.24
+0 8 8 633348 1 1725433223
+/login
+195.178.110.35
+0 1 0 1229 0 0
+-
+49.213.78.31
+0 1 1 252435 0 0
+-
+kd106155000209.au-net.ne.jp
+0 1 0 0 1 1725433663
+/
+85-254-112-52.cloudtelek.com
+0 8 7 615485 1 1725432210
+/login
+ec2-3-145-57-200.us-east-2.compute.amazonaws.com
+0 1 0 1229 0 0
+-
+173.239.214.26
+0 4 3 21244 1 1725432255
+/login
+107-173-234-194-host.colocrossing.com
+0 3 2 1954 1 1725401624
+/login
+104.166.80.66
+0 2 1 1688 1 1725494782
+/login
+45.148.10.172
+0 1 0 1229 0 0
+-
+internettl.org
+0 2 0 336 1 1725550630
+/
+188.166.9.179
+0 2 1 1692 1 1725763726
+/login
+144.126.201.9
+0 2 1 1691 1 1725585771
+/login
+185.253.96.19
+0 1 1 1520 1 1725495288
+/login
+104.166.80.8
+0 2 1 1691 1 1725670336
+/login
+79.98.181.145
+0 1 1 1522 1 1725432199
+/login
+ns1010346.ip-135-148-100.us
+0 2 1 1691 1 1725407076
+/login
+2a12:5940:c826::2
+0 1 1 0 0 0
+-
+212.143.94.254
+0 11 9 635208 1 1725432222
+/login
+104.166.80.209
+0 2 1 1690 1 1725582076
+/login
+ec2-3-35-216-22.ap-northeast-2.compute.amazonaws.com
+0 1 0 168 1 1725945896
+/
+195.178.110.135
+0 1 0 1229 0 0
+-
+40.80.158.10
+0 12 9 635155 2 1725452716
+/login
+static.vnpt.vn
+0 1603 1540 10859546 93 1725399768
+/api/he-dao-tao/all
+unn-212-102-35-60.cdn77.com
+0 1 0 168 1 1725432657
+/
+104.166.80.62
+0 2 1 1691 1 1726277957
+/login
+ec2-18-205-105-240.compute-1.amazonaws.com
+0 6 6 630296 1 1725433303
+/login
+ec2-34-201-36-184.compute-1.amazonaws.com
+0 4 4 52176 0 0
+-
+172.111.197.5
+0 1 0 168 1 1725432657
+/
+ec2-3-16-50-169.us-east-2.compute.amazonaws.com
+0 1 0 168 1 1725862255
+/
+d9fc35a06b.scan.leakix.org
+0 2 0 336 1 1725401398
+/
+164.90.199.58
+0 2 1 1690 1 1726278973
+/login
+104.166.80.64
+0 10 5 70802 1 1725418391
+/login
+sp49-109-149-105.tck02.spmode.ne.jp
+0 2 1 1691 1 1725433664
+/login
+146.190.13.187
+0 3 3 5265 1 1725495290
+/login
+crawl346.us.archive.org
+0 2 1 1690 2 1725402147
+/
+167.94.145.110
+0 2 1 1692 2 1725482899
+/
+104.166.80.111
+0 2 1 1690 1 1725755232
+/login
+178.252.171.20
+0 2 1 1692 1 1725401518
+/login
+static.126.80.119.168.clients.your-server.de
+0 9 8 439402 2 1726083910
+/login
+marvellous.monitoring.internet-measurement.com
+0 2 1 1691 2 1725467650
+/
+2400:6180:0:d0::284:c001
+0 7 7 633084 1 1725495127
+/login
+ec2-35-94-24-76.us-west-2.compute.amazonaws.com
+0 9 5 54131 1 1725433469
+/
+147.182.156.247
+0 2 1 1693 1 1726109457
+/login
+95.164.100.197
+0 2 1 1690 1 1725432199
+/login
+unn-169-150-201-7.datapacket.com
+0 3 2 1691 1 1725401470
+/login
+47.88.94.161
+0 1 0 2038 0 0
+-
+141.11.89.158
+0 4 0 4916 2 1725989102
+/
+159-148-128-147.cloudtelek.com
+0 7 7 615315 1 1725432210
+/login
+dynamic-ip-adsl.viettel.vn
+0 299 269 6796360 23 1725575597
+/nhap-diem/46/ket-qua-hoc-tap/export
+vps-0cfe584a.vps.ovh.ca
+0 2 1 1694 1 1725395100
+/login
+107-172-166-76-host.colocrossing.com
+0 9 8 633509 1 1725401622
+/login
+rnd.group-ib.com
+0 20 14 990906 2 1725521836
+/login
+195.178.110.21
+0 2 0 1397 1 1726284439
+/
+dec04dc34a.scan.leakix.org
+0 18 0 28161 2 1725401403
+-
+38.108.182.96
+0 1 1 18028 0 0
+-
+95.211.199.150
+0 8 7 633253 1 1725432158
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+104.166.80.62
+0 2 1 1691 1 1726277957
+/login
+164.90.199.58
+0 2 1 1690 1 1726278973
+/login
+195.178.110.21
+0 1 0 168 1 1726284439
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/70/41
+0 17
+https://democea.ttdat.id.vn/dot-thi/41
+0 7
+https://democea.ttdat.id.vn/dot-thi/ket-qua-diem-thi-tn/113/43
+0 1
+https://democea.ttdat.id.vn/nhap-diem/74/ket-qua-hoc-tap
+0 1
+https://democea.ttdat.id.vn/login
+0 131
+https://democea.ttdat.id.vn/lop-hoc
+0 77
+https://democea.ttdat.id.vn/user
+0 4
+https://democea.ttdat.id.vn/
+0 21
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/7/danh-sach-sinh-vien
+0 24
+https://democea.ttdat.id.vn/dot-thi/nhap-diem-excel/113/43
+0 5
+https://www.google.ie/
+0 2
+https://democea.ttdat.id.vn/user/2178/edit
+0 9
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/9
+0 19
+https://democea.ttdat.id.vn/mon-hoc
+0 4
+https://democea.ttdat.id.vn/tra-cuu-diem/xuat-danh-sach
+0 1
+https://democea.ttdat.id.vn/dot-thi/nhap-diem-excel/129/43
+0 10
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep
+0 446
+https://democea.ttdat.id.vn/dot-thi/ket-qua-diem-thi-tn/129/43
+0 1
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/46/36
+0 11
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/8
+0 15
+https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap
+0 24
+https://democea.ttdat.id.vn
+0 4
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/7
+0 7
+- (Direct Request)
+0 199
+https://democea.ttdat.id.vn/nhap-diem
+0 194
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/31
+0 83
+https://democea.ttdat.id.vn/nhap-diem/112/ket-qua-hoc-tap
+0 7
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/32
+0 38
+https://democea.ttdat.id.vn/dot-thi/nhap-diem/129/43
+0 10
+https://democea.ttdat.id.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODZ9
+0 3
+https://democea.ttdat.id.vn/dot-thi
+0 342
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/31/danh-sach-sinh-vien
+0 50
+https://democea.ttdat.id.vn/lop-hoc/129/hoc-ky
+0 7
+https://democea.ttdat.id.vn/dot-thi/ket-qua-hoc-tap/129/43
+0 3
+https://democea.ttdat.id.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MSwibWhfaWQiOjc4fQ
+0 4
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/49/27
+0 2
+https://democea.ttdat.id.vn/dot-thi/nhap-diem/46/36
+0 4
+https://democea.ttdat.id.vn/dot-thi/ket-qua-hoc-tap/46/36
+0 2
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/32/danh-sach-sinh-vien
+0 11
+https://democea.ttdat.id.vn/dot-thi/ket-qua-diem-thi-tn/46/36
+0 2
+https://democea.ttdat.id.vn/lop-hoc/129
+0 10
+https://democea.ttdat.id.vn/nhap-diem/127/ket-qua-hoc-tap
+0 8
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/40/22
+0 1
+https://jp.zaloapp.com/
+0 11
+https://democea.ttdat.id.vn/nhap-diem/116
+0 6
+https://democea.ttdat.id.vn/nhap-diem/46/ket-qua-hoc-tap
+0 6
+https://democea.ttdat.id.vn/dot-thi/46
+0 7
+https://democea.ttdat.id.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4OTR9
+0 3
+https://democea.ttdat.id.vn/nhap-diem/70/ket-qua-hoc-tap
+0 8
+https://democea.ttdat.id.vn/css/admin.css
+0 22
+https://democea.ttdat.id.vn/dot-thi/nhap-diem/113/43
+0 3
+https://democea.ttdat.id.vn/dot-thi/36
+0 43
+https://democea.ttdat.id.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MX0
+0 3
+https://democea.ttdat.id.vn/nhap-diem/116/ket-qua-hoc-tap
+0 20
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/15
+0 7
+https://democea.ttdat.id.vn/dot-xet-tot-nghiep/9/danh-sach-sinh-vien
+0 17
+https://democea.ttdat.id.vn/dot-thi/36/danh-sach-sinh-vien
+0 18
+https://democea.ttdat.id.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4Nn0
+0 8
+https://democea.ttdat.id.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODV9
+0 3
+https://democea.ttdat.id.vn/dot-thi/43/danh-sach-sinh-vien
+0 57
+https://democea.ttdat.id.vn/dot-thi/43
+0 82
+https://democea.ttdat.id.vn/nhap-diem/124
+0 6
+https://democea.ttdat.id.vn/dot-thi/ket-qua-hoc-tap/113/43
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6523.4 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 9
+Mozilla/5.0 (l9scan/2.0.33e27393e2431313e2838313; +https://leakix.net)
+0 1
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 2
+Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot) Zeno/5aed272 warc/v0.8.43
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.2.20
+0 1
+Mozilla/5.0 (Maemo; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (SS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/126.0.6478.126 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/122.0.0.0 Safari/537.36
+0 9
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+0 8
+BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12 (Google WAP Proxy/1.0)
+0 1
+WhatsApp/2
+0 15
+Go-http-client/1.1
+0 17
+Mozilla/5.0 (Kubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+0 15
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E14
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+0 15
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.65 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 
+0 20
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Safari/605.1.15 Epiphany/605.1.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E14
+0 7
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+0 1871
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0
+0 18
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Zalo/24.8.4 Chrome/108.0.5359.215 Electron/22.3.9
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 _zbot
+0 1
+curl/7.61.1
+0 2
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.114 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile S
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 11; M2004J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA615981) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.3161.98 Mobil
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 14.1; rv:109.0) Gecko/20100101 Firefox/120.0
+0 10
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,520 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/khtracuudiemcea/tmp/awstats/ssl/awstats.democea.ttdat.id.vn.tracuudiem.cea.edu.vn.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2049                
+POS_TIME 2723                
+POS_VISITOR 7762                
+POS_DAY 9672                
+POS_DOMAIN 3347                
+POS_LOGIN 3734                
+POS_ROBOT 3889                
+POS_WORMS 4188                
+POS_EMAILSENDER 4319                
+POS_EMAILRECEIVER 4462                
+POS_SESSION 9972                
+POS_SIDER 10136               
+POS_FILETYPES 4597                
+POS_DOWNLOADS 4796                
+POS_OS 4844                
+POS_BROWSER 5026                
+POS_SCREENSIZE 5662                
+POS_UNKNOWNREFERER 5736                
+POS_UNKNOWNREFERERBROWSER 6036                
+POS_ORIGIN 6144                
+POS_SEREFERRALS 6282                
+POS_PAGEREFS 6444                
+POS_SEARCHWORDS 6619                
+POS_KEYWORDS 6771                
+POS_MISC 2387                
+POS_ERRORS 6830                
+POS_CLUSTER 3590                
+POS_SIDER_404 6983                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240914032719 5 713 10342150755355
+FirstTime 20240903202417
+LastTime 20240914015613
+LastUpdate 20240914192351 5 0 5 0 0
+TotalVisits 44                  
+TotalUnique 43                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 48                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 9 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 18 650526 8 9 2405
+1 4 4 6089 5 5 1901
+2 5 10 73515 6 6 3130
+3 0 0 0 1 1 168
+4 0 0 0 1 1 1229
+5 0 0 0 2 2 1397
+6 20 53 3620243 15 17 20380
+7 9 28 1623840 6 6 2962
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 1 1 1521 1 3 4244
+11 0 0 0 1 1 1229
+12 4 15 1273426 3 5 2380
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 2 2 336
+16 1 1 1523 1 1 168
+17 0 0 0 2 2 2458
+18 0 0 0 0 0 0
+19 3 8 439234 1 1 168
+20 505 535 5218575 37 41 1118129
+21 1215 1247 7307113 50 56 3152232
+22 29 40 1754490 31 32 33062
+23 0 0 0 2 2 1691
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+vn 1742 1808 13638261
+us 39 79 3195044
+nl 9 25 1626365
+il 4 9 634872
+lv 4 14 1230632
+ip 2 9 636827
+de 2 11 1000485
+ru 1 1 1520
+ca 1 1 1521
+jp 1 1 1523
+ua 1 1 1522
+be 1 1 1523
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+no_user_agent 2 19551 20240904064332 0
+archive\.org_bot 1 1522 20240903222228 0
+Go\-http\-client/ 1 1524 20240903221158 0
+facebookexternalhit/ 1 1526 20240903202500 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 61 6353534 0 0
+Unknown 1775 5379663 0 0
+woff2 22 869672 0 0
+css 60 1447030 0 0
+js 28 7812702 0 0
+html 10 88230 0 0
+svg 4 19264 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win7 13 5
+win8.1 3 0
+win10 1843 1754
+macosx 8 3
+ios_iphone 25 10
+linux 43 19
+macosx15 12 5
+Unknown 12 10
+android 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 28
+chrome127.0.0.0 14 4
+safari16.1 18 8
+chrome86.0.4240.111 4 1
+chrome122.0.0.0 8 3
+chrome109.0.0.0 8 2
+chrome128.0.0.0 1805 1736
+chrome119.0.0.0 4 1
+chrome111.0.5563.65 1 1
+mozilla 4 2
+chrome123.0.0.0 7 1
+chrome99.0.4844.51 3 3
+chrome110.0.0.0 1 1
+chrome108.0.5359.215 1 0
+safari17.4.1 7 2
+chrome125.0.6422.114 7 2
+chrome126.0.0.0 4 4
+Unknown 8 8
+chrome127.0.6523.4 1 1
+chrome118.0.0.0 1 1
+firefox38.0 3 0
+chrome120.0.0.0 6 5
+chrome85.0.4183.102 6 2
+firefox120.0 17 12
+chrome103.0.5060.114 1 1
+chrome126.0.6478.126 4 1
+chrome104.0.0.0 4 1
+chrome45.0.2454.85 12 4
+chrome100.0.4896.60 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240904163411
+WhatsApp/2 20240903211813
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240904204836
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2 20240903211813
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 68 85
+From1 0 0
+From2 1 1
+From3 7 7
+From4 1731 1867
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_ie 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://jp.zaloapp.com 7 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 23 4226649
+301 12 8484
+419 1 2044
+403 21 25809
+302 96 16105
+404 25 46455
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 18
+/server 1 -
+/server-status 1 -
+/telescope/requests 1 -
+/config.json 1 -
+/v2/_catalog 1 -
+/js/admin.js 6 https://democea.ttdat.id.vn/lop-hoc
+/debug/default/view 1 -
+/ 1 -
+/about 1 -
+/.vscode/sftp.json 1 -
+/nhap-diem/70/ket-qua-hoc-tap 3 -
+/Public/home/js/check.js 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/s/33e27393e2431313e2838313/_/ 1 -
+/.DS_Store 1 -
+/login.action 1 -
+/static/admin/javascript/hetong.js 1 -
+/_all_dbs 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 48
+113.180.86.96 1513 1539 7899756 20240903214248
+116.100.123.108 229 268 5486070 20240905223748
+212.143.94.254 4 9 634872 20240904064346
+94.102.49.206 3 8 634607 20240904064332
+107.172.166.76 3 8 633341 20240903221345
+173.239.214.26 3 3 21076 20240904064417
+168.119.80.126 3 8 439234 20240911194510
+104.166.80.64 3 8 70466 20240904025313
+40.80.158.10 3 8 632775 20240904122517
+45.81.148.24 3 8 633348 20240904070026
+18.205.105.240 2 6 630296 20240904070145
+2400:6180:0:d0::284:c001 2 7 633084 20240905001209
+85.254.112.52 2 7 615317 20240904064333
+95.211.199.150 2 7 633085 20240904064240
+35.94.24.76 2 8 53963 20240904070430
+159.148.128.147 2 7 615315 20240904064333
+107.173.234.194 2 2 1786 20240903221347
+104.166.80.194 1 1 1521 20240911010035
+104.166.80.62 1 1 1523 20240914013917
+47.254.76.138 1 1 1521 20240904101905
+94.134.183.49 1 7 640651 20240905124601
+104.166.80.117 1 1 1522 20240909003750
+104.166.80.49 1 1 1523 20240904001031
+144.126.201.9 1 1 1523 20240906012251
+104.166.80.241 1 1 1525 20240910004535
+93.174.93.114 0 1 48433 
+104.166.80.209 1 1 1522 20240906002116
+104.166.80.8 1 1 1523 20240907005216
+79.98.181.145 1 1 1522 20240904064319
+185.253.96.19 1 1 1520 20240905001448
+49.109.149.105 1 1 1523 20240904070744
+94.102.63.27 1 5 304710 20240905073716
+95.164.100.197 1 1 1522 20240904064319
+34.201.36.184 0 3 52176 
+146.190.13.187 1 3 5265 20240905001450
+49.213.78.31 0 1 252435 
+194.195.214.252 1 4 359834 20240904064723
+2602:80d:1002::1e 0 2 3743 
+104.166.80.66 1 1 1520 20240905000622
+89.248.171.23 1 1 1527 20240904064600
+167.94.145.110 1 1 1524 20240904204834
+104.166.80.111 1 1 1522 20240908002712
+87.236.176.221 1 1 1523 20240904163411
+80.82.70.198 0 1 957 
+147.182.156.247 1 1 1525 20240912025057
+188.166.9.179 1 1 1524 20240908024846
+169.150.201.7 1 1 1523 20240903221110
+164.90.199.58 1 1 1522 20240914015613
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20240903 1725 1790 13157071 5
+20240904 38 98 5652448 20
+20240905 30 53 2704590 7
+20240906 2 2 3045 2
+20240907 1 1 1523 1
+20240908 2 2 3046 2
+20240909 1 1 1522 1
+20240910 1 1 1525 1
+20240911 4 9 440755 2
+20240912 1 1 1525 1
+20240914 2 2 3045 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+0s-30s 41
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 151
+/api/he-dao-tao/all 351 44697 0 1
+/api/nien-khoa/all 106 30104 0 0
+/api/quyet-dinh/all/0 91 108017 0 0
+/api/dot-thi 88 103409 0 0
+/dot-xet-tot-nghiep 88 317782 0 0
+/api/dot-xet-tot-nghiep 87 97777 0 1
+/api/dot-thi/all/dot-xet-tn 83 24371 0 0
+/dot-thi 77 277642 0 0
+/api/dot-xet-tot-nghiep/all 77 34114 0 0
+/login 72 109655 44 28
+/api/khoa-dao-tao/all 60 177660 0 0
+/nhap-diem 47 169741 0 0
+/api/nhap-diem 46 64909 0 0
+/api/quyet-dinh/all/1 31 35840 0 0
+/api/quyet-dinh/all/2 31 24645 0 0
+/fonts/vendor/bootstrap3/dist/glyphicons-halflings-regular.woff2 14 252392 0 6
+/lop-hoc 14 50622 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/31 14 13285 0 0
+/api/lop-hoc/dot-thi-lop-hoc/43 14 11476 0 0
+/dot-thi/43 13 46735 0 0
+/nhap-diem/72/ket-qua-hoc-tap 13 119017 0 0
+/dot-xet-tot-nghiep/31 13 47153 0 0
+/site.webmanifest 12 3156 0 7
+/api/lop-hoc/paginate 12 22329 0 0
+/api/dot-thi/43/danhsachsinhvien 12 5480 0 0
+/nhap-diem/112/ket-qua-hoc-tap 4 73638 0 0
+/api/nhap-diem/116/bang-diem 1 668 0 0
+/api/nganh-nghe/all 1 1341 0 0
+/api/lop-hoc/dot-thi-lop-hoc/41 1 712 0 0
+/nhap-diem/116/ket-qua-hoc-tap/export 3 37469 0 0
+/dot-xet-tot-nghiep/27/danh-sach-xet-tot-nghiep/export 1 17608 0 0
+/api/mon-hoc/886 3 606 0 0
+/api/mon-hoc/885 1 192 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MSwibWhfaWQiOjc4fQ== 1 3571 0 0
+/nhap-diem/124 2 7296 0 0
+/api/mon-hoc/78 1 176 0 0
+/api/dot-thi/43/dsmon 3 636 0 0
+/api/dot-xet-tot-nghiep/9/danhsachsinhvien 3 1472 0 0
+/api/nhap-diem/116/hoc-ky 2 3404 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/46/36 3 30438 0 0
+/user 2 7054 0 0
+/api/lop-hoc/116 3 924 0 0
+/api/user/2178 5 1270 0 0
+/api/sinh-vien/2211 1 173 0 0
+/dot-thi/ket-qua-hoc-tap/113/43 1 7987 0 0
+/api/lop-hoc/113 1 290 0 0
+/api/nhap-diem/124/bang-diem 1 998 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/32 6 6972 0 0
+/dot-thi/nhap-diem-excel/113/43 1 3591 0 0
+/nhap-diem/74/ket-qua-hoc-tap 1 17033 0 0
+/api/nhap-diem/129/bang-diem-dot-thi 9 3809 0 0
+/dot-thi/36/danh-sach-xet-thi-tot-nghiep/export 1 15934 0 0
+/fonts/vendor/font-awesome/fontawesome-webfont.woff2 8 617280 0 0
+/nhap-diem/72/ket-qua-hoc-tap/export 9 104314 0 0
+/dot-thi/nhap-diem-excel/129/43 2 7186 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/70/41 8 116166 0 0
+/dot-thi/nhap-diem/46/36 1 3668 0 0
+/api/dot-thi/xoa-lop-hoc/113/43 1 0 0 0
+/dot-thi/nhap-diem/129/43 2 7304 0 0
+/api/mon-hoc/894 4 740 0 0
+/dot-thi/36/danh-sach-sinh-vien/export 3 569409 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/8 3 1797 0 0
+/api/dot-thi/36/dsmon 1 212 0 0
+/dot-thi/43/danh-sach-sinh-vien 10 35809 0 0
+/dot-xet-tot-nghiep/9/danh-sach-sinh-vien-thi-dat-tn/export 1 13103 0 0
+/api/dot-thi/48 1 0 0 0
+/dot-xet-tot-nghiep/31/danh-sach-sinh-vien-thi-dat-tn/export 5 63663 0 0
+/dot-thi/nhap-diem/113/43 1 3653 0 0
+/dot-xet-tot-nghiep/41/danh-sach-xet-tot-nghiep/export 2 38284 0 0
+/dot-thi/ket-qua-hoc-tap/46/36 1 8504 0 0
+/dot-thi/ket-qua-diem-thi-tn/129/43 1 5765 0 0
+/api/dot-xet-tot-nghiep/31/danhsachsinhvien 9 6765 0 0
+/api/dot-xet-tot-nghiep/31 2 488 0 0
+/api/lop-hoc/dot-thi-lop-hoc/46 1 704 0 0
+/nhap-diem/116/ket-qua-hoc-tap 10 99817 0 0
+/api/dot-xet-tot-nghiep/7/danhsachsinhvien 3 8709 0 0
+/api/dot-thi/43 1 281 0 0
+/nhap-diem/46/ket-qua-hoc-tap 4 153468 0 0
+/tra-cuu-diem/xuat-danh-sach 7 413061 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODV9 1 3593 0 0
+/nhap-diem/127/ket-qua-hoc-tap/export 2 25026 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4OTR9 1 3593 0 0
+/nhap-diem/70/ket-qua-hoc-tap 8 176115 0 0
+/dot-thi/43/danh-sach-xet-thi-tot-nghiep/export 2 30328 0 0
+/dot-thi/46 1 3629 0 0
+/dot-thi/36/diem-mon-hoc-dot-thi-theo-lop-full/export 2 41746 0 0
+/dot-thi/41/diem-mon-hoc-dot-thi-theo-lop-full/export 2 48679 0 0
+/dot-xet-tot-nghiep/8 2 7238 0 0
+/api/lop-hoc/129/ds-sinh-vien 2 2013 0 0
+/dot-xet-tot-nghiep/36/danh-sach-xet-tot-nghiep/export 2 31308 0 0
+/dot-xet-tot-nghiep/32 6 21774 0 0
+/dot-xet-tot-nghiep/31/danh-sach-sinh-vien 9 32517 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/49/27 1 12658 0 0
+/api/dot-xet-tot-nghiep/8 1 196 0 0
+/api/dot-thi/updateQd-trang-thai/36 1 5 0 0
+/api/dot-xet-tot-nghiep/7 1 271 0 0
+/api/dot-xet-tot-nghiep/32/danhsachsinhvien 2 1036 0 0
+/dot-thi/36 7 25396 0 0
+/dot-xet-tot-nghiep/9 3 10854 0 0
+/api/nhap-diem/113/bang-diem-dot-thi 3 969 0 0
+/nhap-diem/74/ket-qua-hoc-tap/export 1 14483 0 1
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4Nn0= 2 7196 0 0
+/dot-xet-tot-nghiep/7/danh-sach-sinh-vien-thi-dat-tn/export 2 32138 0 0
+/dot-thi/43/danh-sach-sinh-vien/export 4 673661 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/40/22 1 15639 0 0
+/api/mon-hoc 1 901 0 0
+/dot-xet-tot-nghiep/32/danh-sach-sinh-vien 2 7276 0 0
+/api/lop-hoc/all 1 2561 0 0
+/api/nhap-diem/124/hoc-ky 2 2434 0 0
+/lop-hoc/129/hoc-ky 1 3569 0 0
+/dot-xet-tot-nghiep/32/danh-sach-sinh-vien-thi-dat-tn/export 1 11423 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MX0= 1 3571 0 0
+/api/lop-hoc/129/hoc-ky 2 1620 0 0
+/ 10 88230 0 0
+/api/nhap-diem/46/bang-diem-dot-thi 4 1032 0 0
+/api/user/paginate 2 3268 0 0
+/user/2178/edit 2 7094 0 0
+/api/dot-xet-tot-nghiep/cap-nhat-xltn 2 0 0 0
+/lop-hoc/129 1 3591 0 0
+/api/dot-xet-tot-nghiep/cap-nhat-dot-xet-cho-dot-thi 2 0 0 0
+/dot-xet-tot-nghiep/9/danh-sach-sinh-vien 3 10806 0 0
+/nhap-diem/46/ket-qua-hoc-tap/export 3 61876 0 0
+/dot-xet-tot-nghiep/7 1 3616 0 0
+/api/dot-thi/all 4 987 0 0
+/dot-thi/36/danh-sach-sinh-vien 3 10758 0 0
+/api/dot-thi/cap-nhat-dot-thi-cho-lop 2 410 0 0
+/dot-thi/41 1 3630 0 0
+/_ignition/health-check 1 33 0 0
+/api/lop-hoc/46 2 614 0 0
+/dot-thi/ket-qua-diem-thi-tn/46/36 2 11626 0 0
+/api/lop-hoc/124 3 918 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/9 3 2457 0 0
+/dot-thi/ket-qua-diem-thi-tn/113/43 1 5622 0 0
+/dot-thi/ket-qua-hoc-tap/129/43 2 16666 0 0
+/nhap-diem/116 2 7296 0 0
+/api/lop-hoc/dot-thi-lop-hoc/36 7 5264 0 0
+/api/dot-xet-tot-nghiep/xoa-lop-du-xet/8 1 0 0 0
+/api/dot-xet-tot-nghiep/xoa-lop-du-xet/31 1 0 0 0
+/dot-xet-tot-nghiep/15 1 3622 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/15 1 1579 0 0
+/api/mon-hoc/all-by-khoa-dao-tao 2 1448 0 0
+/api/dot-thi/36/danhsachsinhvien 3 1786 0 0
+/dot-xet-tot-nghiep/7/danh-sach-sinh-vien 3 10869 0 0
+/nhap-diem/112/ket-qua-hoc-tap/export 3 50458 0 0
+/api/dot-thi/49 1 0 0 0
+/api/lop-hoc/129 8 2152 0 0
+/api/dot-thi/updateQd-trang-thai/43 4 20 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/7 1 1153 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODZ9 1 3593 0 0
+/mon-hoc 1 3632 0 0
+/nhap-diem/127/ket-qua-hoc-tap 4 38623 0 0
+END_SIDER

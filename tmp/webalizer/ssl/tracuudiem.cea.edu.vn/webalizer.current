@@ -1,0 +1,3492 @@
+# Webalizer V2.23-08 Incremental Data - 09/16/2024 18:16:22
+2024 9 16 18 16 22
+19495 16844 293 732 318 170 451318976 15911 873 0
+19 9 1088 1 16
+1325 1220 9064919 20 1237 52
+303 252 40278936 25 112 20
+1456 1365 9523444 28 1378 35
+2148 1839 31750915 32 1785 87
+971 854 44342054 24 725 41
+984 771 15972880 31 792 49
+995 927 9277517 21 899 51
+418 347 7529115 33 313 35
+1594 1296 24651423 25 1239 79
+2421 2083 25164804 34 2156 83
+1605 1320 22598808 24 1306 60
+1511 1261 122419207 35 1183 72
+1841 1608 59246270 66 1205 101
+520 454 8430088 22 414 41
+146 100 4953207 26 68 18
+1257 1147 16115389 19 1099 49
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+86 54 2662502 36
+265 150 5350780 226
+34 24 1723252 9
+32 11 205519 13
+39 26 2513830 13
+57 22 1776584 17
+185 143 3701246 150
+2374 1981 58767624 1681
+1636 1388 19644812 1391
+1639 1389 51152411 1251
+721 638 8929953 579
+333 242 15526892 196
+215 129 6266919 121
+1730 1573 19498194 1466
+2540 2347 18587214 2318
+1040 924 118442315 828
+1188 941 53517547 864
+242 202 8656197 177
+248 185 10736691 124
+480 394 4517310 418
+1994 1888 12561209 1897
+1489 1359 11335132 1366
+865 781 12681877 732
+63 53 2562966 38
+65
+0
+0
+16844
+0
+0
+0
+0
+0
+4
+0
+54
+1558
+0
+728
+0
+0
+0
+0
+0
+27
+179
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+0
+0
+0
+0
+0
+# -urls- 
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc5IiwiaG9jX2t5IjozfQ
+0 2 17179869184 6470 0 0
+/api/nhap-diem/96/hoc-ky
+0 3 94041047672832 4305 0 1
+/api/lop-hoc/75
+0 29 140464759245472 8531 1 2
+/api/nhap-diem/110/hoc-ky
+0 1 8025977485927645184 1629 0 0
+/dot-thi/nhap-diem-excel/70/41
+0 1 8025977485927645184 3530 0 0
+/api/dot-xet-tot-nghiep/15
+0 1 94041047681968 340 0 0
+/api/dot-thi/updateQd-trang-thai/41
+0 1 7239214 5 1 0
+/dot-thi/ket-qua-diem-thi-tn/120/46
+0 2 0 11535 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MjN9
+0 1 0 3567 1 0
+/api/nhap-diem/98/bang-diem
+0 3 0 2636 0 0
+/api/quyet-dinh/127
+0 1 0 129 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExMyIsImhvY19reSI6Mn0
+0 1 0 3238 0 0
+/lop-hoc/82
+0 3 0 10783 1 0
+/nhap-diem/67/ket-qua-hoc-tap
+0 4 0 76784 0 0
+/dot-thi/41/danh-sach-sinh-vien/export
+0 2 0 209056 0 0
+/api/dot-thi/updateQd-trang-thai/43
+0 1 0 5 0 0
+/api/lop-hoc/61
+0 3 0 840 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/49/27
+0 1 0 12566 0 0
+/api/lop-hoc/75/ds-sinh-vien
+0 3 0 5179 0 0
+/api/nhap-diem/100/hoc-ky
+0 1 0 1432 0 0
+/dot-thi/43
+0 11 0 39113 1 0
+/api/lop-hoc/127/ds-sinh-vien
+0 4 0 3536 0 1
+/api/nhap-diem/94/hoc-ky
+0 1 0 1680 0 1
+/api/mon-hoc/921
+0 1 0 186 0 0
+/lop-hoc/99
+0 1 0 3569 0 0
+/api/nhap-diem/80/bang-diem
+0 6 0 5380 0 0
+/api/he-dao-tao/all
+0 1804 0 212826 20 49
+/api/mon-hoc/410
+0 2 0 458 0 0
+/api/user/2193
+0 1 0 231 0 0
+/dot-thi/ket-qua-diem-thi-tn/46/27
+0 1 72057594037928046 7564 0 0
+/api/nhap-diem/71/bang-diem
+0 3 7239214 2537 0 0
+/dot-thi/ket-qua-hoc-tap/81/46
+0 11 3544946662704218368 107120 1 1
+/api/nhap-diem/113/hoc-ky
+0 1 8391050530721366016 1686 0 0
+/api/quyet-dinh/all/1
+0 120 3472607597967769856 146511 1 2
+/nhap-diem/116/ket-qua-hoc-tap
+0 7 4121125931524699448 85954 0 2
+/nhap-diem/49/ket-qua-hoc-tap
+0 2 7239214 30024 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoyLCJtaF9pZCI6MzE3fQ
+0 3 0 10697 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg5NH0
+0 1 0 3549 0 0
+/mon-hoc
+0 1 0 3570 0 0
+/nhap-diem/46/ket-qua-hoc-tap
+0 9 0 319628 2 1
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjcxIiwiaG9jX2t5Ijo0fQ
+0 1 0 3235 0 0
+/api/nhap-diem/124/hoc-ky
+0 49 0 62337 1 2
+/nhap-diem/84
+0 24 0 86719 3 1
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjY2IiwiaG9jX2t5Ijo0fQ
+0 2 0 6470 1 0
+/nhap-diem/113/ket-qua-hoc-tap
+0 18 0 159678 2 5
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTgyfQ
+0 1 0 3565 0 0
+/nhap-diem/118
+0 5 0 18142 0 1
+/api/nhap-diem/79/bang-diem
+0 7 0 7749 1 2
+/api/sinh-vien/2211
+0 1 0 173 0 0
+/nhap-diem/54/ket-qua-hoc-tap
+0 2 0 39284 0 0
+/api/lop-hoc/82/ds-sinh-vien
+0 27 0 51948 1 1
+/nhap-diem/115
+0 3 0 9873 0 0
+/api/mon-hoc/184
+0 1 0 216 0 1
+/api/dot-xet-tot-nghiep/34
+0 21 0 4760 3 1
+/api/lop-hoc/81
+0 12 0 3288 0 2
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjozLCJtaF9pZCI6MTkzfQ
+0 1 0 3564 0 1
+/api/dot-xet-tot-nghiep/xoa-lop-du-xet/31
+0 1 0 0 0 0
+/nhap-diem/69
+0 1 0 3707 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjYxIiwiZG90X3RoaSI6IjIzIiwibWhfaWQiOjg4Nn0
+0 1 0 3592 0 0
+/api/sinh-vien/1439
+0 2 0 689 0 0
+/api/sinh-vien/1487
+0 2 0 656 1 1
+/nhap-diem/86/ket-qua-hoc-tap/export
+0 3 0 42710 0 0
+/lop-hoc/84/hoc-ky
+0 2 0 7164 0 0
+/api/quyet-dinh/all/0
+0 488 0 579256 5 6
+/user/3296/edit
+0 3 7061982002785302577 10847 0 0
+/nhat-ky
+0 1 0 3645 0 0
+/nhap-diem/70
+0 6 11241324625993282610 21719 0 0
+/nhap-diem/110
+0 1 7959600469061301806 3288 0 0
+/api/mon-hoc/3
+0 1 101 184 0 0
+/api/lop-hoc/64
+0 1 94041047808944 311 0 0
+/tra-cuu-diem
+0 758 3328778265685408046 3445392 63 91
+/dot-xet-tot-nghiep/31
+0 33 4048228336222681137 118300 0 0
+/nhap-diem/71
+0 3 8391050530721366016 10154 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/129/43
+0 12 0 123152 1 1
+/api/sinh-vien
+0 1 0 136 0 0
+/api/nhap-diem/121/hoc-ky
+0 6 0 7134 0 1
+/api/nhap-diem/95/hoc-ky
+0 2 0 3456 0 0
+/nhap-diem/68/ket-qua-hoc-tap
+0 12 0 133928 0 1
+/nhap-diem/95/ket-qua-hoc-tap
+0 17 0 205912 0 3
+/api/lop-hoc/46
+0 12 0 3684 0 0
+/dot-xet-tot-nghiep/36/danh-sach-xet-tot-nghiep/export
+0 4 0 62616 1 0
+/api/lop-hoc/71
+0 5 0 1615 0 0
+/api/nhap-diem/96/bang-diem
+0 4 0 4376 0 0
+/dot-thi
+0 230 0 817378 12 3
+/dot-thi/ket-qua-hoc-tap/75/46
+0 6 0 63505 0 0
+/api/lop-hoc/100
+0 1 0 268 0 0
+/api/lop-hoc/dot-thi-lop-hoc/23
+0 6 0 6732 0 1
+/api/nhap-diem/129/bang-diem-dot-thi
+0 5 0 2211 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/52/23
+0 2 0 30793 0 0
+/api/nhap-diem/112/bang-diem
+0 1 0 1211 1 0
+/api/dot-xet-tot-nghiep/all
+0 228 0 109704 3 4
+/nhap-diem/74/ket-qua-hoc-tap/export
+0 9 0 125248 0 1
+/dot-thi/nhap-diem-excel/46/36
+0 7 0 24693 0 1
+/images/favicon/apple-touch-icon.png
+0 183 0 8572641 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODZ9
+0 1 0 3531 0 0
+/api/nganh-nghe/all
+0 3 0 4023 0 0
+/api/mon-hoc/332
+0 2 0 404 0 0
+/api/nien-khoa/all
+0 1196 0 336256 9 26
+/api/nhap-diem/84/bang-diem
+0 35 0 47935 3 4
+/api/nhap-diem/113/bang-diem
+0 2 3543827372735084082 659 0 0
+/api/nhap-diem/74/bang-diem
+0 26 1853238900 35122 2 5
+/api/nhap-diem/2358/bang-diem
+0 1 3329622685545136128 0 0 0
+/dot-thi/36/danh-sach-sinh-vien/export
+0 2 6656003 217802 0 0
+/dot-xet-tot-nghiep/12
+0 4 121453864579182 14313 0 0
+/lop-hoc/127
+0 4 3329628171111248174 14250 0 0
+/api/dot-thi/46/dsmon
+0 2 0 424 0 0
+/nhap-diem/124
+0 43 8028901285840368174 141294 1 0
+/nhap-diem/71/ket-qua-hoc-tap/export
+0 2 0 26338 0 0
+/dot-thi/ket-qua-hoc-tap/74/46
+0 13 0 138598 1 1
+/api/mon-hoc/932
+0 1 0 236 0 0
+/api/nhap-diem/66/bang-diem
+0 3 0 2059 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTg1fQ
+0 2 0 7130 0 0
+/api/lop-hoc/129/ds-sinh-vien
+0 6 0 5817 0 0
+/api/lop-hoc/127
+0 11 0 3003 1 0
+/dot-xet-tot-nghiep/32/danh-sach-sinh-vien-thi-dat-tn/export
+0 2 0 22846 0 1
+/nhap-diem/98/ket-qua-hoc-tap/export
+0 4 0 56604 0 1
+/nhap-diem/97/ket-qua-hoc-tap/export
+0 4 0 63277 0 1
+/nhap-diem/112/ket-qua-hoc-tap/export
+0 2 0 34371 0 0
+/api/nhap-diem/82/bang-diem
+0 4 0 4109 0 0
+/nhap-diem/kiem-tra
+0 2 0 7236 0 0
+/api/nhap-diem/46/bang-diem-dot-thi
+0 19 0 4888 1 1
+/api/dot-xet-tot-nghiep/31
+0 8 0 2066 0 0
+/nhap-diem/82/ket-qua-hoc-tap
+0 31 0 340117 3 2
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyMCIsImhvY19reSI6MX0
+0 1 0 3243 0 1
+/user/3199/edit
+0 1 0 3615 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5Ijo0LCJtaF9pZCI6MzI1fQ
+0 1 0 3565 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6NDExfQ
+0 2 0 7032 0 0
+/dot-thi/46/danh-sach-sinh-vien/export
+0 12 0 2126669 1 2
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTg0fQ
+0 1 0 3563 0 0
+/api/nhap-diem/2361/bang-diem
+0 1 0 0 0 0
+/nhap-diem/98
+0 7 0 25397 1 0
+/api/nhap-diem/82/hoc-ky
+0 16 0 23763 0 1
+/nhap-diem/120/ket-qua-hoc-tap/export
+0 1 7578823052392230521 11885 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgzIiwiaG9jX2t5Ijo0fQ
+0 1 7959600434517406821 3235 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcwIiwiaG9jX2t5IjoxLCJtaF9pZCI6M30
+0 1 6989586621679009792 3521 0 0
+/api/sinh-vien/1441
+0 2 7239214 672 0 0
+/user/create
+0 1 3690469217157395768 3611 0 0
+/api/mon-hoc/411
+0 2 7022364162814640128 476 0 0
+/api/mon-hoc/232
+0 3 3328780443284090161 576 0 0
+/nhap-diem/52
+0 7 0 25469 0 0
+/api/dot-xet-tot-nghiep
+0 225 0 292221 2 6
+/forgot-password
+0 120 0 484504 2 2
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/31
+0 34 0 31856 2 1
+/nhap-diem/103/ket-qua-hoc-tap
+0 16 0 182723 2 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNSIsImhvY19reSI6Mn0
+0 2 0 6475 0 0
+/api/lop-hoc/121
+0 6 0 1656 0 0
+/api/nhap-diem/72/hoc-ky
+0 1 0 1593 0 1
+/api/sinh-vien/1500
+0 2 0 659 0 0
+/nhap-diem/20/ket-qua-hoc-tap
+0 2 0 35396 0 0
+/dot-thi/nhap-diem/129/43
+0 1 0 3596 0 0
+/dot-thi/43/danh-sach-xet-thi-tot-nghiep/export
+0 2 0 30148 1 1
+/dot-xet-tot-nghiep/15
+0 1 0 3577 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgyIiwiaG9jX2t5Ijo0fQ
+0 1 0 3236 0 0
+/dot-thi/nhap-diem/46/36
+0 8 0 28879 0 0
+/nhap-diem/71/ket-qua-hoc-tap
+0 18 0 219313 0 1
+/api/sinh-vien/1440
+0 2 0 664 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MTkyfQ
+0 3 0 10696 1 0
+/lop-hoc/74/hoc-ky
+0 2 0 7162 1 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/46/36
+0 9 0 90748 0 1
+/site.webmanifest
+0 155 0 36820 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc3IiwiaG9jX2t5IjozfQ
+0 1 0 3235 0 0
+/api/mon-hoc/314
+0 1 0 197 0 0
+/lop-hoc/84
+0 12 0 43177 2 0
+/khoa-dao-tao
+0 2 0 7197 0 0
+/api/lop-hoc/84/hoc-ky
+0 2 0 2056 1 0
+/api/nhap-diem/123/hoc-ky
+0 3 7002376592666356077 4998 0 0
+/api/dot-thi/36/dsmon
+0 8 7205759403792793600 1696 0 0
+/dot-thi/ket-qua-diem-thi-tn/70/41
+0 2 8314877659820141923 12969 0 1
+/lop-hoc/129
+0 4 8391050530721366016 14124 0 0
+/api/nhap-diem/64/hoc-ky
+0 1 94041047809024 2681 0 0
+/dot-xet-tot-nghiep/10
+0 1 1853238900 3601 0 0
+/fonts/vendor/font-awesome/fontawesome-webfont.woff2
+0 161 7239214 9799320 0 0
+/nhap-diem/65/ket-qua-hoc-tap
+0 11 3472556787679363072 119440 0 0
+/dot-xet-tot-nghiep/41/danh-sach-xet-tot-nghiep/export
+0 5 3328784858442970925 95868 1 0
+/lop-hoc/70/hoc-ky
+0 3 0 10687 0 0
+/api/mon-hoc/179
+0 1 0 193 0 0
+/dot-thi/43/danh-sach-sinh-vien/export
+0 1 0 190300 0 0
+/khoa-dao-tao/134/hoc-ky
+0 1 0 3516 0 0
+/nhap-diem/101/ket-qua-hoc-tap/export
+0 6 0 78037 1 4
+/nhap-diem/100/ket-qua-hoc-tap/export
+0 1 0 14039 0 0
+/nhap-diem/72/ket-qua-hoc-tap/export
+0 4 0 48398 0 1
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5Ijo0fQ
+0 1 0 3237 0 0
+/api/sinh-vien/1444
+0 2 0 680 0 0
+/nhap-diem/127/ket-qua-hoc-tap
+0 2 0 21747 0 0
+/api/nhap-diem
+0 827 0 1098673 35 30
+/api/sinh-vien/1430
+0 2 0 681 0 0
+/api/sinh-vien/1433
+0 2 0 680 0 0
+/nhap-diem/35/ket-qua-hoc-tap
+0 2 0 33197 0 1
+/api/lop-hoc/122
+0 7 0 1925 0 1
+/api/nhat-ky
+0 1 0 1532 0 0
+/api/lop-hoc/94
+0 1 0 286 0 0
+/api/lop-hoc/116
+0 7 0 2156 0 1
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyMCIsImRvdF90aGkiOiI0NiIsIm1oX2lkIjo4ODV9
+0 1 0 3551 0 1
+/nhap-diem/76
+0 17 0 60857 2 0
+/api/sinh-vien/1506
+0 2 0 662 0 0
+/nhap-diem/56/ket-qua-hoc-tap
+0 2 0 36471 0 0
+/api/lop-hoc/101
+0 13 0 3523 0 2
+/nhap-diem/114/ket-qua-hoc-tap
+0 5 0 61022 0 0
+/api/mon-hoc/894
+0 10 0 1850 1 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoyLCJtaF9pZCI6MzIwfQ
+0 2 0 6802 0 0
+/api/nhap-diem/77/bang-diem
+0 2 4120290293994029056 1932 0 0
+/api/nhap-diem/67/hoc-ky
+0 9 7310596074039029356 17646 0 2
+/api/sinh-vien/1501
+0 2 4049068337386291456 664 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoyLCJtaF9pZCI6OTIwfQ
+0 1 1712924063 3563 0 0
+/api/nhap-diem/120/bang-diem
+0 1 3834869157203095809 413 0 0
+/api/lop-hoc/70/hoc-ky
+0 7 1712146524 6236 0 0
+/api/nhap-diem/116/bang-diem
+0 4 3543826243155722240 2733 0 0
+/api/nhap-diem/81/bang-diem
+0 2 0 1841 0 0
+/khoa-dao-tao/114/hoc-ky
+0 1 0 3229 0 0
+/nhap-diem/83
+0 20 0 72169 2 1
+/nhap-diem/129/ket-qua-hoc-tap
+0 12 0 146177 1 1
+/nhap-diem/63/ket-qua-hoc-tap
+0 11 0 115909 0 0
+/js/admin.js
+0 539 0 200635231 0 0
+/dot-thi/ket-qua-hoc-tap/83/46
+0 9 0 97371 1 1
+/api/mon-hoc/887
+0 3 0 573 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjoxfQ
+0 3 0 9711 0 0
+/nhap-diem/94/ket-qua-hoc-tap
+0 29 0 381204 2 1
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijk2IiwiaG9jX2t5IjoxfQ
+0 1 0 3239 0 0
+/nhap-diem/77
+0 5 0 17843 0 0
+/api/sinh-vien/1442
+0 2 0 678 0 0
+/api/sinh-vien/1431
+0 2 0 689 0 1
+/api/nhap-diem/2357/bang-diem
+0 1 0 0 0 0
+/dot-thi/ket-qua-hoc-tap/120/46
+0 3 0 24102 0 0
+/api/lop-hoc/52/hoc-ky
+0 3 0 3567 0 0
+/api/nhap-diem/112/hoc-ky
+0 1 0 1782 0 0
+/api/lop-hoc/99
+0 1 0 296 0 0
+/nganh-nghe
+0 8 0 28608 0 0
+/api/lop-hoc/83/ds-sinh-vien
+0 5 0 13633 0 2
+/api/nhap-diem/83/bang-diem
+0 29 0 41428 3 5
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MjR9
+0 1 0 3567 0 0
+/api/mon-hoc/310
+0 1 94041047804592 191 0 0
+/nhap-diem/75/ket-qua-hoc-tap/export
+0 5 0 68296 0 0
+/nhap-diem/120
+0 2 0 6904 0 0
+/nhap-diem/67
+0 9 435451468289 31839 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MjR9
+0 2 3760788263342702592 7131 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6MX0
+0 2 0 6480 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MiwibWhfaWQiOjE0ODN9
+0 1 3833462881864790273 3521 0 0
+/api/sinh-vien/1434
+0 2 3615883841488617472 685 1 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MSwibWhfaWQiOjMzMn0
+0 1 3689906292856532535 3527 0 0
+/api/nhap-diem/52/hoc-ky
+0 7 3347424042774586217 21860 0 2
+/api/nhap-diem/77/hoc-ky
+0 5 6697520 7160 1 0
+/api/sinh-vien/1432
+0 2 0 683 1 1
+/api/nhap-diem/116/hoc-ky
+0 4 0 6787 0 1
+/api/lop-hoc/110
+0 2 0 562 0 0
+/dot-thi/ket-qua-diem-thi-tn/129/43
+0 1 0 5767 0 0
+/api/khoa-dao-tao
+0 2 0 2612 0 0
+/dot-thi/ket-qua-hoc-tap/46/36
+0 2 0 16855 0 0
+/dot-xet-tot-nghiep/32
+0 18 0 64720 1 0
+/nhap-diem/116/ket-qua-hoc-tap/export
+0 3 0 38416 0 1
+/dot-thi/ket-qua-hoc-tap/52/46
+0 6 0 52315 1 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjoxLCJtaF9pZCI6NzcxfQ
+0 1 0 3513 0 0
+/api/mon-hoc/771
+0 1 0 205 0 0
+/api/lop-hoc/70
+0 14 0 4118 0 0
+/api/sinh-vien/1443
+0 2 0 690 0 0
+/api/nhap-diem/101/hoc-ky
+0 10 0 14634 1 1
+/api/lop-hoc/75/hoc-ky
+0 3 0 3515 0 0
+/dot-thi/46/danh-sach-sinh-vien
+0 51 0 180566 2 1
+/api/sinh-vien/1498
+0 2 0 655 0 0
+/api/nhap-diem/103/hoc-ky
+0 3 0 3975 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoyLCJtaF9pZCI6MzIyfQ
+0 1 0 3564 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/59/12
+0 1 0 10759 0 0
+/api/lop-hoc/52/hoc-ky-tab0
+0 1 0 161 0 0
+/dot-thi/33/danh-sach-xet-thi-tot-nghiep/export
+0 1 0 14451 0 1
+/api/mon-hoc/286
+0 2 94041047804992 386 0 0
+/api/lop-hoc/74
+0 37 0 10952 1 1
+/api/dot-thi/xoa-lop-hoc/120/46
+0 1 0 0 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyOSIsImhvY19reSI6MX0
+0 2 0 6466 0 0
+/sample/import-ren-luyen-sample.xls
+0 4 0 135168 0 0
+/dot-thi/ket-qua-hoc-tap/76/46
+0 11 3345160174072850806 102397 0 1
+/api/lop-hoc/77
+0 6 8314877659602054497 1866 0 0
+/favicon.ico
+0 52 3274232572760649057 0 0 0
+/api/mon-hoc/79
+0 1 7596835273554788352 189 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjYxIiwiZG90X3RoaSI6IjIzIiwibWhfaWQiOjg4NX0
+0 1 1853238900 3592 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgxIiwiaG9jX2t5Ijo0fQ
+0 1 7239214 3235 1 0
+/api/lop-hoc/80
+0 14 3474296443600186932 4326 0 0
+/api/mon-hoc/13
+0 1 7022364162814640128 231 0 0
+/api/nganh-nghe
+0 8 0 6810 1 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyMCIsImRvdF90aGkiOiI0NiIsIm1oX2lkIjo4ODZ9
+0 1 0 3551 0 0
+/api/lop-hoc/dot-thi-lop-hoc/43
+0 11 0 8371 1 0
+/api/nhap-diem/97/hoc-ky
+0 8 0 11428 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgwIiwiaG9jX2t5IjozfQ
+0 3 0 9708 0 0
+/dot-xet-tot-nghiep/32/danh-sach-sinh-vien
+0 3 0 10872 0 0
+/nhap-diem/123/ket-qua-hoc-tap/export
+0 1 0 14329 0 0
+/api/nhap-diem/2183/bang-diem
+0 1 0 0 0 0
+/api/nhap-diem/119/hoc-ky
+0 10 0 13685 0 1
+/nhap-diem/101
+0 9 0 31979 0 1
+/api/mon-hoc/330
+0 3 0 540 0 0
+/api/nhap-diem/67/bang-diem
+0 11 0 13749 0 0
+/api/sinh-vien/1436
+0 2 0 689 0 0
+/api/mon-hoc/all
+0 6 0 5983 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExMiIsImhvY19reSI6Mn0
+0 1 0 3240 0 0
+/css/admin2.css
+0 478 0 308167 0 0
+/nhap-diem/36/ket-qua-hoc-tap
+0 10 0 112960 0 0
+/api/user/3297
+0 2 0 416 0 0
+/nhap-diem/82/ket-qua-hoc-tap/export
+0 2 0 24298 0 1
+/dot-thi/ket-qua-diem-thi-tn/46/36
+0 5 0 28728 0 0
+/api/nhap-diem/129/hoc-ky
+0 9 0 18293 0 0
+/api/nhap-diem/61/bang-diem-dot-thi
+0 3 0 1800 0 0
+/api/dot-xet-tot-nghiep/updateQd-trang-thai/31
+0 7 0 35 0 0
+/api/khoa-dao-tao/all
+0 368 0 1089648 5 9
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MSwibWhfaWQiOjc5fQ
+0 1 0 3566 0 0
+/dot-xet-tot-nghiep/34/danh-sach-sinh-vien
+0 11 111480950060404 39603 0 0
+/api/nhap-diem/68/hoc-ky
+0 2 31092189197333620 3626 0 1
+/api/excel/import-score
+0 6 30526172449110382 2964 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5Ijo0fQ
+0 2 8387225837353333604 6470 0 0
+/api/dot-xet-tot-nghiep/12/danhsachsinhvien
+0 1 7598805624054349824 3184 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/10
+0 1 7163384644223827968 892 0 0
+/api/mon-hoc/all-by-khoa-dao-tao
+0 15 3977014020458951214 19981 0 1
+/nhap-diem/77/ket-qua-hoc-tap
+0 6 0 82516 0 0
+/api/mon-hoc/299
+0 2 94041047690144 418 0 0
+/api/user/paginate
+0 11 0 18406 0 0
+/api/lop-hoc/36
+0 6 0 1602 0 1
+/api/lop-hoc/114/ds-sinh-vien
+0 1 0 1514 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyNyIsImhvY19reSI6Mn0
+0 1 0 3241 0 0
+/api/lop-hoc/99/ds-sinh-vien
+0 1 0 1544 0 0
+/api/lop-hoc/dot-thi-lop-hoc/41
+0 11 0 7935 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgyIiwiaG9jX2t5IjoxLCJtaF9pZCI6MzMyfQ
+0 1 0 3564 0 0
+/api/mon-hoc/193
+0 1 0 205 0 0
+/api/lop-hoc/52/ds-sinh-vien
+0 1 0 2982 0 0
+/api/dot-thi/xoa-lop-hoc/52/46
+0 1 0 0 0 0
+/api/dot-xet-tot-nghiep/9
+0 3 0 897 0 0
+/lop-hoc/75
+0 2 0 7224 0 0
+/api/sinh-vien/1494
+0 2 0 670 2 0
+/api/mon-hoc/322
+0 1 0 200 0 0
+/api/mon-hoc/22
+0 4 0 1000 0 0
+/api/sinh-vien/1426
+0 2 0 673 0 1
+/api/nien-khoa
+0 3 0 1548 0 0
+/api/mon-hoc/320
+0 2 0 370 0 0
+/dot-thi/46
+0 109 0 389598 2 3
+/nhap-diem/67/ket-qua-hoc-tap/export
+0 3 0 47886 0 0
+/nhap-diem/122/ket-qua-hoc-tap
+0 12 0 139750 2 0
+/api/dot-xet-tot-nghiep/updateQd-trang-thai/32
+0 5 0 25 0 0
+/lop-hoc/74
+0 2 0 7222 1 0
+/nhap-diem/95
+0 2 0 6921 0 0
+/nhap-diem/85/ket-qua-hoc-tap
+0 7 0 65484 0 0
+/api/dot-thi/46/danhsachsinhvien
+0 62 0 173326 4 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4N30
+0 1 0 3548 0 0
+/api/khoa-dao-tao/114/hoc-ky
+0 1 0 1162 0 0
+/nhap-diem/79/ket-qua-hoc-tap
+0 20 0 254078 1 0
+/nien-khoa
+0 3 0 10360 1 0
+/api/dot-thi/46/cap-nhat-trang-thai-sinh-vien
+0 9 0 0 0 0
+/dot-thi/41/danh-sach-xet-thi-tot-nghiep/export
+0 2 0 36132 0 0
+/api/nhap-diem/84/hoc-ky
+0 24 0 49242 0 3
+/api/lop-hoc/119
+0 14 0 3654 0 0
+/fonts/vendor/bootstrap3/dist/glyphicons-halflings-regular.woff2
+0 228 0 3353208 0 0
+/nhap-diem/124/ket-qua-hoc-tap
+0 14 0 222731 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/32
+0 18 0 20844 0 0
+/api/nhap-diem/101/bang-diem
+0 5 0 3843 0 2
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTc2fQ
+0 1 0 3565 0 0
+/api/lop-hoc/97
+0 12 0 3648 0 0
+/nhap-diem/121/ket-qua-hoc-tap/export
+0 1 0 13704 0 0
+/lop-hoc/122
+0 1 0 3578 0 0
+/api/nhap-diem/70/hoc-ky
+0 6 0 17874 1 0
+/api/mon-hoc/181
+0 2 0 394 0 0
+/api/dot-xet-tot-nghiep/updateQd-trang-thai/34
+0 10 94041047805264 50 0 0
+/api/dot-thi/xoa-lop-hoc/75/46
+0 2 0 0 0 0
+/api/nhap-diem/70/bang-diem
+0 2 0 2686 1 1
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/70/41
+0 17 0 243734 1 3
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNiIsImhvY19reSI6Mn0
+0 1 0 3243 0 0
+/api/lop-hoc/72
+0 1 0 273 0 0
+/api/nhap-diem/129/bang-diem
+0 7 0 3577 0 1
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoyfQ
+0 2 0 6472 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoxLCJtaF9pZCI6OH0
+0 3 0 10706 0 0
+/api/lop-hoc/129
+0 20 0 5380 1 0
+/api/mon-hoc/309
+0 5 0 865 0 0
+/api/dot-thi/all
+0 15 0 3785 1 1
+/user/2176/edit
+0 1 0 3614 0 0
+/nhap-diem/66
+0 1 0 3282 0 0
+/dot-thi/41/diem-mon-hoc-dot-thi-theo-lop-full/export
+0 3 0 72991 0 0
+/api/mon-hoc
+0 1 0 907 0 0
+/nhap-diem/70/ket-qua-hoc-tap/export
+0 2 0 31418 1 1
+/nhap-diem/112
+0 1 0 3284 0 0
+/api/mon-hoc/295
+0 1 0 207 0 0
+/dashboard
+0 265 0 1397464 22 16
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoxLCJtaF9pZCI6MzE0fQ
+0 1 0 3565 1 0
+/api/mon-hoc/190
+0 1 94041047806480 211 0 0
+/api/nhap-diem/98/hoc-ky
+0 7 0 11189 1 2
+/api/dot-xet-tot-nghiep/31/danhsachsinhvien
+0 16 0 11398 0 0
+/nhap-diem/129/ket-qua-hoc-tap/export
+0 2 94041047805344 27975 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjoxLCJtaF9pZCI6Mjg5fQ
+0 1 0 3566 0 0
+/api/lop-hoc/113
+0 2 0 580 0 0
+/api/lop-hoc/dot-thi-lop-hoc/36
+0 23 0 17549 0 0
+/api/sinh-vien/1428
+0 6 0 2078 1 1
+/api/khoa-dao-tao/getSyncMonHocTheoNN
+0 1 0 6 0 0
+/api/lop-hoc/98
+0 8 0 2472 0 2
+/nhap-diem/102
+0 1 0 3287 0 0
+/api/user
+0 1 0 87 0 0
+/nhap-diem/77/ket-qua-hoc-tap/export
+0 1 0 13492 0 1
+/api/nhap-diem/122/hoc-ky
+0 5 0 5970 0 1
+/api/quyet-dinh
+0 4 0 3849 0 0
+/nhap-diem/81/ket-qua-hoc-tap
+0 13 0 199426 1 0
+/nhap-diem/52/ket-qua-hoc-tap/export
+0 1 0 22100 0 1
+/api/nhap-diem/81/hoc-ky
+0 9 0 14535 1 1
+/api/nhap-diem/115/bang-diem
+0 2 0 1394 0 0
+/dot-thi/43/danh-sach-sinh-vien
+0 1 0 3529 0 0
+/api/lop-hoc/52/update-sync-mon-hoc-by-kdt
+0 1 0 6 0 0
+/api/mon-hoc/191
+0 1 0 202 0 0
+/api/dot-xet-tot-nghiep/34/danhsachsinhvien
+0 11 0 8690 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MywibWhfaWQiOjMzMH0
+0 3 0 10581 0 0
+/api/lop-hoc/delete_mh/18
+0 1 0 6 0 1
+/api/lop-hoc/dot-thi-lop-hoc/33
+0 2 0 1814 0 0
+/api/dot-thi/updateQd-trang-thai/24
+0 2 0 10 0 0
+/dot-xet-tot-nghiep/31/danh-sach-sinh-vien
+0 16 0 57250 0 1
+/api/lop-hoc/79
+0 13 0 4030 0 1
+/api/mon-hoc/9
+0 1 0 246 0 0
+/api/nhap-diem/75/hoc-ky
+0 16 0 34051 1 3
+/images/favicon/favicon-32x32.png
+0 147 0 376110 0 0
+/nhap-diem/123/ket-qua-hoc-tap
+0 3 0 43127 0 0
+/login
+0 991 0 2190283 201 108
+/api/mon-hoc/886
+0 5 0 1010 0 0
+/nhap-diem/75/ket-qua-hoc-tap
+0 29 0 430031 1 2
+/api/sinh-vien/1496
+0 2 0 678 0 0
+/api/dot-thi/updateQd-trang-thai/46
+0 2 0 10 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTgxfQ
+0 2 0 7128 1 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjoxLCJtaF9pZCI6Mjg2fQ
+0 2 0 7126 1 0
+/api/excel/import-raw-score
+0 7 0 4218 2 1
+/api/lop-hoc/102
+0 1 0 264 0 0
+/api/dot-thi/46
+0 2 0 504 0 0
+/api/lop-hoc/76
+0 29 0 8961 1 1
+/api/mon-hoc/325
+0 1 0 197 0 0
+/api/nhap-diem/71/hoc-ky
+0 3 0 5462 0 0
+/dot-thi/ket-qua-hoc-tap/84/46
+0 13 0 129493 0 1
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijk1IiwiaG9jX2t5IjoyfQ
+0 1 0 3233 0 0
+/api/dot-thi/41/dsmon
+0 3 0 636 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjozfQ
+0 1 0 3236 0 0
+/user
+0 11 0 39562 0 0
+/api/lop-hoc/paginate
+0 114 0 189508 1 3
+/lop-hoc/52
+0 1 0 3570 0 0
+/api/lop-hoc/84
+0 57 0 15903 3 3
+/api/lop-hoc/112
+0 2 0 578 0 0
+/dot-thi/27
+0 2 0 7108 0 0
+/api/lop-hoc/81/ds-sinh-vien
+0 3 0 5594 0 0
+/nhap-diem/69/ket-qua-hoc-tap
+0 17 0 181650 1 2
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijk2IiwiaG9jX2t5IjoyfQ
+0 1 0 3239 0 0
+/api/lop-hoc/116/ds-sinh-vien
+0 1 0 1325 0 0
+/api/lop-hoc/86
+0 2 0 556 0 0
+/api/sinh-vien/1495
+0 2 7959600395929805172 653 0 0
+/api/nhap-diem/69/hoc-ky
+0 1 0 1483 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjY4IiwiaG9jX2t5Ijo0fQ
+0 1 7959600434517406821 3234 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTh9
+0 2 3329066333436653825 7092 0 0
+/api/mon-hoc/18
+0 2 3617004261053967925 468 0 0
+/api/excel/import-ren-luyen-score
+0 49 7810777172010432046 27032 7 2
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5Ijo0fQ
+0 2 31092189332270710 6474 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoyLCJtaF9pZCI6OTIxfQ
+0 1 3977576970345525550 3563 0 0
+/api/nhap-diem/124/bang-diem
+0 57 0 54629 0 0
+/css/admin.css
+0 683 0 81723780 0 0
+/images/default/sinhvien.svg
+0 21 0 69426 0 0
+/api/lop-hoc/95
+0 3 0 876 0 0
+/nhap-diem/129
+0 9 0 30398 0 0
+/api/nhap-diem/110/bang-diem
+0 2 0 863 0 0
+/api/lop-hoc/dot-thi-lop-hoc/46
+0 114 0 145019 2 5
+/nhap-diem/82
+0 16 0 57940 0 0
+/api/user/2351
+0 1 0 230 0 0
+/nhap-diem/81
+0 9 0 32084 0 0
+/api/nhap-diem/114/bang-diem
+0 4 0 2950 0 0
+/api/quyet-dinh/all/2
+0 120 0 95400 1 4
+/nhap-diem/86
+0 2 0 7277 0 0
+/nhap-diem/74
+0 21 0 76093 0 0
+/api/sinh-vien/1508
+0 2 0 662 0 0
+/api/dot-thi/all/dot-xet-tn
+0 208 0 38206 3 2
+/dot-xet-tot-nghiep
+0 185 0 655706 4 2
+/dot-thi/nhap-diem/120/46
+0 2 0 7228 0 0
+/api/nhap-diem/70/bang-diem-dot-thi
+0 3 0 1975 0 0
+/api/nganh-nghe/56
+0 4 0 1000 0 0
+/nhap-diem/72
+0 1 0 3707 0 0
+/nhap-diem/84/ket-qua-hoc-tap
+0 21 0 249282 0 0
+/nhap-diem/96/ket-qua-hoc-tap
+0 27 0 325910 1 3
+/api/user/2181
+0 1 0 226 0 0
+/nhap-diem/119/ket-qua-hoc-tap
+0 2 0 26305 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNCIsImhvY19reSI6MX0
+0 1 0 3242 0 0
+/api/user/3199
+0 1 0 477 0 0
+/dot-thi/41
+0 11 0 39215 1 0
+/nhap-diem/81/ket-qua-hoc-tap/export
+0 4 0 54677 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTR9
+0 3 0 10696 0 0
+/nhap-diem/127
+0 5 0 16993 1 0
+/api/nhap-diem/103/bang-diem
+0 3 0 2474 1 0
+/nhap-diem/102/ket-qua-hoc-tap
+0 14 0 149631 0 0
+/api/nhap-diem/119/bang-diem
+0 8 0 5872 0 0
+/api/sinh-vien/1486
+0 2 0 660 0 0
+/nhap-diem/124/ket-qua-hoc-tap/export
+0 2 0 30721 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MX0
+0 25 0 80870 0 0
+/api/mon-hoc/24
+0 3 0 615 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoyLCJtaF9pZCI6MzA5fQ
+0 5 0 17499 1 0
+/api/mon-hoc/1695
+0 1 0 205 0 0
+/TaiLieuHDSD_QuanLyDiemSinhVien_v2.doc
+0 1 0 3104256 0 0
+/nhap-diem/52/ket-qua-hoc-tap
+0 12 0 322184 1 3
+/api/mon-hoc/175
+0 1 0 178 0 0
+/nhap-diem/122
+0 5 0 17827 0 0
+/nhap-diem/97
+0 8 0 28326 0 0
+/user/change-password
+0 5 0 16260 1 0
+/api/dot-thi/23/dsmon
+0 1 0 212 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjY3IiwiaG9jX2t5Ijo0fQ
+0 1 0 3235 0 0
+/api/lop-hoc/70/hoc-ky-tab0
+0 1 0 154 1 0
+/nhap-diem/98/ket-qua-hoc-tap
+0 24 0 316056 0 3
+/api/sinh-vien/1424
+0 2 94041048014032 674 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjUyIiwiaG9jX2t5IjozLCJtaF9pZCI6MjJ9
+0 3 0 10699 1 0
+/nhap-diem/96/ket-qua-hoc-tap/export
+0 2 0 30004 0 0
+/api/sinh-vien/1447
+0 2 0 685 0 0
+/api/lop-hoc/all
+0 38 0 97572 1 3
+/api/quyet-dinh/128
+0 2 0 289 0 0
+/api/sinh-vien/1429
+0 2 0 684 0 0
+/api/sinh-vien/1435
+0 2 0 683 0 0
+/api/dot-thi/43/dsmon
+0 1 0 212 0 0
+/api/nhap-diem/122/bang-diem
+0 2 0 1983 1 0
+/dot-thi/43/diem-mon-hoc-dot-thi-theo-lop-full/export
+0 2 0 35535 0 0
+/nhap-diem/100/ket-qua-hoc-tap
+0 9 0 105637 0 4
+/nhap-diem/94/ket-qua-hoc-tap/export
+0 1 3543825173711829040 16222 0 0
+/nhap-diem/121
+0 6 110 21783 1 0
+/dot-xet-tot-nghiep/12/danh-sach-sinh-vien
+0 1 441583274241 3565 0 0
+/api/mon-hoc/422
+0 2 3615886040511873024 466 0 0
+/nhap-diem/84/ket-qua-hoc-tap/export
+0 3 1725452656 38687 0 2
+/dot-thi/nhap-diem/61/23
+0 1 8391050530721366016 3652 0 0
+/api/sinh-vien/1517
+0 2 1853238900 673 0 0
+/nhap-diem/115/ket-qua-hoc-tap
+0 6 0 66030 0 2
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTN9
+0 1 0 3568 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk4IiwiaG9jX2t5IjoyLCJtaF9pZCI6OTMyfQ
+0 1 0 3563 1 0
+/api/mon-hoc/182
+0 1 0 198 0 0
+/nhap-diem/46/ket-qua-hoc-tap/export
+0 5 0 104562 0 1
+/api/sinh-vien/1446
+0 2 0 684 0 0
+/api/dot-xet-tot-nghiep/32
+0 8 0 2161 0 1
+/nhap-diem/64
+0 1 94041047808864 3642 0 0
+/nhap-diem/83/ket-qua-hoc-tap/export
+0 4 0 64562 1 0
+/nhap-diem/36
+0 3 0 10776 0 0
+/sample/import-diem-2022-raw-sample.xls
+0 1 0 37888 0 0
+/api/lop-hoc/get-sync-mon-hoc-by-kdt
+0 2 0 630 0 1
+/nhap-diem/69/ket-qua-hoc-tap/export
+0 3 0 38780 0 0
+/nhap-diem/123
+0 2 0 6538 0 0
+/api/khoa-dao-tao/114
+0 1 0 234 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/12
+0 3 0 6555 0 0
+/api/lop-hoc/83
+0 37 0 11026 0 0
+/dot-thi/ket-qua-hoc-tap/82/46
+0 9 0 85686 0 0
+/dot-thi/nhap-diem-excel/120/46
+0 1 0 3534 0 0
+/api/nhap-diem/2359/bang-diem
+0 1 0 0 0 0
+/api/nhap-diem/102/hoc-ky
+0 1 0 1573 0 0
+/api/nhap-diem/79/hoc-ky
+0 9 0 13053 1 1
+/nhap-diem/119/ket-qua-hoc-tap/export
+0 1 0 13238 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoxLCJtaF9pZCI6OX0
+0 1 0 3571 0 0
+/dot-thi/46/danh-sach-xet-thi-tot-nghiep/export
+0 49 0 824907 0 8
+/api/lop-hoc/66
+0 3 0 888 0 0
+/api/nhap-diem/86/hoc-ky
+0 2 0 3410 0 1
+/nhap-diem/103/ket-qua-hoc-tap/export
+0 2 0 26188 0 0
+/
+0 334 0 1825908 192 29
+/api/sinh-vien/1437
+0 2 0 688 0 0
+/api/nhap-diem/68/bang-diem
+0 2 0 1360 0 1
+/dot-thi/36/danh-sach-sinh-vien
+0 1 0 3537 0 0
+/api/lop-hoc/118
+0 5 0 1310 0 1
+/nhap-diem/110/ket-qua-hoc-tap
+0 9 0 93784 0 1
+/dot-xet-tot-nghiep/43/danh-sach-xet-tot-nghiep/export
+0 2 0 32090 0 0
+/api/dot-thi/updateQd-trang-thai/36
+0 3 0 15 0 0
+/api/nhap-diem/66/hoc-ky
+0 1 0 1731 0 0
+/api/nhap-diem/120/hoc-ky
+0 2 0 3288 0 0
+/nhap-diem/76/ket-qua-hoc-tap
+0 19 0 256185 1 2
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjM2IiwiaG9jX2t5IjoxLCJtaF9pZCI6MjMyfQ
+0 3 0 10560 0 0
+/api/mon-hoc/14
+0 4 0 960 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoxLCJtaF9pZCI6MzEwfQ
+0 1 0 3564 0 0
+/api/sinh-vien/1515
+0 2 0 665 0 1
+/nhap-diem/66/ket-qua-hoc-tap
+0 6 0 69831 0 0
+/images/favicon/favicon-16x16.png
+0 98 0 91872 0 0
+/nhap-diem/94
+0 1 0 3640 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyOSIsImhvY19reSI6Mn0
+0 2 0 6483 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MTkwfQ
+0 1 2319688270892511536 3563 0 0
+/dot-thi/ket-qua-hoc-tap/70/41
+0 3 0 32316 0 0
+/api/sinh-vien/1493
+0 2 0 677 0 0
+/nhap-diem/118/ket-qua-hoc-tap
+0 5 0 69376 0 0
+/nhap-diem/99/ket-qua-hoc-tap
+0 22 0 294295 1 4
+/dot-thi/33
+0 2 0 7096 0 0
+/api/sinh-vien/1509
+0 2 0 654 0 0
+/nhap-diem/83/ket-qua-hoc-tap
+0 25 0 409944 3 1
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4Nn0
+0 2 0 7095 0 0
+/nhap-diem/64/ket-qua-hoc-tap
+0 14 0 153131 0 0
+/nhap-diem/114
+0 1 0 3289 0 0
+/api/dot-xet-tot-nghiep/xoa-lop-du-xet/34
+0 1 0 0 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjUyIiwiaG9jX2t5Ijo0LCJtaF9pZCI6MjN9
+0 1 0 3568 0 0
+/api/dot-xet-tot-nghiep/8
+0 1 0 207 0 0
+/api/sinh-vien/1499
+0 2 0 644 0 0
+/nhap-diem/80
+0 10 3329624872626696494 34617 0 0
+/api/user/2176
+0 1 102 388 0 0
+/api/lop-hoc/114
+0 5 31092189332270710 1365 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODd9
+0 1 3617567189515710005 3531 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjozLCJtaF9pZCI6MjJ9
+0 1 26192 3567 0 0
+/api/lop-hoc/52
+0 15 4120286995462107694 4395 0 1
+/api/lop-hoc/122/ds-sinh-vien
+0 1 28278 2196 0 1
+/nhap-diem/121/ket-qua-hoc-tap
+0 6 0 80134 0 0
+/api/dot-xet-tot-nghiep/cap-nhat-dot-xet-cho-dot-thi
+0 4 0 0 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6NDEwfQ
+0 2 0 7105 0 0
+/nhap-diem/110/ket-qua-hoc-tap/export
+0 4 0 49974 0 2
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjoyLCJtaF9pZCI6Mjk1fQ
+0 1 0 3566 0 0
+/api/sinh-vien/1492
+0 3 0 997 0 0
+/api/nhap-diem/75/bang-diem
+0 11 0 11212 1 2
+/nhap-diem/100
+0 1 0 3640 0 0
+/api/dot-thi
+0 248 0 358190 4 5
+/api/nhap-diem/2369/bang-diem
+0 1 0 0 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5Ijo0fQ
+0 1 0 3237 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MSwibWhfaWQiOjMzOX0
+0 1 0 3525 0 0
+/api/nhap-diem/127/hoc-ky
+0 5 0 5284 0 0
+/dot-xet-tot-nghiep/34/danh-sach-sinh-vien-thi-dat-tn/export
+0 2 0 23851 0 0
+/api/sinh-vien/1305
+0 2 94041047807200 677 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTc1fQ
+0 1 0 3565 0 0
+/api/nhap-diem/36/bang-diem
+0 4 0 5052 0 1
+/lop-hoc
+0 116 0 406046 9 1
+/api/dot-thi/43/danhsachsinhvien
+0 1 0 910 0 0
+/dot-thi/ket-qua-hoc-tap/52/23
+0 4 0 49408 0 1
+/dot-thi/23
+0 6 0 21419 0 0
+/nhap-diem/79/ket-qua-hoc-tap/export
+0 2 0 26228 0 1
+/nhap-diem/97/ket-qua-hoc-tap
+0 15 0 276364 1 2
+/images/favicon/android-chrome-512x512.png
+0 264 0 65564930 0 0
+/api/user/3296
+0 6 0 1230 0 0
+/nhap-diem/76/ket-qua-hoc-tap/export
+0 3 0 43041 0 1
+/nhap-diem/20/ket-qua-hoc-tap/export
+0 2 0 31122 0 1
+/api/mon-hoc/192
+0 3 0 600 0 0
+/api/sinh-vien/1488
+0 2 0 679 0 1
+/nhap-diem/112/ket-qua-hoc-tap
+0 9 0 184630 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyOSIsImhvY19reSI6MiwibWhfaWQiOjE2OTV9
+0 1 0 3523 0 0
+/lop-hoc/114
+0 1 0 3536 0 0
+/dot-thi/36/diem-mon-hoc-dot-thi-theo-lop-full/export
+0 2 0 41746 0 0
+/dot-thi/nhap-diem/70/41
+0 3 0 10909 0 0
+/dot-thi/ket-qua-hoc-tap/63/33
+0 1 0 7455 0 0
+/api/nhap-diem/95/bang-diem
+0 2 0 1688 0 0
+/api/lop-hoc/103
+0 4 0 1084 0 0
+/nhap-diem/119
+0 9 0 32318 0 0
+/api/dot-xet-tot-nghiep/32/danhsachsinhvien
+0 3 0 1554 0 1
+/api/nhap-diem/83/hoc-ky
+0 20 0 46777 0 2
+/tra-cuu-diem/xuat-danh-sach
+0 164 0 9750183 11 12
+/nhap-diem
+0 837 0 2826500 60 8
+/nhap-diem/116
+0 4 0 13982 0 0
+/api/lop-hoc/82
+0 21 0 5880 0 0
+/nhap-diem/74/ket-qua-hoc-tap
+0 26 0 363841 2 1
+/api/nhap-diem/2365/bang-diem
+0 1 0 0 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4NX0
+0 1 0 3549 0 0
+/api/lop-hoc/115
+0 5 0 1475 0 0
+/nhap-diem/96
+0 3 0 10537 0 0
+/api/lop-hoc/68
+0 3 0 858 0 0
+/api/mon-hoc/23
+0 2 0 422 0 0
+/api/nhap-diem/127/bang-diem
+0 3 0 1418 0 0
+/api/nhap-diem/118/hoc-ky
+0 5 0 6770 1 0
+/lop-hoc/116
+0 1 0 3536 0 0
+/api/nhap-diem/120/bang-diem-dot-thi
+0 5 0 2241 0 0
+/api/nhap-diem/76/bang-diem
+0 13 0 15186 0 1
+/api/sinh-vien/1427
+0 2 0 661 0 0
+/robots.txt
+0 64 0 1664 0 0
+/api/dot-thi/updateQd-trang-thai/23
+0 8 0 40 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjYxIiwiZG90X3RoaSI6IjIzIiwibWhfaWQiOjg4N30
+0 1 3472607589411466801 3592 1 0
+/api/nhap-diem/74/hoc-ky
+0 20 121453864579182 45148 1 3
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6Mn0
+0 1 8243116113330926336 3242 0 0
+/api/sinh-vien/1438
+0 2 3617004256809072951 676 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNCIsImhvY19reSI6Mn0
+0 2 88159053543780657 6486 0 0
+/api/lop-hoc/74/ds-sinh-vien
+0 2 72057594037928046 4450 0 0
+/lop-hoc/83
+0 2 86465809932039985 7213 0 0
+/nhap-diem/75
+0 16 94041047690144 57183 0 1
+/api/sinh-vien/1497
+0 4 0 1375 1 1
+/sample/import-diem-raw-sample.xls
+0 1 0 37376 0 0
+/api/dot-thi/cap-nhat-dot-thi-cho-lop
+0 15 0 3579 0 0
+/nhap-diem/79
+0 9 0 32086 1 0
+/images/default/user_avatar.png
+0 181 0 20524995 0 0
+/api/khoa-dao-tao/134
+0 1 0 243 0 0
+/lop-hoc/75/hoc-ky
+0 2 0 7162 0 0
+/api/user/3198
+0 3 0 552 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExMCIsImhvY19reSI6Mn0
+0 1 0 3243 0 0
+/nhap-diem/70/ket-qua-hoc-tap
+0 26 0 463942 2 3
+/dot-thi/36
+0 23 0 81651 0 0
+/nhap-diem/62/ket-qua-hoc-tap
+0 12 0 149592 0 1
+/nhap-diem/113
+0 1 0 3283 0 0
+/api/nhap-diem/36/hoc-ky
+0 3 0 9369 0 0
+/api/nhap-diem/2360/bang-diem
+0 1 0 0 0 0
+/api/mon-hoc/885
+0 3 0 576 0 0
+/api/mon-hoc/339
+0 1 0 188 0 0
+/api/mon-hoc/317
+0 3 0 600 0 0
+/lop-hoc/81
+0 2 0 7213 0 0
+/dot-xet-tot-nghiep/34
+0 34 0 121551 3 0
+/lop-hoc/52/hoc-ky
+0 2 0 7156 0 0
+/api/lop-hoc/75/update-sync-mon-hoc-by-kdt
+0 1 0 6 0 0
+/nhap-diem/103
+0 3 0 10570 1 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyNyIsImhvY19reSI6MX0
+0 1 0 3519 0 0
+/api/lop-hoc/67
+0 16 0 4784 1 1
+/api/mon-hoc/185
+0 2 0 420 0 0
+/api/lop-hoc/123
+0 2 0 540 0 0
+/api/lop-hoc/124
+0 70 0 21420 1 1
+/api/mon-hoc/8
+0 4 0 772 0 0
+/api/mon-hoc/920
+0 1 0 192 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/15
+0 1 0 1669 0 0
+/api/sinh-vien/1480
+0 2 0 663 0 0
+/dot-xet-tot-nghiep/31/danh-sach-sinh-vien-thi-dat-tn/export
+0 6 0 255614 0 1
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyMiIsImhvY19reSI6Mn0
+0 1 0 3242 0 0
+/api/lop-hoc/74/hoc-ky
+0 2 0 2402 0 0
+/api/nhap-diem/97/bang-diem
+0 6 0 6938 1 1
+/api/sinh-vien/1519
+0 2 0 675 0 0
+/api/nhap-diem/114/hoc-ky
+0 1 0 1715 0 0
+/nhap-diem/120/ket-qua-hoc-tap
+0 4 0 36938 0 0
+/api/lop-hoc/69
+0 1 0 283 0 0
+/nhap-diem/66/ket-qua-hoc-tap/export
+0 2 0 26102 0 0
+/dot-thi/ket-qua-hoc-tap/129/43
+0 3 0 24741 1 0
+/api/lop-hoc/75/hoc-ky-tab0
+0 2 0 320 1 0
+/fonts/vendor/bootstrap3/dist/glyphicons-halflings-regular.woff
+0 1 0 23424 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6Mn0
+0 1 0 3230 0 0
+/api/lop-hoc/96
+0 5 0 1420 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEwMyIsImhvY19reSI6Mn0
+0 1 0 3239 0 0
+/api/nhap-diem/115/hoc-ky
+0 3 0 5008 0 0
+/api/dot-thi/47
+0 1 0 0 0 0
+/nhap-diem/68
+0 2 0 6988 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTc5fQ
+0 1 0 3565 0 0
+/api/sinh-vien/1445
+0 2 0 675 0 0
+/api/lop-hoc/120
+0 6 0 1722 1 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5Ijo0LCJtaF9pZCI6NDIyfQ
+0 2 0 7034 0 0
+/nganh-nghe/56/4/mon-hoc
+0 4 0 14208 0 0
+/api/nhap-diem/52/bang-diem
+0 8 0 12548 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgwIiwiaG9jX2t5IjoyfQ
+0 1 0 3237 0 0
+/user/3198/edit
+0 1 0 3615 0 0
+/api/lop-hoc/dot-thi-lop-hoc/27
+0 2 0 2140 0 0
+/api/mon-hoc/289
+0 1 8029760001020224609 194 0 0
+/nhap-diem/101/ket-qua-hoc-tap
+0 26 7959600434517406821 297983 1 2
+/api/mon-hoc/1483
+0 1 8515853249979446387 185 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc5IiwiaG9jX2t5IjozLCJtaF9pZCI6Mjk5fQ
+0 2 3474299712053510400 7130 0 0
+/nhap-diem/122/ket-qua-hoc-tap/export
+0 2 3833462881864790273 25866 0 0
+/api/sinh-vien/1450
+0 4 85912738487414325 1327 0 0
+/images/default/sinhvien-nam.svg
+0 159 0 751296 0 0
+/api/nhap-diem/76/hoc-ky
+0 19 72057594037928046 37861 1 2
+/dot-thi/36/danh-sach-xet-thi-tot-nghiep/export
+0 2 0 31868 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjozLCJtaF9pZCI6MTkxfQ
+0 1 0 3565 0 0
+/api/mon-hoc/176
+0 1 0 190 0 0
+/api/dot-thi/xoa-lop-hoc/74/46
+0 1 0 0 0 0
+/api/lop-hoc/84/ds-sinh-vien
+0 32 0 85248 2 4
+/nhap-diem/80/ket-qua-hoc-tap
+0 19 0 221355 0 1
+/api/khoa-dao-tao/134/hoc-ky
+0 1 0 775 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/34
+0 35 0 29800 1 2
+/api/dot-thi/36/danhsachsinhvien
+0 1 0 610 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTR9
+0 1 0 3568 0 0
+/nhap-diem/72/ket-qua-hoc-tap
+0 8 0 81817 0 0
+/nhap-diem/118/ket-qua-hoc-tap/export
+0 3 0 43953 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcwIiwiaG9jX2t5IjoxLCJtaF9pZCI6OH0
+0 1 0 3523 0 0
+/nhap-diem/86/ket-qua-hoc-tap
+0 4 0 57220 0 0
+/api/nhap-diem/80/hoc-ky
+0 10 0 14700 0 0
+/quyet-dinh
+0 3 0 10522 0 0
+# End Of Table - urls
+# -sites- (monthly)
+103.199.32.43
+0 26 24 758368 1 1725446442
+/api/dot-xet-tot-nghiep
+95.82.123.194
+0 1 0 6645 0 0
+-
+103.249.23.71
+0 116 74 1145101 2 1725956685
+/tra-cuu-diem
+bot-103-131-71-186.coccoc.com
+0 1 0 0 0 0
+-
+ns31680493.ip-141-94-160.eu
+0 1 0 6645 0 0
+-
+103.199.56.115
+0 29 22 819471 1 1725974651
+/tra-cuu-diem
+ec2-13-112-187-211.ap-northeast-1.compute.amazonaws.com
+0 1 0 206 1 1725336980
+/
+scanner-205.hk2.censys-scanner.com
+0 6 5 54153 2 1726003268
+/
+17-246-23-35.applebot.apple.com
+0 1 1 1067 0 0
+-
+msnbot-40-77-189-229.search.msn.com
+0 1 1 18028 0 0
+-
+msnbot-40-77-167-45.search.msn.com
+0 3 2 3214 2 1725448122
+/login
+125.235.237.63.adsl.viettel.vn
+0 16 12 73692 1 1725640161
+/nhap-diem/112/ket-qua-hoc-tap
+222.201.118.34.bc.googleusercontent.com
+0 34 18 1294276 1 1726157959
+/login
+enthusiastic.monitoring.internet-measurement.com
+0 1 1 48433 0 0
+-
+rate-limited-proxy-72-14-199-100.google.com
+0 1 0 2038 0 0
+-
+static.184.252.119.168.clients.your-server.de
+0 1 1 1451220 0 0
+-
+125.235.237.251.adsl.viettel.vn
+0 158 99 3452982 16 1726131207
+/tra-cuu-diem
+15.bl.bot.semrush.com
+0 1 1 26 0 0
+-
+103.199.33.52
+0 24 16 47653 1 1726045469
+/nhap-diem/99/ket-qua-hoc-tap
+146.190.250.18
+0 11 0 25432 1 1726143648
+-
+117.3.122.79
+0 24 21 968098 1 1726213655
+/tra-cuu-diem
+103.199.32.149
+0 35 26 989599 1 1726213368
+/tra-cuu-diem/xuat-danh-sach
+113.134.16.34.bc.googleusercontent.com
+0 34 18 1294278 1 1726394888
+/login
+95.5.115.67.static.ttnet.com.tr
+0 1 0 6645 0 0
+-
+103.199.56.176
+0 59 34 973475 1 1726128140
+/tra-cuu-diem
+128.65.139.166
+0 1 0 6645 0 0
+-
+17-22-237-30.applebot.apple.com
+0 1 1 53436 0 0
+-
+116.108.100.226
+0 19 10 747298 2 1726298244
+/login
+ec2-54-194-26-85.eu-west-1.compute.amazonaws.com
+0 1 0 386 1 1725608794
+/
+103.199.33.13
+0 27 26 1102636 1 1726213472
+/tra-cuu-diem
+103.97.229.148
+0 8 0 18496 1 1725903451
+-
+vmi2016264.contaboserver.net
+0 11 1 22796 1 1725168228
+/login
+99.46.37.126.x-com.kz
+0 1 0 6645 0 0
+-
+103.199.33.191
+0 17 16 946933 1 1726213357
+/tra-cuu-diem/xuat-danh-sach
+103.199.57.227
+0 16 15 914886 1 1725785570
+/tra-cuu-diem
+103.199.57.199
+0 23 20 228184 1 1726213569
+/tra-cuu-diem/xuat-danh-sach
+bot-103-131-71-80.coccoc.com
+0 1 0 0 0 0
+-
+crawl-66-249-71-205.googlebot.com
+0 15 11 56090 4 1726031132
+/
+msnbot-52-167-144-180.search.msn.com
+0 1 1 1525 1 1726440045
+/login
+bot-103-131-71-217.coccoc.com
+0 1 1 2786 0 0
+-
+1.55.115.239
+0 15 13 1268062 2 1726290208
+/login
+zl-lax-us-gp6-wk115.internet-census.org
+0 5 2 2890 1 1725206786
+/login
+msnbot-40-77-167-15.search.msn.com
+0 2 1 1690 1 1726043838
+/login
+172-245-136-89-host.colocrossing.com
+0 5 0 395573 2 1726467972
+/
+103.199.57.181
+0 15 8 971308 1 1725460028
+/login
+45.148.10.206
+0 2 0 2458 0 0
+-
+unn-149-22-81-99.datapacket.com
+0 23 2 606460 11 1726502712
+/
+103.97.229.142
+0 10 0 23120 5 1726219647
+-
+msnbot-52-167-144-137.search.msn.com
+0 2 1 1689 1 1725805418
+/login
+125.235.237.67.adsl.viettel.vn
+0 25 17 1077971 1 1725894701
+/login
+msnbot-52-167-144-188.search.msn.com
+0 1 1 1524 1 1725506551
+/login
+103.199.33.210
+0 17 15 891378 1 1726038549
+/tra-cuu-diem
+115.75.96.12
+0 651 609 3105633 13 1726214042
+/api/sinh-vien/1492
+103.97.229.151
+0 8 0 18496 0 0
+-
+103.199.32.170
+0 3 0 0 0 0
+-
+google-proxy-64-233-173-142.google.com
+0 6 3 126468 0 0
+-
+73.26.211.139.adsl-pool.jlccptt.net.cn
+0 109 107 2445008 1 1726247700
+/forgot-password
+poised.monitoring.internet-measurement.com
+0 1 1 957 0 0
+-
+103.199.57.59
+0 3 1 2605 1 1725546432
+/api/dot-xet-tot-nghiep
+205.210.31.100
+0 1 0 386 1 1725695173
+/
+scanner-202.hk2.censys-scanner.com
+0 6 5 54164 1 1726388916
+/login
+a0ab3ca2-b4c7-4fd9-841c-429064cbe7fc.nl-ams-1.baremetal.scw.cloud
+0 1 0 6645 0 0
+-
+203.47.213.139.adsl-pool.jlccptt.net.cn
+0 209 107 2534767 1 1725641289
+/login
+103.199.33.17
+0 18 17 952838 1 1726213370
+/tra-cuu-diem/xuat-danh-sach
+188.166.41.78
+0 3 2 4760 2 1726221689
+/
+195.178.110.35
+0 4 0 4916 0 0
+-
+103.199.32.6
+0 67 46 1046640 4 1725435560
+/login
+198.235.24.89
+0 1 0 402 1 1725713433
+/
+125.235.236.32.adsl.viettel.vn
+0 3 0 0 0 0
+-
+msnbot-40-77-167-203.search.msn.com
+0 2 2 52 0 0
+-
+125.235.236.185.adsl.viettel.vn
+0 23 13 754344 2 1725464602
+/tra-cuu-diem
+187.113.171.222.static.host.gvt.net.br
+0 1 0 6645 0 0
+-
+49.213.78.31
+0 1 1 228841 0 0
+-
+125.235.237.246.adsl.viettel.vn
+0 11 10 744210 1 1726497145
+/tra-cuu-diem
+198.235.24.13
+0 2 1 4976 2 1726445592
+/
+64.124.8.159.available.above.net
+0 2 1 26 0 0
+-
+106.146.22.175.adsl-pool.jlccptt.net.cn
+0 209 107 2534766 1 1725412337
+/login
+23.74.16.175.adsl-pool.jlccptt.net.cn
+0 7 5 1609356 1 1726475733
+/forgot-password
+103.199.56.223
+0 23 14 167468 1 1725462544
+/tra-cuu-diem
+103.199.56.4
+0 17 15 892872 2 1725898863
+/login
+191.239.49.119.adsl-pool.jlccptt.net.cn
+0 9 7 2037168 2 1725820339
+/login
+159.223.225.123
+0 3 2 4771 1 1726344298
+/login
+rate-limited-proxy-66-249-91-194.google.com
+0 1 0 2038 0 0
+-
+google-proxy-66-249-82-15.google.com
+0 10 6 413620 5 1726414546
+/
+rate-limited-proxy-66-249-92-163.google.com
+0 1 0 2038 0 0
+-
+vps-d0d1a0c4.vps.ovh.ca
+0 1 1 1770 1 1725745374
+/login
+bot-103-131-71-91.coccoc.com
+0 2 1 1976 1 1725943688
+/login
+103.199.33.6
+0 2 2 63363 1 1726213383
+/tra-cuu-diem/xuat-danh-sach
+88.66.16.175.adsl-pool.jlccptt.net.cn
+0 15 13 2061675 2 1726313260
+/login
+103.199.32.136
+0 14 10 787348 1 1726225434
+/tra-cuu-diem
+msnbot-207-46-13-127.search.msn.com
+0 2 1 1689 1 1726407566
+/login
+125.234.229.172.hcm.viettel.vn
+0 16 15 890844 1 1726213138
+/tra-cuu-diem
+103.199.33.43
+0 14 13 882048 1 1726213256
+/dashboard
+bot-103-131-71-189.coccoc.com
+0 2 1 1976 1 1725338008
+/login
+125.235.189.123.adsl.viettel.vn
+0 2 1 1976 1 1726210788
+/login
+nat.campus.it.hm.edu
+0 1 1 317852 0 0
+-
+stunning.monitoring.internet-measurement.com
+0 1 1 48433 0 0
+-
+msnbot-40-77-188-9.search.msn.com
+0 1 1 18028 0 0
+-
+crawl-66-249-71-204.googlebot.com
+0 10 7 57038 3 1726171533
+/nhap-diem/70/ket-qua-hoc-tap
+ns541990.ip-192-99-4.net
+0 1 0 2312 0 0
+-
+27.3.139.171
+0 21 15 880954 2 1725641554
+/tra-cuu-diem
+103.199.32.4
+0 85 49 180980 1 1726128385
+/tra-cuu-diem
+64.124.8.165.available.above.net
+0 2 1 26 0 0
+-
+74.80.208.200
+0 2 2 1551 1 1725178344
+/login
+194.35.122.50
+0 2 1 1978 1 1725317681
+/login
+crawl-66-249-65-46.googlebot.com
+0 3 3 988 0 0
+-
+78.175.130.226.dynamic.ttnet.com.tr
+0 1 0 6645 0 0
+-
+123.22.174.24
+0 63 49 1718992 3 1725535827
+/tra-cuu-diem
+msnbot-207-46-13-87.search.msn.com
+0 1 1 1521 1 1726498077
+/login
+localhost
+0 1027 922 13019338 21 1726222455
+/login
+msnbot-207-46-13-126.search.msn.com
+0 2 2 51714 0 0
+-
+205.210.31.18
+0 2 1 5016 1 1725761807
+/login
+14.224.148.172
+0 14 10 635575 1 1725277148
+/login
+bot-103-131-71-227.coccoc.com
+0 2 1 1976 1 1726298958
+/login
+133.206.73.34.bc.googleusercontent.com
+0 2 2 1794 1 1725921395
+/login
+nat.dl.je
+0 2 1 4976 1 1726204915
+/login
+41.216.188.18
+0 1 0 2312 1 1725363378
+-
+google-proxy-66-102-6-164.google.com
+0 10 6 329702 4 1726414547
+/
+v2202409218763284392.goodsrv.de
+0 2 2 257106 0 0
+-
+hel1.aktheknight.co.uk
+0 1 1 317852 0 0
+-
+ns1010346.ip-135-148-100.us
+0 2 1 5016 1 1725795425
+/login
+msnbot-40-77-188-71.search.msn.com
+0 1 1 18028 0 0
+-
+enchanting.monitoring.internet-measurement.com
+0 2 1 1989 1 1726309684
+/login
+125.235.236.63.adsl.viettel.vn
+0 2 2 300868 0 0
+-
+msnbot-207-46-13-151.search.msn.com
+0 2 2 334142 1 1726394429
+/login
+206.167.27.218.adsl-pool.jlccptt.net.cn
+0 9 7 2037167 1 1725984357
+/forgot-password
+198.235.24.134
+0 2 1 5016 1 1726432459
+/login
+125.235.236.150.adsl.viettel.vn
+0 228 213 2087206 8 1726408982
+/nhap-diem/99/ket-qua-hoc-tap
+msnbot-40-77-167-56.search.msn.com
+0 1 1 331237 0 0
+-
+unn-79-127-128-45.datapacket.com
+0 1 0 6645 0 0
+-
+fwdproxy-cco-031.fbsv.net
+0 1 1 26 0 0
+-
+google-proxy-66-249-82-13.google.com
+0 8 7 644490 3 1726414547
+/login
+195.178.110.135
+0 2 0 1435 1 1726232802
+/
+136.227.176.183
+0 1 1 1769 1 1725449074
+/login
+m18325.contaboserver.net
+0 2 0 4624 2 1725678444
+-
+static.vnpt.vn
+0 12718 11500 121862911 473 1726510579
+/login
+51-15-16-101.rev.poneytelecom.eu
+0 7 0 16184 3 1726171289
+-
+msnbot-52-167-144-66.search.msn.com
+0 1 1 26 0 0
+-
+72-14-201-135.v4.fetch.tunnel.googlezip.net
+0 5 2 3548 3 1725920525
+/login
+113.23.25.115
+0 15 14 842834 1 1725667500
+/tra-cuu-diem
+rate-limited-proxy-72-14-199-102.google.com
+0 1 0 2038 0 0
+-
+42.112.80.160
+0 37 36 901435 1 1726339257
+/api/lop-hoc/paginate
+198.235.24.176
+0 2 1 5016 2 1725167678
+-
+103.199.56.7
+0 21 20 1185655 1 1726213484
+/tra-cuu-diem/xuat-danh-sach
+google-proxy-66-102-6-162.google.com
+0 12 10 145347 3 1726414548
+/login
+20.171.206.247
+0 1 1 26 0 0
+-
+125.235.61.107.adsl.viettel.vn
+0 21 19 1024570 2 1726213447
+/tra-cuu-diem/xuat-danh-sach
+103.199.57.63
+0 20 19 1072131 1 1726213623
+/tra-cuu-diem/xuat-danh-sach
+ec2-54-88-179-33.compute-1.amazonaws.com
+0 4 2 9992 2 1725742750
+/login
+17-241-227-155.applebot.apple.com
+0 2 2 252461 0 0
+-
+scanner-206.hk2.censys-scanner.com
+0 6 5 54154 1 1726008426
+/login
+125.235.237.241.adsl.viettel.vn
+0 18 16 920774 1 1725664105
+/tra-cuu-diem
+103.199.33.86
+0 1 0 171 1 1726213281
+-
+187.84.22.175.adsl-pool.jlccptt.net.cn
+0 81 79 106522200 1 1726154828
+/forgot-password
+sh-chi-us-gd15-wk103.internet-census.org
+0 2 1 1974 1 1726088657
+/login
+msnbot-40-77-167-52.search.msn.com
+0 1 1 1523 1 1725484653
+/login
+42.114.18.254
+0 76 42 162670 1 1725969895
+/tra-cuu-diem
+17-22-253-92.applebot.apple.com
+0 1 1 1067 0 0
+-
+55.210.32.125.adsl-pool.jlccptt.net.cn
+0 15 13 3551778 1 1726054072
+/login
+google-proxy-64-233-173-141.google.com
+0 4 3 309248 1 1725832705
+/login
+crawl-66-249-69-35.googlebot.com
+0 2 1 2064 0 0
+-
+40.77.202.110
+0 1 1 18028 0 0
+-
+crawl-66-249-71-202.googlebot.com
+0 1 1 26 0 0
+-
+vmi2089069.contaboserver.net
+0 1 0 2312 0 0
+-
+crawl-66-249-66-162.googlebot.com
+0 1 0 2038 0 0
+-
+msnbot-52-167-144-192.search.msn.com
+0 1 1 1522 1 1725475086
+/login
+msnbot-40-77-167-17.search.msn.com
+0 3 2 3219 2 1725865417
+/login
+crawl-66-249-69-68.googlebot.com
+0 2 2 1548 1 1725690385
+/login
+17-241-219-100.applebot.apple.com
+0 2 2 252461 0 0
+-
+125.235.236.29.adsl.viettel.vn
+0 7 3 10094 1 1725981171
+/tra-cuu-diem
+msnbot-40-77-167-78.search.msn.com
+0 2 1 1688 1 1726315859
+/login
+183.80.171.30
+0 45 42 819423 3 1725825735
+/nhap-diem/81/ket-qua-hoc-tap
+12.169.8.221.adsl-pool.jlccptt.net.cn
+0 8 6 2032497 1 1725728448
+/forgot-password
+crawl-66-249-69-34.googlebot.com
+0 12 8 12312 5 1726171534
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/70/41
+google-proxy-64-233-173-143.google.com
+0 2 0 4624 0 0
+-
+msnbot-40-77-167-235.search.msn.com
+0 5 4 359598 1 1726162263
+/login
+crawl-66-249-79-7.googlebot.com
+0 5 3 2090 1 1725224478
+/nhap-diem/46/ket-qua-hoc-tap
+103.199.56.109
+0 26 22 1028403 2 1726213436
+/
+crawl-66-249-66-163.googlebot.com
+0 1 1 26 0 0
+-
+116.108.105.204
+0 27 22 863873 1 1725441411
+/tra-cuu-diem
+google-proxy-64-233-173-140.google.com
+0 3 2 2651 1 1725832705
+/login
+bot-103-131-71-182.coccoc.com
+0 2 1 1974 1 1725279386
+/login
+1.55.80.35
+0 1 0 6645 0 0
+-
+125.235.214.79.adsl.viettel.vn
+0 21 17 900234 1 1726127529
+/tra-cuu-diem
+198.235.24.47
+0 1 0 402 1 1725353856
+/
+google-proxy-66-102-6-163.google.com
+0 19 17 691570 5 1726186557
+/
+42.112.229.183
+0 65 33 1487817 5 1725476660
+/
+125.235.63.87.adsl.viettel.vn
+0 9 5 616523 1 1726127856
+/login
+lucid.monitoring.internet-measurement.com
+0 1 1 2786 0 0
+-
+103.199.32.163
+0 24 23 979054 1 1726213359
+/tra-cuu-diem/xuat-danh-sach
+129.67.16.175.adsl-pool.jlccptt.net.cn
+0 109 107 33821012 1 1725270337
+/forgot-password
+bot-103-131-71-208.coccoc.com
+0 1 1 957 0 0
+-
+45.89.48.57
+0 5 0 395578 2 1725897150
+/
+103.199.57.67
+0 7 1 182514 1 1725192889
+-
+1.55.50.108
+0 16 15 890240 1 1726228797
+/tra-cuu-diem
+90.19.170.34.bc.googleusercontent.com
+0 34 18 1294272 1 1726315286
+/login
+auspicious.monitoring.internet-measurement.com
+0 1 1 2786 0 0
+-
+125.235.236.176.adsl.viettel.vn
+0 12 6 66082 1 1725532419
+/tra-cuu-diem
+125.234.228.249.hcm.viettel.vn
+0 16 9 34399 2 1725875094
+/tra-cuu-diem
+google-proxy-66-249-82-14.google.com
+0 10 9 482014 3 1726006969
+/login
+115.75.102.136
+0 16 15 845234 1 1726148507
+/tra-cuu-diem
+msnbot-52-167-144-67.search.msn.com
+0 3 3 78 0 0
+-
+125.235.237.62.adsl.viettel.vn
+0 3 0 0 0 0
+-
+223.123.84.180
+0 1 0 6645 0 0
+-
+ec2-44-192-26-226.compute-1.amazonaws.com
+0 2 2 1548 1 1726075534
+/login
+103.199.56.89
+0 30 24 919303 1 1725973567
+/login
+103.199.32.67
+0 2 1 1690 1 1726212811
+/login
+msnbot-52-167-144-173.search.msn.com
+0 1 1 1526 1 1725394378
+/login
+157.245.115.111
+0 1 0 2312 1 1725903576
+-
+rate-limited-proxy-66-249-87-5.google.com
+0 3 0 6114 0 0
+-
+185.66.195.36
+0 1 0 6645 0 0
+-
+134.90.158.3
+0 1 0 6645 0 0
+-
+msnbot-207-46-13-14.search.msn.com
+0 1 1 962 0 0
+-
+103.199.56.36
+0 3 0 0 0 0
+-
+msnbot-40-77-189-234.search.msn.com
+0 1 1 18028 0 0
+-
+dynamic-adsl.viettel.vn
+0 95 81 4267921 7 1726316344
+/tra-cuu-diem
+reverent.monitoring.internet-measurement.com
+0 1 1 957 0 0
+-
+rate-limited-proxy-66-249-87-4.google.com
+0 2 0 4076 0 0
+-
+mx0ti3-sta148.caseconflict.net
+0 1 0 6645 0 0
+-
+107.189.28.251
+0 1 0 2312 0 0
+-
+ec2-34-229-227-26.compute-1.amazonaws.com
+0 2 0 2458 0 0
+-
+103.199.32.54
+0 3 1 2605 1 1725645992
+/api/dot-xet-tot-nghiep
+125.235.237.130.adsl.viettel.vn
+0 1 1 252435 0 0
+-
+bot-103-131-71-46.coccoc.com
+0 1 1 252435 0 0
+-
+crawl-66-249-65-42.googlebot.com
+0 1 1 26 0 0
+-
+49.255.16.175.adsl-pool.jlccptt.net.cn
+0 109 107 33822366 1 1725552010
+/forgot-password
+google-proxy-64-233-173-144.google.com
+0 3 0 6936 0 0
+-
+planetlab24.gino-research.net.in.tum.de
+0 2 2 52 0 0
+-
+crawl-66-249-69-36.googlebot.com
+0 9 5 4206 1 1726171534
+/nhap-diem/46/ket-qua-hoc-tap
+17-22-245-172.applebot.apple.com
+0 1 1 399417 0 0
+-
+14.bl.bot.semrush.com
+0 1 0 2312 0 0
+-
+msnbot-40-77-189-126.search.msn.com
+0 1 1 23424 0 0
+-
+msnbot-40-77-167-75.search.msn.com
+0 1 1 1524 1 1725573214
+/login
+72-14-201-157.v4.fetch.tunnel.googlezip.net
+0 2 1 1690 1 1725840906
+/login
+125.235.125.66.adsl.viettel.vn
+0 48 46 1954765 2 1726213619
+/tra-cuu-diem
+72-14-201-156.v4.fetch.tunnel.googlezip.net
+0 6 3 5071 3 1725955465
+/login
+17-246-23-137.applebot.apple.com
+0 1 1 53436 0 0
+-
+zl-lax-us-gp1-wk133.internet-census.org
+0 2 1 1974 1 1725563794
+/login
+dynamic-ip-adsl.viettel.vn
+0 577 477 21202789 37 1726444041
+/login
+1.55.21.201
+0 69 44 1534292 2 1725948345
+/tra-cuu-diem
+bot-103-131-71-235.coccoc.com
+0 1 0 0 0 0
+-
+103.199.32.178
+0 14 9 37339 1 1726128079
+/tra-cuu-diem
+103.199.33.157
+0 15 10 861299 1 1725455300
+/
+198.235.24.40
+0 2 1 4976 1 1725849521
+/login
+31.238.49.119.adsl-pool.jlccptt.net.cn
+0 7 5 526197 1 1725902884
+/login
+crawl-66-249-65-44.googlebot.com
+0 6 6 358101 2 1726164588
+/login
+msnbot-40-77-188-221.search.msn.com
+0 2 2 68780 0 0
+-
+103.249.22.93
+0 16 14 886080 1 1726213064
+/dashboard
+rate-limited-proxy-209-85-238-238.google.com
+0 1 0 2038 0 0
+-
+crawl-66-249-79-5.googlebot.com
+0 7 6 310227 0 0
+-
+crawl-66-249-79-6.googlebot.com
+0 9 7 362267 2 1725358717
+/login
+msnbot-52-167-144-221.search.msn.com
+0 1 1 1524 1 1725298567
+/login
+202.27.231.66
+0 1 1 4671 0 0
+-
+truthful.monitoring.internet-measurement.com
+0 2 1 1976 2 1725289752
+/
+103.199.57.248
+0 28 22 918091 1 1726213138
+/
+103.199.33.105
+0 45 33 1197207 1 1726213371
+/tra-cuu-diem/xuat-danh-sach
+msnbot-40-77-167-13.search.msn.com
+0 2 1 1690 1 1725460416
+/login
+1.53.125.113
+0 3 0 0 0 0
+-
+103.199.33.29
+0 59 40 989409 2 1725956712
+/login
+msnbot-52-167-144-195.search.msn.com
+0 2 2 51714 0 0
+-
+rate-limited-proxy-72-14-199-101.google.com
+0 1 0 2038 0 0
+-
+17-241-227-74.applebot.apple.com
+0 2 2 1794 1 1726375347
+/login
+17-241-219-234.applebot.apple.com
+0 2 2 1678 1 1725339665
+/forgot-password
+17-246-15-221.applebot.apple.com
+0 1 1 399246 0 0
+-
+crawl-66-249-75-129.googlebot.com
+0 1 1 1525 1 1725197126
+/login
+adsl.viettel.vn
+0 636 538 11964015 28 1726497752
+/api/he-dao-tao/all
+cache.google.com
+0 18 18 1890889 3 1726259070
+/login
+msnbot-207-46-13-102.search.msn.com
+0 3 3 357906 0 0
+-
+bot-103-131-71-161.coccoc.com
+0 2 1 1973 2 1725764958
+/
+msnbot-207-46-13-150.search.msn.com
+0 1 1 306596 0 0
+-
+rate-limited-proxy-66-249-87-6.google.com
+0 1 0 2038 0 0
+-
+194.5.213.153
+0 10 10 635821 1 1725585782
+/login
+203.bl.bot.semrush.com
+0 1 1 1648 1 1726447421
+/forgot-password
+crawl-66-249-65-45.googlebot.com
+0 4 2 359553 1 1725403714
+/
+msnbot-207-46-13-64.search.msn.com
+0 2 1 1692 1 1726265856
+/login
+v2202408218763280127.powersrv.de
+0 1 1 1451220 0 0
+-
+125.235.236.214.adsl.viettel.vn
+0 5 2 51714 0 0
+-
+ec2-54-229-226-69.eu-west-1.compute.amazonaws.com
+0 1 0 402 1 1725600956
+/
+125.235.208.163.adsl.viettel.vn
+0 7 7 630560 1 1726212357
+/login
+rate-limited-proxy-66-249-91-37.google.com
+0 1 0 2038 0 0
+-
+103.199.32.131
+0 1 1 48433 0 0
+-
+147.185.132.150
+0 1 0 386 1 1725333726
+/
+msnbot-40-77-167-23.search.msn.com
+0 2 1 1691 1 1725933364
+/login
+google-proxy-66-249-82-2.google.com
+0 1 0 2312 0 0
+-
+103.199.32.206
+0 30 28 1053611 1 1726213487
+/tra-cuu-diem
+103.199.57.224
+0 19 17 943070 1 1726038666
+/tra-cuu-diem
+msnbot-40-77-167-76.search.msn.com
+0 4 4 359428 1 1725289969
+/login
+rate-limited-proxy-209-85-238-234.google.com
+0 1 0 2038 0 0
+-
+103.199.33.74
+0 16 15 945408 1 1726213362
+/tra-cuu-diem/xuat-danh-sach
+crawl-66-249-71-206.googlebot.com
+0 13 11 66029 3 1726500631
+/login
+118.68.1.231
+0 29 24 647506 1 1725228020
+/login
+rate-limited-proxy-66-249-87-3.google.com
+0 2 0 4076 0 0
+-
+119.155.172.89
+0 1 0 6645 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+15.bl.bot.semrush.com
+0 1 1 26 0 0
+-
+172-245-136-89-host.colocrossing.com
+0 5 0 395573 2 1726467972
+/
+unn-149-22-81-99.datapacket.com
+0 1 0 206 1 1726502712
+/
+125.235.237.246.adsl.viettel.vn
+0 11 10 744210 1 1726497145
+/tra-cuu-diem
+198.235.24.13
+0 2 1 4976 2 1726445592
+/
+23.74.16.175.adsl-pool.jlccptt.net.cn
+0 7 5 1609356 1 1726475733
+/forgot-password
+msnbot-207-46-13-87.search.msn.com
+0 1 1 1521 1 1726498077
+/login
+125.235.236.63.adsl.viettel.vn
+0 2 2 300868 0 0
+-
+static.vnpt.vn
+0 1174 1094 12720470 37 1726510579
+/login
+51-15-16-101.rev.poneytelecom.eu
+0 2 0 4624 0 0
+-
+20.171.206.247
+0 1 1 26 0 0
+-
+17-241-219-100.applebot.apple.com
+0 2 2 252461 0 0
+-
+crawl-66-249-69-34.googlebot.com
+0 2 1 2064 0 0
+-
+rate-limited-proxy-66-249-87-5.google.com
+0 1 0 2038 0 0
+-
+crawl-66-249-69-36.googlebot.com
+0 1 1 26 0 0
+-
+14.bl.bot.semrush.com
+0 1 0 2312 0 0
+-
+adsl.viettel.vn
+0 41 26 71463 2 1726497752
+/api/he-dao-tao/all
+203.bl.bot.semrush.com
+0 1 1 1648 1 1726447421
+/forgot-password
+crawl-66-249-71-206.googlebot.com
+0 1 1 1521 1 1726500631
+/login
+# End Of Table - sites (daily)
+# -referrers- 
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/129/43
+0 24
+https://tracuudiem.cea.edu.vn/lop-hoc/82
+0 93
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg5NH0
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/118/ket-qua-hoc-tap
+0 7
+https://tracuudiem.cea.edu.vn/khoa-dao-tao
+0 8
+https://tracuudiem.cea.edu.vn/logout
+0 1
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/15
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/116/ket-qua-hoc-tap
+0 8
+https://tracuudiem.cea.edu.vn/dot-thi/nhap-diem/70/41
+0 6
+https://tracuudiem.cea.edu.vn/lop-hoc
+0 703
+https://tracuudiem.cea.edu.vn/user/3296/edit
+0 17
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/129/43
+0 4
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/84/46
+0 13
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5Ijo0LCJtaF9pZCI6NDIyfQ
+0 9
+https://tracuudiem.cea.edu.vn/nhap-diem/98/ket-qua-hoc-tap
+0 22
+https://tracuudiem.cea.edu.vn/nhap-diem/76
+0 55
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNCIsImhvY19reSI6Mn0
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/67
+0 26
+https://tracuudiem.cea.edu.vn/dot-thi/36/danh-sach-sinh-vien
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/46/ket-qua-hoc-tap
+0 13
+https://tracuudiem.cea.edu.vn/nhap-diem/103
+0 8
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6MX0
+0 8
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MSwibWhfaWQiOjMzMn0
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/124
+0 144
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/12/danh-sach-sinh-vien
+0 5
+https://tracuudiem.cea.edu.vn/user/3198/edit
+0 4
+https://www.tracuudiem.cea.edu.vn/login
+0 1
+https://cea.edu.vn/
+0 200
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5Ijo0fQ
+0 4
+https://tracuudiem.cea.edu.vn/user/3199/edit
+0 2
+https://tracuudiem.cea.edu.vn/dashboard
+0 619
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTR9
+0 15
+https://tracuudiem.cea.edu.vn/nhap-diem/103/ket-qua-hoc-tap
+0 20
+https://tracuudiem.cea.edu.vn/nhap-diem/65/ket-qua-hoc-tap
+0 10
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/31/danh-sach-sinh-vien
+0 83
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTg1fQ
+0 8
+https://tracuudiem.cea.edu.vn/lop-hoc/99
+0 8
+https://tracuudiem.cea.edu.vn/lop-hoc/114
+0 8
+https://tracuudiem.cea.edu.vn/khoa-dao-tao/134/hoc-ky
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/52/ket-qua-hoc-tap
+0 11
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjozfQ
+0 2
+https://tracuudiem.cea.edu.vn/nganh-nghe
+0 23
+https://tracuudiem.cea.edu.vn/nhap-diem/36
+0 9
+https://tracuudiem.cea.edu.vn/dot-thi/23
+0 42
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNCIsImhvY19reSI6MX0
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTR9
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/85/ket-qua-hoc-tap
+0 16
+https://tracuudiem.cea.edu.vn/dot-thi/nhap-diem/61/23
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijk1IiwiaG9jX2t5IjoyfQ
+0 6
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-diem-thi-tn/46/36
+0 5
+https://tracuudiem.cea.edu.vn/lop-hoc/74/hoc-ky
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjcxIiwiaG9jX2t5Ijo0fQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/74/ket-qua-hoc-tap
+0 31
+https://tracuudiem.cea.edu.vn/lop-hoc/75/hoc-ky
+0 13
+https://tracuudiem.cea.edu.vn/quyet-dinh
+0 17
+https://tracuudiem.cea.edu.vn/nhap-diem/113/ket-qua-hoc-tap
+0 17
+https://tracuudiem.cea.edu.vn/nhap-diem/100/ket-qua-hoc-tap
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoyLCJtaF9pZCI6OTIwfQ
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5Ijo0fQ
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MiwibWhfaWQiOjE0ODN9
+0 8
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjM2IiwiaG9jX2t5IjoxLCJtaF9pZCI6MjMyfQ
+0 12
+https://tracuudiem.cea.edu.vn:443
+0 1
+https://www.google.com.vn/
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcwIiwiaG9jX2t5IjoxLCJtaF9pZCI6M30
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyMCIsImRvdF90aGkiOiI0NiIsIm1oX2lkIjo4ODV9
+0 3
+https://tracuudiem.cea.edu.vn/css/admin.css
+0 341
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjoxLCJtaF9pZCI6Mjg5fQ
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6Mn0
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/72/ket-qua-hoc-tap/export
+0 1
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/10
+0 7
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTc1fQ
+0 6
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/34
+0 214
+https://tracuudiem.cea.edu.vn/nhap-diem/86
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/114/ket-qua-hoc-tap
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTh9
+0 9
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep
+0 1104
+https://tracuudiem.cea.edu.vn/nhap-diem/101
+0 26
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/52/23
+0 2
+https://tracuudiem.cea.edu.vn/lop-hoc/74
+0 15
+https://tracuudiem.cea.edu.vn/nhap-diem/82
+0 38
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-diem-thi-tn/120/46
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/115
+0 10
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjoxLCJtaF9pZCI6NzcxfQ
+0 4
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/70/41
+0 82
+https://tracuudiem.cea.edu.vn/nhap-diem/120
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/129
+0 31
+https://tracuudiem.cea.edu.vn/nhap-diem/80
+0 31
+https://tracuudiem.cea.edu.vn/nhap-diem/83/ket-qua-hoc-tap
+0 29
+https://tracuudiem.cea.edu.vn/nhap-diem
+0 3676
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4Nn0
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/72/ket-qua-hoc-tap
+0 12
+https://tracuudiem.cea.edu.vn/lop-hoc/127
+0 30
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/32
+0 117
+https://tracuudiem.cea.edu.vn/nhap-diem/100
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/84
+0 75
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/75/46
+0 10
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoyLCJtaF9pZCI6MzA5fQ
+0 20
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjUyIiwiaG9jX2t5Ijo0LCJtaF9pZCI6MjN9
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc3IiwiaG9jX2t5IjozfQ
+0 4
+https://tracuudiem.cea.edu.vn/dot-thi/nhap-diem/129/43
+0 4
+https://tracuudiem.cea.edu.vn/user/change-password
+0 15
+https://tracuudiem.cea.edu.vn/nhap-diem/68
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/114
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/118
+0 12
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoyfQ
+0 9
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5Ijo0fQ
+0 7
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-diem-thi-tn/46/27
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc5IiwiaG9jX2t5IjozfQ
+0 8
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/81/46
+0 17
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/31
+0 209
+https://tracuudiem.cea.edu.vn/nhap-diem/94
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6NDExfQ
+0 9
+https://tracuudiem.cea.edu.vn/nhap-diem/20/ket-qua-hoc-tap
+0 3
+https://tracuudiem.cea.edu.vn/lop-hoc/129
+0 37
+https://tracuudiem.cea.edu.vn/lop-hoc/84/hoc-ky
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/81
+0 29
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjozLCJtaF9pZCI6MTkxfQ
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoyLCJtaF9pZCI6MzIyfQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/102
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/52
+0 19
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjUyIiwiaG9jX2t5IjozLCJtaF9pZCI6MjJ9
+0 12
+https://tracuudiem.cea.edu.vn/dot-thi/36
+0 141
+https://tracuudiem.cea.edu.vn/nhap-diem/84/ket-qua-hoc-tap
+0 20
+https://tracuudiem.cea.edu.vn/nhap-diem/121
+0 13
+https://tracuudiem.cea.edu.vn/dot-thi/nhap-diem-excel/120/46
+0 5
+https://www.google.com/
+0 122
+- (Direct Request)
+0 1486
+https://tracuudiem.cea.edu.vn/dot-thi
+0 971
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyNyIsImhvY19reSI6Mn0
+0 4
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/46/36
+0 25
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MSwibWhfaWQiOjc5fQ
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjYxIiwiZG90X3RoaSI6IjIzIiwibWhfaWQiOjg4Nn0
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/71
+0 9
+https://tracuudiem.cea.edu.vn/user/2176/edit
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgyIiwiaG9jX2t5Ijo0fQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyNyIsImhvY19reSI6MX0
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjYxIiwiZG90X3RoaSI6IjIzIiwibWhfaWQiOjg4N30
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MjN9
+0 5
+https://chat.zalo.me/
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6NDEwfQ
+0 9
+https://tracuudiem.cea.edu.vn/nhap-diem/75/ket-qua-hoc-tap
+0 25
+https://tracuudiem.cea.edu.vn/tra-cuu-diem/xuat-danh-sach
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/71/ket-qua-hoc-tap
+0 15
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk4IiwiaG9jX2t5IjoyLCJtaF9pZCI6OTMyfQ
+0 6
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/49/27
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/110/ket-qua-hoc-tap
+0 10
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyOSIsImhvY19reSI6MX0
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExMCIsImhvY19reSI6Mn0
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcwIiwiaG9jX2t5IjoxLCJtaF9pZCI6OH0
+0 4
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/83/46
+0 12
+https://tracuudiem.cea.edu.vn/nhap-diem/79
+0 25
+https://tracuudiem.cea.edu.vn/nhap-diem/35/ket-qua-hoc-tap
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTg0fQ
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjY2IiwiaG9jX2t5Ijo0fQ
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/83
+0 65
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/32/danh-sach-sinh-vien
+0 16
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-diem-thi-tn/129/43
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/81/ket-qua-hoc-tap
+0 14
+https://tracuudiem.cea.edu.vn/tra-cuu-diem
+0 964
+https://tracuudiem.cea.edu.vn/lop-hoc/83
+0 23
+https://tracuudiem.cea.edu.vn/login
+0 2961
+https://tracuudiem.cea.edu.vn/nhap-diem/123
+0 8
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjoxLCJtaF9pZCI6Mjg2fQ
+0 7
+https://tracuudiem.cea.edu.vn/dot-thi/43
+0 69
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MjR9
+0 6
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-diem-thi-tn/70/41
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/98
+0 16
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MSwibWhfaWQiOjMzOX0
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/119/ket-qua-hoc-tap
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6Mn0
+0 5
+https://tracuudiem.cea.edu.vn/lop-hoc/52/hoc-ky
+0 14
+https://tracuudiem.cea.edu.vn/nhap-diem/66
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/115/ket-qua-hoc-tap
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4N30
+0 3
+https://tracuudiem.cea.edu.vn/dot-thi/nhap-diem-excel/70/41
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/62/ket-qua-hoc-tap
+0 10
+https://tracuudiem.cea.edu.vn/nhap-diem/97/ket-qua-hoc-tap
+0 15
+https://tracuudiem.cea.edu.vn/nhap-diem/112
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/122
+0 11
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNSIsImhvY19reSI6Mn0
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEwMyIsImhvY19reSI6Mn0
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgwIiwiaG9jX2t5IjozfQ
+0 12
+https://tracuudiem.cea.edu.vn/nhap-diem/80/ket-qua-hoc-tap
+0 16
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExMiIsImhvY19reSI6Mn0
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/129/ket-qua-hoc-tap
+0 42
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjY4IiwiaG9jX2t5Ijo0fQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyOSIsImhvY19reSI6MiwibWhfaWQiOjE2OTV9
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MjR9
+0 11
+https://tracuudiem.cea.edu.vn/nhap-diem/64/ket-qua-hoc-tap
+0 15
+https://tracuudiem.cea.edu.vn
+0 16
+https://tracuudiem.cea.edu.vn/nhap-diem/75
+0 42
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyMiIsImhvY19reSI6Mn0
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/74
+0 57
+https://tracuudiem.cea.edu.vn/khoa-dao-tao/114/hoc-ky
+0 4
+https://tracuudiem.cea.edu.vn/forgot-password
+0 3
+https://tracuudiem.cea.edu.vn/dot-thi/nhap-diem/46/36
+0 26
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/120/46
+0 1
+www.google.com
+0 12
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoyLCJtaF9pZCI6OTIxfQ
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/49/ket-qua-hoc-tap
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/112/ket-qua-hoc-tap
+0 8
+https://tracuudiem.cea.edu.vn/user/create
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/96/ket-qua-hoc-tap
+0 26
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNiIsImhvY19reSI6Mn0
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/97
+0 25
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MTkyfQ
+0 16
+https://tracuudiem.cea.edu.vn/dot-thi/46
+0 690
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/70/41
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/70
+0 17
+https://tracuudiem.cea.edu.vn/nhap-diem/120/ket-qua-hoc-tap
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/86/ket-qua-hoc-tap
+0 7
+https://www.google.com/url
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoxLCJtaF9pZCI6OX0
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/56/ket-qua-hoc-tap
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/69
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/79/ket-qua-hoc-tap
+0 18
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/46/36
+0 4
+https://tracuudiem.cea.edu.vn/dot-thi/nhap-diem-excel/46/36
+0 28
+https://nethost-2611.000nethost.com:2083/
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/36/ket-qua-hoc-tap
+0 10
+https://tracuudiem.cea.edu.vn/nganh-nghe/56/4/mon-hoc
+0 16
+https://tracuudiem.cea.edu.vn/dot-thi/nhap-diem/120/46
+0 6
+https://myactivity.google.com/
+0 12
+https://tracuudiem.cea.edu.vn/nhap-diem/77
+0 14
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5Ijo0LCJtaF9pZCI6MTkwfQ
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijk2IiwiaG9jX2t5IjoxfQ
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoyLCJtaF9pZCI6MzE3fQ
+0 14
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoxLCJtaF9pZCI6MzE0fQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/94/ket-qua-hoc-tap
+0 32
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjoxfQ
+0 11
+https://tracuudiem.cea.edu.vn/nhap-diem/66/ket-qua-hoc-tap
+0 7
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgyIiwiaG9jX2t5IjoxLCJtaF9pZCI6MzMyfQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyMCIsImRvdF90aGkiOiI0NiIsIm1oX2lkIjo4ODZ9
+0 3
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/82/46
+0 10
+https://tracuudiem.cea.edu.vn/dot-thi/46/danh-sach-sinh-vien
+0 289
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTc5fQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExMyIsImhvY19reSI6Mn0
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5Ijo0fQ
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/127/ket-qua-hoc-tap
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/70/ket-qua-hoc-tap
+0 29
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTgyfQ
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoyLCJtaF9pZCI6MzIwfQ
+0 9
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjozLCJtaF9pZCI6MTkzfQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODZ9
+0 5
+https://tracuudiem.cea.edu.vn/lop-hoc/70/hoc-ky
+0 21
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/63/33
+0 2
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/12
+0 21
+https://www.tracuudiem.cea.edu.vn/
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/63/ket-qua-hoc-tap
+0 9
+https://tracuudiem.cea.edu.vn/nhap-diem/68/ket-qua-hoc-tap
+0 10
+https://id.zalo.me/
+0 6
+https://tracuudiem.cea.edu.vn/dot-thi/27
+0 13
+https://tracuudiem.cea.edu.vn/nhap-diem/67/ket-qua-hoc-tap
+0 7
+https://tracuudiem.cea.edu.vn/nhap-diem/119
+0 27
+https://tracuudiem.cea.edu.vn/nhap-diem/72
+0 2
+https://coccoc.com/search
+0 26
+https://tracuudiem.cea.edu.vn/lop-hoc/81
+0 18
+https://tracuudiem.cea.edu.vn/nhap-diem/95/ket-qua-hoc-tap
+0 16
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjoyLCJtaF9pZCI6Mjk1fQ
+0 4
+https://tracuudiem.cea.edu.vn/dot-thi/41
+0 70
+https://tracuudiem.cea.edu.vn/nhap-diem/122/ket-qua-hoc-tap
+0 10
+https://tracuudiem.cea.edu.vn/nhap-diem/99/ket-qua-hoc-tap
+0 14
+https://www.tracuudiem.cea.edu.vn
+0 1
+https://tracuudiem.cea.edu.vn/nhap-diem/116
+0 11
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyOSIsImhvY19reSI6Mn0
+0 9
+https://tracuudiem.cea.edu.vn/nhap-diem/102/ket-qua-hoc-tap
+0 14
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgwIiwiaG9jX2t5IjoyfQ
+0 5
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/76/46
+0 21
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjY3IiwiaG9jX2t5Ijo0fQ
+0 4
+https://tracuudiem.cea.edu.vn/
+0 800
+https://tracuudiem.cea.edu.vn/dot-thi/43/danh-sach-sinh-vien
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgzIiwiaG9jX2t5Ijo0fQ
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/kiem-tra
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/64
+0 2
+https://tracuudiem.cea.edu.vn/lop-hoc/75
+0 16
+https://tracuudiem.cea.edu.vn/nhap-diem/95
+0 6
+https://tracuudiem.cea.edu.vn/mon-hoc
+0 4
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/74/46
+0 20
+https://tracuudiem.cea.edu.vn/nhap-diem/113
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4NX0
+0 3
+https://tracuudiem.cea.edu.vn/nhat-ky
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTgxfQ
+0 8
+https://tracuudiem.cea.edu.vn/nhap-diem/76/ket-qua-hoc-tap
+0 16
+https://tracuudiem.cea.edu.vn/nhap-diem/77/ket-qua-hoc-tap
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyMCIsImhvY19reSI6MX0
+0 2
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/34/danh-sach-sinh-vien
+0 52
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODd9
+0 4
+https://tracuudiem.cea.edu.vn/dot-thi/ket-qua-hoc-tap/52/46
+0 12
+https://tracuudiem.cea.edu.vn/nhap-diem/96
+0 8
+https://tracuudiem.cea.edu.vn/nhap-diem/123/ket-qua-hoc-tap
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/54/ket-qua-hoc-tap
+0 2
+https://tracuudiem.cea.edu.vn/nhap-diem/69/ket-qua-hoc-tap
+0 22
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5Ijo0LCJtaF9pZCI6MzI1fQ
+0 6
+https://tracuudiem.cea.edu.vn/nhap-diem/82/ket-qua-hoc-tap
+0 31
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgxIiwiaG9jX2t5Ijo0fQ
+0 4
+https://tracuudiem.cea.edu.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/52/23
+0 1
+https://tracuudiem.cea.edu.vn/nien-khoa
+0 5
+https://tracuudiem.cea.edu.vn/nhap-diem/101/ket-qua-hoc-tap
+0 25
+https://tracuudiem.cea.edu.vn/dot-thi/33
+0 13
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc5IiwiaG9jX2t5IjozLCJtaF9pZCI6Mjk5fQ
+0 8
+https://tracuudiem.cea.edu.vn/lop-hoc/52
+0 8
+https://tracuudiem.cea.edu.vn/nhap-diem/127
+0 17
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjoxLCJtaF9pZCI6MzEwfQ
+0 4
+https://tracuudiem.cea.edu.vn/lop-hoc/116
+0 8
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MywibWhfaWQiOjMzMH0
+0 15
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjozLCJtaF9pZCI6MjJ9
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjoyLCJtaF9pZCI6MTN9
+0 4
+https://tracuudiem.cea.edu.vn/nhap-diem/121/ket-qua-hoc-tap
+0 7
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MX0
+0 112
+https://tracuudiem.cea.edu.vn/nhap-diem/124/ket-qua-hoc-tap
+0 17
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoxLCJtaF9pZCI6OH0
+0 12
+https://tracuudiem.cea.edu.vn/nhap-diem/110
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6MTc2fQ
+0 5
+https://tracuudiem.cea.edu.vn/user
+0 25
+https://tracuudiem.cea.edu.vn/lop-hoc/122
+0 7
+https://tracuudiem.cea.edu.vn/lop-hoc/84
+0 145
+https://tracuudiem.cea.edu.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjYxIiwiZG90X3RoaSI6IjIzIiwibWhfaWQiOjg4NX0
+0 3
+https://tracuudiem.cea.edu.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijk2IiwiaG9jX2t5IjoyfQ
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+0 941
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/128.0.0.0 Safari/537.36 PTST/240912.163008
+0 9
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36 EdgA/128.0.0.
+0 17
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.48
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+0 16
+Mozilla/5.0 (Windows NT 10.0; rv:128.0) Gecko/20100101 Firefox/128.0
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.6422.80 Mobile/15
+0 19
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 
+0 62
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 10
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/113.0.5672.121 Mobile/1
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20130401 Firefox/31.0
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.0 Safari/537.36
+0 2
+CCBot/2.0 (https://commoncrawl.org/faq/)
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/331.0.665236494 Mobile/15
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ja-JP) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+0 1098
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/112.0.0.
+0 3
+Mozilla/5.0 (Linux; Android 8.1.0; Moto G (4)) AppleWebKit/537.36 (KHTML like Gecko) Chrome/100.0.4896.60 Mobile Safari/537.3
+0 18
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.137 Mobile
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-HK) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/128.0.6613.98 Mobile/15
+0 175
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.113 Mobile
+0 12
+MobileSafari/8615.3.12.10.2 CFNetwork/1410.0.3 Darwin/22.6.0
+0 3
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 
+0 155
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 6
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 62
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 18
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Sa
+0 38
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 PTST/240912.163008
+0 24
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/333.0.671582647 Mobile/15
+0 7
+Mozilla/5.0 (Linux; Android 9; RMX1851) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+0 132
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0)  Gecko/20100101 Firefox/18.0
+0 1
+WhatsApp/2
+0 35
+Go-http-client/1.1
+0 872
+znetwork/8.6.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.99 Mobile 
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.7
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/333.0.671582647 Mobile/15
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 2
+python-requests/2.28.1
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 6
+Googlebot-Image/1.0
+0 11
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 55
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+0 17
+Mozilla/5.0 (Knoppix; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148
+0 54
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.2
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+0 51
+Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 5
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+0 13
+Go-http-client/2.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36
+0 31
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20130514 Firefox/21.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.119 Mobile
+0 4
+Mozilla/5.0 (Linux; Android 14; SM-A057F Build/UP1A.231005.007;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/12
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E14
+0 25
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2866.71 Safari/537.36
+0 1
+MobileSafari/8615.8.1.10.1 CFNetwork/1410.1 Darwin/22.6.0
+0 3
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 5
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.119 Mobile
+0 2
+Mozilla/5.0 (Windows NT 10.0; rv:35.0) Gecko/20100101 Firefox/35.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2820.59 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/128.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+0 7272
+Mozilla/5.0 (Android 14; Mobile; rv:129.0) Gecko/129.0 Firefox/129.0
+0 44
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Appleb
+0 14
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 
+0 25
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+0 172
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:48.0) Gecko/20100101 Firefox/48.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 
+0 1
+Mozilla/5.0 (compatible; ImagesiftBot; +imagesift.com)
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/333.0.671582647 Mobile/15
+0 25
+Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; coccocbot-image/1.0; +http://help.coccoc.com/searchengine)
+0 3
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+0 276
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Zalo iOS/616 
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.153183
+0 1
+Mozilla/5.0 (CentOS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 2800
+Mozilla/5.0 (Linux; Android 8.1.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36 P
+0 48
+Mozilla/5.0 (Kubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0
+0 1
+Mozilla/5.0 (Linux; Android 11; SM-A207F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+0 38
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 4
+Chrome Privacy Preserving Prefetch Proxy
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 
+0 42
+Mozilla/5.0 (Macintosh; Intel Mac OS X 14.3) AppleWebKit/616.24 (KHTML, like Gecko) Version/17.2 Safari/616.24
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+0 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 _zbot
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/289.0.577695730 Mobile/15
+0 27
+Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+0 11
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+0 34
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/333.0.671582647 Mobile/15
+0 15
+Mozilla/5.0 (Linux; Android 11; 220333QPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.98 Mobile Safari/537.36
+0 129
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Sa
+0 79
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/
+0 108
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/111.0.0.0
+0 2
+SEC-SGHX210/1.0 UP.Link/6.3.1.13.0
+0 1
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 2
+Mozilla/5.0 \\(Windows NT 10.0\\; Win64\\; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/100.0.4896.60 Safari/537.
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/331.0.665236494 Mobile/15
+0 27
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+0 1012
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 13; V2110 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/12
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/333.0.671582647 Mobile
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/125.0.253
+0 3
+Mozilla/5.0 (Linux; Android 10; JNY-LX2; HMSCore 6.14.0.302) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Huawe
+0 55
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+0 54
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.8
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; fr-ch) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Zalo/24.8.5 Chrome/108.0.5359.215 Electron/22.3.9 
+0 1
+Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2117.157 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+MobileSafari/8614.1.25.0.31 CFNetwork/1390 Darwin/22.0.0
+0 3
+Mozilla/5.0 (Linux; Android 14; V2206 Build/UP1A.231005.007;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0
+0 45
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36
+0 2803
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 21
+# End Of Table - agents
+# -search strings- 
+https://tracuudiem.cea.edu.vn/
+6
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

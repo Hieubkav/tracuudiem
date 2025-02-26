@@ -1,0 +1,2864 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home/khtracuudiemcea/tmp/awstats/ssl/awstats.tracuudiem.cea.edu.vn.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2708                
+POS_VISITOR 25944               
+POS_DAY 69772               
+POS_DOMAIN 3667                
+POS_LOGIN 4107                
+POS_ROBOT 4262                
+POS_WORMS 4931                
+POS_EMAILSENDER 5062                
+POS_EMAILRECEIVER 5205                
+POS_SESSION 70733               
+POS_SIDER 70947               
+POS_FILETYPES 5340                
+POS_DOWNLOADS 5711                
+POS_OS 5954                
+POS_BROWSER 6348                
+POS_SCREENSIZE 8993                
+POS_UNKNOWNREFERER 9067                
+POS_UNKNOWNREFERERBROWSER 9355                
+POS_ORIGIN 9552                
+POS_SEREFERRALS 9702                
+POS_PAGEREFS 9942                
+POS_SEARCHWORDS 10246               
+POS_KEYWORDS 10431               
+POS_MISC 2371                
+POS_ERRORS 10525               
+POS_CLUSTER 3963                
+POS_SIDER_404 10730               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201002451 83 19933 5364682640832
+FirstTime 20240101004616
+LastTime 20240131230518
+LastUpdate 20240201190913 83 0 82 0 0
+TotalVisits 1283                
+TotalUnique 1000                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1105                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 80 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 117 158 6169181 47 51 40966
+1 173 191 4118914 39 43 33854
+2 6 15 1916785 33 39 1163199
+3 3 6 762296 46 54 6431968
+4 18 35 2261000 1324 1365 7998923
+5 60 116 12224844 63 76 6213571
+6 135 231 17109161 179 222 553572
+7 700 955 45967005 227 240 174558
+8 1329 1540 35877419 148 156 1512250
+9 1058 1328 47789427 171 183 1804631
+10 1318 1632 54171725 186 201 277939
+11 334 576 44083495 173 200 4654988
+12 650 901 43055883 202 219 5576125
+13 978 1337 59276836 306 333 4795038
+14 1589 1947 62316797 391 413 1173593
+15 1850 2172 51532905 397 407 117306
+16 1303 1494 32896933 220 233 714847
+17 198 356 29183630 91 96 37132
+18 635 1227 119238590 349 370 1541313
+19 911 1719 166007475 411 430 1858489
+20 429 869 88444946 202 215 1093564
+21 249 521 49030957 115 124 742065
+22 196 370 34139708 120 129 194645
+23 282 404 23253811 130 154 4337146
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+vn 13581 18559 913384991
+in 667 1081 76779327
+us 199 334 29789185
+cn 24 40 3402448
+hk 19 43 5217766
+au 9 18 1228045
+nl 5 5 22991
+ru 4 4 12712
+gb 4 7 962830
+fr 2 2 9046
+ca 2 2 3247
+ro 2 2 9233
+it 1 1 4523
+jp 1 1 1739
+de 1 1 1640
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 89 6740005 20240131225109 53
+Go\-http\-client/ 46 30308016 20240131195231 0
+bot[\s_+:,\.\;\/\\-] 21 1027815 20240129015016 1
+bingbot/ 20 968753 20240130162211 7
+facebookexternalhit/ 20 1541749 20240131201602 0
+Googlebot\-Image/ 19 359575 20240131154811 0
+Applebot/ 14 1973062 20240126041015 4
+unknown 11 286 20240126003843 11
+no_user_agent 10 541054 20240128054524 0
+CFNetwork 6 290598 20240127235013 0
+scanner 4 9054 20240110021622 0
+Barkrowler 2 1762 20240119222854 1
+(firefox/)([0-9]\.|[0-1][0]\.) 1 4523 20240109131054 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+woff2 1210 33425903 0 0
+woff 2 121448 0 0
+js 1372 604227620 0 0
+Unknown 12651 30900877 0 0
+png 2526 303464803 0 0
+aspx 1 0 0 0
+ico 1 0 0 0
+php 1 0 0 0
+xls 12 603136 0 0
+svg 285 1083871 0 0
+doc 2 3218881 0 0
+html 653 2309615 0 0
+webp 1 5196 0 0
+cgi 1 0 0 0
+ttf 1 95744 0 0
+css 1380 51372629 0 0
+jsp 1 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/sample/import-diem-2022-raw-sample.xls 5 0 189440
+/sample/import-diem-raw-sample.xls 4 0 149504
+/sample/import-diem-2022-sample.xls 3 0 264192
+/TaiLieuHDSD_QuanLyDiemSinhVien_v2.doc 2 0 3218881
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx15 16 10
+win7 113 59
+android 644 308
+macosx 2 1
+winxp 3 3
+androidmarshmallow 150 113
+android10 6397 3516
+Unknown 30 9
+win8 2 0
+win10 10057 8957
+linux 117 47
+win8.1 34 23
+macosx10 1 1
+macosx7 3 0
+androidlollipop 260 153
+androidnougat 104 51
+ios_iphone 1997 1188
+linuxubuntu 3 3
+androidpie 44 18
+unix 7 3
+androidoreo 116 58
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 119
+chrome107.0.0.0 9 4
+chrome89.0.4389.82 1 0
+chrome32.0.1667.0 2 0
+Unknown 18 6
+chrome87.0.4280.88 22 9
+chrome118.0.5993.80 9 4
+chrome112.0.0.0 71 38
+chrome121.0.6167.101 1 0
+safari17.3 12 7
+chrome70.0.3538.110 8 3
+chrome17.0.963.56 3 0
+chrome101.0.4951.64 1 1
+safari15.4 16 6
+chrome84.0.4147.136 7 3
+chrome65.0.3325.146 1 1
+chrome108.0.0.0 23 9
+chrome101.0.4951.61 1 0
+chrome83.0.4103.106 8 3
+chrome70.0.3538.64 4 1
+firefox122.0 133 92
+iphone 32 22
+chrome91.0.4472.88 34 12
+chrome120.0.6099.43 16 6
+safari14.1.1 7 2
+firefox78.0 1 1
+safari14.1.2 7 2
+chrome98.0.4758.82 1 1
+chrome120.0.6099.144 131 73
+firefox121.0 45 30
+opera80.1.4244.77335 15 10
+opera44.6.2246.127414 13 8
+opera105.0.0.0 50 32
+safari11.0 7 4
+chrome100.0.4896.60 21 4
+opera106.0.0.0 59 31
+chrome113.0.0.0 8 3
+safari15.6.6 161 80
+chrome95.0.4638.64 8 3
+chrome59.0.3071.125 104 51
+chrome109.0.0.0 359 231
+safari12.1.2 22 7
+safari 1215 766
+chrome87.0.4280.141 70 35
+safari15.6.3 8 3
+chrome116.0.0.0 39 17
+chrome119.0.6045.163 1 0
+firefox56.0 4 4
+chrome67.0.3396.87 8 3
+safari16.2 8 3
+chrome104.0.0.0 4 4
+chrome111.0.0.0 32 20
+chrome95.0.4638.74 243 147
+chrome110.0.5481.154 8 3
+chrome99.0.4844.88 21 11
+chrome105.0.0.0 8 3
+chrome81.0.4044.138 16 6
+chrome90.0.4430.61 7 2
+edge18 1 1
+chrome103.0.5060.66 4 4
+chrome121.0.0.0 604 362
+chrome84.0.4147.148 7 3
+safari17.0 220 135
+chrome99.0.4844.254 5 2
+chrome71.0.3578.98 19 14
+firefox115.0 3 3
+chrome91.0.4472.114 15 5
+chrome96.0.4664.104 8 3
+chrome117.0.0.0 113 48
+firefox123.0 23 13
+chrome120.0.6099.230 21 7
+chrome97.0.4692.98 8 3
+safari17.2 64 33
+chrome120.0.6099.210 44 17
+chrome70.0.3538.80 18 8
+chrome56.0.2924.0 12 4
+chrome106.0.5249.126 3 3
+firefox57.0 2 2
+firefox40.0 1 1
+chrome100.0.4896.75 1 1
+chrome75.0.3770.143 8 3
+chrome106.0.5249.118 1 0
+chrome112.0.5615.136 8 3
+chrome118.0.0.0 474 253
+ibrowse 1 0
+chrome37.0.2062.124 2 2
+chrome120.0.6099.194 15 7
+chrome96.0.4664.110 4 2
+chrome103.0.5042.0 2 2
+chrome115.0.5790.138 1 0
+chrome51.0.2704.103 6 6
+chrome120.0.6099.211 8 4
+chrome38.0.2125.122 7 2
+chrome106.0.0.0 109 63
+safari15.6.1 20 10
+safari15.5 14 6
+chrome97.0.4692.71 1 1
+chrome74.0.3729.136 12 7
+safari16.3 11 6
+chrome103.0.0.0 18 8
+chrome50.0.2661.89 9 3
+mozilla 12 3
+chrome41.0.2228.0 2 2
+chrome119.0.0.0 886 639
+safari17.1.2 126 77
+chrome38.0.2125.102 8 3
+firefox48.0 1 1
+safari16.6 31 13
+chrome110.0.0.0 1 1
+chrome120.0.6099.193 86 28
+chrome78.0.3904.108 8 3
+safari15.6.4 8 3
+chrome119.0.6045.134 1 0
+chrome114.0.0.0 43 18
+chrome101.0.0.0 39 26
+chrome56.0.2924.87 7 2
+chrome120.0.0.0 13654 10764
+chrome108.0.5359.128 7 2
+chrome115.0.0.0 102 46
+safari16.5.1 8 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Chrome 20240112104603
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240124211614
+okhttp/3.14.9 20240115103224
+WhatsApp/3.0.0.0_A 20240114115430
+znetwork/8.1.2 20240130073406
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+znetwork/8.1.2 20240130073406
+WhatsApp/3.0.0.0_A 20240114115430
+okhttp/3.14.9 20240115103224
+Chrome 20240112104603
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 466 651
+From1 4 5
+From2 683 795
+From3 333 333
+From4 13035 18316
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com 640 640
+google_com 0 112
+baidu 4 4
+www_google_com_hk 1 1
+www_google_com_vn 38 38
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://cea.edu.vn 214 214
+https://coccoc.com/search 107 107
+http://m.facebook.com 6 6
+https://id.zalo.me 4 4
+https://coccoc.com 1 1
+https://cea.edu.vn 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//tracuudiem.cea.edu.vn/ 5
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//tracuudiem.cea.edu.vn/ 5
+https 5
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+301 50 35350
+404 787 3695693
+500 42 1669621
+206 10 569502
+419 237 484700
+403 1046 1286316
+422 3 341
+302 3428 583033
+405 5 950874
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 596
+/public/exception.html 1 -
+/qq.php 1 -
+/index.jsp 1 -
+/report/index.php 1 -
+/information 1 -
+/manufacture/hardware 1 -
+/i.php 1 -
+/bhost 1 https://tracuudiem.cea.edu.vn:443/bhost/
+/up.php 1 -
+/wp-config.bak1 1 -
+/test123.php 1 -
+/.well-known/gpc.json 2 https://tracuudiem.cea.edu.vn/login
+/wp-config.cache 1 -
+/.wp-config.swm 1 -
+/infophp.php 1 -
+/newsedit 1 -
+/wp-config._backup 1 -
+/esmain/main/js/serverfunc.js 1 -
+/fedora.php 1 -
+//admin/public/index.html 1 -
+/img/logo.png 1 -
+/dashboard/i.php 1 -
+/test4.php 1 -
+/css/index.css 1 -
+/includes/ajaxEmail.php 1 -
+/phptest.php 1 -
+/lara/info.php 1 -
+/ws_utc/config.do 1 -
+/crm/info.php 1 -
+/===b.key&&(b.preventDefault(),c.submit&&c.submit())%7D 1 https://tracuudiem.cea.edu.vn/login
+/poserver.zz 1 -
+/vpn/index.html 1 -
+/wp-config.backup 1 -
+/tools/phpinfo 1 -
+/wp-config. 1 -
+/.well-known/assetlinks.json 65 -
+/web.php 1 -
+/wp-config.html 1 -
+/api/phpinfo.php 1 -
+/sysevansconsoles/en/neoclassic/login/login 1 -
+/php.ini 1 -
+/wp-config.ini 1 -
+/users/sign_in 1 -
+/token.php 1 -
+/wp-config.tmp 1 -
+/test8.php 1 -
+/static/oem_image/company_logo.png 1 -
+/dashboardadmin/phpinfo.php 1 -
+/phpinfo.php 1 -
+/dashboardadmin/info.php 1 -
+/laravel/phpinfo.php 1 -
+/wp-config.dif 1 -
+/config/cache.php 1 -
+/template/aui/text-inline.vm 1 -
+/wp-config.b 1 -
+/apache/info.php 1 -
+/env/phpinfo 1 -
+/js/envConfig.js 1 -
+/wp-config.swn 1 -
+/webdav/info.php 1 -
+/wp-config.original 1 -
+/%7Delse%20e=a.substring(d+1,c) 1 https://tracuudiem.cea.edu.vn/login
+/Main_Login.asp 1 -
+/explicit_not_exist_path 1 -
+/test_info3.php 1 -
+/a.php 1 -
+/android-chrome-512x512.png 11 https://tracuudiem.cea.edu.vn/tra-cuu-diem
+/wp-config.lst 1 -
+/info.php 1 -
+/sysinfo/tabs/php-info.php 1 -
+/php-info/phpinfo.php 1 -
+/development/phpinfo.php 1 -
+/phpinfo.php4 1 -
+/channel/team/phpinfo.php 1 -
+/wp-config.save.1 1 -
+/phpinfo2.php 1 -
+/admin/user.php 1 -
+/root/phpinfo.php 1 -
+/wp-config.good 1 -
+/env.config.js 1 -
+/report 1 -
+/wp-config.back 1 -
+/123.php 1 -
+/wp-config.production 1 -
+/q.php 1 -
+/theme/default/images/main/logo.png 1 -
+/wp-config.maj 1 -
+/css/scms.css 1 -
+/_phpinfo.php 1 -
+/wp-config-backup1.txt 1 -
+/server/info.php 1 -
+/public/index.php 1 -
+/test_info5.php 1 -
+/wp-config.2 1 -
+/wp-config.dev 1 -
+/wp-config.1 1 -
+/wp-config.temp 1 -
+/_profiler/phpinfo 1 -
+/js/my.full.js 1 -
+/root/infophp 1 -
+/phpinfo3.php 1 -
+/manager/status 1 -
+/src/login.php 1 -
+/.well-known/apple-app-site-association 4 https://tracuudiem.cea.edu.vn/login
+/cgi-bin/webproc 2 -
+/wp-config.local 1 -
+/.cordova/config.json 1 -
+/wp-config-backup.txt 1 -
+/web_shell_cmd.gch 1 -
+/error/404.gif 1 -
+/wp-config.save.2 1 -
+/File/PHP/info.php 1 -
+/php_info.php 1 -
+/apple-touch-icon-120x120-precomposed.png 6 -
+/dev.php 1 -
+/App_Themes/Default/images/logo1.png 1 -
+/wp-config.local.php 1 -
+/login.jsp 1 -
+/wp.php 1 -
+/WebReport/ReportServer 1 -
+/.lanproxy/config.json 1 -
+/information.php 1 -
+/services/phpinfo.php 1 -
+/login.htm 1 -
+/sitemap.xml 2 -
+/authenticationserverservlet 1 -
+/wp-config.sample 1 -
+/.well-known/traffic-advice 6 -
+/scripts/info.php 1 -
+/test_info1.php 1 -
+/tra-cuu-diem/images/favicon/apple-touch-icon.png 3 -
+/test_phpinfo5.php 1 -
+/wp-config.gz 1 -
+/tool/log/c.php 1 -
+/emails/PHPMailer_old/connection_data.php 1 -
+/Utility/UEditor/ueditor.config.js 1 -
+/sitemap_index.xml 2 -
+/wp-config.inc 1 -
+/wp-config.tar 1 -
+/test.php 1 -
+/wp-config.java 1 -
+/wp-config.data 1 -
+/admin/infophp.php 1 -
+/.wp-config.swn 1 -
+/tplus/login.aspx 1 -
+/laravel9/phpinfo.php 1 -
+/web/index.html 1 -
+/smartbi/index.jsp 1 -
+/wp-config.sublime-project 1 -
+/pi.php6 1 -
+/horde/admin/user.php 1 -
+/build.php 1 -
+/+b(f 1 https://tracuudiem.cea.edu.vn/login
+/admin.php 1 -
+/test_phpinfo.php 1 -
+/l.php 1 -
+/wp-config.c 1 -
+/any800/echatManager.do 1 -
+/wp-config.cs 1 -
+/backup/info.php 1 -
+/src/SMTP.php 1 -
+/phpinfo/php-details.php 1 -
+/~cats/php/info.php 1 -
+/etrading/etrading.jsp 1 -
+/test_phpinfo3.php 1 -
+/config/config.js 1 -
+/wp-config.cust 1 -
+/wp-config.sublime-workspace 1 -
+/druid 1 https://tracuudiem.cea.edu.vn:443/druid/
+/wp-config.sav 1 -
+/cgi-bin/index 1 -
+/web/adminlogin.php 1 -
+/info/info.php 1 -
+/phpinfodev.php 1 -
+/admin/dashboard/phpinfo 1 -
+/sitemaps.xml 2 -
+/cgi-bin/.env 1 -
+/phpversion.php 1 -
+/testing.php 1 -
+/Content/ueditor/ueditor.config.js 1 -
+/wp-config.azure 1 -
+/nacos 1 https://tracuudiem.cea.edu.vn:443/nacos/
+/apple-touch-icon.png 2 -
+/css/blue/fp_body_bg.gif 1 -
+/wp-config-backup 1 -
+/login/login.do 1 -
+/e/ViewImg/index.html 1 -
+/local-phpinfo.php 1 -
+/laravel/info.php 1 -
+/wp-config.bac 1 -
+/index1.php 1 -
+/tz.php 1 -
+/env.js 1 -
+//sensor/login 1 -
+/public/index.php/home/file/user_pics 1 -
+/sys/ui/extend/varkind/custom.jsp 1 -
+/pi.php5 1 -
+/wp-config.prod 1 -
+/check.php 1 -
+/wp-config_backup 1 -
+/console/payments/config.json 1 -
+/webdav/phpinfo 1 -
+/tools/phpinfo.php 1 -
+/wp-config.a 1 -
+/secrets.yml 1 -
+/wp-config.save.3 1 -
+/emails/PHPMailer/PHPMailer.php 1 -
+/settings.py 1 -
+/viewinfo.php 1 -
+/wp-config.sass-cache 1 -
+/scripts/index.php 1 -
+/phpsysinfo/phpsysinfo.php 1 -
+/main.yml 1 -
+/glpi 1 https://tracuudiem.cea.edu.vn:443/glpi/
+/test9.php 1 -
+/helper/phpinfo.php 1 -
+/EMP7/login/login 1 -
+/asdf.php 1 -
+/apache.php 1 -
+/dashboardadmin/phpinfo 1 -
+/php52/phpinfo.php 1 -
+/tplus/view/login.html 1 -
+/wp-config.save 1 -
+/wp-config-good 1 -
+/doc/en/login.asp 1 -
+/guard.html 1 -
+/wp-config.prod.txt 1 -
+/login.asp 1 -
+/xtoa 1 https://tracuudiem.cea.edu.vn:443/xtoa/
+/any800/pagesJs/echatJs/load/pc.js 1 -
+/wp-config.un~ 1 -
+/File/PHP/phpinfo 1 -
+/.well-known/security.txt 2 https://tracuudiem.cea.edu.vn/login
+/wp-config.rej 1 -
+/testphp.php 1 -
+/simple/util/ajax.js 1 -
+/wp-config_good 1 -
+/s3.js 1 -
+/dashboard/info.php 1 -
+/test_info2.php 1 -
+/help/info.php 1 -
+/devs.php 1 -
+/blog/wp-login.php 1 -
+/info4.php 1 -
+/dev/phpinfo.php 1 -
+/phpcustom_info/phpinfo.php 1 -
+/wp-config.com 1 -
+/wp-admin/tools.php 2 -
+/local-info.php 1 -
+/dep.php 1 -
+/portal.html 1 -
+/scripts/phpinfo.php 1 -
+/wp-config.backup.txt 1 -
+/wp-config.vbproj 1 -
+/wp-config.0 1 -
+/2bUavD70AFcJRAR6LpKHdc3n2WG.jsp 1 -
+/frontend_dev.php/$ 1 -
+/info/phpinfo 1 -
+/php-info 1 -
+/temp.php 1 -
+/phpinfo.php3 1 -
+/pi.php7 1 -
+/wp-config.us 1 -
+/login.action 1 -
+/U9/mvc/login/index 1 -
+/scripts/phpinfo 1 -
+/phpinfo1.php 1 -
+/wp-config.part 1 -
+/.deployment-config.json 1 -
+/get_dkey.php 1 -
+/login.do 1 -
+/templates/default/qunstyles/t1.css 1 -
+/mobile/plugin/browser.jsp 1 -
+/android-chrome-192x192.png 12 https://tracuudiem.cea.edu.vn/tra-cuu-diem
+/ehome/login.jsp 1 -
+/.travis.yml 1 -
+/development/iinfo.php 1 -
+/ini.php 1 -
+/tools/info.php 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/level/16/exec/show/config/CR 1 -
+/cgi-bin/koha/svc/virtualshelves/search 1 -
+/web/xml/webuser-auth.xml 1 -
+/wp-config.dist 1 -
+/wp-config.vi 1 -
+/mqconsole/login.html 1 -
+/dev/info.php 1 -
+/wp-config.old.old 1 -
+/src/YiiMailer.php 1 -
+/vision/index.jsp 1 -
+/wls-wsat/CoordinatorPortType11 1 -
+/templates/2018_01/login_bg.jpg 1 -
+/phpinfo/phpinfo.php 1 -
+/zabbix 1 https://tracuudiem.cea.edu.vn:443/zabbix/
+/wp-config-sample.php~ 1 -
+/infophp/index.php 1 -
+/about/copyright.shtml 1 -
+/wp-config.dump 1 -
+/===a.message.substring(0,11)%7C%7C-1!==a.message.indexOf( 1 https://tracuudiem.cea.edu.vn/login
+/test6.php 1 -
+/~cats/php/phpinfo.php 1 -
+/linusadmin-phpinfo.php 1 -
+/EMP/login/login 1 -
+/wp-config.3 1 -
+/artifactory/ui/home/widget/info 1 -
+/app/config/parameters.yml 1 -
+//login/login 1 -
+/current/phpinfo.php 1 -
+/wp-config.6 1 -
+/image/favicon.png 1 -
+/imclient/pages/index.html 1 -
+/BI/esmain/main/js/serverfunc.js 1 -
+/phpinfo.php5 1 -
+/wp-config.in 1 -
+/pqKXgFBtDsClzpQLXYxL 1 -
+/dashboard/phpinfo 1 -
+/selfservice 1 -
+/login.php 3 -
+/console-fe/public/img/seata_logo_small.jpeg 1 -
+/wp-config.9 1 -
+/helper/info.php 1 -
+/js/vuedraggable.umd.js.map 24 -
+/login/login.php 2 -
+/.wp-config.swp 1 -
+/dashboard/test.php 1 -
+/.well-known/change-password 2 https://tracuudiem.cea.edu.vn/login
+/ueditor/ueditor.config.js 1 -
+/ocp.php 1 -
+/info3.php 1 -
+/test_info4.php 1 -
+/config.json 1 -
+/php/phpinfo.php 1 -
+/webroot/ReportServer 1 -
+/wp-config.err 1 -
+/admin/info.php 1 -
+/foo.php 1 -
+/wp-config.org 1 -
+/env.backup 1 -
+/tpl/admincp/loginimg/net.jpg 1 -
+/api/v1/query 1 -
+/wp-config.bk 1 -
+/test_info.php 1 -
+/apple-touch-icon-120x120.png 6 -
+/phpinfo4.php 1 -
+/sys/es/uxmodern/login/login 1 -
+/Web_sc/login.gn 1 -
+/info/phpinfo.php 1 -
+/database.yml 1 -
+/console 1 https://tracuudiem.cea.edu.vn:443/console/
+/administrator/phpinfo.php 1 -
+/login/login.html 1 -
+/phpinfos.php 1 -
+/testphpinfo.php 1 -
+/Install/InstallWizard.aspx 1 -
+/], 15 https://tracuudiem.cea.edu.vn/login
+/sellers.json 2 https://tracuudiem.cea.edu.vn/login
+/testphpinfo 1 -
+/spog/welcome 1 -
+/test_phpinfo1.php 1 -
+/test2.php 1 -
+/wp-config.orig 1 -
+/php1.php 1 -
+/wp-config.htm 1 -
+/wp-config.txt 1 -
+/wp-configbak 1 -
+/rest.php 1 -
+/wp-config.4 1 -
+/.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200 2 https://tracuudiem.cea.edu.vn/login
+/phpinfo 2 -
+/php_details 1 -
+/develop/info.php 1 -
+/xampp/phpinfo 1 -
+//khoa-dao-tao/58/hoc-ky 1 -
+/old_phpinfo.php 1 -
+/chat-miniProgram 1 https://tracuudiem.cea.edu.vn:443/chat-miniProgram/
+/wp-login.php 1 -
+/wp-config.map 1 -
+/ierp/loginResource/css/login-kingdeeCloud.css 1 -
+/mailman/.env 1 -
+/service/phpinfo.php 1 -
+/cgi-bin/rpc 1 -
+/api/dp/rptsvcsyncpoint 1 -
+/app-ads.txt 2 https://tracuudiem.cea.edu.vn/login
+/mobsm/html/index.jsp 1 -
+/style.php 1 www.google.com
+/],app-emailsubscribe,app-newsletter-widget,div.newsletter-image,div[data-newsletter-1],div[data-newsletter-2],gannett-atoms-component-newsletter-cta,hl-newsletter-cta,div 16 https://tracuudiem.cea.edu.vn/login
+/js/ext/resources/css/xtheme-blue.css 1 -
+/p.php 1 -
+/_wpeprivate/config.json 1 -
+/wp-config._2 1 -
+/dashboard/phpinfo.php 1 -
+/tester.php 1 -
+/wp-config.conf 1 -
+/auth 1 -
+/seeyon/htmlofficeservlet 1 -
+/wp-content/plugins/backup-backup/readme.txt 1 www.google.com
+/zentao/user-login.html 1 https://tracuudiem.cea.edu.vn:443/zentao/user-login.html
+/go/auth/login 1 -
+/test5.php 1 -
+/lib/fw_lib.js 1 -
+/info1.php 1 -
+/&ved=2ahUKEwj-t5G_6teDAxXOrlYBHeBwBVUQFnoECCAQAQ&usg=AOvVaw3_I-ywMtTuOYX1zqsIk8gN 12 https://www.google.com/search
+/admin/phpinfo.php 1 -
+/581c3123af46f6f5 2 -
+/wp-config.cfg 1 -
+/admin/dashboard/info.php 1 -
+/.msmtprc 1 -
+/_profiler/phpinfo/phpinfo.php 1 -
+/~cats/php/phpinfo 1 -
+/Portal/Intro.mwsl 1 -
+/PHPConf.php 1 -
+/backup/phpinfo.php 1 -
+/wp-config 1 -
+/wp-config.swo 1 -
+/wp-config~ 1 -
+/jshERP-boot/user/getAllList 1 -
+/inf.php 1 -
+/pi.php 1 -
+/o.php 1 -
+/time.php 1 -
+/wp-config.disabled 1 -
+/live800/live800Error.jsp 1 -
+/.jupyter/jupyter_notebook_config.json 1 -
+/governor/governor/user/login.jsp 1 -
+/console/phpinfo.php 1 -
+/irex 1 https://tracuudiem.cea.edu.vn:443/irex/
+/emails/PHPMailer/connection_data.php 1 -
+/php-info/phpinfo 1 -
+/backend/info.php 1 -
+/help/phpinfo.php 1 -
+/apache/i.php 1 -
+/dashboard/admin/info.php 1 -
+/debug/default/view 1 -
+/current/info.php 1 -
+/info2.php 1 -
+/seeyon/common/js/V3X.js 1 -
+/infos.php 1 -
+/.config/gatsby/config.json 1 -
+/seeyon/common/images/error.gif 1 -
+/lara/phpinfo.php 1 -
+/wp-config.old 1 -
+/phpdetails 1 -
+/wp-config.stage 1 -
+/home.asp 1 -
+/wp-config.aws 1 -
+/lindex.php 1 -
+/administrator/info.php 1 -
+/cgi-bin/luci 1 https://tracuudiem.cea.edu.vn:443/cgi-bin/luci/
+/forum/info.php 1 -
+/!==c.substring(0,5)&&a.setAttribute( 1 https://tracuudiem.cea.edu.vn/login
+/wlsecurity.html 1 -
+/wp-config.tar.gz 1 -
+/libs/granite/core/content/login.html 1 -
+/phpinfo/info.php 1 -
+/App/Admin/View/Public/Js/common.js 1 -
+/cgi-bin/kerbynet 1 -
+/config.env 1 -
+/new.php 1 -
+/info.json 1 -
+/wp-config.5 1 -
+/backup/auto.php 1 -
+/page.cgi 1 -
+/config/secrets.yml 1 -
+/_profiler/phpinfo/info.php 1 -
+/phpsysinfo/phpinfo.php 1 -
+/phpinformation 1 -
+/MaintenanceSys 1 https://tracuudiem.cea.edu.vn:443/MaintenanceSys/
+/xampp/info.php 2 -
+/wp-config.ORG 1 -
+/mas 1 -
+/emails/PHPMailer/SMTP.php 1 -
+/wp-config-backup.php 1 -
+/sysworkflow/en/neoclassic/login/login 1 -
+/servlet/~ic/bsh.servlet.BshServlet 2 -
+/wp-config.bak 1 -
+/in.php 1 -
+/cache.php 1 -
+/php.php 1 -
+/test1.php 1 -
+/wp-config-sample.bak 1 -
+/wp-config.zip 1 -
+/iyN2OPgR 3 -
+/pi.php8 1 -
+/admin/dashboard/phpinfo.php 1 -
+/solr 1 https://tracuudiem.cea.edu.vn:443/solr/
+/wp-config.bkp 1 -
+/usmapi/v1/auth/conf 1 -
+/wp-config.staging 1 -
+/__bes/__ejb 1 -
+/aws-secret.yaml 1 -
+/src/PHPMailer.php 1 -
+/infophp/testphp.php 1 -
+/YiiMailer/src/YiiMailer.php 1 -
+/isadmin.php 1 -
+/adminphp.php 1 -
+/sitemap.xml.gz 2 -
+/login.html 1 -
+/env.template 1 -
+/server/phpinfo.php 1 -
+/dwr/engine.js 1 -
+/test7.php 1 -
+/wp-config.templ 1 -
+/theme/com/sun/webui/jsf/suntheme/images/login/gradlogtop.jpg 1 -
+/wp-config.log 1 -
+/s=set&_method=__construct&method=*&filter[]=system 1 -
+/w.php 1 -
+/wp-config.csproj 1 -
+/.wp-config.swo 1 -
+/laravel8/phpinfo.php 1 -
+//mvc/login/index 1 -
+/ads.txt 2 https://tracuudiem.cea.edu.vn/login
+/crm/phpinfo.php 1 -
+/env.development.local 1 -
+/test1 1 -
+/phpsysinfo 1 -
+/axis2 1 https://tracuudiem.cea.edu.vn:443/axis2/
+/wp-config.vb 1 -
+/wp-config-sample.php 1 -
+/PHPMailer/src/PHPMailer.php 1 -
+/index.json 1 -
+/php-info/info.php 1 -
+/forum/phpinfo.php 1 -
+/.docker/daemon.json 1 -
+/webchat/web/onlineService 1 -
+/test_phpinfo2.php 1 -
+/efile 1 https://tracuudiem.cea.edu.vn:443/efile/
+/dashboard/admin/phpinfo.php 1 -
+/.s3cfg 1 -
+/app/config.yml 1 -
+/test0.php 1 -
+/jo.php 1 -
+/service/info.php 1 -
+/wp-config.prod.php.txt 1 -
+/deploy.php 1 -
+/console/base/config.json 1 -
+/cas 1 -
+/wp-config.swp 1 -
+/webadmin/auth/verification.php 1 https://tracuudiem.cea.edu.vn:443/webadmin/start/
+/api/info.php 1 -
+/u.php 1 -
+/server/config.json 1 -
+/wp-config._1 1 -
+/wp-config.new 1 -
+/apache/phpinfo.php 1 -
+/index.js 1 -
+/xampp/phpinfo.php 1 -
+/PHPMailer/src/SMTP.php 1 -
+/xxl-job-admin/toLogin 1 -
+/develop/phpinfo.php 1 -
+/Scripts/ueditor/ueditor.config.js 1 -
+/wp-config.8 1 -
+/webpages/login.html 1 -
+/ipmweb 1 https://tracuudiem.cea.edu.vn:443/ipmweb/
+/LiveBos 1 -
+/config.js 1 -
+/actuator 1 https://tracuudiem.cea.edu.vn:443/actuator/
+/journalx/authorLogOn.action 1 -
+/main.php 1 -
+/wp-config.rar 1 -
+/login/login.cgi 1 -
+/netface/login.do 1 -
+/module/login/login.html 1 -
+/webdav/phpinfo.php 1 -
+/phpinfo.html 1 -
+/emm-api 1 -
+/test_phpinfo4.php 1 -
+/wp-config.7 1 -
+/seeyon/test123456.jsp 1 -
+/console/info.php 1 -
+/config/config.json 1 -
+/backend/phpinfo.php 1 -
+/laravel10/phpinfo.php 1 -
+/pinfo.php 1 -
+/File/PHP/phpinfo.php 1 -
+/test3.php 1 -
+/root/info.php 1 -
+/nuxeo 1 https://tracuudiem.cea.edu.vn:443/nuxeo/
+/deploy.html 1 -
+/wp-config.uk 1 -
+/phpinfo.txt 1 -
+/.docker/config.json 1 -
+/of.php 1 -
+/imp/login.php 1 -
+/sess-bin/login_session.cgi 1 -
+/sys/config/productInfo 1 -
+/apache2.php 1 -
+/dashboard/admin/phpinfo 1 -
+/server/s3.js 1 -
+/ZFoXVWYzkErjjhKqCadZ 1 -
+/admin/phpinfo 1 -
+/services/info.php 1 -
+/phpsysinfo.php 1 -
+/developer.php 1 -
+/phpsysinfo/info.php 1 -
+/js/config.js 1 -
+/x.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1105
+14.224.157.84 6415 6725 30688396 20240131163821
+113.22.113.71 648 691 8278651 20240113172942
+14.172.245.124 242 255 1608493 20240108224705
+14.184.164.137 176 205 568612 20240131152526
+123.28.185.167 165 186 1000087 20240122090111
+14.183.128.113 133 142 573729 20240118145131
+113.170.166.101 119 132 316944 20240129083228
+113.161.234.53 111 163 7844288 20240130085044
+222.254.178.82 109 116 1550862 20240106194804
+14.234.91.60 99 110 1560243 20240115145130
+1.52.163.54 97 104 1496062 20240107180842
+113.170.51.163 96 106 1492893 20240131072404
+116.118.105.50 81 83 106684 20240123192600
+115.77.115.168 80 125 2692147 20240123111244
+103.199.32.132 77 86 1427224 20240129162106
+116.118.106.2 72 81 2227500 20240123142019
+172.233.92.111 71 78 1396704 20240109142443
+27.67.10.94 66 95 6718625 20240109141434
+14.176.152.61 64 88 2368581 20240130161317
+14.240.29.23 63 80 3457150 20240123205502
+125.235.236.0 61 83 3657917 20240127120435
+113.161.234.54 51 96 7885821 20240130190822
+112.197.240.87 51 65 1334313 20240115115138
+125.235.237.173 46 80 5087941 20240111142908
+103.199.32.189 42 45 141930 20240125085148
+103.199.57.244 0 2 51219 
+113.182.183.57 0 1 252435 
+117.2.112.160 0 1 252435 
+171.255.127.58 12 19 1229264 20240109141151
+113.185.104.176 0 1 252435 
+14.229.176.13 3 8 1011101 20240116203337
+103.199.32.29 20 20 59652 20240115091048
+42.202.16.71 1 1 1737 20240128234125
+103.199.32.70 6 9 13985 20240105070600
+125.212.158.205 3 8 1011100 20240117204715
+171.67.70.207 3 7 962301 20240101152839
+14.180.58.40 3 8 1010836 20240109190417
+113.185.73.124 15 20 1070840 20240129071517
+59.153.254.28 2 7 962996 20240107124256
+14.166.200.47 3 7 962302 20240101110734
+115.79.70.200 3 8 1010735 20240102131144
+116.108.72.39 5 10 951886 20240111121810
+113.23.74.63 6 13 1922550 20240110152945
+104.28.195.232 4 6 6052 20240112184311
+171.236.69.112 11 13 664026 20240122214632
+125.234.233.66 3 8 1010833 20240108184208
+115.76.55.65 3 8 1011101 20240122161000
+103.199.56.153 2 4 689053 20240105234452
+113.185.42.135 3 8 1010832 20240108185426
+117.3.150.158 4 8 963809 20240102093417
+14.172.222.18 3 8 1010734 20240101185040
+125.235.236.55 0 2 0 
+115.79.98.22 4 8 964180 20240118091907
+125.212.159.32 4 9 965138 20240111220426
+125.235.236.146 28 39 1459248 20240130131337
+116.108.51.2 0 1 252435 
+113.185.94.44 4 6 14712 20240117182308
+14.173.171.94 7 14 1530321 20240127070605
+159.203.93.163 15 20 9753 20240128063600
+66.102.6.193 3 5 150833 20240123172057
+123.23.95.174 1 3 1510 20240102092525
+103.199.56.95 0 2 630742 
+133.242.174.119 1 1 1739 20240109161006
+125.235.235.7 3 8 963627 20240117201123
+113.166.179.99 5 9 1215171 20240108184344
+171.248.218.71 3 6 1016829 20240128104638
+171.244.213.66 3 8 1010832 20240108184519
+104.28.227.233 1 6 0 20240119182924
+116.102.125.169 4 7 961390 20240113141636
+116.98.218.246 3 8 1011101 20240116200314
+14.191.76.142 5 7 5982 20240121003537
+14.191.204.127 28 54 4531334 20240114131315
+171.234.196.227 1 4 496273 20240127174031
+113.163.184.88 10 15 1181544 20240131144634
+171.248.208.15 0 1 252435 
+125.235.236.56 20 36 3350437 20240110211158
+113.160.166.76 6 10 967372 20240117111640
+123.27.125.115 3 8 1011105 20240112191848
+118.102.2.29 0 2 504870 
+14.161.197.62 12 19 1169226 20240122154736
+14.173.242.233 8 13 1018900 20240111142254
+116.98.248.211 3 8 1011101 20240110185400
+115.77.11.245 3 7 962400 20240109153613
+113.185.94.92 4 6 14713 20240130083817
+27.67.94.156 4 9 1012385 20240108185401
+14.191.211.187 3 6 959883 20240116204519
+14.172.221.57 0 1 252435 
+82.145.215.206 2 2 3481 20240131145135
+14.191.77.48 18 22 52771 20240130203436
+113.185.92.107 6 8 14723 20240109153327
+85.203.15.43 1 1 4712 20240131074112
+185.192.70.16 1 1 4523 20240108062157
+42.112.225.125 5 9 211124 20240117144340
+1.53.52.185 3 7 962667 20240110080357
+125.212.159.183 3 8 1011103 20240113115544
+113.185.92.173 6 11 1163730 20240124183238
+14.234.89.155 1 4 303960 20240109070012
+14.191.190.206 0 1 252435 
+125.235.236.201 0 2 0 
+1.55.50.133 1 3 0 20240121221716
+113.185.41.183 6 11 1015692 20240116203830
+27.3.113.122 0 2 0 
+27.3.193.45 3 8 1010735 20240102172041
+125.212.158.252 2 6 1005325 20240117210728
+27.3.113.184 7 15 1471893 20240107212825
+14.191.174.196 3 7 962302 20240105201943
+14.160.131.231 38 61 2064477 20240130152344
+1.55.48.223 0 2 0 
+42.112.225.88 2 5 884956 20240113193108
+103.199.32.38 0 2 0 
+125.235.236.167 2 5 959618 20240122204322
+42.202.17.132 1 1 1739 20240131052928
+117.2.100.37 1 3 689156 20240117122217
+14.235.185.149 6 10 967394 20240127143209
+171.253.187.148 16 23 1211570 20240102124905
+113.170.65.100 15 28 3017362 20240111191924
+112.197.224.203 0 2 504870 
+103.199.32.118 17 24 1253289 20240105191002
+116.111.187.234 2 5 283426 20240123174451
+14.191.204.95 8 14 318419 20240129183221
+14.234.34.254 22 24 696222 20240110170448
+113.174.176.185 3 7 962305 20240102094608
+103.199.56.193 0 1 252435 
+14.239.254.127 3 8 1011101 20240111182256
+103.249.23.27 3 5 8787 20240109181645
+116.99.254.151 3 8 1011102 20240125202435
+36.50.53.23 1 1 0 20240117072932
+113.170.166.157 4 12 13991 20240101211950
+116.97.107.1 2 7 1020309 20240123172052
+42.112.90.156 9 19 1957235 20240114122256
+116.99.251.2 5 10 968084 20240121194949
+156.146.62.52 1 3 676450 20240116135607
+116.98.249.118 3 6 959615 20240108185205
+14.224.14.14 3 8 963625 20240115105609
+103.199.56.178 0 1 252435 
+171.244.215.26 3 8 1011101 20240110160114
+222.89.28.4 1 1 1738 20240131195230
+14.191.144.70 3 8 1055851 20240110194419
+103.199.57.69 0 2 0 
+116.99.253.10 2 7 963363 20240117202426
+116.102.51.102 4 9 1012613 20240116201701
+39.165.155.48 1 1 1740 20240130194135
+125.235.209.207 0 1 252435 
+14.183.118.150 1 3 630644 20240105210916
+14.229.163.144 3 6 959882 20240117210459
+14.172.75.3 3 8 1011103 20240110194331
+14.230.120.96 0 1 252435 
+123.23.79.59 3 8 1011103 20240112194933
+116.97.40.113 2 5 705232 20240111192530
+171.236.69.132 6 11 1163965 20240113224318
+27.67.74.188 24 28 947100 20240109141615
+103.199.57.211 1 1 263 20240110143035
+85.203.15.63 1 1 4523 20240131074108
+14.234.91.198 5 10 144073 20240131143835
+14.164.9.146 3 7 962303 20240102103919
+117.3.122.233 33 40 1283921 20240129151332
+171.245.10.69 3 8 1010734 20240107054424
+203.210.176.254 4 10 964179 20240129200002
+113.169.228.73 3 7 962400 20240108090507
+27.67.72.233 0 1 252435 
+14.191.205.75 0 1 252435 
+116.97.107.176 3 8 963621 20240115191556
+84.247.59.95 1 1 4523 20240129070655
+113.185.43.185 3 8 1011101 20240112193335
+14.176.122.76 3 8 1011104 20240111181514
+103.199.32.148 10 18 1473519 20240119100256
+14.173.224.210 7 10 27074 20240106185541
+54.153.125.56 1 2 7309 20240110190530
+27.64.218.172 12 17 1237100 20240124050346
+14.191.101.124 3 8 1011105 20240110181316
+125.235.235.186 3 8 1011101 20240111192245
+113.163.191.217 0 2 0 
+113.185.93.59 32 39 1305946 20240108072413
+14.249.106.227 6 11 1015430 20240106164655
+125.212.158.131 3 8 963627 20240115192554
+116.111.47.251 3 7 962668 20240118212618
+27.71.99.83 3 8 1011103 20240110192634
+14.183.90.129 20 30 1335899 20240116063559
+14.184.155.192 7 14 1218915 20240101163835
+27.78.209.169 3 8 1011101 20240128185549
+116.98.240.63 4 9 1012246 20240107223855
+27.68.138.128 1 3 632519 20240125153438
+125.235.236.103 3 5 101813 20240107204914
+116.98.242.8 3 8 1011102 20240111191847
+123.26.206.5 4 9 1012679 20240117204520
+180.165.243.49 1 1 1738 20240129184429
+103.199.33.169 8 15 1220071 20240120094232
+113.163.198.70 3 8 1011101 20240113192857
+116.96.78.110 3 7 962300 20240101182259
+171.224.204.236 4 8 964240 20240111200357
+14.191.49.201 3 8 1011104 20240114212616
+14.191.51.66 3 8 963624 20240117210435
+171.236.70.86 6 9 645766 20240108113041
+42.116.117.144 3 8 1011100 20240123193508
+116.108.109.124 20 27 1272597 20240108183342
+171.254.144.47 3 8 1011101 20240116202201
+103.249.23.3 2 2 7797 20240112161833
+66.102.6.195 6 10 843009 20240121194904
+171.239.57.148 3 9 1717187 20240111182102
+112.197.8.68 2 5 959619 20240111200405
+113.185.75.38 7 12 1168406 20240122080657
+116.99.236.210 3 8 1010830 20240108184510
+58.186.218.253 3 6 959884 20240114123005
+42.114.187.178 4 9 1012655 20240114221413
+113.178.165.6 0 1 252435 
+103.199.33.154 0 2 0 
+27.68.155.126 12 15 666898 20240103102039
+171.237.66.68 3 8 1010833 20240108110030
+103.199.57.241 11 16 1179932 20240131085613
+59.153.226.187 3 8 1011100 20240117101947
+42.117.10.9 2 5 959350 20240109191006
+123.17.71.27 3 8 1011102 20240113203046
+14.164.21.161 3 7 962667 20240112183555
+14.229.200.254 3 8 963624 20240112194647
+1.55.39.108 0 1 252435 
+113.166.127.87 9 14 1021303 20240121191345
+14.175.112.238 3 7 962668 20240112144808
+58.186.167.190 3 7 962301 20240107094115
+103.199.32.91 0 2 0 
+103.154.62.184 3 8 1011101 20240113193535
+14.191.175.241 3 8 1011101 20240115192441
+103.199.33.215 3 6 959878 20240120094859
+116.96.159.101 3 6 959882 20240114192935
+183.80.142.32 3 8 1011103 20240110194623
+103.199.56.237 4 8 14783 20240115130028
+14.175.28.145 11 16 1020608 20240111191428
+103.199.56.207 8 13 1168045 20240109070543
+42.112.225.53 8 11 33240 20240119202903
+116.111.187.194 3 8 1011102 20240119213648
+113.185.47.193 4 9 1012607 20240114221014
+14.180.16.138 19 23 963876 20240101094459
+103.199.56.232 8 15 1225490 20240106065922
+14.191.224.40 3 8 1011103 20240116204316
+27.66.20.43 1 1 1509 20240113204459
+14.191.76.229 4 10 890675 20240111203309
+42.117.10.73 2 5 959252 20240104214709
+42.114.19.79 1 3 0 20240120233030
+27.78.9.247 34 41 1296596 20240111133813
+103.199.57.155 5 7 15653 20240109074623
+14.191.173.68 3 8 1010733 20240107080157
+172.225.56.75 4 9 965201 20240121131541
+14.191.204.137 13 20 1345466 20240129101137
+113.187.202.49 6 10 967082 20240109103135
+116.106.181.171 6 13 1211219 20240122135103
+103.249.23.71 0 1 98250 
+14.191.110.219 3 7 962300 20240102081012
+113.161.12.238 5 9 965822 20240115113910
+14.191.18.188 3 7 962667 20240111172806
+116.100.122.240 23 30 1237312 20240105164919
+27.67.74.105 3 8 1011102 20240118205112
+14.176.35.188 3 7 962667 20240113211933
+116.98.1.197 3 8 1010832 20240108185236
+123.25.145.199 1 1 0 20240131204859
+103.199.56.85 4 9 252850 20240121044959
+113.168.84.255 3 8 1068049 20240113191403
+116.111.186.14 3 8 1011103 20240131150728
+103.199.32.165 11 18 1233866 20240126150121
+125.235.236.101 12 24 2191722 20240115050639
+103.199.57.214 11 21 2184390 20240111151648
+103.249.21.210 1 1 263 20240102072554
+14.183.75.100 12 24 2379112 20240121194251
+103.249.22.78 4 5 18279 20240107204934
+27.71.107.14 1 1 1741 20240125164710
+116.96.14.47 3 7 380091 20240115193651
+14.191.77.247 8 16 1476338 20240128065400
+113.174.223.214 3 7 962670 20240110105716
+103.199.33.51 8 15 1279856 20240106104628
+171.234.10.68 3 8 1010833 20240108181958
+116.97.108.147 3 8 1011101 20240111195908
+125.212.158.59 3 8 1011100 20240118202737
+115.76.55.51 3 8 1011102 20240110185939
+116.96.77.79 3 8 963627 20240120115559
+14.191.105.46 4 8 964249 20240116192359
+115.76.48.79 3 7 1019616 20240130061213
+103.82.26.198 4 9 966518 20240112191840
+171.244.98.174 1 1 1512 20240118195734
+117.5.147.84 5 15 1974467 20240111184944
+14.161.96.245 0 5 1262175 
+113.185.42.63 3 7 962664 20240115194527
+14.249.247.51 2 5 696842 20240111195350
+103.199.56.161 6 13 1215257 20240115180247
+103.199.32.219 5 8 19735 20240120123154
+158.69.210.82 1 1 1511 20240120182414
+125.212.159.22 4 7 961388 20240118203045
+125.235.237.65 7 10 659891 20240110181049
+123.18.128.0 4 8 964217 20240129183822
+1.52.35.29 0 1 252435 
+117.6.244.204 7 13 1599423 20240110081211
+59.153.251.254 2 5 959616 20240116192248
+1.55.41.66 0 2 0 
+103.199.32.133 6 9 644976 20240115072803
+113.185.95.70 0 1 252435 
+123.23.209.20 4 9 1012646 20240111181833
+84.247.59.93 1 1 4710 20240129070659
+103.199.33.236 3 10 1893815 20240103095154
+113.185.41.60 2 7 1007858 20240109185249
+103.249.23.25 1 1 263 20240109142942
+42.112.230.224 6 13 1214182 20240131201944
+116.100.130.104 3 8 1011102 20240120095812
+27.2.64.242 3 8 1011102 20240112200114
+1.55.41.254 32 49 1293699 20240105165752
+116.97.108.8 3 8 1011104 20240123184855
+125.235.236.77 8 13 1221193 20240114164215
+125.212.158.204 3 8 1011100 20240120124739
+113.185.93.42 4 6 702674 20240120171237
+65.109.23.2 2 2 6261 20240126012502
+14.230.43.171 7 14 1219641 20240131090411
+14.251.151.18 4 9 1012615 20240112093831
+14.240.240.182 6 8 640331 20240113161543
+14.227.104.189 3 8 1011101 20240115201839
+27.68.83.218 4 9 1012678 20240113193155
+42.202.16.38 1 1 1738 20240131114123
+125.212.159.209 3 8 1011100 20240111221222
+42.119.145.194 1 3 631011 20240112161510
+1.54.212.27 3 8 1011103 20240120231119
+103.199.56.48 7 11 1160855 20240110130327
+113.177.171.98 3 8 1011101 20240114221004
+14.191.81.108 4 6 6048 20240107111125
+27.79.21.44 3 6 778983 20240110190744
+117.3.183.99 6 11 1015522 20240108185013
+113.185.93.157 1 3 1510 20240122074925
+14.191.76.101 34 43 1271662 20240128191351
+125.235.208.13 17 24 1249075 20240114145938
+103.199.57.83 1 3 1507 20240110152237
+125.212.158.113 6 11 966644 20240118130216
+125.235.236.66 12 19 1274237 20240125094232
+116.101.74.168 3 8 1020577 20240116191003
+27.77.221.131 13 27 2433905 20240127201445
+42.114.199.38 18 20 65126 20240117191557
+123.28.84.0 0 3 757305 
+171.253.129.198 3 7 962301 20240101075716
+14.191.76.52 2 8 636746 20240109215116
+14.181.80.62 3 7 962670 20240116195852
+116.101.51.2 3 6 959883 20240118203942
+27.77.230.86 8 13 1018675 20240109185344
+14.172.200.22 8 13 1017342 20240120125324
+113.170.166.245 7 14 1219348 20240129100509
+123.28.52.240 3 8 1011101 20240110181557
+113.169.212.55 3 8 1011100 20240112194906
+14.247.67.54 3 7 962665 20240114214908
+118.69.12.84 3 7 962400 20240109111911
+103.249.21.193 8 13 1166922 20240109195519
+116.99.251.249 2 7 963364 20240120235840
+125.212.158.243 3 6 959883 20240116203305
+45.79.26.146 1 1 0 20240117230214
+117.7.221.68 3 8 1011101 20240113133755
+113.185.78.55 3 8 1010831 20240108202241
+112.197.5.199 2 5 959620 20240113183152
+103.199.33.161 15 19 879634 20240110145308
+104.28.205.70 2 2 3021 20240122213843
+116.97.108.7 0 1 252435 
+222.255.127.167 3 7 962298 20240102095847
+14.191.76.3 7 12 1168057 20240127102445
+171.237.70.155 3 7 962668 20240131053410
+14.191.74.69 3 8 1010829 20240108053203
+113.186.74.212 3 8 1011100 20240113145044
+113.184.25.159 3 7 962666 20240127130749
+14.191.48.97 4 9 1012677 20240117201458
+103.199.56.236 7 14 1220652 20240115064538
+113.23.30.195 22 29 1271042 20240110102757
+14.191.81.212 4 9 1012248 20240104213514
+14.183.73.115 11 18 1223116 20240129151719
+27.115.124.33 0 1 957 
+66.249.82.15 12 29 3905229 20240120171227
+116.98.245.118 3 8 1011098 20240110190534
+116.98.0.230 4 9 1012694 20240110122910
+117.6.254.151 3 7 1019616 20240120074746
+113.185.41.222 7 12 1017385 20240111193354
+85.203.15.56 1 1 4710 20240130163650
+27.67.138.37 34 48 2484785 20240109141900
+14.251.250.152 4 8 964180 20240112194320
+116.98.249.16 7 12 1017389 20240111175434
+171.247.205.161 7 14 1218427 20240101163158
+116.99.250.152 3 8 1011101 20240116194852
+14.191.205.226 15 22 1193770 20240101234325
+14.191.244.3 3 6 959882 20240119111410
+123.27.151.186 3 8 1010735 20240106182117
+65.21.71.11 1 1 3989 20240112192136
+117.5.157.82 2 5 959254 20240106181342
+104.28.205.71 3 8 959882 20240120121056
+112.197.12.68 2 5 959349 20240108114741
+113.185.72.225 17 26 1256206 20240109181831
+125.235.237.67 5 10 1374663 20240102072730
+14.191.245.41 1 3 1510 20240112212456
+36.99.136.136 1 2 4526 20240101004616
+27.67.73.70 5 7 9892 20240131051855
+103.199.57.71 15 21 1033325 20240130131321
+14.191.205.7 12 20 1866874 20240106093200
+194.32.120.82 1 1 4711 20240108062201
+103.249.21.184 7 14 1224156 20240122075004
+113.23.55.65 0 1 56635 
+171.224.24.38 3 8 1011101 20240115195239
+171.239.79.130 0 1 252435 
+171.253.116.60 3 7 962667 20240115123311
+14.174.6.15 3 8 1011102 20240115180422
+116.98.249.124 0 1 252435 
+103.199.56.183 4 8 1012180 20240102080753
+125.235.234.115 3 8 1010830 20240108184200
+14.183.129.161 11 18 1227349 20240108140122
+14.191.205.174 3 10 959880 20240110150531
+113.185.42.77 3 8 1010832 20240108184134
+113.185.75.234 3 6 959516 20240103210214
+113.185.42.22 3 8 1011101 20240110190359
+113.182.232.136 6 8 14013 20240109174347
+116.97.106.115 3 8 1011103 20240116203348
+103.249.22.184 3 5 204151 20240111133620
+14.191.175.118 4 9 1012385 20240108185215
+14.191.204.51 27 55 3651108 20240120125733
+103.199.32.124 0 1 252435 
+103.199.56.154 0 2 0 
+27.2.199.5 2 5 959617 20240127201446
+14.191.180.163 3 7 962402 20240109082245
+116.97.108.61 3 7 962673 20240111102534
+14.191.172.95 3 8 1011100 20240112194528
+171.250.166.39 0 1 252435 
+14.161.243.166 4 10 1264844 20240109183416
+115.73.200.201 1 3 632252 20240108080838
+171.244.43.14 1 1 1739 20240109203004
+116.98.248.123 3 6 959517 20240106191427
+104.28.237.241 6 11 1015794 20240114085716
+14.161.113.163 8 14 78514 20240102142056
+113.162.39.130 3 7 962669 20240131230518
+123.6.49.15 2 5 889193 20240112195718
+113.169.190.234 10 15 1178126 20240129205826
+66.102.6.224 3 4 77685 20240106195243
+14.255.54.113 3 8 964872 20240117055219
+171.242.25.51 6 11 1015682 20240118202344
+113.162.83.173 3 7 962667 20240110200601
+1.53.56.12 0 2 504870 
+14.176.100.157 0 1 252435 
+115.76.55.182 3 8 1011101 20240110181730
+113.185.72.226 3 8 963626 20240113083726
+14.164.130.156 2 5 959619 20240115115752
+42.202.17.106 1 1 1739 20240129043524
+42.114.17.113 0 4 51219 
+14.236.54.106 3 7 962300 20240101140902
+116.100.120.167 38 57 3153592 20240114154338
+14.191.62.219 0 1 252435 
+202.60.105.228 2 5 959619 20240123130601
+113.185.78.131 1 3 689157 20240115135348
+42.114.103.112 3 8 1011100 20240111200706
+171.236.49.73 3 8 1011103 20240116202912
+171.234.10.182 7 11 968544 20240102110924
+27.67.28.98 6 6 11974 20240111134328
+27.67.87.185 24 24 69038 20240129151916
+116.104.60.218 12 19 1241906 20240111151712
+171.253.136.104 3 8 1011103 20240124060850
+103.199.33.45 7 11 1161364 20240102125653
+113.191.70.58 3 8 1011100 20240115123730
+14.184.232.13 8 16 1974130 20240115175251
+27.78.8.16 11 19 2181277 20240122113450
+103.199.57.91 0 1 252435 
+14.191.204.63 22 44 2476951 20240120103649
+171.255.149.247 4 9 1012609 20240113141719
+171.250.166.230 3 8 1011103 20240115124036
+27.78.5.175 3 8 1011103 20240113060631
+116.105.85.97 11 21 2031343 20240124164052
+117.1.222.46 3 8 1011102 20240119215707
+125.212.159.20 3 8 1010831 20240108185256
+27.76.250.30 3 9 1264787 20240111200810
+222.254.107.93 3 7 962667 20240113193125
+125.235.62.11 3 8 1068048 20240113071655
+116.97.108.53 3 7 962401 20240108110950
+116.104.2.254 3 7 962668 20240112222536
+27.68.138.173 0 2 0 
+125.212.159.143 3 8 1011100 20240110194236
+203.145.47.18 9 18 1228045 20240131090650
+113.180.48.186 6 13 1215163 20240129100512
+115.76.62.246 0 1 252435 
+112.197.165.60 1 3 689155 20240120181805
+113.185.73.58 19 26 1251308 20240115155953
+27.71.106.117 2 7 963364 20240112193312
+14.191.204.130 14 26 2216184 20240109195322
+103.129.191.0 2 7 1010839 20240117114653
+14.171.37.43 4 8 1020486 20240107171321
+103.136.147.153 1 1 1510 20240110032946
+103.199.57.109 6 12 1032068 20240126145805
+112.197.70.76 4 8 13944 20240102125648
+117.7.220.109 1 3 689157 20240113155911
+113.185.93.17 0 2 0 
+14.236.1.29 3 7 962300 20240101151412
+116.99.253.215 3 7 962671 20240110153841
+113.185.44.66 3 8 1010834 20240109185129
+171.236.64.132 3 8 1011101 20240110204238
+103.118.29.225 3 5 640271 20240123151331
+85.191.54.62 1 1 4523 20240119002301
+113.185.77.75 2 7 1010842 20240116195131
+125.235.235.246 3 8 1010833 20240108054127
+14.191.191.85 11 23 2319071 20240113183049
+103.249.23.18 9 11 79754 20240112161721
+42.117.149.165 3 8 963258 20240107065218
+27.67.87.8 4 9 1012611 20240113193727
+113.164.74.86 7 12 1017132 20240108114814
+104.28.195.235 7 15 2557041 20240131020606
+14.191.104.217 0 1 252435 
+14.242.205.64 5 10 966479 20240108113429
+125.235.236.186 12 17 1185565 20240109192943
+112.197.70.151 5 6 128796 20240114104635
+117.5.156.84 3 8 1011103 20240123174531
+27.67.87.144 18 24 116149 20240129150440
+125.212.158.143 3 8 1011102 20240112193611
+113.185.93.209 14 23 2049680 20240108072127
+14.242.31.87 24 30 1252749 20240105103730
+116.98.218.87 2 4 762942 20240116101208
+27.66.102.109 3 7 962672 20240118202651
+66.249.82.13 14 29 4940219 20240121133339
+103.199.56.151 6 15 1886975 20240127225044
+116.98.1.239 3 8 964934 20240112194311
+113.175.233.7 3 7 962669 20240120132252
+113.183.139.219 3 5 4658 20240131153238
+115.79.87.236 26 53 5483834 20240119092827
+123.21.144.73 3 8 1011102 20240110154004
+103.129.191.17 1 1 0 20240107204851
+123.28.166.234 14 20 1184941 20240131161657
+42.114.17.50 6 14 1773067 20240110181546
+103.249.23.26 13 13 34728 20240131151507
+14.170.249.124 3 8 1011103 20240120114933
+117.0.23.151 3 7 962669 20240110104556
+103.156.60.7 4 9 1012340 20240108114458
+116.96.58.29 3 7 962669 20240115180420
+58.187.179.17 3 8 1011103 20240116203953
+113.185.40.112 4 7 961394 20240116194005
+103.249.23.1 2 5 941321 20240109143040
+103.199.57.172 10 13 38831 20240128232329
+103.249.23.2 9 16 1225861 20240131150957
+125.212.158.83 3 7 962670 20240122175654
+103.199.57.219 3 8 1010736 20240102132429
+14.191.81.211 3 8 1011099 20240111192041
+103.129.191.1 3 6 959611 20240108082437
+14.191.77.54 10 17 1231873 20240110205531
+115.76.60.21 3 8 1011103 20240116164757
+171.251.235.113 3 8 1010831 20240108184515
+113.180.70.64 1 5 1508 20240129202050
+125.212.159.188 2 7 963359 20240111195629
+34.83.105.241 6 14 1925333 20240112231956
+147.182.194.137 1 1 1739 20240131134510
+42.202.17.83 1 1 1739 20240130034724
+125.235.237.249 10 18 1172220 20240103231115
+125.235.237.203 25 46 4249224 20240116231732
+14.235.43.240 3 8 1011102 20240111195501
+113.23.24.118 0 2 504870 
+27.77.205.171 3 8 1011103 20240114142708
+113.185.46.149 3 8 1010832 20240108185129
+113.177.57.4 4 7 961390 20240110190142
+14.237.103.216 7 10 963028 20240110190003
+14.191.21.21 0 1 252435 
+27.115.124.34 0 1 957 
+113.185.77.232 9 14 1155099 20240131070508
+27.3.138.251 7 14 1219732 20240124174516
+222.255.246.70 3 8 1011103 20240123195311
+116.104.61.138 5 12 1189273 20240122225949
+116.97.107.166 3 8 1010737 20240106192525
+14.180.145.101 2 7 1010566 20240108082731
+116.97.106.200 8 13 1018551 20240110184954
+116.111.225.186 3 8 1011101 20240111181213
+125.235.236.123 5 10 1007013 20240120235410
+103.249.23.69 3 5 9385 20240125215456
+171.236.58.40 2 7 962996 20240106195239
+118.71.192.183 3 8 963627 20240121000942
+116.98.246.68 3 8 1011097 20240110192932
+103.199.57.82 6 13 1215250 20240118180647
+115.75.102.136 38 44 1277340 20240106194106
+125.235.236.236 8 14 1165820 20240118111241
+125.235.237.192 6 8 22559 20240102131013
+113.169.188.183 7 12 1017393 20240129173704
+14.191.29.189 3 8 1011100 20240111191444
+113.187.12.252 3 8 1010832 20240108185930
+14.191.53.246 3 7 962671 20240117113812
+14.172.216.170 7 14 1172435 20240111102442
+171.254.152.162 2 7 1010840 20240110154345
+167.248.133.50 1 4 53917 20240118021014
+116.100.124.63 15 26 2189358 20240117222023
+58.187.60.87 6 11 1015537 20240108184745
+14.247.91.108 3 8 1011102 20240110184743
+103.249.23.78 0 1 252435 
+171.250.167.160 0 1 252435 
+203.162.194.200 2 2 3479 20240124201048
+125.235.237.143 12 19 1093562 20240114095032
+59.47.113.144 1 1 1742 20240130034724
+42.202.17.90 1 1 1737 20240131052934
+115.72.195.247 3 8 1011103 20240113143443
+203.210.254.43 3 7 962301 20240107202219
+125.235.212.223 0 1 252435 
+171.251.237.201 3 6 959884 20240116191631
+183.80.64.213 0 1 252435 
+171.247.200.237 6 10 79297 20240115175514
+59.153.238.164 4 9 1012677 20240115193704
+116.98.249.163 4 8 964245 20240115191106
+14.191.176.97 3 8 1010832 20240109183953
+113.23.24.92 0 1 252435 
+171.242.177.198 2 7 963360 20240119204412
+14.244.171.99 1 3 688788 20240103122421
+14.191.63.210 3 8 1011103 20240110191542
+14.191.209.91 2 4 633660 20240106124049
+123.25.203.222 3 7 962400 20240108182711
+113.185.94.51 6 8 14717 20240117120355
+27.67.37.98 3 8 1010830 20240108184855
+125.235.237.89 30 59 5137847 20240115090541
+14.250.111.189 3 8 1068189 20240109191757
+183.80.212.154 3 8 1011101 20240112130936
+113.185.92.234 11 14 36724 20240130183953
+171.236.48.126 6 9 962988 20240112200032
+113.185.92.104 7 14 1220976 20240105123846
+171.253.178.208 2 7 963090 20240109141311
+42.117.10.6 4 10 1918871 20240114213023
+115.76.51.159 14 19 1025261 20240116221458
+171.251.246.82 1 4 941225 20240106124905
+171.251.235.76 2 7 963096 20240108121117
+14.240.29.232 4 9 1011102 20240119100105
+125.212.159.96 3 7 962670 20240115193103
+103.199.32.136 0 1 252435 
+103.199.33.233 6 14 1952325 20240112105510
+1.55.48.76 6 13 1215269 20240130101317
+116.98.249.32 3 7 962299 20240101204357
+125.235.125.46 21 42 3607748 20240130131149
+14.178.217.153 3 7 962301 20240101115139
+42.112.231.173 33 35 104879 20240129183315
+125.235.122.150 3 7 380089 20240112094745
+27.67.40.14 3 5 4654 20240118131827
+14.191.58.76 3 8 1011101 20240119211519
+125.235.236.17 27 34 1224721 20240129152446
+123.27.200.26 3 8 1011101 20240115114809
+116.108.98.38 4 8 7229 20240127190918
+14.191.50.233 7 15 1927599 20240116192949
+117.0.105.212 1 3 689158 20240114121303
+113.170.67.189 19 37 3399597 20240114165842
+116.99.248.67 3 7 962302 20240106215805
+123.18.54.160 4 9 1012617 20240112194018
+113.163.87.49 7 24 1219562 20240119185116
+116.98.244.85 0 1 252435 
+14.191.104.152 3 8 1010833 20240109190103
+14.251.223.167 3 8 1011102 20240111182517
+113.185.42.15 3 8 1011102 20240112195819
+113.167.118.217 4 9 1012605 20240115195902
+185.254.196.81 1 1 1737 20240118214518
+116.100.10.180 11 18 1180323 20240131183537
+66.102.6.194 2 5 1338197 20240123172055
+103.249.21.208 0 2 51219 
+222.254.234.182 4 9 1012672 20240113183144
+27.74.172.18 3 8 1010832 20240109181044
+14.183.90.58 27 46 1908896 20240116115403
+1.53.152.142 0 1 252435 
+14.191.101.107 3 8 1010833 20240108185054
+14.182.206.232 6 14 1971047 20240113184459
+14.191.111.115 5 10 1013928 20240108084003
+106.55.200.233 1 1 1510 20240112224301
+116.98.249.254 4 8 963813 20240107214144
+27.78.7.195 3 8 963355 20240108095212
+116.108.171.126 0 1 252435 
+37.187.215.250 1 1 4523 20240115135815
+103.199.32.169 8 15 1222258 20240129072053
+85.203.15.70 1 1 4523 20240130163645
+113.184.144.18 25 40 2453271 20240129102240
+27.2.10.186 3 8 1011103 20240115150448
+125.235.209.237 3 8 1011104 20240124070351
+58.186.216.201 3 6 959882 20240110184924
+103.199.56.69 4 8 1068894 20240123071317
+116.98.249.46 2 7 963359 20240112093420
+171.226.239.69 7 9 19375 20240117184534
+171.251.239.209 3 8 1011102 20240118204102
+14.249.200.222 3 6 959879 20240118201622
+27.68.157.214 19 28 1372391 20240108073129
+103.179.188.57 3 8 963358 20240109181122
+113.23.24.74 0 3 757305 
+103.199.33.248 1 3 1511 20240102130924
+27.66.51.192 16 28 2212366 20240119100213
+222.253.197.79 3 7 962667 20240110205801
+103.129.191.5 5 10 968635 20240131150644
+113.179.244.5 6 11 1015804 20240110191414
+103.249.23.8 1 3 4006 20240114195939
+125.212.152.100 1 4 941587 20240113182042
+113.169.20.167 3 7 962667 20240124113323
+103.249.22.160 1 1 3592 20240111133756
+123.17.57.152 4 9 1012342 20240108184610
+116.111.186.129 3 8 1011104 20240117220555
+14.175.58.129 1 1 1511 20240110203855
+123.17.220.226 5 9 1022026 20240101104003
+14.189.245.185 4 8 963976 20240109145420
+171.233.176.121 3 8 1011102 20240117201921
+27.67.138.108 3 8 1011104 20240115191235
+103.118.29.231 4 7 894258 20240112123955
+116.111.186.64 3 8 1011100 20240115194921
+103.199.56.26 9 16 1227698 20240102204502
+103.199.32.140 6 6 18799 20240115141903
+65.109.153.251 0 1 252435 
+14.255.56.160 3 7 962669 20240130105325
+123.18.30.159 3 7 962669 20240111204004
+171.234.13.80 3 8 1011100 20240118202602
+125.235.237.166 35 38 97461 20240107162908
+14.235.158.164 3 6 959884 20240117202900
+116.98.2.135 2 7 963363 20240121133338
+27.67.129.198 2 4 1510 20240119210322
+103.129.191.199 5 10 816617 20240105183452
+123.23.69.134 6 11 1164023 20240126062947
+59.153.238.184 0 1 252435 
+116.98.240.192 3 8 963624 20240116192504
+103.249.21.197 8 15 1223886 20240102072634
+113.22.85.255 3 7 962670 20240114185829
+113.185.74.169 3 8 1011101 20240110061705
+115.75.106.240 2 5 884957 20240111071317
+222.255.223.100 3 7 962670 20240111195010
+125.235.209.126 42 63 3762453 20240115155944
+59.153.234.107 8 13 1018942 20240121070054
+125.235.190.249 0 2 0 
+123.6.49.42 2 5 473012 20240102213019
+42.116.118.57 8 18 1648691 20240108221859
+113.161.132.37 3 6 959517 20240103172839
+171.246.9.78 4 9 966516 20240111134600
+116.99.249.15 3 7 962400 20240109074451
+104.28.195.231 1 3 0 20240116192524
+125.235.214.114 8 13 1164555 20240131125156
+14.235.45.47 2 7 963096 20240109185316
+171.236.48.34 3 8 1011101 20240110183218
+14.178.66.126 3 8 1011101 20240113204345
+171.253.27.126 3 5 4527 20240123075933
+103.199.57.102 5 11 1210969 20240113012456
+116.98.222.141 8 13 1164462 20240111182857
+101.44.250.209 1 1 1739 20240125064217
+113.185.75.216 0 1 252435 
+14.254.78.84 7 10 1021563 20240111113333
+116.108.74.68 15 23 1115815 20240129220941
+27.77.203.106 3 8 1011101 20240110194134
+14.188.212.235 3 8 1010736 20240107090415
+203.210.197.51 3 7 962668 20240119101623
+14.191.77.128 0 3 48433 
+103.199.33.218 3 5 10507 20240103142256
+103.199.33.243 2 5 959619 20240122074816
+103.199.57.237 7 10 911489 20240126150512
+42.114.35.12 3 7 962666 20240112205957
+103.199.32.146 8 17 1173720 20240115135409
+116.97.106.67 2 7 963364 20240111174647
+14.164.46.148 11 17 1178219 20240106145704
+42.1.77.194 3 9 1263538 20240110195047
+14.239.31.89 6 11 1015861 20240110192211
+42.112.224.91 3 8 943416 20240114104502
+1.53.151.35 3 8 1011103 20240117150605
+14.244.49.76 3 8 1011102 20240110204040
+113.167.91.38 3 7 962671 20240131135007
+116.104.60.227 3 5 640336 20240110050103
+125.235.236.118 0 2 0 
+116.99.255.233 5 13 965864 20240128104839
+113.185.94.88 4 6 14702 20240130175553
+171.228.98.186 3 7 962402 20240108191947
+14.191.6.54 3 7 962668 20240129200103
+14.191.74.143 2 7 1019622 20240103164138
+125.235.237.10 5 14 1642114 20240123223237
+171.253.51.217 3 8 1011104 20240110191232
+113.185.95.240 5 8 13650 20240125102528
+171.253.79.170 2 6 1005324 20240121131724
+112.197.233.169 3 8 1010835 20240108153117
+117.6.220.146 3 7 962302 20240102082604
+14.236.109.201 3 8 1010735 20240105185601
+113.185.92.250 5 9 19897 20240127124322
+171.255.65.70 0 1 252435 
+14.181.61.85 0 1 252435 
+1.55.164.251 3 8 1020572 20240114222721
+125.235.236.226 1 3 1512 20240131154040
+14.236.229.12 8 17 2029122 20240110065712
+103.249.22.90 3 5 640395 20240111193632
+171.236.48.154 4 9 1012344 20240109192620
+14.224.14.219 2 7 1007861 20240108184418
+199.45.155.18 1 4 53918 20240122225541
+125.235.236.179 8 11 42530 20240131133023
+113.185.46.99 3 8 1010735 20240107080008
+125.235.236.64 9 15 1516759 20240127224628
+1.53.144.189 3 6 959613 20240108053458
+113.183.210.223 15 31 3127660 20240130132518
+125.212.231.140 11 18 1236050 20240131091016
+113.185.75.115 1 5 631011 20240113133132
+116.97.102.169 4 9 1012696 20240116195136
+14.191.23.56 4 9 1012611 20240110200959
+1.55.50.98 7 11 1164374 20240106214913
+113.162.97.4 5 9 965822 20240116232322
+113.180.136.58 6 13 1215163 20240116155008
+125.235.236.27 12 17 1181626 20240114124523
+113.182.37.198 3 7 962668 20240122160749
+27.73.20.223 3 8 1011100 20240120124216
+116.98.223.49 4 6 643812 20240111142752
+123.26.222.183 3 8 1011102 20240110194641
+14.230.106.223 4 8 963972 20240108060034
+113.185.94.54 5 7 18276 20240122131131
+27.78.4.158 6 11 1251035 20240102103929
+113.167.233.193 3 8 1011102 20240112190548
+103.249.22.74 5 7 17885 20240122135839
+42.114.35.255 3 7 962302 20240102052240
+113.167.191.22 3 8 1011102 20240115171721
+171.243.52.63 1 3 688889 20240108222433
+116.108.111.10 15 24 1240643 20240103115927
+1.55.227.9 3 7 962668 20240112194859
+171.234.10.34 4 9 324967 20240117214840
+14.224.82.59 4 4 6958 20240115103224
+27.72.17.195 3 8 1010834 20240108184431
+125.235.236.99 0 4 51219 
+113.185.78.115 7 12 969855 20240131151343
+1.53.74.107 0 4 1009740 
+103.199.32.54 3 8 1010834 20240109182144
+125.235.186.158 3 5 9315 20240125132631
+27.68.87.94 2 7 1008110 20240112200055
+14.165.159.55 3 8 1010836 20240108204132
+14.191.174.147 3 6 959882 20240117205351
+125.235.212.186 0 1 252435 
+14.236.37.217 3 8 1067359 20240106232542
+1.52.163.12 3 8 1011103 20240110192329
+125.235.237.159 1 5 1508 20240120210727
+116.100.125.102 3 6 959881 20240131114146
+183.80.64.106 5 10 1013872 20240107105239
+115.79.68.249 4 8 963817 20240102100846
+79.137.65.46 1 1 4523 20240115123146
+171.251.237.67 3 7 962669 20240130181834
+58.187.74.201 3 8 1011104 20240110190415
+27.78.5.76 6 11 1015357 20240110185934
+104.28.222.75 1 1 1510 20240121111151
+27.2.201.5 2 5 959619 20240129071038
+171.234.11.64 2 7 963362 20240112195554
+171.249.196.247 6 11 1071226 20240117101148
+103.110.33.70 3 8 963627 20240112095421
+103.199.33.83 10 15 1089392 20240106092306
+115.76.54.176 3 8 1010835 20240108184653
+14.161.115.223 5 7 18910 20240101213556
+113.176.70.48 3 7 962401 20240108104111
+14.191.213.187 36 42 155584 20240121095203
+27.78.4.159 14 17 52657 20240102130102
+171.250.166.197 6 11 1015594 20240108185057
+116.99.253.250 3 8 1011102 20240119212800
+116.108.76.229 11 13 31251 20240107224023
+5.188.87.39 1 1 1741 20240128133342
+171.251.236.48 0 1 252435 
+125.235.234.2 3 8 1010829 20240109183818
+171.253.176.69 4 8 72193 20240121135956
+113.185.72.39 10 19 1225626 20240109153724
+113.183.203.181 3 7 962302 20240106091412
+113.185.92.162 0 1 252435 
+116.100.119.123 0 1 252435 
+42.114.20.254 12 30 3993191 20240120220617
+113.185.78.34 0 2 504870 
+125.235.236.42 0 1 252435 
+103.7.38.66 0 2 0 
+37.187.215.241 1 1 4523 20240115134036
+113.178.140.104 3 9 1263269 20240109234133
+116.99.251.47 3 8 1011101 20240122152227
+125.235.237.154 11 21 1856656 20240107181216
+118.71.192.39 3 8 1011101 20240114221942
+103.90.228.160 12 19 1231976 20240109143352
+171.251.236.251 3 6 959612 20240108190716
+125.235.132.249 2 7 963360 20240117163412
+27.78.4.126 7 12 1017360 20240110193821
+27.67.181.106 2 5 534854 20240116204032
+42.112.224.231 3 8 1011101 20240115075522
+103.249.23.23 4 4 15518 20240102131813
+103.249.23.13 20 27 1334435 20240114200033
+113.178.155.156 3 7 962672 20240114192239
+113.168.11.130 3 7 962401 20240109190003
+116.108.98.1 3 6 14210 20240117193025
+113.180.225.220 3 8 1010834 20240108083025
+117.7.221.84 3 8 1011102 20240110131106
+115.77.116.32 5 7 24014 20240127070935
+116.108.178.101 3 5 9404 20240131041709
+27.67.47.118 11 19 2124331 20240116025137
+27.115.124.40 0 1 957 
+125.212.158.13 3 7 962670 20240127171102
+171.244.208.206 6 13 1215139 20240131093945
+125.235.214.112 3 6 1016829 20240131132602
+14.173.251.64 1 1 1510 20240109185415
+125.235.212.34 8 15 1278664 20240130131248
+103.199.32.24 3 9 1263171 20240107202655
+116.97.108.203 3 8 1011101 20240113151722
+103.249.22.190 2 7 1010841 20240111133416
+123.26.25.0 3 8 1011102 20240111174115
+42.112.228.170 18 25 1205957 20240122135017
+66.102.6.226 1 3 705307 20240106195245
+14.191.172.176 3 7 962666 20240128212821
+125.235.237.202 5 10 1140934 20240121193205
+116.107.187.192 3 6 959885 20240111195214
+125.235.132.244 5 10 1014223 20240111192957
+103.199.57.96 0 2 0 
+27.67.39.86 4 6 9889 20240129070842
+27.115.124.109 2 5 1004366 20240123215427
+171.225.184.145 3 7 962302 20240101104801
+42.202.17.116 1 1 1738 20240129125930
+171.236.69.72 5 10 1215832 20240121225230
+171.235.208.170 3 8 1011100 20240113193814
+14.224.107.212 2 7 963364 20240110195556
+103.129.191.31 1 1 263 20240117114653
+125.235.237.131 4 7 961392 20240119143414
+1.55.36.130 0 1 252435 
+14.191.204.157 23 31 1282670 20240130161756
+125.212.158.85 3 8 1011101 20240113191808
+148.251.81.231 1 1 1640 20240126073748
+14.165.147.216 3 8 1011100 20240111175144
+49.213.78.31 0 13 2998527 
+113.160.186.243 3 8 1010833 20240108231210
+116.106.176.186 6 13 1215161 20240123194317
+14.191.141.165 3 8 1011100 20240111114302
+116.98.249.153 2 5 959253 20240102090459
+113.185.41.150 3 8 964921 20240113193220
+113.167.124.167 3 6 959884 20240113142026
+125.235.235.231 6 11 1015534 20240108184353
+14.240.7.162 3 8 963357 20240108111239
+51.15.242.27 2 5 959349 20240108184642
+1.55.50.130 11 20 1221963 20240131191925
+171.255.162.84 7 10 13439 20240123125849
+116.97.106.71 3 8 1011102 20240116194735
+125.212.158.142 3 8 1010831 20240108184456
+159.65.15.95 1 1 1742 20240127133059
+113.185.46.246 2 7 1020312 20240113191400
+192.99.168.149 1 1 1736 20240122223835
+113.185.92.41 5 7 705930 20240113221855
+27.67.93.82 3 8 1011099 20240112205148
+14.165.90.79 3 7 962299 20240101054025
+113.185.93.62 4 6 14705 20240119211735
+104.28.195.233 1 1 1507 20240119182923
+1.52.162.43 0 4 51219 
+113.177.165.252 4 8 964178 20240112213036
+14.255.44.31 2 7 1008111 20240116195027
+125.212.151.162 3 7 962668 20240131094610
+103.199.33.104 37 39 766724 20240108073637
+14.237.3.25 5 9 1088531 20240113143254
+162.142.125.224 1 4 53915 20240124211614
+113.185.92.90 4 6 645466 20240108064506
+112.197.228.92 9 19 2080298 20240114195405
+103.199.32.22 3 8 1011103 20240111182915
+1.53.37.234 2 6 962407 20240117201441
+113.177.77.172 3 8 1011106 20240111183755
+171.225.209.133 0 1 252435 
+14.161.190.248 26 40 1909649 20240123192740
+103.67.163.4 13 20 1241998 20240102124329
+14.239.183.150 3 8 1011100 20240116192719
+14.251.67.225 3 8 1010833 20240109181045
+113.181.99.78 4 9 1012689 20240116204816
+14.234.39.141 3 7 941225 20240101134933
+27.66.209.20 6 10 965416 20240109185523
+125.235.236.204 1 1 1510 20240127235012
+14.191.36.59 3 8 963626 20240110184947
+58.187.74.75 3 7 962300 20240101194821
+1.53.152.86 0 1 252435 
+103.199.57.183 7 14 1219109 20240118080712
+123.31.75.15 3 8 1011100 20240111191710
+117.5.156.208 3 8 1010834 20240109185719
+14.161.114.190 9 16 1225411 20240114115615
+27.67.72.243 1 4 320147 20240115144323
+171.236.64.190 3 7 962669 20240110221435
+1.55.50.206 7 12 1605225 20240117221656
+103.129.191.214 7 14 1223748 20240131090542
+171.249.22.104 8 13 1164455 20240119184926
+116.108.96.121 15 24 1232921 20240114120051
+125.235.236.91 4 6 14571 20240114164717
+103.129.191.6 3 5 641199 20240114083003
+113.161.17.115 3 8 1010833 20240109181140
+113.178.237.146 6 12 1166832 20240127231058
+125.212.151.133 1 1 1511 20240111090257
+103.249.23.11 3 10 1128755 20240109142954
+116.98.249.127 3 7 1212315 20240111194444
+116.96.77.139 3 8 1011101 20240112195646
+125.235.237.248 8 13 1172715 20240107210044
+113.191.91.32 4 8 963813 20240101212532
+115.77.204.225 6 10 18617 20240120194423
+171.243.37.140 3 7 962400 20240108140607
+14.245.250.183 3 7 962669 20240129091054
+42.116.126.183 0 1 252435 
+103.249.22.187 1 1 263 20240111133422
+14.167.240.220 3 7 962669 20240117213536
+104.28.227.232 5 9 131787 20240121203723
+103.199.56.229 18 25 1244879 20240109141656
+27.68.136.117 0 1 252435 
+116.110.185.3 1 3 689158 20240110204420
+113.179.252.39 3 9 1011789 20240109212257
+171.243.53.224 2 5 959618 20240112104706
+112.197.8.73 2 5 959621 20240116154957
+125.235.236.156 10 15 1022031 20240131193607
+125.235.236.71 5 10 1068304 20240108165458
+14.255.199.49 3 8 1010835 20240109185715
+115.75.157.236 3 7 962298 20240102122207
+14.239.30.46 4 8 963811 20240101094136
+14.163.85.161 3 7 962300 20240101212953
+27.71.78.31 3 8 1010734 20240107082635
+14.164.230.120 9 12 954193 20240131153739
+116.98.247.160 3 8 1011100 20240111191716
+116.109.173.123 4 9 1012655 20240110193536
+116.108.71.76 5 14 1163733 20240131194731
+42.116.246.7 24 28 68689 20240128200020
+125.235.237.0 9 13 1172448 20240131122539
+125.235.236.40 13 21 1434073 20240118070726
+14.179.144.233 3 9 1263538 20240112194608
+14.191.32.239 3 7 962667 20240121214707
+14.191.76.68 2 5 959622 20240116175913
+14.245.174.19 3 7 962665 20240117101624
+171.244.99.203 4 9 1012238 20240106113813
+115.72.161.189 3 8 963257 20240103185245
+103.199.33.175 3 5 9171 20240112132430
+125.235.236.141 10 13 27950 20240131135150
+113.184.43.182 3 8 1010736 20240105060745
+103.199.33.39 7 14 1219033 20240105124806
+42.114.201.135 3 8 1010834 20240109182400
+14.191.55.241 3 7 962667 20240116203355
+66.249.82.14 10 19 1690081 20240120171227
+42.112.228.182 10 17 1228199 20240121151310
+116.99.16.98 3 8 1011103 20240110205951
+113.180.4.23 3 8 1011100 20240110122924
+103.129.191.201 8 15 1230242 20240106170915
+171.243.58.139 0 1 252435 
+14.255.64.145 3 8 963626 20240119215210
+103.249.23.14 0 1 252435 
+103.249.23.24 4 10 1136230 20240102131731
+113.167.118.12 3 8 1010833 20240108175930
+113.185.92.83 6 8 22084 20240106224644
+115.73.40.159 0 1 252435 
+14.174.229.232 3 7 962669 20240116163233
+27.78.7.45 1 1 0 20240111073201
+113.167.198.140 1 3 689156 20240116135832
+14.255.195.135 0 1 252435 
+103.199.56.91 10 17 1231422 20240112114322
+171.237.148.71 3 7 962670 20240113195012
+42.202.16.77 1 1 1739 20240129130041
+14.181.87.88 3 8 1011100 20240116201229
+171.246.9.210 0 1 252435 
+113.185.92.249 4 7 129021 20240129122027
+14.175.174.226 3 8 1011100 20240116193128
+27.64.160.168 3 8 1011101 20240118201923
+103.143.143.226 8 14 1617324 20240113193702
+171.255.122.236 8 13 1164463 20240110084904
+42.114.21.133 2 5 958372 20240122213852
+1.55.21.8 0 1 252435 
+34.70.61.180 6 14 1982285 20240112041140
+103.199.56.185 5 10 1140937 20240112094406
+103.199.57.188 8 13 1169105 20240130183710
+171.254.144.49 3 8 963624 20240112200757
+14.234.182.37 0 1 252435 
+123.18.208.52 3 7 962668 20240129101456
+103.249.21.195 0 1 252435 
+103.129.191.192 10 13 660930 20240117090829
+103.129.191.207 8 15 1228115 20240108072513
+14.181.133.234 3 7 962668 20240111210347
+222.252.196.179 3 8 963627 20240128130445
+113.177.81.239 1 4 78366 20240110193105
+183.80.215.128 6 11 969397 20240108185111
+171.246.8.107 0 2 0 
+14.179.154.57 3 7 962302 20240101100655
+42.112.227.97 9 16 1279604 20240104214805
+171.235.221.212 0 1 252435 
+125.235.237.237 3 8 963624 20240118193916
+125.212.158.158 5 8 963027 20240122133409
+113.168.75.253 3 8 1011104 20240110195104
+125.212.158.52 2 5 959618 20240111182103
+171.255.79.232 3 8 1010833 20240109183628
+14.191.173.193 3 8 1011100 20240115194955
+42.112.90.210 6 10 20736 20240104184023
+103.129.191.216 3 3 789 20240131090443
+171.253.183.154 6 9 68375 20240129142417
+125.212.158.18 3 8 1011105 20240116191652
+14.176.140.166 9 16 1222264 20240130144954
+27.78.5.141 14 28 2394768 20240102073525
+125.212.159.230 2 7 1008110 20240110192425
+113.183.11.211 3 8 1010832 20240109190846
+125.212.158.43 5 10 1014006 20240108185243
+103.199.57.60 4 9 1203835 20240111222346
+14.234.147.17 7 12 969866 20240118203900
+171.254.152.219 5 7 13444 20240119134245
+117.6.237.181 1 3 1508 20240131085406
+116.99.252.7 3 8 1011099 20240114220224
+14.175.185.22 3 8 1010731 20240107072532
+14.191.76.93 12 21 1233213 20240119193656
+125.235.237.218 0 3 48433 
+14.249.84.49 1 3 689156 20240118183027
+14.191.205.218 4 8 637592 20240121121252
+14.191.22.169 3 8 1011102 20240117202904
+113.177.71.141 3 8 1011101 20240117203240
+113.184.174.187 13 19 1182533 20240116190320
+14.191.211.63 3 8 1011101 20240119213826
+113.185.94.21 4 6 14720 20240121220442
+14.191.76.123 9 18 1227286 20240121082218
+27.2.226.69 2 5 959617 20240120132014
+42.117.10.68 2 5 959621 20240110191354
+20.195.105.142 0 1 3104256 
+222.253.161.4 2 7 1003825 20240104113744
+113.185.92.38 5 7 20269 20240101122755
+14.164.144.141 1 4 631011 20240115142653
+103.249.23.12 1 1 0 20240102131726
+103.249.23.22 1 1 263 20240131150700
+42.116.118.91 6 13 1922556 20240112200855
+14.231.160.165 2 6 962135 20240108164917
+14.191.204.113 0 2 688016 
+42.112.91.130 3 8 1011102 20240111182125
+14.191.204.139 18 27 1248308 20240130190515
+171.253.70.88 3 8 1011102 20240112191822
+113.184.176.58 8 13 1280603 20240123172338
+117.3.120.109 6 13 1215167 20240115155849
+113.178.239.36 6 12 1212227 20240123130559
+27.115.124.118 2 5 1004367 20240112195719
+123.26.234.93 3 7 962669 20240131214512
+103.199.56.172 11 13 33276 20240130130956
+42.117.163.252 7 12 1017367 20240110212632
+14.240.248.17 2 7 963358 20240119100137
+116.97.57.63 3 8 1011103 20240110193009
+125.235.237.17 4 8 8845 20240117080218
+203.162.170.97 3 8 1011101 20240121131445
+35.171.144.152 1 1 4523 20240126093628
+103.249.21.170 1 1 263 20240122074937
+14.230.79.219 9 14 1020424 20240120132012
+171.252.109.196 3 8 1011102 20240112194928
+103.199.57.151 2 5 959253 20240105234101
+14.234.158.132 9 22 2981812 20240115192749
+14.182.242.212 4 8 1020483 20240101223157
+171.254.140.80 3 8 1068048 20240119142048
+27.71.98.215 0 1 252435 
+171.241.208.13 3 7 962670 20240129131304
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240101 136 265 25019904 29
+20240102 671 865 30614812 42
+20240103 108 175 11246980 19
+20240104 115 177 10623864 14
+20240105 453 566 15589907 26
+20240106 284 413 26267342 30
+20240107 291 420 25799762 33
+20240108 1284 1703 89944644 91
+20240109 1085 1448 68270772 76
+20240110 1378 1805 87310428 95
+20240111 733 1144 85794223 88
+20240112 276 548 55186487 63
+20240113 179 387 45073404 48
+20240114 244 438 38174172 39
+20240115 1240 1535 54799221 64
+20240116 701 960 51419346 61
+20240117 315 495 32479214 49
+20240118 515 662 26691849 33
+20240119 442 606 26343125 35
+20240120 169 300 24229808 35
+20240121 155 282 19887171 31
+20240122 714 852 24329508 32
+20240123 574 705 22448761 28
+20240124 64 126 10051521 12
+20240125 294 348 5970423 17
+20240126 386 438 7622776 13
+20240127 103 196 16560496 22
+20240128 119 180 8062186 15
+20240129 751 946 27755597 49
+20240130 342 510 22821462 39
+20240131 400 605 34440558 55
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 33
+15mn-30mn 22
+5mn-15mn 63
+30mn-1h 19
+0s-30s 889
+30s-2mn 179
+2mn-5mn 78
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 687
+/login 2327 3515511 1182 325
+/tra-cuu-diem 1311 5662620 9 323
+/api/he-dao-tao/all 987 129297 2 0
+/fonts/vendor/bootstrap3/dist/glyphicons-halflings-regular.woff2 903 14891128 7 163
+/api/nien-khoa/all 859 204442 3 2
+/site.webmanifest 800 204351 25 349
+/api/nhap-diem 692 874306 0 4
+/nhap-diem 657 2200133 10 0
+/ 653 2309615 12 18
+/dashboard 364 1275983 8 21
+/fonts/vendor/font-awesome/fontawesome-webfont.woff2 307 18534775 14 13
+/api/quyet-dinh/all/0 175 171150 0 0
+/api/khoa-dao-tao/all 157 432967 0 0
+/lop-hoc 135 454411 1 0
+/api/lop-hoc/paginate 134 179561 0 0
+/api/mon-hoc/all-by-khoa-dao-tao 103 116431 0 2
+/api/excel/import-score 95 87933 0 0
+/api/lop-hoc/83 75 22243 0 0
+/nhap-diem/49/ket-qua-hoc-tap 67 1016934 0 3
+/api/nganh-nghe/all 67 85492 0 0
+/api/lop-hoc/63 53 15473 0 0
+/api/khoa-dao-tao 53 53827 0 0
+/khoa-dao-tao 51 172972 1 0
+/api/dot-thi 48 43363 0 0
+/api/lop-hoc/49 46 13754 0 0
+/api/mon-hoc/832 1 190 0 0
+/api/lop-hoc/49/hoc-ky 6 7974 0 0
+/api/lop-hoc/74/hoc-ky-tab0 1 169 0 0
+/api/lop-hoc/delete_mh/320 1 6 0 0
+/api/mon-hoc/323 1 211 0 0
+/nhap-diem/120 6 20626 0 0
+/api/dot-thi/27/danhsachsinhvien 7 12712 0 0
+/api/mon-hoc/4 1 200 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6MSwibWhfaWQiOiIzNCJ9 1 3368 0 0
+/xxl-job/toLogin 1 0 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzM5In0= 1 3367 0 0
+/nhap-diem/46/ket-qua-hoc-tap/export 10 201033 0 1
+/api/mon-hoc/334 1 175 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkxMSJ9 1 3369 0 0
+/api/lop-hoc/82/hoc-ky 3 2497 0 0
+/lop-hoc/39 1 3387 0 0
+/api/mon-hoc/872 1 181 0 0
+/nhap-diem/62 7 24141 0 0
+/api/mon-hoc/729 1 184 0 0
+/api/mon-hoc/1337 1 215 0 0
+/api/mon-hoc/914 1 198 0 0
+/api/mon-hoc/744 2 392 0 0
+/nhap-diem/82/ket-qua-hoc-tap 7 80704 0 1
+/user/change-password 7 21491 0 0
+/nhap-diem/96 2 6895 0 0
+/api/lop-hoc/delete_mh/266 1 6 0 0
+/api/lop-hoc/delete_mh/321 1 6 0 0
+/api/nhap-diem/45/hoc-ky 6 8568 0 0
+/api/nhap-diem/62/bang-diem 2 2389 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyMCIsImhvY19reSI6MSwibWhfaWQiOiIyNjAifQ== 1 3372 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg1IiwiaG9jX2t5IjoyfQ== 1 3053 0 0
+/api/nhap-diem/97/hoc-ky 17 19611 0 1
+/api/nhap-diem/85/bang-diem 13 7884 0 0
+/api/dot-thi/all 11 2138 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk0IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQifQ== 1 3368 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjQxMyJ9 1 3365 0 0
+/api/mon-hoc/607 1 197 0 0
+/nhap-diem/74/ket-qua-hoc-tap 42 783476 1 2
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjYzIiwiaG9jX2t5IjoxfQ== 1 3053 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg1IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijg1OSJ9 3 10098 1 0
+/nhap-diem/98 9 30996 0 0
+/api/lop-hoc/83/update-sync-mon-hoc-by-kdt 2 12 0 0
+/api/mon-hoc/195 1 178 0 0
+/api/nhap-diem/98/hoc-ky 9 11274 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkxNCJ9 1 3368 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyMiIsImhvY19reSI6MSwibWhfaWQiOiIxNzUifQ== 19 65140 0 0
+/api/lop-hoc/82 19 5389 0 0
+/nhap-diem/77/ket-qua-hoc-tap 5 80915 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg1IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijg3MiJ9 1 3365 0 0
+/api/lop-hoc/delete_mh/308 1 6 0 0
+/api/nhap-diem/84/bang-diem 8 9848 0 1
+/nhap-diem/115 12 40948 0 0
+/dot-thi/ket-qua-hoc-tap/40/22 1 11051 0 0
+/api/nhap-diem/49/bang-diem-dot-thi 1 444 0 0
+/api/nhap-diem/62/hoc-ky 8 10728 0 0
+/api/nhap-diem/74/bang-diem 14 15472 0 0
+/user/1068/edit 4 13744 0 0
+/api/mon-hoc/956 1 199 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjozLCJtaF9pZCI6IjMwOCJ9 4 13477 0 0
+/api/lop-hoc/45/ds-sinh-vien 3 2988 0 0
+/nhap-diem/46 24 81391 0 0
+/khoa-dao-tao/94/hoc-ky 4 13516 0 0
+/nhap-diem/45/ket-qua-hoc-tap/export 8 105882 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOCIsImhvY19reSI6MSwibWhfaWQiOiIzMzIifQ== 1 3375 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjozLCJtaF9pZCI6IjMyMyJ9 1 3370 0 0
+/api/nhap-diem/74/hoc-ky 17 28962 0 0
+/api/khoa-dao-tao/64/hoc-ky 2 2746 0 0
+/api/lop-hoc/95 10 2890 0 0
+/nhap-diem/64 5 17243 0 0
+/api/lop-hoc/81/hoc-ky-tab0 2 245 0 0
+/khoa-dao-tao/78/hoc-ky 1 3384 0 0
+/nhap-diem/116 15 51366 0 0
+/nhap-diem/45/ket-qua-hoc-tap 24 243914 0 1
+/api/lop-hoc/delete_mh/314 1 6 0 0
+/api/lop-hoc/delete_mh/307 1 6 0 0
+/api/nhap-diem/122/hoc-ky 10 9729 0 1
+/tra-cuu-diem/xuat-danh-sach 37 2166602 0 6
+/nhap-diem/83/ket-qua-hoc-tap/export 2 34212 0 0
+/nhat-ky/119/lop-hoc 1 5686 0 0
+/api/nhap-diem/82/bang-diem 7 7356 0 0
+/khoa-dao-tao/121/hoc-ky 1 3358 0 0
+/api/lop-hoc/46/hoc-ky 1 1697 0 0
+/api/mon-hoc/1404 1 199 0 0
+/nhap-diem/110 7 23833 0 0
+/api/nhap-diem/102/hoc-ky 7 8650 0 0
+/api/lop-hoc/67 16 4694 0 0
+/api/khoa-dao-tao/70/updateSyncMonHocTheoNN 1 6 0 0
+/api/nhap-diem/63/hoc-ky 27 39765 0 2
+/nhap-diem/82/ket-qua-hoc-tap/export 1 12853 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjQyNiJ9 1 3365 0 0
+/nhap-diem/113/ket-qua-hoc-tap 1 8194 0 0
+/api/nhap-diem/49/hoc-ky 28 53995 0 0
+/api/lop-hoc/delete_mh/272 1 6 0 0
+/api/nhap-diem/94/hoc-ky 12 16658 0 0
+/api/lop-hoc/delete_mh/318 1 6 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjYzIiwiaG9jX2t5IjoyfQ== 2 6105 0 0
+/api/nhap-diem/116/hoc-ky 15 18476 0 0
+/api/dot-thi/22/danhsachsinhvien 1 1340 0 0
+/api/lop-hoc/delete_mh/305 1 6 0 0
+/api/nhap-diem/49/bang-diem 15 11687 0 1
+/api/mon-hoc/1334 1 191 0 0
+/lop-hoc/119/hoc-ky 2 6730 0 0
+/api/mon-hoc/1340 1 202 0 0
+/api/sinh-vien/cap-nhat-quyet-dinh-sinh-vien 1 0 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ5IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc0NyJ9 2 6732 0 0
+/api/mon-hoc/750 1 197 0 0
+/api/nhap-diem/120/bang-diem 3 1377 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MSwibWhfaWQiOiIxNDc3In0= 1 3364 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyMSIsImhvY19reSI6MSwibWhfaWQiOiIxNDk5In0= 1 3373 0 0
+/api/user/3197 2 546 0 0
+/api/user/2607 1 240 0 0
+/api/lop-hoc/49/ds-sinh-vien 1 1610 0 0
+/api/lop-hoc/97/update-sync-mon-hoc-by-kdt 1 6 0 0
+/nhap-diem/70/ket-qua-hoc-tap 4 58236 0 1
+/api/lop-hoc/delete_mh/313 1 6 0 0
+/api/nhap-diem/80/hoc-ky 2 2852 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY4IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc0NiJ9 1 3364 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjozLCJtaF9pZCI6IjUifQ== 1 3369 0 0
+/api/lop-hoc/40 1 276 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY5IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjgzMiJ9 1 3364 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjMxMCJ9 6 20414 0 0
+/api/dot-thi/27/dsmon 1 214 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNCIsImhvY19reSI6MSwibWhfaWQiOiIxNDA0In0= 1 3366 0 0
+/api/mon-hoc/428 1 207 0 0
+/nhap-diem/62/ket-qua-hoc-tap 23 396792 0 2
+/api/lop-hoc/85 19 5586 0 0
+/nhap-diem/86 9 31028 0 0
+/api/lop-hoc/110 9 2511 0 0
+/api/dot-thi/22 2 444 0 0
+/nhap-diem/63 25 85244 0 0
+/nhap-diem/116/ket-qua-hoc-tap 1 10203 0 0
+/lop-hoc/46/hoc-ky 1 3381 0 0
+/nhap-diem/62/ket-qua-hoc-tap/export 6 85262 0 2
+/api/lop-hoc/46 39 12103 0 0
+/nhap-diem/63/ket-qua-hoc-tap 36 453418 0 1
+/lop-hoc/97/hoc-ky 1 3391 0 0
+/khoa-dao-tao/64/hoc-ky 2 6775 0 0
+/api/mon-hoc/332 3 615 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg1IiwiaG9jX2t5IjoxfQ== 2 6106 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ5IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc0NiJ9 1 3366 0 0
+/nhap-diem/102/ket-qua-hoc-tap 1 10010 0 0
+/api/lop-hoc/119/hoc-ky 5 5225 0 0
+/api/lop-hoc/119 12 3180 0 0
+/api/dot-xet-tot-nghiep/8 1 206 0 0
+/api/nhap-diem/100/hoc-ky 8 9000 0 0
+/api/mon-hoc/912 1 186 0 0
+/api/khoa-dao-tao/120/hoc-ky 2 2540 0 0
+/api/nhap-diem/77/hoc-ky 3 4068 0 0
+/api/khoa-dao-tao/78/updateSyncMonHocTheoNN 1 6 0 0
+/nhap-diem/69/ket-qua-hoc-tap 4 41368 0 1
+/api/lop-hoc/63/hoc-ky 20 23791 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNSIsImhvY19reSI6MSwibWhfaWQiOiIxNDM5In0= 1 3366 0 0
+/api/nhap-diem/45/bang-diem 3 1349 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjYyIiwiaG9jX2t5IjozLCJtaF9pZCI6IjM0NiJ9 1 3368 0 0
+/api/nhap-diem/86/hoc-ky 9 13902 0 0
+/api/mon-hoc/242 1 186 0 0
+/nhap-diem/76 9 31006 0 0
+/api/lop-hoc/delete_mh/278 1 6 0 0
+/api/user/current/password 4 140 0 1
+/api/lop-hoc/delete_mh/886 1 6 0 0
+/api/mon-hoc/1477 1 239 0 0
+/api/mon-hoc/227 1 195 0 0
+/api/khoa-dao-tao/120 2 522 0 0
+/api/nhap-diem/119/bang-diem 4 2833 0 0
+/nhat-ky 8 20346 0 0
+/api/nhap-diem/69/bang-diem 2 1386 0 0
+/api/mon-hoc/443 1 198 0 0
+/nhap-diem/100 8 27469 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNCIsImhvY19reSI6MSwibWhfaWQiOiIxNDAyIn0= 1 3363 0 0
+/api/mon-hoc/308 6 1248 0 0
+/api/mon-hoc/286 7 1365 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo1LCJtaF9pZCI6IjQyOSJ9 1 3365 0 0
+/api/mon-hoc/260 1 186 0 0
+/nhap-diem/95 7 24137 0 0
+/api/nhap-diem/65/bang-diem 2 1658 0 0
+/api/lop-hoc/delete_mh/322 1 6 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzM0In0= 1 3375 0 0
+/api/lop-hoc/delete_mh/324 1 6 0 0
+/api/mon-hoc/1499 2 384 0 0
+/api/user/paginate 9 11937 0 0
+/api/mon-hoc/1339 1 198 0 0
+/api/lop-hoc/dot-thi-lop-hoc/27 16 14629 0 1
+/api/lop-hoc/77 3 948 0 0
+/nhap-diem/79/ket-qua-hoc-tap 9 154293 0 1
+/api/nhap-diem/99/hoc-ky 7 8869 0 0
+/api/lop-hoc/delete_mh/316 3 18 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgyIiwiaG9jX2t5IjoxLCJtaF9pZCI6IjMzNyJ9 2 6742 0 0
+/nhat-ky/120/lop-hoc 1 5475 0 0
+/api/lop-hoc/delete_mh/885 1 6 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ1IiwiaG9jX2t5Ijo1LCJtaF9pZCI6Ijg0OSJ9 1 3363 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MSwibWhfaWQiOiIzMzcifQ== 1 3372 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk0IiwiaG9jX2t5IjoxLCJtaF9pZCI6Ijg5NyJ9 1 3369 0 0
+/api/lop-hoc/80 2 632 0 0
+/api/mon-hoc/346 1 196 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkxMiJ9 1 3368 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk4IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkzMCJ9 1 3367 0 0
+/nhap-diem/49 28 95109 1 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjozLCJtaF9pZCI6IjMwNSJ9 1 3367 0 0
+/api/user/2159 1 264 0 0
+/api/nhap-diem/99/bang-diem 8 5413 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNSIsImhvY19reSI6MSwibWhfaWQiOiIxNDM4In0= 1 3364 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk0IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjcifQ== 1 3369 0 0
+/api/mon-hoc/254 1 181 0 0
+/api/lop-hoc/39 2 518 0 0
+/dot-thi/22 6 20322 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjYzIiwiaG9jX2t5IjoyLCJtaF9pZCI6IjMyOCJ9 1 3371 0 0
+/nhap-diem/81/ket-qua-hoc-tap/export 1 13438 0 0
+/api/lop-hoc/delete_mh/274 1 6 0 0
+/api/khoa-dao-tao/94/hoc-ky 6 4476 0 0
+/lop-hoc/81/hoc-ky 1 3394 0 0
+/api/lop-hoc/84/ds-sinh-vien 1 2609 0 0
+/api/lop-hoc/68 10 2830 0 0
+/api/lop-hoc/99 12 3624 0 0
+/nhap-diem/101/ket-qua-hoc-tap 4 42839 0 1
+/api/lop-hoc/114 17 4726 0 0
+/api/lop-hoc/delete_mh/18 1 6 0 0
+/khoa-dao-tao/69/hoc-ky 2 6768 0 0
+/nhap-diem/99 7 24139 0 0
+/api/get_keywords.php 1 0 0 0
+/api/mon-hoc/337 3 570 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6MSwibWhfaWQiOiIzMSJ9 1 3370 0 0
+/api/dot-xet-tot-nghiep 9 7668 0 0
+/dot-thi/27 16 54202 0 0
+/api/mon-hoc/425 2 412 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzM1In0= 1 3375 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjQyNSJ9 2 6727 0 0
+/api/lop-hoc/delete_mh/306 1 6 0 0
+/api/nhap-diem/82/hoc-ky 12 15025 0 0
+/nhap-diem/77 3 10341 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg1IiwiaG9jX2t5IjozfQ== 1 3053 0 0
+/api/mon-hoc/747 2 390 0 0
+/api/user/2184 1 230 0 0
+/api/lop-hoc/45 10 2940 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQwOCJ9 2 6730 0 0
+/nhap-diem/45 6 20136 0 0
+/api/lop-hoc/71 6 1902 0 0
+/api/mon-hoc/1475 3 594 0 0
+/api/lop-hoc/94 16 4624 0 0
+/api/lop-hoc/101/ds-sinh-vien 1 1358 0 0
+/api/nhap-diem/71/bang-diem 3 2136 0 0
+/user/create 1 3426 0 0
+/api/mon-hoc/305 1 182 0 0
+/api/lop-hoc/86 11 3124 0 0
+/nhap-diem/122 10 34400 0 0
+/api/khoa-dao-tao/121/hoc-ky 1 1090 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMCIsImhvY19reSI6MSwibWhfaWQiOiIzMzIifQ== 1 3374 0 0
+/nhap-diem/63/ket-qua-hoc-tap/export 7 97096 0 2
+/api/dot-xet-tot-nghiep/all 37 11296 0 0
+/api/khoa-dao-tao/64 2 504 0 0
+/api/nhap-diem/86/bang-diem 2 1684 0 0
+/lop-hoc/49 1 3390 0 0
+/nhap-diem/75/ket-qua-hoc-tap/export 3 46073 0 1
+/nhap-diem/46/ket-qua-hoc-tap 43 1614846 1 2
+/api/nhap-diem/81/hoc-ky 12 14742 0 0
+/api/nhap-diem/75/hoc-ky 7 11743 0 0
+/api/dot-thi/all/dot-xet-tn 8 1704 0 0
+/api/nhap-diem/63/bang-diem 10 7315 0 1
+/api/lop-hoc/112 15 4335 0 0
+/api/mon-hoc/408 2 408 0 0
+/api/nhap-diem/83/hoc-ky 25 33144 0 2
+/api/mon-hoc/343 1 187 0 0
+/nhap-diem/79 6 20359 0 0
+/api/nhap-diem/79/bang-diem 5 3993 0 0
+/api/lop-hoc/delete_mh/887 1 6 0 0
+/api/nhap-diem/121/bang-diem 2 1673 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjozLCJtaF9pZCI6IjIyIn0= 1 3371 0 0
+/api/user/3081 1 230 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNSIsImhvY19reSI6MSwibWhfaWQiOiIxNDQxIn0= 1 3367 0 0
+/nhap-diem/102 7 24060 0 0
+/api/khoa-dao-tao/45 1 240 0 0
+/api/dot-xet-tot-nghiep/updateQd-trang-thai/7 1 5 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk5IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjI4NiJ9 4 13550 0 0
+/api/mon-hoc/1405 1 203 0 0
+/nhap-diem/97 17 58789 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzQwIn0= 1 3375 0 0
+/api/nhap-diem/118/hoc-ky 2 2100 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMCIsImhvY19reSI6MSwibWhfaWQiOiIzMzUifQ== 1 3374 0 0
+/api/nhap-diem/66/bang-diem 6 3914 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyMCIsImhvY19reSI6MywibWhfaWQiOiIyNTQifQ== 1 3373 0 0
+/imc 1 0 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc5IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI4MSJ9 1 3371 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjQyMCJ9 2 6725 0 0
+/api/nhap-diem/95/hoc-ky 9 12476 0 0
+/api/lop-hoc/97/hoc-ky-tab0 1 141 0 0
+/api/nhap-diem/112/bang-diem 11 11635 0 0
+/api/mon-hoc/328 1 191 0 0
+/api/mon-hoc/1335 1 217 0 0
+/api/mon-hoc/602 1 188 0 0
+/logout 10 0 1 0
+/api/mon-hoc/345 1 201 0 0
+/api/mon-hoc/224 2 384 0 0
+/khoa-dao-tao/120/hoc-ky 2 6824 0 0
+/dot-thi/27/danh-sach-xet-thi-tot-nghiep/export 6 106235 0 0
+/api/nhap-diem/79/hoc-ky 6 8036 0 0
+/api/nhap-diem/75/bang-diem 4 3522 0 0
+/nhap-diem/75 7 24144 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMiIsImhvY19reSI6MSwibWhfaWQiOiIyMjQifQ== 2 6746 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ5IiwiaG9jX2t5IjoyLCJtaF9pZCI6Ijc0NCJ9 2 6732 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjE4MSJ9 1 3369 0 0
+/api/mon-hoc/181 1 202 0 0
+/api/mon-hoc/426 1 205 0 0
+/api/lop-hoc/96 2 572 0 1
+/lop-hoc/74 1 3418 0 0
+/api/lop-hoc/delete_mh/280 1 6 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjYzIiwiaG9jX2t5IjozfQ== 1 3054 0 0
+/api/mon-hoc/911 1 201 0 0
+/api/lop-hoc/84 26 7410 0 0
+/api/mon-hoc/34 1 195 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQwMiJ9 1 3363 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgyIiwiaG9jX2t5IjozLCJtaF9pZCI6IjM0MyJ9 1 3368 0 0
+/api/nhap-diem/98/bang-diem 8 6370 0 0
+/api/mon-hoc/310 6 1158 0 0
+/api/mon-hoc/896 1 220 0 0
+/api/nhap-diem/101/bang-diem 6 4572 0 0
+/api/user/3061 1 233 0 0
+/nhap-diem/112 10 34130 0 0
+/nhap-diem/72/ket-qua-hoc-tap 2 17880 0 1
+/api/nhat-ky 6 8106 0 0
+/api/nhap-diem/102/bang-diem 7 5118 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc5IiwiaG9jX2t5IjoyfQ== 1 3054 0 0
+/api/nhap-diem/66/hoc-ky 9 12984 0 0
+/lop-hoc/82/hoc-ky 1 3394 0 0
+/api/nhap-diem/115/bang-diem 11 5533 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo1LCJtaF9pZCI6IjQyNyJ9 2 6729 0 0
+/api/mon-hoc/930 1 229 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MSwibWhfaWQiOiIxNDcyIn0= 1 3364 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMCIsImhvY19reSI6MSwibWhfaWQiOiIxMjA2In0= 1 3366 0 0
+/api/khoa-dao-tao/58/hoc-ky 15 21984 0 0
+/nhap-diem/85 9 30676 0 0
+/lop-hoc/120/hoc-ky 3 10187 0 0
+/nhap-diem/81/ket-qua-hoc-tap 15 224175 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkxMyJ9 1 3368 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgyIiwiaG9jX2t5IjozLCJtaF9pZCI6IjM0NSJ9 1 3369 0 0
+/nhap-diem/80 2 6893 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMiIsImhvY19reSI6MSwibWhfaWQiOiIyMjcifQ== 1 3374 0 0
+/api/lop-hoc/delete_mh/312 1 6 0 0
+/nhap-diem/83 24 82750 0 0
+/api/lop-hoc/74/hoc-ky 12 16492 0 0
+/nhap-diem/66 9 30618 0 0
+/nhap-diem/122/ket-qua-hoc-tap 3 34003 0 0
+/api/mon-hoc/429 1 206 0 0
+/api/lop-hoc/63/hoc-ky-tab0 8 1311 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjE4In0= 1 3370 0 0
+/api/lop-hoc/118 3 801 0 0
+/api/dot-thi/27 10 2154 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY1IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjE5MiJ9 1 3370 0 0
+/api/mon-hoc/420 2 474 0 0
+/api/mon-hoc/402 1 182 0 0
+/api/nien-khoa 4 1876 0 0
+/cgi-bh/login.cgi 1 0 0 0
+/api/lop-hoc/121 3 843 0 0
+/train/html/welcome.jsp 1 0 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ5IiwiaG9jX2t5Ijo1LCJtaF9pZCI6Ijc1NiJ9 2 6731 0 0
+/api/nhap-diem/96/hoc-ky 2 2716 0 0
+/api/mon-hoc/1201 1 191 0 0
+/api/lop-hoc/97 31 9262 0 0
+/nhap-diem/77/ket-qua-hoc-tap/export 3 44416 0 0
+/api/nhap-diem/114/bang-diem 11 6406 0 0
+/api/nhap-diem/41/hoc-ky 1 2175 0 0
+/khoa-dao-tao/58/hoc-ky 12 40864 0 0
+/api/lop-hoc/delete_mh/310 1 6 0 0
+/api/mon-hoc/849 1 194 0 0
+/nhap-diem/70 4 13794 0 0
+/api/mon-hoc/7 1 202 0 0
+/dot-thi/ket-qua-hoc-tap/45/27 2 15067 0 0
+/api/nhap-diem/68/bang-diem 4 2617 0 0
+/api/lop-hoc/get-sync-mon-hoc-by-kdt 12 3088 0 0
+/api/nhap-diem/67/bang-diem 10 11750 0 0
+/api/lop-hoc/82/hoc-ky-tab0 1 136 0 0
+/api/mon-hoc/1441 1 203 0 0
+/api/lop-hoc/46/ds-sinh-vien 1 3735 0 0
+/api/nhap-diem/84/hoc-ky 20 29013 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk5IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkzMyJ9 1 3368 0 0
+/nhat-ky/102/lop-hoc 1 5579 0 0
+/api/lop-hoc/74 38 11308 1 0
+/api/mon-hoc/192 1 203 0 0
+/lop-hoc/49/hoc-ky 6 20230 0 0
+/nhat-ky/99/lop-hoc 1 5650 0 0
+/api/nhap-diem/110/hoc-ky 7 7904 0 0
+/nhap-diem/71 5 17014 0 0
+/dot-thi/ket-qua-hoc-tap/49/27 5 50141 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo1fQ== 1 3055 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjozLCJtaF9pZCI6IjUifQ== 5 16845 0 0
+/api/lop-hoc/delete_mh/273 1 6 0 0
+/api/lop-hoc/74/ds-sinh-vien 1 2186 0 0
+/api/lop-hoc/dot-thi-lop-hoc/23 1 1125 0 0
+/nhap-diem/94 11 37934 0 0
+/nganh-nghe 9 27123 0 0
+/api/lop-hoc/delete_mh/267 1 6 0 0
+/api/mon-hoc/20 1 233 0 0
+/api/lop-hoc/62 9 2547 0 0
+/lop-hoc/101 1 3377 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjQ1IiwiaG9jX2t5Ijo1fQ== 1 3053 0 0
+/api/lop-hoc/79 9 2844 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY4IiwiaG9jX2t5Ijo0LCJtaF9pZCI6Ijc1MCJ9 1 3364 0 0
+/dot-thi/ket-qua-hoc-tap/55/23 1 9417 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgxIiwiaG9jX2t5IjozLCJtaF9pZCI6IjMzMyJ9 1 3368 0 0
+/api/lop-hoc/97/hoc-ky 4 3779 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjYzIiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjMyOSJ9 1 3369 0 0
+/remote/login 1 0 0 0
+/api/nhap-diem/65/hoc-ky 4 6210 0 0
+/nhap-diem/118 2 6894 0 0
+/api/mon-hoc/1439 1 189 0 0
+/index.php/login 1 1748 0 0
+/lop-hoc/81 1 3419 0 0
+/api/mon-hoc/746 2 418 0 0
+/nhap-diem/114/ket-qua-hoc-tap 1 10525 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjQ0MyJ9 1 3364 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjQ5IiwiaG9jX2t5Ijo1fQ== 1 3055 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI0MiJ9 1 3371 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjcyIiwiaG9jX2t5IjozfQ== 1 3055 0 0
+/api/lop-hoc/120 14 3979 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk0IiwiaG9jX2t5IjoxLCJtaF9pZCI6Ijg5NiJ9 1 3370 0 0
+/nhap-diem/81 11 37908 0 0
+/api/lop-hoc/102 11 2970 0 0
+/api/nhap-diem/39/hoc-ky 1 2352 0 0
+/api/lop-hoc/120/hoc-ky 6 5115 0 0
+/nhap-diem/68 8 27216 0 0
+/api/excel/import-raw-score 24 16703 0 1
+/api/lop-hoc/delete_mh/309 1 6 0 0
+/api/nhap-diem/76/bang-diem 9 8344 0 0
+/api/mon-hoc/18 1 234 0 0
+/api/khoa-dao-tao/78 2 489 0 0
+/api/lop-hoc/81/ds-sinh-vien 2 3707 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MSwibWhfaWQiOiIzMzIifQ== 1 3374 0 0
+/api/nhap-diem/119/hoc-ky 5 5277 0 0
+/api/lop-hoc/63/update-sync-mon-hoc-by-kdt 2 12 0 0
+/api/nhap-diem/112/hoc-ky 10 14162 0 0
+/nhap-diem/65/ket-qua-hoc-tap 10 144326 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNCIsImhvY19reSI6MSwibWhfaWQiOiIxNDAxIn0= 1 3363 0 0
+/api/khoa-dao-tao/58/updateSyncMonHocTheoNN 1 6 0 0
+/api/mon-hoc/341 1 189 0 0
+/api/mon-hoc/933 2 388 0 0
+/api/lop-hoc/70 4 1176 0 0
+/api/dot-thi/updateQd-trang-thai/22 2 10 0 0
+/nhap-diem/74 16 55190 0 0
+/api/nhap-diem/116/bang-diem 10 5012 0 0
+/api/mon-hoc 14 10462 0 0
+/api/nhap-diem/120/hoc-ky 6 5003 0 0
+/nhap-diem/40 1 3403 0 0
+/nhap-diem/100/ket-qua-hoc-tap 1 9743 0 0
+/lop-hoc/116/hoc-ky 3 10180 0 0
+/api/lop-hoc/81/hoc-ky 4 2674 0 0
+/api/mon-hoc/284 5 1045 0 0
+/api/nhap-diem/70/hoc-ky 4 6575 0 1
+/api/user/1068 9 2112 0 0
+/api/khoa-dao-tao/121 1 237 0 0
+/api/mon-hoc/784 1 222 0 0
+/nhap-diem/84 18 61341 0 0
+/dot-xet-tot-nghiep 8 27048 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY5IiwiaG9jX2t5IjozLCJtaF9pZCI6IjgyNyJ9 1 3373 0 0
+/khoa-dao-tao/70/hoc-ky 1 3389 0 0
+/api/nhap-diem/121/hoc-ky 2 1924 0 0
+/khoa-dao-tao/45/hoc-ky 1 3375 0 0
+/api/sinh-vien/1551 2 685 0 0
+/nhap-diem/115/ket-qua-hoc-tap 4 43576 0 0
+/nhap-diem/113 2 6808 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQ0OSJ9 2 6728 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoyfQ== 2 6104 0 0
+/nhap-diem/85/ket-qua-hoc-tap 2 20524 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY0IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI5OCJ9 1 3369 0 0
+/lop-hoc/45 2 6984 0 0
+/api/nhap-diem/113/hoc-ky 2 2531 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNCIsImhvY19reSI6MSwibWhfaWQiOiIxNDA1In0= 1 3367 0 0
+/api/mon-hoc/897 2 444 0 0
+/fonts/vendor/bootstrap3/dist/glyphicons-halflings-regular.woff 1 23424 0 0
+/dot-thi/ket-qua-hoc-tap/46/27 1 14503 0 0
+/api/lop-hoc/65 5 1415 0 0
+/nhap-diem/119 5 17223 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQwMSJ9 2 6744 0 0
+/api/nhap-diem/110/bang-diem 2 702 0 0
+/api/nhap-diem/69/hoc-ky 5 5255 0 0
+/api/user 1 87 0 0
+/nhap-diem/75/ket-qua-hoc-tap 7 128242 0 0
+/api/mon-hoc/335 1 195 0 0
+/nhap-diem/74/ket-qua-hoc-tap/export 6 93799 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNCIsImhvY19reSI6MSwibWhfaWQiOiIxNDAzIn0= 1 3366 0 0
+/api/mon-hoc/427 2 440 0 0
+/api/mon-hoc/913 1 187 0 0
+/nhap-diem/72 9 30368 0 0
+/api/khoa-dao-tao/69/hoc-ky 4 3217 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcyIiwiaG9jX2t5IjozLCJtaF9pZCI6IjYwNyJ9 1 3364 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMiIsImhvY19reSI6MSwibWhfaWQiOiIyMjYifQ== 1 3372 0 0
+/api/lop-hoc/83/hoc-ky 42 15873 0 0
+/api/nhap-diem/95/bang-diem 2 1389 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo1LCJtaF9pZCI6IjQyOCJ9 1 3363 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk4IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkzMyJ9 1 3368 0 0
+/nhap-diem/41 1 3402 0 0
+/api/nhap-diem/97/bang-diem 17 18833 0 0
+/api/lop-hoc/76 15 4725 0 0
+/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ5IiwiZG90X3RoaSI6IjI3IiwibWhfaWQiOiI4ODUifQ== 1 3391 0 0
+/api/khoa-dao-tao/45/hoc-ky 1 1244 0 0
+/nhap-diem/82 10 34468 0 0
+/api/mon-hoc/333 1 207 0 0
+/api/lop-hoc/81 18 5037 0 0
+/api/nhap-diem/76/hoc-ky 10 14302 0 0
+/api/mon-hoc/31 1 192 0 0
+/api/sinh-vien/743 1 328 0 0
+/api/user/1010 1 390 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyMiIsImhvY19reSI6MSwibWhfaWQiOiIxNTAwIn0= 1 3371 0 0
+/api/nien-khoa/14 1 107 0 0
+/lop-hoc/74/hoc-ky 5 16920 0 0
+/api/quyet-dinh/all/1 18 12420 0 0
+/api/lop-hoc/81/update-sync-mon-hoc-by-kdt 1 6 0 0
+/api/quyet-dinh/all/2 18 10891 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MSwibWhfaWQiOiIxNDc1In0= 3 10101 0 0
+/nhap-diem/65/ket-qua-hoc-tap/export 2 32069 0 0
+/api/lop-hoc/delete_mh/323 1 6 0 0
+/lop-hoc/83/hoc-ky 14 47461 0 0
+/api/mon-hoc/321 1 184 0 0
+/api/khoa-dao-tao/69/updateSyncMonHocTheoNN 1 6 0 0
+/nhap-diem/49/ket-qua-hoc-tap/export 11 186966 0 1
+/api/lop-hoc/120/hoc-ky-tab0 4 450 0 0
+/user 9 30787 0 0
+/nhap-diem/84/ket-qua-hoc-tap 23 391869 0 2
+/nhap-diem/76/ket-qua-hoc-tap/export 1 13037 0 0
+/api/mon-hoc/22 1 253 0 0
+/nhap-diem/101 7 24121 0 0
+/api/lop-hoc/116/hoc-ky 3 3861 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjozLCJtaF9pZCI6IjIwIn0= 1 3370 0 0
+/api/excel/import-ren-luyen-score 10 6305 0 0
+/nhap-diem/80/ket-qua-hoc-tap 5 70041 0 0
+/nhap-diem/110/ket-qua-hoc-tap 2 17148 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExNSIsImhvY19reSI6MSwibWhfaWQiOiIxNDQwIn0= 2 6732 0 0
+/api/lop-hoc/116 23 7083 0 0
+/api/nhap-diem/81/bang-diem 4 4249 0 0
+/api/khoa-dao-tao/getSyncMonHocTheoNN 14 4629 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk4IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjI4NiJ9 3 10109 0 0
+/api/khoa-dao-tao/70/hoc-ky 3 2577 0 0
+/api/lop-hoc/delete_mh/317 1 6 0 0
+/lop-hoc/84 1 3418 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk1IiwiaG9jX2t5IjoxLCJtaF9pZCI6Ijg5NyJ9 1 3371 0 0
+/api/lop-hoc/delete_mh/311 1 6 0 0
+/api/lop-hoc/all 10 24239 0 0
+/nhap-diem/120/ket-qua-hoc-tap 1 8370 0 0
+/api/mon-hoc/175 19 3401 0 0
+/dot-thi/22/danh-sach-sinh-vien 1 3367 0 0
+/api/lop-hoc/dot-thi-lop-hoc/22 6 3858 0 0
+/api/lop-hoc/delete_mh/325 1 6 0 0
+/api/nhap-diem/115/hoc-ky 12 15379 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjE5NSJ9 1 3370 0 0
+/axis 1 0 0 0
+/dot-thi 37 125055 0 0
+/api/lop-hoc/122 31 8680 0 2
+/api/nhap-diem/64/bang-diem 3 2405 0 0
+/nhap-diem/76/ket-qua-hoc-tap 3 35853 0 0
+/api/mon-hoc/1438 1 185 0 0
+/api/lop-hoc/100 11 3003 0 0
+/mon-hoc 15 50810 0 0
+/api/mon-hoc/859 3 618 0 0
+/nhap-diem/65 4 13795 0 0
+/dot-thi/22/danh-sach-xet-thi-tot-nghiep/export 1 18934 0 0
+/dot-thi/27/danh-sach-sinh-vien/export 3 573449 0 0
+/api/mon-hoc/401 1 214 0 0
+/api/nhap-diem/72/hoc-ky 9 11478 0 0
+/api/lop-hoc/75 9 2646 0 0
+/api/mon-hoc/281 1 181 0 0
+/api/lop-hoc/delete_mh/315 1 6 0 0
+/api/nhap-diem/64/hoc-ky 5 7202 0 0
+/api/khoa-dao-tao/94 4 1030 0 0
+/api/mon-hoc/1403 1 190 0 0
+/api/lop-hoc/41 1 278 0 0
+/api/dot-thi/updateQd-trang-thai/27 4 20 0 0
+/api/lop-hoc/101 11 2915 0 0
+/api/mon-hoc/1472 1 203 0 0
+/api/mon-hoc/298 1 219 0 0
+/api/lop-hoc/66 12 3540 0 0
+/api/nhap-diem/85/hoc-ky 11 15125 0 0
+/user/3197/edit 1 3438 0 0
+/api/lop-hoc/delete_mh/348 1 6 0 0
+/api/nhap-diem/71/hoc-ky 5 7434 0 0
+/nhap-diem/84/ket-qua-hoc-tap/export 7 107843 0 2
+/nhap-diem/112/ket-qua-hoc-tap 2 33867 0 0
+/api/lop-hoc/39/ds-sinh-vien 1 1009 0 0
+/lop-hoc/86 1 3417 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzM3In0= 1 3375 0 0
+/api/mon-hoc/1500 1 186 0 0
+/api/lop-hoc/120/update-sync-mon-hoc-by-kdt 1 6 0 0
+/nhap-diem/69 5 17056 0 0
+/api/nhap-diem/122/bang-diem 24 24114 0 0
+/nhap-diem/80/ket-qua-hoc-tap/export 3 41189 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMCIsImhvY19reSI6MSwibWhfaWQiOiIxMjAxIn0= 1 3363 0 0
+/api/nhap-diem/100/bang-diem 6 4079 0 0
+/nhap-diem/39 1 3402 0 0
+/api/dot-thi/16 1 280 0 0
+/api/mon-hoc/756 2 418 0 0
+/api/mon-hoc/329 1 217 0 0
+/api/mon-hoc/827 1 207 0 0
+/api/lop-hoc/delete_mh/327 3 18 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjozfQ== 1 3051 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc4NCJ9 1 3363 0 0
+/nhap-diem/83/ket-qua-hoc-tap 7 138489 0 0
+/api/lop-hoc/115 17 4760 0 0
+/api/mon-hoc/5 6 1284 0 0
+/api/nhap-diem/68/hoc-ky 8 12052 0 0
+/api/mon-hoc/449 2 432 0 0
+/api/nhap-diem/83/bang-diem 14 18548 0 0
+/fonts/vendor/font-awesome/fontawesome-webfont.woff 1 98024 0 0
+/api/dot-thi/cap-nhat-dot-thi-cho-lop 15 3171 0 0
+/api/nganh-nghe 8 6290 0 0
+/api/mon-hoc/424 2 426 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcyIiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjYwMiJ9 1 3367 0 0
+/nhap-diem/118/ket-qua-hoc-tap 1 10207 0 1
+/nhap-diem/67 13 44325 0 0
+/api/lop-hoc/83/hoc-ky-tab0 2 327 0 0
+/api/mon-hoc/1402 1 186 0 0
+/forgot-password 4 8566 2 3
+/Business/UserLogin.aspx 1 0 0 0
+/api/nhap-diem/94/bang-diem 9 6620 0 0
+/nhat-ky/122/lop-hoc 1 5854 0 0
+/nhat-ky/121/lop-hoc 1 5806 0 0
+/api/lop-hoc/82/update-sync-mon-hoc-by-kdt 1 6 0 0
+/api/mon-hoc/1206 1 206 0 0
+/api/sinh-vien/1114 2 728 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6MSwibWhfaWQiOiI5NTYifQ== 1 3373 0 0
+/api/lop-hoc/113 2 594 0 0
+/api/lop-hoc/86/ds-sinh-vien 2 3830 0 0
+/api/khoa-dao-tao/58 13 3335 0 0
+/api/lop-hoc/delete_mh/326 3 18 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMCIsImhvY19reSI6MiwibWhfaWQiOiIzMzQifQ== 1 3372 0 0
+/api/nhap-diem/46/hoc-ky 24 51810 0 2
+/api/khoa-dao-tao/70 2 506 0 0
+/api/mon-hoc/1401 1 202 0 0
+/api/nhap-diem/72/bang-diem 8 3462 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI4NCJ9 4 13475 0 0
+/api/lop-hoc/64 6 1914 0 0
+/dot-thi/nhap-diem/49/27 1 3447 0 0
+/nhap-diem/67/ket-qua-hoc-tap 2 58803 0 0
+/nhap-diem/114 12 40845 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgxIiwiaG9jX2t5IjoyLCJtaF9pZCI6IjM0MSJ9 1 3371 0 0
+/fonts/vendor/font-awesome/fontawesome-webfont.ttf 1 95744 0 0
+/api/nhap-diem/46/bang-diem 30 42110 1 1
+/nhap-diem/79/ket-qua-hoc-tap/export 7 108255 0 1
+/lop-hoc/63/hoc-ky 9 30587 0 0
+/api/lop-hoc/delete_mh/894 1 6 0 0
+/dot-thi/23 1 3401 0 0
+/api/lop-hoc/72 12 3252 0 0
+/api/khoa-dao-tao/78/hoc-ky 4 2283 0 0
+/api/mon-hoc/413 1 249 0 0
+/api/user/3056 1 238 0 0
+/api/nhap-diem/118/bang-diem 2 1708 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ5IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjcyOSJ9 1 3367 0 0
+/nien-khoa 4 13298 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyMiIsImhvY19reSI6MSwibWhfaWQiOiIxNDk5In0= 1 3372 0 0
+/dot-thi/27/danh-sach-sinh-vien 6 20236 0 0
+/api/mon-hoc/226 1 173 0 0
+/api/mon-hoc/all 30 44289 0 1
+/api/lop-hoc/delete_mh/319 1 6 0 0
+/api/lop-hoc/98 14 4326 0 0
+/api/lop-hoc/69 7 2016 0 0
+/api/mon-hoc/885 1 194 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjQyNCJ9 2 6725 0 0
+/api/khoa-dao-tao/69 3 733 0 0
+/api/nhap-diem/40/hoc-ky 1 2478 0 0
+/api/nhap-diem/67/hoc-ky 12 19635 0 1
+/api/nhap-diem/114/hoc-ky 12 15748 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgzIiwiaG9jX2t5IjozLCJtaF9pZCI6IjMyMSJ9 1 3368 0 0
+/nhap-diem/121/ket-qua-hoc-tap 2 21505 0 0
+/api/nhap-diem/101/hoc-ky 7 8113 0 0
+/api/mon-hoc/1440 2 398 0 0
+/nhap-diem/121 2 6890 0 0
+/lop-hoc/46 1 3490 0 0
+END_SIDER

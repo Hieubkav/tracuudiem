@@ -1,0 +1,3605 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home/khtracuudiemcea/tmp/awstats/ssl/awstats.tracuudiem.cea.edu.vn.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2709                
+POS_VISITOR 47100               
+POS_DAY 63367               
+POS_DOMAIN 3625                
+POS_LOGIN 3995                
+POS_ROBOT 4150                
+POS_WORMS 4748                
+POS_EMAILSENDER 4879                
+POS_EMAILRECEIVER 5022                
+POS_SESSION 64285               
+POS_SIDER 64499               
+POS_FILETYPES 5157                
+POS_DOWNLOADS 5392                
+POS_OS 5580                
+POS_BROWSER 5874                
+POS_SCREENSIZE 6999                
+POS_UNKNOWNREFERER 7073                
+POS_UNKNOWNREFERERBROWSER 7298                
+POS_ORIGIN 7467                
+POS_SEREFERRALS 7617                
+POS_PAGEREFS 7845                
+POS_SEARCHWORDS 8207                
+POS_KEYWORDS 8392                
+POS_MISC 2372                
+POS_ERRORS 8486                
+POS_CLUSTER 3851                
+POS_SIDER_404 8688                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240101004616 70 17485 11263389579300
+FirstTime 20231201060530
+LastTime 20231231233311
+LastUpdate 20240101190626 70 0 69 0 0
+TotalVisits 515                 
+TotalUnique 365                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 412                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 65 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 128 146 2808390 85 93 418567
+1 85 89 1223860 827 2102 260086
+2 1 6 315480 4 7 5871
+3 4 6 14974 13 15 271343
+4 4 9 1068392 17 20 286228
+5 37 67 4682004 21 25 25749
+6 78 137 10504694 59 73 1521268
+7 296 418 21840424 154 163 3151546
+8 810 1058 42670007 159 178 2095299
+9 1318 1508 30036502 221 242 1288808
+10 1644 1840 31499182 216 232 1436262
+11 580 744 30493853 178 199 1170323
+12 201 302 14286597 72 93 2721712
+13 550 727 27837995 109 123 110348
+14 1445 1588 22131716 140 151 5647601
+15 1621 1786 23475441 290 300 1770937
+16 1225 1392 28344648 154 163 89876
+17 203 330 24096585 155 171 140070
+18 65 123 10864567 41 46 21729
+19 130 244 21153450 41 57 1177936
+20 153 260 20979480 79 94 357967
+21 197 305 19340337 55 69 1863816
+22 259 324 10870537 26 32 76460
+23 38 87 7599339 25 32 945484
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+vn 10158 12173 336728148
+in 796 1129 57136465
+us 100 164 11372038
+de 5 11 1271679
+cn 5 10 1356976
+id 3 3 5217
+gr 3 3 13757
+gh 1 1 1739
+ru 1 1 0
+jp 0 1 252435
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 68 4990885 20231231130348 42
+no_user_agent 32 7675823 20231225201329 0
+bingbot/ 32 5191214 20231231173634 8
+bot[\s_+:,\.\;\/\\-] 27 820045 20231229214115 5
+Googlebot\-Image/ 18 1062875 20231229235955 0
+facebookexternalhit/ 10 273657 20231228083640 0
+unknown 9 234 20231229160044 9
+Applebot/ 9 1237696 20231225013818 3
+CFNetwork 9 435897 20231231205059 0
+zoominfobot 4 3532 20231204113948 2
+MJ12bot/ 4 4478 20231201133403 1
+CCBot/ 3 2970 20231201075642 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 620 18753399 0 0
+woff2 494 15612992 0 0
+js 614 228882088 0 0
+xls 5 179712 0 0
+png 968 122080421 0 0
+html 439 1571102 0 0
+svg 217 913477 0 0
+Unknown 10139 20145263 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/sample/import-diem-2022-raw-sample.xls 2 0 75776
+/sample/import-mon-hoc-sample.xls 2 0 74752
+/sample/import-sinh-vien-sample.xls 1 0 29184
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+ios_iphone 765 512
+win10 8847 8127
+android 328 170
+androidoreo 19 8
+win8.1 7 3
+androidpie 13 5
+androidnougat 17 11
+linux 37 15
+Unknown 11 1
+win8 4 0
+android10 3366 2179
+win7 53 25
+macosx7 2 1
+winnt 2 0
+macosx 5 3
+macosx15 20 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 51
+msie9.0 1 1
+safari17.1.2 219 161
+chrome80.0.3987.172 8 3
+Unknown 9 0
+firefox121.0 32 13
+chrome96.0.4664.110 4 2
+chrome117.0.0.0 251 167
+firefox122.0 81 63
+chrome103.0.0.0 3 2
+safari16.5 32 19
+chrome118.0.0.0 514 334
+chrome91.0.4472.88 13 6
+chrome104.0.0.0 4 4
+chrome100.0.4896.60 14 3
+chrome32.0.1667.0 4 0
+safari16.5.1 24 12
+chrome119.0.0.0 2519 2087
+chrome119.0.6045.193 50 27
+safari15.6.6 28 16
+chrome116.0.0.0 5 2
+iphone 37 25
+chrome111.0.5563.116 15 8
+chrome115.0.0.0 30 10
+safari16.5.2 8 3
+chrome88.0.4324.150 5 2
+mozilla 4 1
+safari16.6 34 21
+safari15.6.4 8 3
+safari14.0.2 11 4
+chrome111.0.0.0 103 77
+chrome120.0.6099.144 21 11
+firefox120.0 82 41
+safari16.0 43 33
+chrome113.0.0.0 22 7
+chrome87.0.4280.141 58 30
+safari 273 180
+chrome120.0.0.0 8419 7377
+chrome87.0.4280.88 4 2
+chrome114.0.0.0 4 0
+chrome119.0.6045.164 18 11
+firefox77.0 3 3
+chrome119.0.6045.163 1 0
+chrome17.0.963.56 2 1
+chrome69.0.3475 1 1
+safari17.0 56 38
+chrome109.0.0.0 192 125
+chrome59.0.3071.125 17 11
+chrome103.0.5060.114 1 1
+chrome106.0.0.0 41 33
+chrome112.0.0.0 67 37
+chrome120.0.6099.43 101 54
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+znetwork/8.1.2 20231228160439
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20231224000000
+Chrome 20231202180005
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+znetwork/8.1.2 20231228160439
+ZaloPC-win32-24v624 20231217130710
+Chrome 20231202180005
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 291 341
+From1 2 2
+From2 149 160
+From3 211 211
+From4 10419 12782
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google_com 0 11
+www_google_com_vn 12 12
+search_yahoo_com 1 1
+www_google_com 136 136
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+https://cea.edu.vn 141 141
+https://coccoc.com/search 64 64
+http://m.facebook.com 2 2
+https://cea.edu.vn 1 1
+https://id.zalo.me/account/outapp 1 1
+https://nethost-2611.000nethost.com:2087 1 1
+https://id.zalo.me 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//tracuudiem.cea.edu.vn/ 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+https 4
+//tracuudiem.cea.edu.vn/ 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+301 30 21210
+419 150 306600
+404 2340 573504
+405 1 194280
+302 1787 302337
+403 29 38697
+206 2 219810
+500 34 3497695
+422 17 1847
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2153
+/yedek.gz 1 -
+/members.tar.bz2 1 -
+/2022_backup.tar.bz2 1 -
+/9.zip 1 -
+/portal/.env 1 -
+/2017BACKUPS 1 -
+/index.sql 1 -
+/8.sql.gz 1 -
+/2021-backup.zip 1 -
+/2017_backup.7z 1 -
+/backups.gzip 1 -
+/7.zip 1 -
+/localhost.tar.gz 1 -
+/2020_backup.gzip 1 -
+/php.zip 1 -
+/test.backup 1 -
+/dump.gzip 1 -
+/2018-backup.rar 1 -
+/mysql.gz 1 -
+/7.rar 1 -
+/sql.bak 1 -
+/2020backup.tgz 1 -
+/wwwroot.bzip 1 -
+/com.bzip 1 -
+/dat.backup 1 -
+/upfile.zip 1 -
+/website.tar.tgz 1 -
+/.env 1 -
+/newsletter.tar.bz2 1 -
+/template.zip 1 -
+/2021-Backups 1 -
+/dat.sql.gz 1 -
+/alpha.backup 1 -
+/user.tgz 1 -
+/!backup.tar.bz2 1 -
+/5.tar.gz 1 -
+/9.rar 1 -
+/____Backup 1 -
+/backups.tar.bz2 1 -
+/asp.bak 1 -
+/download.tar 1 -
+/.backup.sql.gz 1 -
+/orders.backup 1 -
+/yedek.tar 1 -
+/wangzhan.tar.gz 1 -
+/test.tgz 1 -
+/com.rar 1 -
+/6.tar 1 -
+/html.gz 1 -
+/members.gzip 1 -
+/production.tgz 1 -
+/__BACKUPS 1 -
+/forum.bzip 1 -
+/testing.7z 1 -
+/2019backup.tar 1 -
+/cea.edu.vn.sql 1 -
+/home.tar.gz 1 -
+/System_Backup 1 -
+/backup.tar 1 -
+/mysql.tar 1 -
+/vip.zip 1 -
+/bbs.zip 1 -
+/.backup.tgz 1 -
+/system-backups 1 -
+/!backup.gzip 1 -
+/2022_backup.sql 1 -
+/user.backup 1 -
+/htdocs.sql.gz 1 -
+/oa.tar.gz 1 -
+/alpha.gzip 1 -
+/www.root.tar 1 -
+/localhost.rar 1 -
+/admin.tgz 1 -
+/qa.sql 1 -
+/cea_edu_vn.tar 1 -
+/2022-backup.gz 1 -
+/2020-BACKUP 1 -
+/!backups 1 -
+/tracuudiem_cea_edu_vn.sql 1 -
+/2022_backup.tar 1 -
+/beta.tgz 1 -
+/2021_backup.tgz 1 -
+/first.zip 1 -
+/!Backup 1 -
+/123.tar.gz 1 -
+/code.gz 1 -
+/data.bak 1 -
+/backup2019 1 -
+/alpha.tar.gz 1 -
+/newsletter.sql 1 -
+/htdocs.7z 1 -
+/a.bak 1 -
+/customers.backup 1 -
+/down.zip 1 -
+/testing.tar.gz 1 -
+/2020-BACKUPS 1 -
+/last.tar.bz2 1 -
+/vendor/.env 1 -
+/2020-backup.backup 1 -
+/last.tar.tgz 1 -
+/app-ads.txt 2 https://tracuudiem.cea.edu.vn/login
+/2018BACKUPS 1 -
+/down.tar.tgz 1 -
+/down.tar.bz2 1 -
+/faisunzip.tar 1 -
+/last.zip 1 -
+/2017-backup.rar 1 -
+/aspx.tar.bz2 1 -
+/aspx.tar.tgz 1 -
+/lastbackup.tar 1 -
+/news.tar.gz 1 -
+/aspx.zip 1 -
+/2018_backup.7z 1 -
+/cea.sql 1 -
+/com.tar 1 -
+/mysql.bak 1 -
+/investors.tar 1 -
+/orders.rar 1 -
+/2019Backups 1 -
+/engine.gzip 1 -
+/db.sql.gz 1 -
+/download.tar.gz 1 -
+/sales.rar 1 -
+/store.sql 1 -
+/wangzhan.tar 1 -
+/beta.backup 1 -
+/__BACKUP 1 -
+/my.tgz 1 -
+/www.root.tar.gz 1 -
+/yedek.bak 1 -
+/com.7z 1 -
+/users.tar.tgz 1 -
+/site.rar 1 -
+/cea.edu.vn.tar.bz2 1 -
+/2020_backups 1 -
+/oa.zip 1 -
+/!BACKUP 1 -
+/2021-backup.tar.tgz 1 -
+/library/.env 1 -
+/Systembackup 1 -
+/newsletter.rar 1 -
+/php.gzip 1 -
+/old.tar.tgz 1 -
+/orders.zip 1 -
+/2021_backup.sql.gz 1 -
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc2NiJ9 5 https://tracuudiem.cea.edu.vn/nhap-diem/71
+/main.gzip 1 -
+/wwwroot.rar 1 -
+/back.gzip 1 -
+/tracuudiem.tar.tgz 1 -
+/hdocs.bzip 1 -
+/local.gzip 1 -
+/admin.tar.tgz 1 -
+/ftp.tar.tgz 1 -
+/customers.tar.bz2 1 -
+/yedek.7z 1 -
+/testing.backup 1 -
+/investors.tgz 1 -
+/bak.gz 1 -
+/root.rar 1 -
+/2020-Backup 1 -
+/beifen.tar 1 -
+/htdocs.tar.bz2 1 -
+/web.sql 1 -
+/oa.bzip 1 -
+/9.backup 1 -
+/2018backup.bak 1 -
+/2022backup.tar.tgz 1 -
+/code.bzip 1 -
+/6.sql 1 -
+/production.7z 1 -
+/mysql.7z 1 -
+/last-backup.7z 1 -
+/7.backup 1 -
+/10.gzip 1 -
+/htdocs.bzip 1 -
+/website.bak 1 -
+/database.tar 1 -
+/tar.tar.bz2 1 -
+/stage.zip 1 -
+/6.7z 1 -
+/wz.7z 1 -
+/2020backup.7z 1 -
+/2022backup.sql.gz 1 -
+/2020backups 1 -
+/htdocs.gz 1 -
+/local.backup 1 -
+/master.sql 1 -
+/5.sql.gz 1 -
+/2020_backup.bak 1 -
+/newsletter.bzip 1 -
+/ftp.gz 1 -
+/home.sql 1 -
+/website.tar 1 -
+/tracuudiem.sql.gz 1 -
+/apple-touch-icon-120x120-precomposed.png 10 -
+/oa.backup 1 -
+/upfile.backup 1 -
+/oa.bak 1 -
+/files.sql 1 -
+/tracuudiemceaeduvn.7z 1 -
+/8.tar.gz 1 -
+/bak.tar.tgz 1 -
+/2019_backup.rar 1 -
+/6.tar.bz2 1 -
+/faisunzip.tgz 1 -
+/old.gz 1 -
+/beian.bzip 1 -
+/2017backup.tar.gz 1 -
+/bbs.gzip 1 -
+/vip.gzip 1 -
+/users.tgz 1 -
+/data.zip 1 -
+/tar.gz 1 -
+/wz.gzip 1 -
+/news.sql 1 -
+/homepage.tgz 1 -
+/.BACKUPS 1 -
+/2017backup.bak 1 -
+/archived.bak 1 -
+/data.tar.tgz 1 -
+/template.gz 1 -
+/data.tar.bz2 1 -
+//OLD/wp-admin/setup-config.php 1 www.google.com
+/htdocs.bak 1 -
+/media.bzip 1 -
+/4.bak 1 -
+/last_backup.rar 1 -
+/db.tar.bz2 1 -
+/xmlrpc.php 3 -
+/archived.backup 1 -
+/aspx.bak 1 -
+/cea.edu.vn.bzip 1 -
+/9.gzip 1 -
+/ftp.tar.bz2 1 -
+/2022-backup.bzip 1 -
+/7.gzip 1 -
+/last.bak 1 -
+/tracuudiemceaeduvn.zip 1 -
+/investors.bak 1 -
+/new.bak 1 -
+/testing.gz 1 -
+/old.tar.bz2 1 -
+/down.bak 1 -
+/cea.edu.vn.rar 1 -
+/bac.tgz 1 -
+/2021_backup 1 -
+/auth.gzip 1 -
+/www.tar.gz 1 -
+/2019-backup.7z 1 -
+/2018backup.tar.gz 1 -
+/bak.tar.bz2 1 -
+/tracuudiemceaeduvn.tar.tgz 1 -
+/faisunzip.bak 1 -
+/database.tar.gz 1 -
+/SYSTEMBACKUP 1 -
+/2021_backup.tar.gz 1 -
+/cgi-bin/.env 1 -
+/upfile.rar 1 -
+/template.tar.bz2 1 -
+/my.rar 1 -
+/html.bzip 1 -
+/10.7z 1 -
+/6.tar.tgz 1 -
+/tar.tar.tgz 1 -
+/local.tar.gz 1 -
+/user.sql.gz 1 -
+/sql.sql.gz 1 -
+/_BACKUPS 1 -
+/forum.rar 1 -
+/2022backup.tar.gz 1 -
+/alpha.tar 1 -
+/lastbackup.bzip 1 -
+/clients.gzip 1 -
+/123.gz 1 -
+/first.tar.tgz 1 -
+/dat.bak 1 -
+/localhost.tgz 1 -
+/qa.tar.bz2 1 -
+/sql.backup 1 -
+/mysql.gzip 1 -
+/last_backup.gz 1 -
+/tracuudiem.tar.gz 1 -
+/wz.tgz 1 -
+/SYSTEM-BACKUP 1 -
+/content.tar.bz2 1 -
+/2020backup.zip 1 -
+/.backup.backup 1 -
+/tracuudiemceaeduvn.rar 1 -
+/last-backup.sql 1 -
+/code.bak 1 -
+/news.gzip 1 -
+/2019-backup.tar 1 -
+/yedek.gzip 1 -
+/local.7z 1 -
+/data.gz 1 -
+/2017backup.sql.gz 1 -
+/0.tar 1 -
+/www.root.tgz 1 -
+/bac.sql 1 -
+/store.sql.gz 1 -
+/alpha.gz 1 -
+/production.zip 1 -
+/tracuudiem_cea_edu_vn.tgz 1 -
+/2020-backup.tar.gz 1 -
+/2017backup.tar.tgz 1 -
+/mysql.backup 1 -
+/last-backup.tar.bz2 1 -
+/clients.tar.bz2 1 -
+/2.tar 1 -
+/asp.sql.gz 1 -
+/2021backup.gz 1 -
+/users.zip 1 -
+/lastbackup.rar 1 -
+/oa.tar.tgz 1 -
+/oa.gz 1 -
+/2018-backup.bzip 1 -
+/beta.7z 1 -
+/test.sql.gz 1 -
+/2020-backup 1 -
+/download.tgz 1 -
+/3.tar.gz 1 -
+/123.tar.tgz 1 -
+/auth.sql 1 -
+/sitemaps.xml 2 -
+/yedek.backup 1 -
+/com.gzip 1 -
+/content.gzip 1 -
+/asp.backup 1 -
+/4.gz 1 -
+/files.tar.bz2 1 -
+/2019backup.rar 1 -
+/tracuudiemceaeduvn.bak 1 -
+/sales.bzip 1 -
+/9.tgz 1 -
+/.backup.gz 1 -
+/10.tgz 1 -
+/dump.tar.gz 1 -
+/2018backup.sql.gz 1 -
+/7.tgz 1 -
+/index.sql.gz 1 -
+/2020Backup 1 -
+//wordpress/wp-admin/setup-config.php 1 www.google.com
+/tracuudiem.cea.edu.vn.sql.gz 1 -
+/down.bzip 1 -
+/cea_edu_vn.rar 1 -
+/web.tgz 1 -
+/2021_Backup 1 -
+/archive.gzip 1 -
+/last.bzip 1 -
+/test.7z 1 -
+/alpha.bak 1 -
+/stage.tgz 1 -
+/website.sql 1 -
+/___backups 1 -
+/2019-backup.tar.bz2 1 -
+/2020-backup.sql.gz 1 -
+/beta.sql.gz 1 -
+/localhost.bak 1 -
+/aspx.bzip 1 -
+/main.sql 1 -
+/beifen.sql 1 -
+/back.sql 1 -
+/1.sql.gz 1 -
+/2017-backup.bzip 1 -
+/cea_edu_vn.bzip 1 -
+/123.tar.bz2 1 -
+/master.tar 1 -
+/2019_backup.gz 1 -
+/2021-backup.bak 1 -
+/tracuudiem.bak 1 -
+/last-backup.tar 1 -
+/home.gzip 1 -
+/yedek.tar.gz 1 -
+/2019-backup.sql 1 -
+/user.7z 1 -
+/2019backup.bzip 1 -
+/wangzhan.tgz 1 -
+/html.bak 1 -
+/mysql.tar.gz 1 -
+/2018backup.tar.tgz 1 -
+/2022backup.bak 1 -
+/customers.bzip 1 -
+/archive.tar.bz2 1 -
+/tracuudiemceaeduvn.bzip 1 -
+/2.sql 1 -
+/blog/wp-login.php 1 -
+/aspx.gz 1 -
+/2019_backup.bzip 1 -
+/2019backup 1 -
+/stage 1 -
+/2017-backup.gz 1 -
+/faisunzip.rar 1 -
+/last.gz 1 -
+/2021_BACKUPS 1 -
+/2021_backup.backup 1 -
+/3.sql.gz 1 -
+/2017_backup.sql 1 -
+/investors.tar.gz 1 -
+/tar.tar.gz 1 -
+/cea.edu.vn.tar 1 -
+/2019backup.sql 1 -
+/down.gz 1 -
+/code.tar.tgz 1 -
+/0.sql 1 -
+/production.backup 1 -
+/wz.rar 1 -
+/dashboard/.env 1 -
+/code.tar.bz2 1 -
+/homepage.tar.gz 1 -
+/beian.rar 1 -
+/vip.bzip 1 -
+/bbs.bzip 1 -
+/code.zip 1 -
+/release.gzip 1 -
+/local.gz 1 -
+/2018BACKUP 1 -
+/php.rar 1 -
+/store.tar.bz2 1 -
+/cea_edu_vn.sql 1 -
+/2020-backup.tgz 1 -
+/cea.tgz 1 -
+/www.tar.tgz 1 -
+/user.tar 1 -
+/customers.gzip 1 -
+/hdocs.rar 1 -
+/2.tar.bz2 1 -
+/auth.tar.gz 1 -
+/lastbackup.tar.bz2 1 -
+/2020_backup.tar.tgz 1 -
+/test.tar 1 -
+/htdocs.tgz 1 -
+/www.gz 1 -
+/bbs.rar 1 -
+/vip.rar 1 -
+/my.gzip 1 -
+/template.7z 1 -
+/qa.sql.gz 1 -
+/testing.tgz 1 -
+/2018_backup.tar 1 -
+/php.bzip 1 -
+/prod.rar 1 -
+/oa.tar 1 -
+/0.7z 1 -
+/alpha.7z 1 -
+/2021-backups 1 -
+/2020backup.backup 1 -
+/2022_backup.7z 1 -
+/0.tar.bz2 1 -
+/com.zip 1 -
+/first.tgz 1 -
+/tracuudiemceaeduvn.backup 1 -
+/.backup.7z 1 -
+/local.tar 1 -
+/faisunzip.tar.gz 1 -
+/testing.sql.gz 1 -
+/SYSTEM-BACKUPS 1 -
+/2017_backup.tar.bz2 1 -
+/2022BACKUPS 1 -
+/2.7z 1 -
+/wwwroot.zip 1 -
+/investors.rar 1 -
+/release.tar.bz2 1 -
+/database.tgz 1 -
+/2020_Backups 1 -
+/main.tar.gz 1 -
+/my.7z 1 -
+/new.backup 1 -
+/www.tar.bz2 1 -
+/data.bzip 1 -
+/bak.tar.gz 1 -
+/back.tar.gz 1 -
+/cea_edu_vn.tar.bz2 1 -
+/beta.tar 1 -
+/admin.zip 1 -
+/.backup.tar.gz 1 -
+/10.rar 1 -
+/new.sql.gz 1 -
+/php.7z 1 -
+/2017BACKUP 1 -
+/1.tar.gz 1 -
+/2018-backup.gz 1 -
+/engine.tar.tgz 1 -
+/2021-backup.gzip 1 -
+/test/.env 1 -
+/dump.sql 1 -
+/9.bzip 1 -
+/2019backup.tar.bz2 1 -
+/homepage.tar 1 -
+/2018_backup.sql 1 -
+/database/.env 1 -
+/7.bzip 1 -
+/prod 1 -
+/2021backup.gzip 1 -
+/a.gz 1 -
+/php.tar 1 -
+/2020_backup.zip 1 -
+/2022-backup.rar 1 -
+/bbs.tar 1 -
+/vip.tar 1 -
+/2.tar.tgz 1 -
+/media.rar 1 -
+/stage.tar.tgz 1 -
+/localhost.tar 1 -
+/2021_BACKUP 1 -
+/local.bak 1 -
+/2018_backup.tar.bz2 1 -
+/newsletter.tar 1 -
+/___BACKUP 1 -
+/index.tar.bz2 1 -
+/html.tar.bz2 1 -
+/bbs.7z 1 -
+/vip.7z 1 -
+/0.tar.tgz 1 -
+/html.tar.tgz 1 -
+/last_backup.bzip 1 -
+/wp-content/.env 1 -
+/old.tar.gz 1 -
+/html.zip 1 -
+/htdocs.tar.gz 1 -
+/____backups 1 -
+/lastbackup.sql 1 -
+/db.sql 1 -
+/ftp.tar.gz 1 -
+/backups2022 1 -
+/2017_backup.tar 1 -
+/backup.sql 1 -
+/files.sql.gz 1 -
+/2021backup.bak 1 -
+/localhost.tar.bz2 1 -
+/index.gzip 1 -
+/3.zip 1 -
+/.well-known/apple-app-site-association 4 https://tracuudiem.cea.edu.vn/login
+/database.zip 1 -
+/stage.bzip 1 -
+/clients.bak 1 -
+/html.sql 1 -
+/0.bak 1 -
+/backups2019 1 -
+/production.tar.bz2 1 -
+/last-backup.tgz 1 -
+/2022-backup.bak 1 -
+/wangzhan.gz 1 -
+/beian.zip 1 -
+/2018_backup.sql.gz 1 -
+/.well-known/security.txt 2 https://tracuudiem.cea.edu.vn/login
+/prod.tgz 1 -
+/store.tar.gz 1 -
+/clients.tar 1 -
+/2.bak 1 -
+/3.rar 1 -
+/sales.tgz 1 -
+/root.sql.gz 1 -
+/2017_backup 1 -
+/lastbackup.backup 1 -
+/hdocs.zip 1 -
+/2019_backup.zip 1 -
+/wangzhan.tar.bz2 1 -
+/qa.tar.gz 1 -
+/content.tar 1 -
+/.backup 1 -
+/index.backup 1 -
+/oa.sql 1 -
+/back.bak 1 -
+/com.tar.bz2 1 -
+/dump.tar.tgz 1 -
+/release.tar.tgz 1 -
+/dump.tar.bz2 1 -
+/main.bak 1 -
+/cea.bak 1 -
+/last_backup.tar.tgz 1 -
+/2020backup.tar.bz2 1 -
+/dump.zip 1 -
+/.Backups 1 -
+/newsletter.tgz 1 -
+/2022_Backup 1 -
+/2017_backup.tar.gz 1 -
+/prod.backup 1 -
+/upfile.tgz 1 -
+/content.bak 1 -
+/news.bzip 1 -
+/alpha.sql 1 -
+/gg.7z 1 -
+/2019_Backups 1 -
+/1.gzip 1 -
+/www.root.gz 1 -
+/2017_backup.sql.gz 1 -
+/bac.sql.gz 1 -
+/site.tar 1 -
+/mysql.sql.gz 1 -
+/faisunzip.bzip 1 -
+/cea_edu_vn.backup 1 -
+/admin.rar 1 -
+/home.bzip 1 -
+/tracuudiemceaeduvn.tar.gz 1 -
+/auth.bak 1 -
+/production.sql 1 -
+/2022backup.gz 1 -
+/root.7z 1 -
+/com.gz 1 -
+/store.backup 1 -
+/bac.backup 1 -
+/sitemap.xml.gz 4 -
+/cea.edu.vn.tgz 1 -
+/archive.tar 1 -
+/last_backup.zip 1 -
+/asp.sql 1 -
+/2019backup.backup 1 -
+/yedek.sql.gz 1 -
+/tracuudiem.gz 1 -
+/www.zip 1 -
+/2019_backup.tar.tgz 1 -
+/8.bzip 1 -
+/download.gz 1 -
+/backup.tar.tgz 1 -
+/archive.bak 1 -
+/gg.gzip 1 -
+/___Backup 1 -
+/qa 1 -
+/sql.sql 1 -
+/login/xmlrpc.php 2 -
+/5.tgz 1 -
+/media.zip 1 -
+/qa.zip 1 -
+/tracuudiem_cea_edu_vn.tar.bz2 1 -
+/2018_backup.tar.gz 1 -
+/2019-backup.tgz 1 -
+/.well-known/traffic-advice 2 -
+/upfile.tar.gz 1 -
+/download.tar.bz2 1 -
+/code.sql 1 -
+/.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200 2 https://tracuudiem.cea.edu.vn/login
+/store.gzip 1 -
+/investors.bzip 1 -
+/down.gzip 1 -
+/www.root.tar.bz2 1 -
+/.backup.rar 1 -
+/index.tar.gz 1 -
+/engine.sql 1 -
+/2020backup.sql 1 -
+/123.gzip 1 -
+/db.tar 1 -
+/com.tar.tgz 1 -
+/2018_backup 1 -
+/last.gzip 1 -
+/2020backup 1 -
+/1.backup 1 -
+/2020_backup.bzip 1 -
+/2021backup.tar.gz 1 -
+/aspx.gzip 1 -
+/customers.tar.gz 1 -
+/bbs.tar.gz 1 -
+/content.tar.tgz 1 -
+/vip.tar.gz 1 -
+/forum.zip 1 -
+/production.rar 1 -
+/2017_backup.tgz 1 -
+/old.7z 1 -
+/2020backup.bzip 1 -
+/download.zip 1 -
+/ads.txt 2 https://tracuudiem.cea.edu.vn/login
+/old/.env 1 -
+/local.sql 1 -
+/6.gz 1 -
+/release.tar 1 -
+/ftp.7z 1 -
+/2018-Backups 1 -
+/qa.bzip 1 -
+/2018-backup.zip 1 -
+/html.tar.gz 1 -
+/3.backup 1 -
+/www.root.zip 1 -
+/investors.gzip 1 -
+/old.tar 1 -
+/home.gz 1 -
+/files.backup 1 -
+/2020-backup.sql 1 -
+/tar.bzip 1 -
+/lastbackup.zip 1 -
+/2021-backup.rar 1 -
+/newsletter.7z 1 -
+/2022_BACKUP 1 -
+/2020_backup.gz 1 -
+/release.bak 1 -
+/ftp.tar 1 -
+/back.tar.bz2 1 -
+/2019-backup.sql.gz 1 -
+/bak.tar 1 -
+/orders.tgz 1 -
+/2020-backup.tar.bz2 1 -
+/main.tar.tgz 1 -
+/back.tar.tgz 1 -
+/system_backup 1 -
+/main.tar.bz2 1 -
+/dump.bak 1 -
+/last-backup.tar.gz 1 -
+/main.zip 1 -
+/back.zip 1 -
+/faisunzip.gzip 1 -
+/System-Backups 1 -
+/2022backup.gzip 1 -
+/qa.backup 1 -
+/2022-backup.gzip 1 -
+/tar.rar 1 -
+/qa.bak 1 -
+/sales.tar.tgz 1 -
+/new.sql 1 -
+/customers.rar 1 -
+/users.rar 1 -
+/bak.7z 1 -
+/tracuudiem.gzip 1 -
+/files.gzip 1 -
+/2019Backup 1 -
+/site.7z 1 -
+/production.bzip 1 -
+/2017-backup.tar.tgz 1 -
+/2020backup.rar 1 -
+/dat.tgz 1 -
+/clients.tar.tgz 1 -
+/archived.tar.tgz 1 -
+/php.tar.gz 1 -
+/root.tar 1 -
+/template.tar 1 -
+/master.gzip 1 -
+/auth.tar.tgz 1 -
+/2019-backup 1 -
+/homepage.7z 1 -
+/auth.tar.bz2 1 -
+/files.tar.gz 1 -
+/auth.zip 1 -
+/!backup.sql 1 -
+/2017-backup.zip 1 -
+/wangzhan.zip 1 -
+/2021BACKUPS 1 -
+/wwwroot.tgz 1 -
+/tracuudiem.cea.edu.vn.rar 1 -
+/tracuudiemceaeduvn.gzip 1 -
+/8.tgz 1 -
+/2021_backup.7z 1 -
+/____Backups 1 -
+/2019-backup.tar.gz 1 -
+/2018_backup.tgz 1 -
+/testing.zip 1 -
+/old.rar 1 -
+/3.gzip 1 -
+/www.gzip 1 -
+/wwwroot.sql.gz 1 -
+/bak.bzip 1 -
+/last-backup.sql.gz 1 -
+/2022-backups 1 -
+/ftp.rar 1 -
+/site.sql.gz 1 -
+/2017-Backups 1 -
+/members.sql 1 -
+/localhost.backup 1 -
+/database.gz 1 -
+/data.gzip 1 -
+/old.bzip 1 -
+/.backup.bzip 1 -
+/web.bak 1 -
+/news.gz 1 -
+/bak.rar 1 -
+/2020-backup.tar 1 -
+/db.tar.tgz 1 -
+/yedek.tar.bz2 1 -
+/archive.tar.tgz 1 -
+/ftp.bzip 1 -
+/db.gz 1 -
+/2019backup.zip 1 -
+/tar.tar 1 -
+/1.zip 1 -
+/first.bzip 1 -
+/database.tar.bz2 1 -
+/2018-backup.tar.tgz 1 -
+/code.tar.gz 1 -
+/2022_backup.backup 1 -
+/2022_BACKUPS 1 -
+/5.bzip 1 -
+/1.rar 1 -
+/template.tar.gz 1 -
+/tracuudiem.cea.edu.vn.gzip 1 -
+/123.zip 1 -
+/backups.sql 1 -
+/mysql.tar.bz2 1 -
+/beifen.tar.tgz 1 -
+/cea.edu.vn.7z 1 -
+/orders.tar.gz 1 -
+/tar.7z 1 -
+/cea_edu_vn.zip 1 -
+/store.bak 1 -
+/2022-backup.tar.tgz 1 -
+/backups.bak 1 -
+/tracuudiem_cea_edu_vn.rar 1 -
+/upfile.tar.bz2 1 -
+/com.tar.gz 1 -
+/app/config/.env 1 -
+/prod.sql.gz 1 -
+/6.bak 1 -
+/master.tar.tgz 1 -
+/mysql.sql 1 -
+/gg.rar 1 -
+/oa.tar.bz2 1 -
+/tracuudiemceaeduvn.sql.gz 1 -
+/2017-backup.gzip 1 -
+/2020-backup.7z 1 -
+/backups.tar 1 -
+/root.backup 1 -
+/app/.env 1 -
+/localhost.gzip 1 -
+/auth.gz 1 -
+/index.gz 1 -
+/2018_BACKUPS 1 -
+/2018_backup.backup 1 -
+/2017backup.gzip 1 -
+/8.backup 1 -
+/yedek.sql 1 -
+/5.zip 1 -
+/files.7z 1 -
+/www.root.7z 1 -
+/media.tar.tgz 1 -
+/members.bak 1 -
+/stage.rar 1 -
+/2017_BACKUP 1 -
+/local/.env 1 -
+/htdocs.backup 1 -
+/lastbackup.7z 1 -
+/____backup 1 -
+/qa.tar.tgz 1 -
+/backup2021 1 -
+/tracuudiem.cea.edu.vn.gz 1 -
+/123.tar 1 -
+/qa.gz 1 -
+/.well-known/change-password 4 https://tracuudiem.cea.edu.vn/login
+/newsletter.zip 1 -
+/!backup.tar 1 -
+/dump.bzip 1 -
+/4.tar.tgz 1 -
+/__Backup 1 -
+/members.tar 1 -
+/last.tar.gz 1 -
+/cea.backup 1 -
+/upfile.bzip 1 -
+/orders.sql.gz 1 -
+/down.tar.gz 1 -
+/7.tar.gz 1 -
+/download.7z 1 -
+/data.sql 1 -
+/123.7z 1 -
+/2018-backups 1 -
+/index.tar 1 -
+/9.tar.gz 1 -
+/5.rar 1 -
+/aspx.tar.gz 1 -
+/upfile.gz 1 -
+/news.zip 1 -
+/!backup.bak 1 -
+/1.bzip 1 -
+/cea.sql.gz 1 -
+/news.tar.bz2 1 -
+/tar.zip 1 -
+/2021_backup.tar 1 -
+/root.tgz 1 -
+/2022_backup.tgz 1 -
+/news.tar.tgz 1 -
+/wwwroot.tar.gz 1 -
+/last_backup.bak 1 -
+/2020_backup.rar 1 -
+/wwwroot.7z 1 -
+/2021-backup.gz 1 -
+/3.tgz 1 -
+/2018-backup.gzip 1 -
+/old.zip 1 -
+/2018backup.gzip 1 -
+/.backup.zip 1 -
+/dev/.env 1 -
+/2017_backup.backup 1 -
+/__backup 1 -
+/2019_backup.bak 1 -
+/beifen.gzip 1 -
+/home.zip 1 -
+/2017_BACKUPS 1 -
+/orders.7z 1 -
+/home.tar.bz2 1 -
+/ftp.zip 1 -
+/cea.edu.vn.zip 1 -
+/home.tar.tgz 1 -
+/db.bzip 1 -
+/2021_backup.sql 1 -
+/cea_edu_vn.7z 1 -
+/tracuudiem.cea.edu.vn.tgz 1 -
+/bac.bak 1 -
+/store.tar 1 -
+/2019backups 1 -
+/4.sql 1 -
+/beian.tar.tgz 1 -
+/8.gzip 1 -
+/upfile.bak 1 -
+/investors.backup 1 -
+/2019backup.7z 1 -
+/123.bzip 1 -
+/htdocs.rar 1 -
+/hdocs.tar.tgz 1 -
+/admin.bzip 1 -
+/2022-Backups 1 -
+/release.sql 1 -
+/db.backup 1 -
+/faisunzip.backup 1 -
+/prod.7z 1 -
+/index.bak 1 -
+/db.bak 1 -
+/2017-backups 1 -
+/123.rar 1 -
+/new.tgz 1 -
+/customers.tar 1 -
+/4.7z 1 -
+/homepage.zip 1 -
+/store.gz 1 -
+/alpha.sql.gz 1 -
+/2018_BACKUP 1 -
+/4.tar.bz2 1 -
+/bak.zip 1 -
+/2019-Backup 1 -
+/forum.tgz 1 -
+/wangzhan.7z 1 -
+/2021_backup.tar.bz2 1 -
+/back.gz 1 -
+/dat.sql 1 -
+/testing.bzip 1 -
+/main.gz 1 -
+/local.tar.bz2 1 -
+/2022-backup.zip 1 -
+/a.tar 1 -
+/website.tar.bz2 1 -
+/customers.tgz 1 -
+/0.gz 1 -
+/last_backup.gzip 1 -
+/beta 1 -
+/archived.sql 1 -
+/7.sql.gz 1 -
+/investors.tar.bz2 1 -
+/htdocs.zip 1 -
+/8.zip 1 -
+/!backup.tar.tgz 1 -
+/2022_backup.tar.gz 1 -
+/files.tar 1 -
+/tracuudiem_cea_edu_vn.tar.tgz 1 -
+/gg.tgz 1 -
+/9.sql.gz 1 -
+/www.tar 1 -
+/2019_backups 1 -
+/asp.tgz 1 -
+/media.tgz 1 -
+/homepage.tar.bz2 1 -
+/index.7z 1 -
+/8.rar 1 -
+/2.gz 1 -
+/newsletter.backup 1 -
+/test.rar 1 -
+/orders.tar.bz2 1 -
+/www/.env 1 -
+/members.tar.tgz 1 -
+/php.tar.bz2 1 -
+/2017_Backup 1 -
+/2022_backup 1 -
+/www.7z 1 -
+/lastbackup.tgz 1 -
+/users.bzip 1 -
+/audio/.env 1 -
+/prod.tar 1 -
+/2020Backups 1 -
+/archived.rar 1 -
+/homepage.gz 1 -
+/2021-backup.bzip 1 -
+/sql.tgz 1 -
+/back.bzip 1 -
+/2018backup.gz 1 -
+/upfile.sql.gz 1 -
+/orders.bzip 1 -
+/db.zip 1 -
+/data.tar.gz 1 -
+/archive.sql 1 -
+/template.tgz 1 -
+/aspx.sql 1 -
+/main.bzip 1 -
+/website.gzip 1 -
+/vip.tar.bz2 1 -
+/2019-backup.backup 1 -
+/bbs.tar.bz2 1 -
+/down.sql 1 -
+/2017-backup.bak 1 -
+/files.gz 1 -
+/2019-BACKUPS 1 -
+/a.tar.tgz 1 -
+/orders.gz 1 -
+/protected/.env 1 -
+/last.sql 1 -
+/user.rar 1 -
+/1.tgz 1 -
+/src/.env 1 -
+/wwwroot.gz 1 -
+/faisunzip.tar.bz2 1 -
+/tar.gzip 1 -
+/code.gzip 1 -
+/oa.sql.gz 1 -
+/news.bak 1 -
+/backups.tar.tgz 1 -
+/archived.bzip 1 -
+/qa.tar 1 -
+/5.backup 1 -
+/tracuudiem_cea_edu_vn.sql.gz 1 -
+/database.7z 1 -
+/engine.tar 1 -
+/testing 1 -
+/ftp.gzip 1 -
+/tracuudiem.cea.edu.vn.7z 1 -
+/2018_Backup 1 -
+/local.sql.gz 1 -
+/forum.tar.tgz 1 -
+/home.bak 1 -
+/2019-BACKUP 1 -
+/auth.bzip 1 -
+/first.rar 1 -
+/site.tgz 1 -
+/php.tar.tgz 1 -
+/old.gzip 1 -
+/www.rar 1 -
+/vip.gz 1 -
+/orders.bak 1 -
+/bbs.gz 1 -
+/alpha.tar.bz2 1 -
+/archived.sql.gz 1 -
+/content.sql 1 -
+/a.sql 1 -
+/hdocs.tgz 1 -
+/systembackup 1 -
+/2020backup.tar 1 -
+/apps/.env 1 -
+/3.bzip 1 -
+/html.gzip 1 -
+/customers.bak 1 -
+/archived.gzip 1 -
+/files.bak 1 -
+/2021backup.sql.gz 1 -
+/upfile.7z 1 -
+/last-backup.backup 1 -
+/wwwroot.backup 1 -
+/4.tar 1 -
+/test 1 -
+/_backup 1 -
+/db.tar.gz 1 -
+/beian.tgz 1 -
+/backup.gzip 1 -
+/testing.rar 1 -
+/production.tar 1 -
+/sales.zip 1 -
+/site.backup 1 -
+/_Backups 1 -
+/a.tar.bz2 1 -
+/2019backup.tgz 1 -
+/2021backup.tar.tgz 1 -
+/2019_backup.gzip 1 -
+/5.gzip 1 -
+/dump.gz 1 -
+/web.sql.gz 1 -
+/php.gz 1 -
+/2017backup.gz 1 -
+/a.7z 1 -
+/cea.edu.vn.backup 1 -
+/beta.rar 1 -
+/clients.sql 1 -
+/vip.tar.tgz 1 -
+/bbs.tar.tgz 1 -
+/localhost.bzip 1 -
+/store.7z 1 -
+/2022_backup.sql.gz 1 -
+/2018-backup.bak 1 -
+/cea_edu_vn.tgz 1 -
+/web.backup 1 -
+/www.bzip 1 -
+/bak.gzip 1 -
+/backups.backup 1 -
+/content.sql.gz 1 -
+/back.7z 1 -
+/db.tgz 1 -
+/main.7z 1 -
+/media.gz 1 -
+/beian.bak 1 -
+/orders.tar 1 -
+/cea.edu.vn.tar.tgz 1 -
+/bac.tar.bz2 1 -
+/dat.7z 1 -
+/homepage.sql 1 -
+/Backup 1 -
+/test.sql 1 -
+/system_backups 1 -
+/bak.tgz 1 -
+/System-Backup 1 -
+/2.tgz 1 -
+/auth.sql.gz 1 -
+/site.zip 1 -
+/new.zip 1 -
+/prod.gz 1 -
+/2021_backup.tar.tgz 1 -
+/4.sql.gz 1 -
+/content.tgz 1 -
+/qa.gzip 1 -
+/site.tar.bz2 1 -
+/backup2022 1 -
+/engine.gz 1 -
+/backup.backup 1 -
+/beifen.zip 1 -
+/dat.tar 1 -
+/site.tar.tgz 1 -
+/my.sql.gz 1 -
+/archived.tar.bz2 1 -
+/engine.bzip 1 -
+/2021backup.backup 1 -
+/2020-backups 1 -
+/0.tgz 1 -
+/members.backup 1 -
+/media.tar 1 -
+/cea_edu_vn.tar.gz 1 -
+/blog/.env 1 -
+/template.backup 1 -
+/template.bak 1 -
+/clients.tgz 1 -
+/gg.zip 1 -
+/engine.tar.bz2 1 -
+/archived.gz 1 -
+/2022-backup.tar 1 -
+/2021-backup.tgz 1 -
+/public/.env 1 -
+/crm/.env 1 -
+/stage.tar.bz2 1 -
+/homepage.rar 1 -
+/2017_backup.rar 1 -
+/last.rar 1 -
+/user.sql 1 -
+/hdocs.bak 1 -
+/1.gz 1 -
+/ftp.tgz 1 -
+/down.rar 1 -
+/2018-backup.7z 1 -
+/2019backup.tar.gz 1 -
+/cea.edu.vn.sql.gz 1 -
+/files.tgz 1 -
+/old.tgz 1 -
+/2020_BACKUPS 1 -
+/aspx.rar 1 -
+/clients.sql.gz 1 -
+/2020_backup.backup 1 -
+/homepage.bzip 1 -
+/index.tar.tgz 1 -
+/!backup.backup 1 -
+/lastbackup.bak 1 -
+/a.tar.gz 1 -
+/tar.tgz 1 -
+/hdocs.gz 1 -
+/2022backup.bzip 1 -
+/lastbackup.tar.gz 1 -
+/homepage.sql.gz 1 -
+/123.sql 1 -
+/2019backup.bak 1 -
+/6.rar 1 -
+/users.sql 1 -
+/database.tar.tgz 1 -
+/backup.rar 1 -
+/sql.gzip 1 -
+/store.tar.tgz 1 -
+/dat.rar 1 -
+/backups.gz 1 -
+/tracuudiem.bzip 1 -
+/production.gzip 1 -
+/cea.tar.gz 1 -
+/beian.tar 1 -
+/website.bzip 1 -
+/6.zip 1 -
+/wwwroot.tar.tgz 1 -
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc2NyJ9 18 https://tracuudiem.cea.edu.vn/nhap-diem/71
+/2022_backup.gz 1 -
+/2020_BACKUP 1 -
+/newsletter.sql.gz 1 -
+/cea_edu_vn.bak 1 -
+/homepage.gzip 1 -
+/bac.tar.tgz 1 -
+/2022-backup.sql 1 -
+/2017-backup.7z 1 -
+/bac.gz 1 -
+/hdocs.tar 1 -
+/2020-backup.gzip 1 -
+/com.backup 1 -
+/dat.bzip 1 -
+/auth.7z 1 -
+/asp.gzip 1 -
+/tracuudiem.rar 1 -
+/newsletter.tar.tgz 1 -
+/root.bak 1 -
+/2018_backup.rar 1 -
+/beta.sql 1 -
+/archive.sql.gz 1 -
+/2022-backup.tar.bz2 1 -
+/com.sql.gz 1 -
+/!backup.gz 1 -
+/2020backup.gzip 1 -
+/gg.tar.gz 1 -
+/back.sql.gz 1 -
+/forum.7z 1 -
+/main.sql.gz 1 -
+/2021_backup.zip 1 -
+/2022backup.rar 1 -
+/5.bak 1 -
+/2021_Backups 1 -
+/qa.7z 1 -
+/first.sql.gz 1 -
+/members.gz 1 -
+/media.bak 1 -
+/beian.gz 1 -
+/engine.bak 1 -
+/7.tar 1 -
+/local.rar 1 -
+/archive.tgz 1 -
+/9.tar 1 -
+/dump.tar 1 -
+/tracuudiemceaeduvn.tar 1 -
+/2019_backup.7z 1 -
+/2020backup.gz 1 -
+/members.7z 1 -
+/testing.gzip 1 -
+/wangzhan.tar.tgz 1 -
+/investors.sql 1 -
+/db.rar 1 -
+/6.gzip 1 -
+/index.tgz 1 -
+/localhost.tar.tgz 1 -
+/engine.sql.gz 1 -
+/media.7z 1 -
+/dump.7z 1 -
+/files.tar.tgz 1 -
+/0.bzip 1 -
+/2019BACKUPS 1 -
+/a.sql.gz 1 -
+/_BACKUP 1 -
+/tracuudiem.cea.edu.vn.tar.bz2 1 -
+/stage.sql.gz 1 -
+/auth.tar 1 -
+/upfile.tar 1 -
+/sales.gzip 1 -
+/forum.bak 1 -
+/test.tar.gz 1 -
+/2021-backup.tar.gz 1 -
+/!backup.7z 1 -
+/site.bak 1 -
+/2.bzip 1 -
+/web.tar.gz 1 -
+/new.gzip 1 -
+/home.tgz 1 -
+/backups.7z 1 -
+/4.tar.gz 1 -
+/_Backup 1 -
+/last-backup.rar 1 -
+/7.tar.tgz 1 -
+/2021backup.zip 1 -
+/data.rar 1 -
+/2017backup.tar 1 -
+/customers.7z 1 -
+/_backups 1 -
+/tracuudiem.cea.edu.vn.sql 1 -
+/release.sql.gz 1 -
+/9.tar.tgz 1 -
+/user.tar.gz 1 -
+/testing.tar.bz2 1 -
+/tracuudiem.sql 1 -
+/2022_backup.bzip 1 -
+/faisunzip.sql 1 -
+/10.sql 1 -
+/sales.backup 1 -
+/2022backup 1 -
+/conf/.env 1 -
+/admin.sql 1 -
+/home.backup 1 -
+/backup.zip 1 -
+/beifen.backup 1 -
+/2018Backups 1 -
+/release.tgz 1 -
+/sitemap.txt 2 -
+/2022backup.sql 1 -
+/my.tar.bz2 1 -
+/production.gz 1 -
+/6.backup 1 -
+/php.bak 1 -
+/news.backup 1 -
+/forum.tar 1 -
+/gg.bzip 1 -
+/website.rar 1 -
+/alpha.rar 1 -
+/7.sql 1 -
+/hdocs.7z 1 -
+/9.sql 1 -
+/yedek.bzip 1 -
+/download.tar.tgz 1 -
+/first.tar.bz2 1 -
+/prod.bzip 1 -
+/www.root.tar.tgz 1 -
+/2019-backup.rar 1 -
+/tracuudiem.cea.edu.vn/.env 35 -
+/___Backups 1 -
+/2020-backup.bak 1 -
+/3.gz 1 -
+/mysql.bzip 1 -
+/8.bak 1 -
+/htdocs.gzip 1 -
+/sql.zip 1 -
+/backups.tar.gz 1 -
+/gg.backup 1 -
+/!backup.tar.gz 1 -
+/core/.env 1 -
+/wwwroot.bak 1 -
+/gg.bak 1 -
+/store.tgz 1 -
+/forum.gz 1 -
+/www.sql 1 -
+/sales.tar.gz 1 -
+/2020_Backup 1 -
+/2022backup.tar.bz2 1 -
+/7.tar.bz2 1 -
+/dump.sql.gz 1 -
+/customers.zip 1 -
+/2021-backup.sql.gz 1 -
+/9.tar.bz2 1 -
+/root.zip 1 -
+/localhost.sql.gz 1 -
+/wz.sql 1 -
+/root.tar.bz2 1 -
+/2017Backups 1 -
+/news.tgz 1 -
+/asp.zip 1 -
+/root.tar.tgz 1 -
+/2018backup.tar 1 -
+/wwwroot.tar 1 -
+/beifen.rar 1 -
+/back.tar 1 -
+/engine.7z 1 -
+/main.tar 1 -
+/last_backup.7z 1 -
+/beta.tar.gz 1 -
+/tracuudiem.tar.bz2 1 -
+/9.7z 1 -
+/7.7z 1 -
+/beian.7z 1 -
+/bbs.bak 1 -
+/vip.bak 1 -
+/members.tar.gz 1 -
+/archived.zip 1 -
+/2021Backup 1 -
+/2021_backup.bak 1 -
+/last_backup.tar 1 -
+/localhost.sql 1 -
+/2019_backup.sql 1 -
+/master.rar 1 -
+/sales.7z 1 -
+/users.sql.gz 1 -
+/api/.env 1 -
+/2017backup.sql 1 -
+/members.tgz 1 -
+/2017_backup.bzip 1 -
+/2018backup.tar.bz2 1 -
+/2017backup 1 -
+/!backup.sql.gz 1 -
+/tracuudiem.tar 1 -
+/archive.gz 1 -
+/2019-backup.gz 1 -
+/investors.tar.tgz 1 -
+/clients.backup 1 -
+/sql.tar 1 -
+/site.bzip 1 -
+/store.zip 1 -
+/auth.tgz 1 -
+/members.sql.gz 1 -
+/6.tgz 1 -
+/2021backup.7z 1 -
+/2021backups 1 -
+/engine.tgz 1 -
+/!backup.tgz 1 -
+/admin/.env 1 -
+/wwwroot.sql 1 -
+/sql.7z 1 -
+/home.tar 1 -
+/media.gzip 1 -
+/cea.gz 1 -
+/beian.tar.gz 1 -
+/.backup.gzip 1 -
+/2022backup.tar 1 -
+/10.sql.gz 1 -
+/tracuudiem.cea.edu.vn.zip 1 -
+/backups.tgz 1 -
+/database.gzip 1 -
+/cea.tar.tgz 1 -
+/www.tgz 1 -
+/hdocs.tar.gz 1 -
+/SYSTEM_BACKUP 1 -
+//wp-admin/setup-config.php 1 www.google.com
+/bac.tar.gz 1 -
+/asp.7z 1 -
+/homepage.tar.tgz 1 -
+/2019_backup.tar.bz2 1 -
+/2020_backup.sql.gz 1 -
+/Backups 1 -
+/root.gz 1 -
+/backups.sql.gz 1 -
+/.backup.tar.bz2 1 -
+/content.backup 1 -
+/first.sql 1 -
+/auth.backup 1 -
+/faisunzip.tar.tgz 1 -
+/2021-Backup 1 -
+/asp.tar 1 -
+/media.backup 1 -
+/release.7z 1 -
+/database.sql.gz 1 -
+/admin.tar.bz2 1 -
+/master.backup 1 -
+//backup/wp-admin/setup-config.php 1 www.google.com
+/release.tar.gz 1 -
+/2020_backup.tar.gz 1 -
+/prod.bak 1 -
+/0.rar 1 -
+/engine.tar.gz 1 -
+/2019BACKUP 1 -
+/last_backup.tar.bz2 1 -
+/database.bzip 1 -
+/qa.rar 1 -
+/sql.rar 1 -
+/dat.gzip 1 -
+/asp.bzip 1 -
+/beian.backup 1 -
+/tracuudiem.cea.edu.vn.tar 1 -
+/2.zip 1 -
+/archived.7z 1 -
+/.BACKUP 1 -
+/2018backup.sql 1 -
+/2020_backup 1 -
+/database.rar 1 -
+/8.gz 1 -
+/3.bak 1 -
+/2.rar 1 -
+/2022Backups 1 -
+/back.backup 1 -
+/main.backup 1 -
+/archive.backup 1 -
+/2018backup 1 -
+/upfile.sql 1 -
+/clients.gz 1 -
+/hdocs.gzip 1 -
+/local.bzip 1 -
+/2017backup.tar.bz2 1 -
+/0.zip 1 -
+/faisunzip.sql.gz 1 -
+/2018_backup.bzip 1 -
+/gg.tar.tgz 1 -
+/gg.gz 1 -
+/.Backup 1 -
+/content.gz 1 -
+/.backups 1 -
+/media.tar.gz 1 -
+/investors.sql.gz 1 -
+/beian.gzip 1 -
+/news.tar 1 -
+/htdocs.tar.tgz 1 -
+/main.tgz 1 -
+/last_backup.sql 1 -
+/back.tgz 1 -
+/database.sql 1 -
+/2019_backup.tar 1 -
+/cea.tar.bz2 1 -
+/sql.bzip 1 -
+/backups2021 1 -
+/last-backup.gz 1 -
+/index.zip 1 -
+/asp.rar 1 -
+/hdocs.backup 1 -
+/com.bak 1 -
+/wz.sql.gz 1 -
+/archive.tar.gz 1 -
+/home.sql.gz 1 -
+/sitemap.xml 3 -
+/tar.sql 1 -
+/android-chrome-192x192.png 2 https://tracuudiem.cea.edu.vn/login
+/6.bzip 1 -
+/2018-backup.tar.bz2 1 -
+/cea_edu_vn.sql.gz 1 -
+/SYSTEM_BACKUPS 1 -
+/new.rar 1 -
+/123.tgz 1 -
+/10.tar.bz2 1 -
+/2022_backup.rar 1 -
+/my.sql 1 -
+/tracuudiem_cea_edu_vn.bzip 1 -
+/newsletter.bak 1 -
+/sales.gz 1 -
+/forum.tar.gz 1 -
+/wangzhan.bzip 1 -
+/2021-BACKUP 1 -
+/0.gzip 1 -
+/html.rar 1 -
+/2017-backup.tar 1 -
+/cea.edu.vn.tar.gz 1 -
+/content.7z 1 -
+/2019backup.sql.gz 1 -
+/wangzhan.rar 1 -
+/last-backup.bzip 1 -
+/news.7z 1 -
+/release.backup 1 -
+/2.gzip 1 -
+/2018backup.rar 1 -
+/download.gzip 1 -
+/www.root.sql.gz 1 -
+/systembackups 1 -
+/2021backup.tgz 1 -
+/2019backup.tar.tgz 1 -
+/2020-Backups 1 -
+/2018backup.bzip 1 -
+/sales.tar 1 -
+/clients.7z 1 -
+/beta.gzip 1 -
+/2018-backup.sql 1 -
+/db.7z 1 -
+/new.bzip 1 -
+/cea_edu_vn.tar.tgz 1 -
+/2020-backup.zip 1 -
+/web.tar.bz2 1 -
+/2018_backup.gz 1 -
+/users.tar.bz2 1 -
+/download.sql.gz 1 -
+/2021_backup.gzip 1 -
+/www.root.gzip 1 -
+/sellers.json 2 https://tracuudiem.cea.edu.vn/login
+/wangzhan.sql 1 -
+/1.bak 1 -
+/new.tar 1 -
+/download.bzip 1 -
+/2018-backup.tar 1 -
+/qa.tgz 1 -
+/dat.zip 1 -
+/2021_backups 1 -
+/2017backup.rar 1 -
+/0.backup 1 -
+/prod.tar.tgz 1 -
+/customers.gz 1 -
+/orders.sql 1 -
+/2020-backup.tar.tgz 1 -
+/prod.tar.bz2 1 -
+/files.zip 1 -
+/prod.zip 1 -
+/site.gz 1 -
+/www.root.rar 1 -
+/release.gz 1 -
+/bak.sql 1 -
+/lastbackup.tar.tgz 1 -
+/test.gzip 1 -
+/dump.backup 1 -
+/php.sql.gz 1 -
+/new.7z 1 -
+/web.gz 1 -
+/clients.tar.gz 1 -
+/2017-backup.tar.bz2 1 -
+/db.gzip 1 -
+/download.rar 1 -
+/2022-backup.7z 1 -
+/www.root.bzip 1 -
+/forum.backup 1 -
+/2.backup 1 -
+/stage.sql 1 -
+/wz.tar.bz2 1 -
+/php.backup 1 -
+/new/.env 1 -
+/2021-BACKUPS 1 -
+/yedek.rar 1 -
+/bbs.backup 1 -
+/vip.backup 1 -
+/2021-backup.backup 1 -
+/master.zip 1 -
+/lastbackup.sql.gz 1 -
+/2017-backup.sql 1 -
+/web.tar.tgz 1 -
+/user.gzip 1 -
+/root.bzip 1 -
+/!BACKUPS 1 -
+/2019-backup.bzip 1 -
+/www.root.sql 1 -
+/content.tar.gz 1 -
+/cea.edu.vn.bak 1 -
+/vip.sql.gz 1 -
+/home.7z 1 -
+/bbs.sql.gz 1 -
+/alpha.bzip 1 -
+/wangzhan.gzip 1 -
+/2017_backup.gz 1 -
+/news.sql.gz 1 -
+/mysql.rar 1 -
+/ftp.sql 1 -
+/download.sql 1 -
+/code.rar 1 -
+/2020_backup.tgz 1 -
+/wangzhan.sql.gz 1 -
+/newsletter.tar.gz 1 -
+/dump.tgz 1 -
+/2017backup.bzip 1 -
+/forum.gzip 1 -
+/old.sql 1 -
+/sales.bak 1 -
+/5.gz 1 -
+/admin.sql.gz 1 -
+//old/wp-admin/setup-config.php 1 www.google.com
+/archive.7z 1 -
+/gg.tar 1 -
+/website.zip 1 -
+/dat.tar.tgz 1 -
+/1.tar.bz2 1 -
+/last.tar 1 -
+/customers.tar.tgz 1 -
+/backup2020 1 -
+/my.tar 1 -
+/.backup.tar 1 -
+/10.bzip 1 -
+/local.tgz 1 -
+/first.tar 1 -
+/down.tar 1 -
+/alpha.tar.tgz 1 -
+/oa.gzip 1 -
+/aspx.tar 1 -
+/html.backup 1 -
+/bac.rar 1 -
+/data.sql.gz 1 -
+/backup 1 -
+/Systembackups 1 -
+/forum.tar.bz2 1 -
+/2018-backup.tar.gz 1 -
+/2019_backup.tgz 1 -
+/2020-backup.bzip 1 -
+/hdocs.sql.gz 1 -
+/.backup.bak 1 -
+/user.gz 1 -
+/1.7z 1 -
+/archived.tar.gz 1 -
+/2018-backup 1 -
+/1.sql 1 -
+/beian.sql.gz 1 -
+/10.bak 1 -
+/html.tgz 1 -
+/10.backup 1 -
+/localhost.7z 1 -
+/first.gz 1 -
+/____BACKUPS 1 -
+/2017-backup.sql.gz 1 -
+/master.7z 1 -
+/test.gz 1 -
+/web.zip 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/tracuudiem.cea.edu.vn.bak 1 -
+/2021Backups 1 -
+/database.bak 1 -
+/2019-backup.tar.tgz 1 -
+/2018backup.zip 1 -
+/site.gzip 1 -
+/prod.sql 1 -
+/beifen.tgz 1 -
+/123.bak 1 -
+/cea.edu.vn.gzip 1 -
+/bac.bzip 1 -
+/last-backup.zip 1 -
+/archive.rar 1 -
+/users.tar.gz 1 -
+/dat.gz 1 -
+/2017Backup 1 -
+/shop/.env 1 -
+/database.backup 1 -
+/tracuudiem_cea_edu_vn.gzip 1 -
+/a.tgz 1 -
+/code.tgz 1 -
+/1.tar.tgz 1 -
+/last-backup.tar.tgz 1 -
+/2022-Backup 1 -
+/2017-backup 1 -
+/files.rar 1 -
+/dump.rar 1 -
+/2019-backup.zip 1 -
+/users.gzip 1 -
+/bac.tar 1 -
+/stage.7z 1 -
+/4.bzip 1 -
+/beta.gz 1 -
+/content.rar 1 -
+/master.sql.gz 1 -
+/2019-Backups 1 -
+/production.sql.gz 1 -
+/template.tar.tgz 1 -
+/media.sql.gz 1 -
+/archived.tar 1 -
+/newsletter.gzip 1 -
+/first.bak 1 -
+/wz.bzip 1 -
+/2017-backup.tar.gz 1 -
+/2020backup.tar.tgz 1 -
+/bac.7z 1 -
+/asp.tar.gz 1 -
+/dat.tar.bz2 1 -
+/backups.zip 1 -
+/production.tar.tgz 1 -
+/0.tar.gz 1 -
+/localhost.zip 1 -
+/backups2020 1 -
+/!backup.zip 1 -
+/yedek.zip 1 -
+/2022backups 1 -
+/2021backup.tar 1 -
+/2017backup.zip 1 -
+/base/.env 1 -
+/tracuudiemceaeduvn.tar.bz2 1 -
+/data.7z 1 -
+/alpha 1 -
+/customers.sql.gz 1 -
+/orders.tar.tgz 1 -
+/release.bzip 1 -
+/clients.rar 1 -
+/beifen.tar.gz 1 -
+/2018Backup 1 -
+/code.backup 1 -
+/sql.tar.gz 1 -
+/2022backup.7z 1 -
+/2020backup.sql.gz 1 -
+/SYSTEMBACKUPS 1 -
+/oa.7z 1 -
+/users.backup 1 -
+/.well-known/assetlinks.json 63 -
+/cea.gzip 1 -
+/project/.env 1 -
+/mysql.zip 1 -
+/2.tar.gz 1 -
+/tracuudiemceaeduvn.tgz 1 -
+/gg.sql 1 -
+/testing.sql 1 -
+/last_backup.tgz 1 -
+/2022_backup.bak 1 -
+/3.tar 1 -
+/wz.bak 1 -
+/members.zip 1 -
+/2018-backup.sql.gz 1 -
+/tracuudiem.7z 1 -
+/wz.backup 1 -
+/laravel/.env 1 -
+/website.tgz 1 -
+/2018_backup.tar.tgz 1 -
+/tracuudiem_cea_edu_vn.gz 1 -
+/2018backup.backup 1 -
+/tracuudiemceaeduvn.gz 1 -
+/bbs.sql 1 -
+/vip.sql 1 -
+/2020_backup.tar 1 -
+/store.rar 1 -
+/1.tar 1 -
+/sales.sql 1 -
+/beta.bzip 1 -
+/ftp.sql.gz 1 -
+/aspx.sql.gz 1 -
+/admin.backup 1 -
+/backup.tgz 1 -
+/website.sql.gz 1 -
+/data.tar 1 -
+/www.bak 1 -
+/old.backup 1 -
+/old.sql.gz 1 -
+/my.gz 1 -
+/System_Backups 1 -
+/2022-backup.backup 1 -
+/2022-BACKUPS 1 -
+/my.tar.tgz 1 -
+/down.sql.gz 1 -
+/ftp.backup 1 -
+/last.sql.gz 1 -
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQzNiJ9 20 https://tracuudiem.cea.edu.vn/nhap-diem/66
+/system-backup 1 -
+/beian.tar.bz2 1 -
+/web.gzip 1 -
+/auth.rar 1 -
+/new.tar.gz 1 -
+/.backup.tar.tgz 1 -
+/bak.backup 1 -
+/www.root.backup 1 -
+/2021-backup.7z 1 -
+/___BACKUPS 1 -
+/tracuudiem_cea_edu_vn.7z 1 -
+/prod.tar.gz 1 -
+/3.tar.tgz 1 -
+/2019_backup 1 -
+/archive.bzip 1 -
+/hdocs.tar.bz2 1 -
+/bak.sql.gz 1 -
+/2017_backup.zip 1 -
+/master.bak 1 -
+/first.7z 1 -
+/www.root.bak 1 -
+/10.tar.gz 1 -
+/php.sql 1 -
+/forum.sql.gz 1 -
+/tracuudiem.cea.edu.vn.tar.tgz 1 -
+/2017_Backups 1 -
+/wz.zip 1 -
+/.well-known/gpc.json 2 https://tracuudiem.cea.edu.vn/login
+/download.bak 1 -
+/stage.bak 1 -
+/alpha.tgz 1 -
+/local.tar.tgz 1 -
+/admin.gzip 1 -
+/download.backup 1 -
+/2019_backup.tar.gz 1 -
+/2018-backup.tgz 1 -
+/tracuudiem_cea_edu_vn.tar.gz 1 -
+/tracuudiem_cea_edu_vn.zip 1 -
+/newsletter.gz 1 -
+/last_backup.sql.gz 1 -
+/2020BACKUP 1 -
+/2022_backups 1 -
+/back.rar 1 -
+/2.sql.gz 1 -
+/content.bzip 1 -
+/admin.tar.gz 1 -
+/2022_backup.gzip 1 -
+/main.rar 1 -
+/stage.gz 1 -
+/investors.gz 1 -
+/master.bzip 1 -
+/2019_backup.sql.gz 1 -
+/backup.tar.gz 1 -
+/2020_backup.tar.bz2 1 -
+/root.gzip 1 -
+/user.bzip 1 -
+/3.sql 1 -
+/com.tgz 1 -
+/last_backup.tar.gz 1 -
+/master.gz 1 -
+/tracuudiem.tgz 1 -
+/htdocs.sql 1 -
+/0.sql.gz 1 -
+/2017_backup.tar.tgz 1 -
+/a.bzip 1 -
+/7.gz 1 -
+/9.gz 1 -
+/cea.edu.vn.gz 1 -
+/4.tgz 1 -
+/2017backup.backup 1 -
+/2022backup.tgz 1 -
+/tar.sql.gz 1 -
+/cea.zip 1 -
+/stage.tar 1 -
+/2018_Backups 1 -
+/media.tar.bz2 1 -
+/tracuudiem.cea.edu.vn.backup 1 -
+/3.tar.bz2 1 -
+/2017-backup.tgz 1 -
+/tar.backup 1 -
+/10.zip 1 -
+/test.bzip 1 -
+/last.7z 1 -
+/faisunzip.gz 1 -
+/wz.tar.gz 1 -
+/2021_backup.rar 1 -
+/master.tar.bz2 1 -
+/2022-BACKUP 1 -
+/2020-backup.gz 1 -
+/wangzhan.backup 1 -
+/3.7z 1 -
+/down.7z 1 -
+/aspx.7z 1 -
+/clients.bzip 1 -
+/release.rar 1 -
+/2018_backup.zip 1 -
+/wangzhan.bak 1 -
+/index.rar 1 -
+/2020_backup.sql 1 -
+/upfile.tar.tgz 1 -
+/htdocs.tar 1 -
+/beifen.tar.bz2 1 -
+/website.7z 1 -
+/a.zip 1 -
+/archive.zip 1 -
+/!Backups 1 -
+/2017_backups 1 -
+/backup.sql.gz 1 -
+/4.backup 1 -
+/2022_Backups 1 -
+/2021backup.rar 1 -
+/com.sql 1 -
+/lastbackup.gz 1 -
+/!backup 1 -
+/2021-backup.tar.bz2 1 -
+/asp.gz 1 -
+/bac.gzip 1 -
+/root.sql 1 -
+/data.tgz 1 -
+/2022_backup.zip 1 -
+/sql.tar.tgz 1 -
+/my.bak 1 -
+/my.backup 1 -
+/2018-BACKUP 1 -
+/first.backup 1 -
+/a.rar 1 -
+/__Backups 1 -
+/media.sql 1 -
+/beta.bak 1 -
+/2019_Backup 1 -
+/admin.7z 1 -
+/2017-backup.backup 1 -
+/2019-backup.bak 1 -
+/adminer.php 1 -
+/yedek.tar.tgz 1 -
+/2017-BACKUPS 1 -
+/sql.gz 1 -
+/users.bak 1 -
+/cea.7z 1 -
+/template.sql.gz 1 -
+/8.tar.tgz 1 -
+/123.sql.gz 1 -
+/2021-backup.sql 1 -
+/BACKUPS 1 -
+/123.backup 1 -
+/asp.tar.tgz 1 -
+/2020-backup.rar 1 -
+/2021_backup.gz 1 -
+/home.rar 1 -
+/2018_backup.gzip 1 -
+/beifen.bzip 1 -
+/cea.tar 1 -
+/mysql.tar.tgz 1 -
+/2018backup.tgz 1 -
+/backups 1 -
+/code.7z 1 -
+/beifen.gz 1 -
+/first.gzip 1 -
+/testing.tar.tgz 1 -
+/2021backup.bzip 1 -
+/engine.zip 1 -
+/10.tar 1 -
+/html.sql.gz 1 -
+/my.bzip 1 -
+/template.gzip 1 -
+/data.backup 1 -
+/tracuudiem_cea_edu_vn.tar 1 -
+/homepage.backup 1 -
+/localhost.gz 1 -
+/production/.env 1 -
+/members.rar 1 -
+/cea.bzip 1 -
+/gg.tar.bz2 1 -
+/sql.tar.bz2 1 -
+/8.sql 1 -
+/user.bak 1 -
+/alpha.zip 1 -
+/upfile.gzip 1 -
+/template.rar 1 -
+/BACKUP 1 -
+/4.gzip 1 -
+/vip.tgz 1 -
+/tracuudiemceaeduvn.sql 1 -
+/archived.tgz 1 -
+/bbs.tgz 1 -
+/2017-BACKUP 1 -
+/homepage.bak 1 -
+/first.tar.gz 1 -
+/html.7z 1 -
+/clients.zip 1 -
+/2018_backups 1 -
+/users.gz 1 -
+/9.bak 1 -
+/2021-backup.tar 1 -
+/2022-backup.tgz 1 -
+/last-backup.bak 1 -
+/beifen.bak 1 -
+/7.bak 1 -
+/assets/.env 1 -
+/!backup.rar 1 -
+/oa.rar 1 -
+/tracuudiem.cea.edu.vn.tar.gz 1 -
+/hdocs.sql 1 -
+/template.bzip 1 -
+/news.rar 1 -
+/5.tar 1 -
+/code.sql.gz 1 -
+/wz.tar 1 -
+/files.bzip 1 -
+/2022backup.backup 1 -
+/backups.rar 1 -
+/sales.tar.bz2 1 -
+/2017backup.tgz 1 -
+/__backups 1 -
+/8.tar.bz2 1 -
+/6.tar.gz 1 -
+/2022_backup.tar.tgz 1 -
+/content.zip 1 -
+/beian.sql 1 -
+/cea_edu_vn.gz 1 -
+/template.sql 1 -
+/php.tgz 1 -
+/users.tar 1 -
+/dat.tar.gz 1 -
+/asp.tar.bz2 1 -
+/2018-BACKUPS 1 -
+/sitemap_index.xml 2 -
+/2018-backup.backup 1 -
+/2020BACKUPS 1 -
+/cea.rar 1 -
+/site.tar.gz 1 -
+/tracuudiem.backup 1 -
+/2017_backup.gzip 1 -
+/2019backup.gz 1 -
+/8.7z 1 -
+/2020_backup.7z 1 -
+/website.tar.gz 1 -
+/test.bak 1 -
+/apple-touch-icon-120x120.png 10 -
+/backup.7z 1 -
+/last.tgz 1 -
+/ftp.bak 1 -
+/2018backup.7z 1 -
+/mysql.tgz 1 -
+/2022Backup 1 -
+/cea_edu_vn.gzip 1 -
+/down.tgz 1 -
+/4.rar 1 -
+/www.sql.gz 1 -
+/www.backup 1 -
+/old.bak 1 -
+/new.tar.bz2 1 -
+/customers.sql 1 -
+/admin.tar 1 -
+/aspx.tgz 1 -
+/web.bzip 1 -
+/2018backups 1 -
+/5.tar.tgz 1 -
+/testing.bak 1 -
+/root.tar.gz 1 -
+/production.bak 1 -
+/beta.zip 1 -
+/backup.bzip 1 -
+/faisunzip.7z 1 -
+/yedek.tgz 1 -
+/2022-backup.sql.gz 1 -
+/2018_backup.bak 1 -
+/beta.tar.tgz 1 -
+/a.backup 1 -
+/2019backup.gzip 1 -
+/beta.tar.bz2 1 -
+/my.tar.gz 1 -
+/backup.gz 1 -
+/2019-backup.gzip 1 -
+/engine.backup 1 -
+/master.tar.gz 1 -
+/2021backup.tar.bz2 1 -
+/4.zip 1 -
+/bac.zip 1 -
+/testing.tar 1 -
+/website.backup 1 -
+/10.gz 1 -
+/backup.tar.bz2 1 -
+/html.tar 1 -
+/aspx.backup 1 -
+/10.tar.tgz 1 -
+/investors.7z 1 -
+/beifen.sql.gz 1 -
+/last.backup 1 -
+/admin.gz 1 -
+/2018-Backup 1 -
+/tracuudiem_cea_edu_vn.backup 1 -
+/2019_BACKUP 1 -
+/wp-admin/.env 1 -
+/stage.tar.gz 1 -
+/down.backup 1 -
+/2020backup.bak 1 -
+/last_backup.backup 1 -
+/web.rar 1 -
+/store.bzip 1 -
+/bak.bak 1 -
+/2019_backup.backup 1 -
+/release.zip 1 -
+/master.tgz 1 -
+/code.tar 1 -
+/2017_backup.bak 1 -
+/2019_BACKUPS 1 -
+/wwwroot.tar.bz2 1 -
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQzNSJ9 2 https://tracuudiem.cea.edu.vn/nhap-diem/66
+/2021backup.sql 1 -
+/tracuudiem_cea_edu_vn.bak 1 -
+/sites/all/libraries/mailchimp/.env 1 -
+/user.zip 1 -
+/2021backup 1 -
+/2021_backup.bzip 1 -
+/!backup.bzip 1 -
+/2020backup.tar.gz 1 -
+/user.tar.tgz 1 -
+/tracuudiem.zip 1 -
+/user.tar.bz2 1 -
+/5.tar.bz2 1 -
+/a.gzip 1 -
+/index.bzip 1 -
+/5.7z 1 -
+/faisunzip.zip 1 -
+/___backup 1 -
+/members.bzip 1 -
+/2017backup.7z 1 -
+/my.zip 1 -
+/new.tar.tgz 1 -
+/admin.bak 1 -
+/6.sql.gz 1 -
+/sales.sql.gz 1 -
+/users.7z 1 -
+/stage.gzip 1 -
+/2017backups 1 -
+/2022backup.zip 1 -
+/engine.rar 1 -
+/orders.gzip 1 -
+/oa.tgz 1 -
+/beifen.7z 1 -
+/2022-backup.tar.gz 1 -
+/gg.sql.gz 1 -
+/lastbackup.gzip 1 -
+/2019-backups 1 -
+/investors.zip 1 -
+/site.sql 1 -
+/wwwroot.gzip 1 -
+/new.gz 1 -
+/____BACKUP 1 -
+/last-backup.gzip 1 -
+/prod.gzip 1 -
+/web.7z 1 -
+/5.sql 1 -
+/.backup.sql 1 -
+/website.gz 1 -
+/js/vuedraggable.umd.js.map 8 -
+/tar.bak 1 -
+/production.tar.gz 1 -
+/test.zip 1 -
+/test.tar.bz2 1 -
+/test.tar.tgz 1 -
+/backups.bzip 1 -
+/8.tar 1 -
+/local.zip 1 -
+/backup.bak 1 -
+/tracuudiem.cea.edu.vn.bzip 1 -
+/stage.backup 1 -
+/forum.sql 1 -
+/wz.gz 1 -
+/web.tar 1 -
+/2017-Backup 1 -
+/wz.tar.tgz 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 412
+14.224.157.84 5964 6213 26296464 20231229080907
+14.172.245.124 1000 1077 8042518 20231230204048
+14.237.24.202 498 538 5258161 20231220113755
+14.176.140.63 170 183 722633 20231221132009
+103.199.57.205 91 105 2701492 20231225091708
+103.199.56.209 89 96 1487998 20231226110239
+14.161.113.163 81 125 5598472 20231230125052
+14.173.242.118 73 78 1238254 20231221154732
+14.172.132.130 68 96 1755455 20231209060540
+103.199.57.27 65 72 1399431 20231225160756
+115.75.96.12 62 68 1228834 20231205093628
+1.55.41.254 56 70 2090154 20231231210920
+171.255.116.127 51 57 920499 20231228072248
+115.76.61.163 50 64 2520180 20231227100704
+14.183.118.105 49 57 1414790 20231225175903
+123.25.145.21 49 53 1048497 20231216141518
+123.25.145.20 49 78 4557168 20231216142846
+14.191.205.54 46 60 2488736 20231218132027
+14.191.204.51 42 54 1321618 20231228072634
+103.199.32.144 40 45 1271177 20231227093141
+116.108.111.10 39 55 1434121 20231229033819
+113.161.234.53 38 69 4997620 20231227103639
+112.197.70.27 37 67 5225038 20231221173836
+115.75.102.136 36 60 4653730 20231225180812
+115.79.87.236 35 49 2374123 20231230083008
+14.234.91.60 22 25 95205 20231228081935
+103.199.33.76 8 14 1171867 20231227065604
+103.199.32.231 24 31 1274226 20231206160330
+103.199.33.16 0 1 252435 
+117.7.220.110 0 1 252435 
+171.246.82.176 0 2 0 
+14.173.226.40 18 32 2488304 20231211084730
+211.95.50.7 2 3 6267 20231201060813
+171.237.78.49 4 8 962095 20231202160549
+113.185.79.179 5 7 20269 20231230101545
+123.22.215.43 6 8 21385 20231207220305
+103.199.33.100 2 5 941226 20231227171318
+1.54.208.61 3 7 1018931 20231228224239
+14.191.76.149 6 12 1973328 20231203124023
+14.227.194.103 3 7 960519 20231216134749
+113.185.95.157 4 10 1158649 20231228083701
+113.169.142.88 14 21 1291724 20231208114841
+103.199.33.67 18 25 1296694 20231217081001
+113.170.166.163 0 2 0 
+14.191.202.141 3 7 962301 20231228213429
+27.69.238.215 12 20 1343734 20231201135434
+125.235.237.64 0 2 0 
+104.28.227.233 1 5 1509 20231218194305
+171.255.76.80 15 22 1245346 20231212202118
+112.197.243.67 3 8 1010732 20231231130933
+14.234.203.195 2 5 253947 20231201091924
+171.234.10.63 0 1 252435 
+1.52.161.52 3 8 1008949 20231217092321
+27.2.199.4 2 5 957470 20231220213607
+115.76.26.223 4 9 1069645 20231229195223
+103.199.32.222 5 12 1210585 20231228084157
+42.117.10.6 2 5 959252 20231227102642
+113.185.78.59 11 17 1083554 20231207112149
+27.67.72.33 16 23 1236475 20231225155525
+14.230.43.7 7 14 1218301 20231228173801
+171.249.108.221 1 1 1507 20231231205058
+116.104.63.40 11 13 33188 20231228152727
+171.243.109.84 2 8 630644 20231227221822
+103.199.57.218 18 28 1305700 20231225211805
+125.235.236.43 0 4 0 
+14.191.201.107 3 7 380090 20231201160558
+27.66.54.100 24 31 1273176 20231227104032
+5.9.158.122 0 1 252435 
+116.104.61.79 3 9 1065583 20231201195524
+125.212.152.110 3 7 960518 20231204211526
+103.199.33.237 14 21 1355773 20231216082316
+58.187.126.67 3 7 962303 20231229210946
+14.191.204.122 0 4 685496 
+171.251.233.103 3 7 962304 20231230173437
+125.235.138.254 0 2 0 
+42.116.34.27 1 4 941225 20231226171519
+115.76.62.238 13 18 990674 20231228091026
+14.191.59.181 6 13 1214913 20231231111538
+113.185.77.254 25 41 2428927 20231228091440
+117.2.12.101 3 8 964551 20231214082722
+113.185.92.204 8 15 1224533 20231226143857
+125.212.155.249 3 7 960517 20231223174223
+125.235.236.109 1 3 688233 20231218192914
+113.164.79.155 2 2 8826 20231216102303
+115.75.106.183 0 2 0 
+171.253.133.98 3 8 1008948 20231216081836
+103.249.22.93 4 6 13608 20231222075752
+123.30.123.177 3 5 9542 20231211172412
+14.249.87.10 3 7 960517 20231219192801
+103.199.33.25 20 28 1861812 20231207152652
+116.96.78.117 3 7 962302 20231231233311
+125.235.236.228 3 8 1009593 20231225124237
+103.249.23.113 4 8 879653 20231211084344
+113.188.163.30 7 13 1216748 20231231104531
+27.68.87.180 14 26 2026024 20231207112242
+27.67.73.114 4 6 14795 20231227063727
+14.164.47.155 5 7 20271 20231230055212
+104.28.195.231 5 8 646714 20231212214913
+92.119.36.138 1 1 4523 20231223212318
+14.168.244.71 6 15 1078249 20231229230301
+103.174.72.9 4 11 1080147 20231216101736
+113.169.164.172 1 3 3563 20231227214511
+104.28.205.72 1 1 0 20231205195405
+171.244.210.239 7 10 642885 20231206090902
+123.28.121.161 10 22 2960472 20231224221724
+27.64.217.69 0 1 252435 
+14.191.205.48 2 9 1509646 20231231001836
+92.119.36.153 1 1 4523 20231224162006
+123.31.60.80 3 5 13156 20231210165535
+103.199.33.174 5 10 1206061 20231202131926
+113.23.25.215 0 1 630644 
+113.185.73.73 6 8 22093 20231230231725
+27.78.8.128 2 7 961855 20231225073349
+113.166.72.168 3 7 962302 20231229163157
+103.249.21.210 3 7 1064301 20231228082223
+113.170.2.120 4 7 939811 20231209102722
+113.185.79.154 15 17 54983 20231231175214
+211.95.50.8 0 1 670505 
+211.95.50.4 1 2 4525 20231224180028
+103.199.32.237 14 21 1251184 20231227103933
+27.71.121.137 3 8 1008952 20231205080616
+42.112.229.119 12 30 2793227 20231231194613
+125.212.158.42 0 2 686722 
+14.191.76.156 1 3 1510 20231208053133
+14.237.2.96 7 10 899783 20231204124327
+112.197.236.168 1 8 238266 20231214205406
+171.225.185.38 3 9 1067369 20231229182844
+113.185.73.111 4 10 1695121 20231227103531
+103.199.32.240 9 16 1220587 20231213142421
+116.96.78.79 3 7 962301 20231228211207
+92.119.36.146 1 1 4711 20231224162010
+171.254.136.157 3 8 961477 20231210103601
+103.199.56.121 11 16 144403 20231214151259
+116.97.108.165 3 7 960519 20231220193555
+14.183.90.129 4 8 272225 20231227060743
+42.112.91.190 2 7 986364 20231208223313
+103.7.38.68 7 13 1201826 20231225063758
+103.249.21.169 9 9 25683 20231204070928
+103.199.57.223 11 18 1235465 20231201161028
+113.185.78.14 11 13 25238 20231208142348
+14.191.111.97 3 7 1003132 20231229115934
+113.185.78.240 5 7 647840 20231229080831
+58.186.28.81 3 7 962301 20231229194701
+1.52.162.80 4 9 1068320 20231223165622
+103.199.32.122 4 9 1070607 20231226085129
+103.199.33.111 6 14 1210000 20231223084215
+125.235.14.141 16 21 1087256 20231224121317
+183.91.188.229 2 5 957467 20231223231744
+113.185.74.19 4 6 14971 20231227130540
+65.109.158.114 1 1 4523 20231223054631
+103.199.32.167 33 41 1299319 20231207152754
+171.225.122.174 7 14 1923328 20231230173442
+42.116.118.57 0 2 630644 
+103.199.56.245 4 6 641680 20231216201005
+118.102.2.29 0 4 1009740 
+103.199.56.173 15 23 1451305 20231228161836
+125.235.237.36 12 19 1853660 20231204064246
+116.108.79.99 9 15 1174978 20231220213529
+113.185.72.68 8 15 1223607 20231228083416
+113.169.236.74 3 7 960521 20231212203952
+14.191.254.225 4 9 962985 20231223191723
+103.199.56.30 11 16 1175560 20231226082646
+103.199.32.103 0 2 630644 
+113.185.79.248 4 6 14967 20231229155052
+171.253.136.90 4 6 14022 20231210122002
+113.185.78.119 25 35 1216042 20231213080158
+113.163.35.69 4 6 14812 20231230061340
+14.191.204.91 0 2 0 
+103.199.33.74 1 1 263 20231204073826
+113.170.166.157 4 6 13990 20231231212127
+14.183.74.21 5 10 1074036 20231225105615
+66.249.82.13 2 6 1390531 20231220162142
+103.199.33.75 4 4 16454 20231204074715
+125.212.158.21 3 7 1018930 20231231194129
+34.135.6.87 6 14 1921034 20231214173431
+185.243.40.187 1 1 0 20231208015206
+113.183.144.184 11 21 716313 20231204121903
+103.199.32.55 20 30 2179945 20231226163802
+103.199.56.84 15 17 46161 20231228155259
+171.225.125.95 3 7 962300 20231230092825
+103.249.21.176 5 7 642840 20231204070741
+171.253.7.218 2 4 3018 20231210095020
+113.185.74.186 4 9 1073300 20231226140131
+113.180.173.51 0 2 0 
+46.114.172.46 3 8 1010732 20231226173609
+123.23.170.166 1 4 315480 20231210021331
+125.235.237.66 0 2 504870 
+125.235.61.28 3 5 10044 20231213070611
+125.235.63.106 16 23 1198001 20231225152519
+171.231.170.228 5 9 965322 20231229202021
+14.191.115.147 3 7 1018379 20231216073900
+14.191.59.163 7 14 1217181 20231226053439
+103.249.23.103 3 3 13239 20231211084802
+112.197.8.70 2 5 959253 20231230160406
+27.3.113.122 6 8 21599 20231228000137
+103.199.57.22 8 11 23148 20231221190927
+14.165.97.24 3 8 1011979 20231230162728
+14.191.76.36 4 9 1068392 20231210045724
+116.96.78.45 4 8 963817 20231229174937
+103.129.191.203 1 1 263 20231227102607
+27.67.87.45 4 6 14813 20231229080129
+14.172.226.232 3 7 962301 20231230202521
+103.199.57.37 0 2 0 
+103.199.32.84 8 15 1222580 20231228083919
+103.199.33.28 4 6 129889 20231227172232
+171.255.112.50 1 1 1508 20231218131911
+42.116.121.218 3 8 1010733 20231229171047
+113.185.74.12 4 6 14976 20231227092859
+118.194.236.219 1 2 2697 20231207074909
+123.22.249.85 7 14 1276806 20231206185816
+14.191.77.238 7 13 1327696 20231224194746
+103.199.33.194 30 37 1295102 20231214111525
+103.199.56.94 12 21 1235301 20231225212359
+14.183.128.33 31 35 108946 20231207175149
+1.52.161.181 7 12 1133364 20231201060607
+113.185.94.54 6 13 1214889 20231228160536
+113.185.95.204 3 7 1006165 20231213123144
+125.235.236.36 1 3 1510 20231227124230
+113.175.196.97 3 7 962300 20231229094906
+125.212.152.119 3 7 962300 20231231133435
+125.235.229.103 3 8 1010734 20231230083700
+116.103.113.159 6 10 965434 20231230113830
+171.255.150.94 7 13 1224858 20231229080213
+27.2.226.70 2 5 957466 20231206185807
+171.233.66.153 3 7 962303 20231228200646
+58.187.190.19 0 1 252435 
+103.199.56.139 5 12 967799 20231225073130
+14.161.115.156 11 22 1232515 20231228101516
+211.95.50.5 1 2 672982 20231224180036
+171.226.143.89 4 8 963813 20231230111349
+66.249.82.15 4 5 79199 20231220163357
+113.180.101.139 2 7 1019071 20231208232137
+117.54.109.8 3 3 5217 20231201111614
+1.53.89.236 2 7 1008691 20231205172041
+49.213.78.31 0 7 1601887 
+125.235.236.55 6 18 1919032 20231228221401
+103.249.21.168 1 3 0 20231204093706
+125.235.236.153 2 5 941227 20231226190937
+171.253.177.217 3 5 5076 20231216092749
+14.184.155.192 22 37 3368520 20231229191035
+1.55.49.146 3 7 962302 20231230131018
+115.79.87.19 3 7 962300 20231230081630
+113.185.73.181 1 3 628861 20231204002103
+34.94.191.79 6 14 1921034 20231215202606
+171.234.10.243 3 7 960520 20231204173929
+171.253.185.187 17 22 1131774 20231227100753
+1.55.41.69 3 7 960516 20231208223050
+27.71.84.151 3 7 962303 20231229180912
+125.235.229.232 6 10 966827 20231231165231
+103.129.191.1 0 2 0 
+103.199.57.240 14 19 1108169 20231228071513
+103.199.57.87 7 14 1218214 20231225080322
+171.255.77.96 4 8 953667 20231227111509
+27.2.226.69 2 5 958112 20231225155323
+14.191.76.165 32 32 102059 20231207111922
+171.226.238.244 3 8 1010736 20231229203722
+171.242.178.211 3 7 1136711 20231202204319
+113.185.93.225 12 17 1094797 20231213075939
+27.67.10.170 5 12 1200881 20231225163730
+113.185.75.222 2 4 0 20231229202504
+103.199.33.77 2 2 8768 20231204074112
+125.235.61.184 12 24 2230835 20231207112409
+204.14.73.145 2 5 1015329 20231213184050
+103.199.32.63 18 21 69345 20231215085721
+14.176.125.83 18 33 3364821 20231220180749
+113.164.79.43 29 40 2043683 20231216142417
+103.199.56.130 0 2 0 
+103.249.23.17 7 12 1170949 20231218194511
+115.78.84.163 5 9 964312 20231225191201
+171.243.53.49 0 1 252435 
+27.67.135.9 7 12 1225165 20231223084223
+113.185.92.38 7 13 1214562 20231216144028
+113.190.88.214 2 4 688516 20231201235521
+125.235.237.197 0 2 0 
+103.199.32.146 10 17 1219253 20231213155556
+171.243.51.200 3 7 962304 20231229101919
+103.199.57.153 0 2 0 
+125.235.209.208 6 13 1166919 20231214182927
+115.73.200.72 12 20 1272610 20231225091923
+42.112.11.138 2 5 957468 20231204073841
+171.253.131.195 3 6 5081 20231214065857
+104.28.227.234 2 4 3022 20231223194843
+14.161.115.223 7 12 1169658 20231230143203
+171.250.167.151 18 30 2164109 20231210171513
+125.235.236.100 18 27 1946124 20231213214345
+113.175.104.153 4 8 963813 20231231204945
+103.67.163.4 10 19 1082321 20231211145845
+103.129.191.197 2 2 3081 20231227102905
+125.235.237.13 22 27 1207431 20231228204434
+116.99.228.178 3 7 960519 20231213191821
+125.235.237.51 7 14 1173075 20231227092619
+113.163.191.217 0 2 0 
+104.28.217.54 6 6 24623 20231223203800
+125.235.190.137 8 15 1223869 20231220071245
+14.191.21.21 0 1 252435 
+27.71.108.218 0 2 0 
+14.191.150.155 3 7 962303 20231229093607
+113.185.93.113 8 14 1218127 20231213075945
+103.249.21.173 2 4 3022 20231201135256
+103.199.33.48 0 2 0 
+103.199.32.30 3 8 1066812 20231204204040
+125.235.63.75 3 3 9386 20231225154356
+113.180.172.218 3 7 960519 20231203132243
+125.235.236.154 3 8 1067363 20231230050932
+125.235.123.143 3 6 891340 20231217201537
+103.199.32.138 0 2 0 
+113.185.73.118 24 32 1474102 20231226102824
+112.197.184.119 3 7 962302 20231230214546
+14.237.2.128 21 23 27231 20231222152048
+116.108.103.198 7 15 1846224 20231207113636
+103.199.56.122 4 4 13799 20231225080424
+113.185.77.230 1 6 0 20231222005151
+104.28.205.70 3 8 1066813 20231221215938
+125.234.229.144 11 18 1236630 20231227103641
+116.104.61.168 6 13 1214735 20231228133218
+43.163.4.114 0 1 252435 
+117.6.244.204 3 7 962300 20231229085816
+103.249.23.31 1 1 263 20231218194346
+14.191.187.44 3 8 963259 20231230144720
+41.218.199.214 1 1 1739 20231204092956
+103.199.33.18 8 15 1224173 20231227131012
+117.3.146.235 3 7 960519 20231218084045
+103.199.33.78 8 15 1222626 20231204073912
+113.165.136.28 3 7 962299 20231231115602
+104.28.249.55 10 13 24833 20231217101515
+103.249.23.18 0 2 51219 
+113.169.185.134 15 26 1934822 20231212143231
+65.109.79.205 1 1 3989 20231202185528
+113.185.73.145 0 2 0 
+125.235.60.66 4 11 1757878 20231226194305
+113.185.94.239 0 1 252435 
+66.249.82.14 5 6 64190 20231220163357
+113.185.76.213 14 19 1098314 20231227094823
+113.185.72.102 1 1 0 20231228083607
+103.249.21.166 1 1 263 20231201070916
+14.240.29.224 0 2 0 
+14.188.192.139 3 7 1018382 20231217175144
+103.199.33.246 9 15 1198168 20231226091657
+103.199.32.52 5 10 1163277 20231228132845
+14.244.192.165 3 7 962302 20231229213128
+103.199.32.154 9 16 1170785 20231207112632
+20.5.43.69 11 18 1275841 20231204073840
+1.52.164.113 6 11 1155188 20231228060926
+27.71.98.215 0 1 252435 
+14.191.204.63 14 26 2389380 20231231171938
+116.98.240.79 3 7 1018926 20231231090540
+103.199.57.230 11 18 1230212 20231227094705
+14.191.77.208 3 9 1067369 20231230124506
+104.28.195.232 2 4 1511 20231228215934
+5.9.158.136 1 1 3989 20231223070911
+171.243.51.91 4 8 963869 20231230161848
+118.68.1.214 3 6 1016144 20231228111504
+103.199.33.232 5 9 1156674 20231219165837
+113.185.76.103 0 2 0 
+171.253.9.190 2 4 5084 20231214145404
+115.77.205.118 16 23 1246975 20231223232443
+123.25.145.194 1 1 1509 20231214113639
+14.173.226.27 6 14 1263696 20231202130147
+104.28.195.235 5 6 17977 20231223195031
+113.182.78.108 17 27 2111698 20231207110149
+113.180.173.102 16 21 1126187 20231226151357
+103.199.56.157 7 14 1217707 20231201145059
+103.129.191.198 9 14 1021494 20231227102729
+27.2.226.73 2 5 959250 20231227102642
+113.170.67.90 5 9 965380 20231227173154
+42.113.33.41 3 7 962303 20231230211715
+125.235.60.28 16 23 1254614 20231222081331
+113.23.26.77 0 2 0 
+112.197.70.76 17 35 3456267 20231231092147
+103.249.22.78 0 2 629504 
+125.235.63.4 10 17 1720620 20231227103652
+27.68.213.21 5 7 17463 20231225074600
+199.45.155.34 1 4 53915 20231223235956
+113.185.95.234 7 14 1071486 20231227155213
+125.235.237.67 18 30 2194022 20231228202806
+103.199.33.171 10 17 1231065 20231225081050
+27.68.86.106 4 9 1073641 20231226123417
+113.23.29.120 7 11 1094678 20231214074439
+103.249.21.179 6 13 1218203 20231201070940
+103.199.56.193 7 9 26981 20231204092538
+178.63.53.93 1 1 4523 20231202175606
+115.78.8.179 3 8 961477 20231210144832
+125.212.151.148 5 9 1022082 20231230160400
+116.100.112.23 28 35 1248672 20231207123056
+103.199.32.39 8 15 1217749 20231211130338
+125.235.237.28 18 30 2214682 20231227144836
+104.28.205.71 16 16 43668 20231223200257
+125.235.237.88 9 16 1222620 20231223090414
+104.28.237.70 10 19 1811783 20231207192322
+27.78.194.184 3 7 962301 20231229101654
+171.250.164.8 3 8 1008951 20231211110515
+113.185.72.12 14 20 51685 20231207185218
+113.184.126.230 1 3 506381 20231217110852
+58.187.65.187 3 8 1009597 20231225163210
+113.169.57.139 0 1 252435 
+125.235.237.221 12 17 1159166 20231207114446
+42.119.145.217 9 16 1169467 20231228220141
+116.98.248.35 3 7 962300 20231231204353
+171.255.130.82 2 7 1010471 20231231123957
+125.235.237.249 3 5 640006 20231227103752
+125.235.236.87 7 14 1215793 20231204133853
+171.255.116.181 1 1 1513 20231228130208
+14.230.43.124 27 41 2320709 20231227204445
+113.22.33.187 0 6 628861 
+27.64.218.49 11 18 1180356 20231207122613
+103.154.62.168 1 3 1509 20231220150153
+103.249.22.81 0 2 0 
+115.75.100.73 3 7 960519 20231213131713
+116.104.60.50 0 2 0 
+125.235.237.4 6 13 1125788 20231222101611
+116.99.252.235 4 8 963875 20231231103944
+14.227.204.122 9 13 963470 20231205115425
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20231201 81 160 11676377 18
+20231202 23 48 5787244 7
+20231203 11 25 2792747 3
+20231204 151 236 15047734 25
+20231205 851 916 9710034 13
+20231206 555 615 8114204 14
+20231207 281 391 16386951 20
+20231208 38 69 4983572 8
+20231209 3 11 1193387 2
+20231210 49 97 8186334 14
+20231211 325 401 11778400 15
+20231212 84 109 4023762 6
+20231213 142 228 14474759 16
+20231214 92 146 8184434 13
+20231215 69 92 4490599 4
+20231216 156 224 12136699 13
+20231217 47 77 5719312 7
+20231218 760 820 8550920 13
+20231219 449 473 3225338 5
+20231220 555 632 12685401 15
+20231221 1534 1589 6886725 10
+20231222 276 319 4973942 11
+20231223 125 179 8147280 20
+20231224 69 125 9635526 13
+20231225 1243 1454 36641514 35
+20231226 1790 1968 39132903 27
+20231227 494 730 39012048 43
+20231228 446 661 32458072 42
+20231229 160 286 24074137 32
+20231230 111 223 19757570 29
+20231231 102 192 18270529 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 42
+30mn-1h 19
+1h+ 23
+15mn-30mn 10
+5mn-15mn 39
+30s-2mn 110
+0s-30s 272
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 656
+/tra-cuu-diem 1097 4841997 4 200
+/login 1017 1549974 465 122
+/api/he-dao-tao/all 888 116328 0 2
+/api/nien-khoa/all 653 155414 1 0
+/ 439 1571102 7 14
+/api/nhap-diem 405 524891 0 3
+/nhap-diem 395 1324056 7 0
+/fonts/vendor/bootstrap3/dist/glyphicons-halflings-regular.woff2 308 4579112 4 32
+/api/quyet-dinh/all/0 300 293000 0 0
+/dashboard 247 879398 3 10
+/api/lop-hoc/paginate 237 330714 0 1
+/site.webmanifest 235 55493 6 79
+/api/khoa-dao-tao/all 231 632721 0 1
+/lop-hoc 229 772484 3 0
+/api/nganh-nghe/all 209 266684 0 1
+/fonts/vendor/font-awesome/fontawesome-webfont.woff2 186 11033880 7 12
+/api/mon-hoc/all-by-khoa-dao-tao 163 175152 0 7
+/api/khoa-dao-tao 118 126855 0 0
+/khoa-dao-tao 108 364519 0 0
+/api/mon-hoc 105 77957 0 0
+/mon-hoc 100 339084 0 0
+/api/lop-hoc/67 97 28786 0 0
+/api/mon-hoc/all 87 123423 0 2
+/api/quyet-dinh/all/2 69 40467 0 0
+/api/quyet-dinh/all/1 69 47610 0 0
+/lop-hoc/103 1 3378 0 0
+/lop-hoc/98 1 3401 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQxOSJ9 1 3367 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQzNSJ9 1 3365 0 0
+/api/lop-hoc/96/ds-sinh-vien 2 4121 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgwIiwiaG9jX2t5IjoyLCJtaF9pZCI6IjI5NiJ9 1 3368 0 0
+/api/lop-hoc/68/hoc-ky-tab0 4 601 0 0
+/khoa-dao-tao/72/hoc-ky 12 40628 0 0
+/api/mon-hoc/405 3 642 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk1IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQifQ== 1 3368 0 0
+/lop-hoc/114/hoc-ky 5 16747 0 0
+/api/lop-hoc/114/hoc-ky-tab0 1 168 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo1LCJtaF9pZCI6IjQyOSJ9 1 3364 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI0MCJ9 1 3368 0 0
+/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/9 1 837 0 0
+/lop-hoc/86 1 3419 0 0
+/api/excel/import-raw-score 4 4275 0 0
+/nhap-diem/69 15 51062 0 0
+/api/khoa-dao-tao/120 4 1035 0 0
+/api/khoa-dao-tao/81 2 444 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQwNCJ9 2 6730 0 0
+/api/mon-hoc/957 2 432 0 0
+/api/lop-hoc/86/ds-sinh-vien 2 3804 0 0
+/nhap-diem/76/ket-qua-hoc-tap 1 15022 0 0
+/api/nhap-diem/86/bang-diem 9 6898 0 0
+/api/sinh-vien/2012 1 261 0 0
+/api/lop-hoc/duplicate/121 1 6 0 0
+/user 3 10171 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOCIsImhvY19reSI6MSwibWhfaWQiOiIzMzEifQ== 1 3375 0 0
+/nhap-diem/120/ket-qua-hoc-tap 1 9693 0 0
+/api/mon-hoc/849 1 194 0 0
+/lop-hoc/45/hoc-ky 5 16828 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQwMiJ9 1 3365 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjcifQ== 1 3365 0 0
+/api/sinh-vien/2013 1 270 0 0
+/nhap-diem/77 8 27246 0 0
+/api/mon-hoc/750 1 197 0 0
+/api/nhap-diem/45/bang-diem 2 818 0 0
+/api/nhap-diem/115/hoc-ky 3 3660 0 0
+/nhap-diem/84 3 10329 0 0
+/api/nhap-diem/99/bang-diem 5 3503 0 0
+/nhat-ky 12 40586 0 0
+/nhap-diem/115 3 10209 0 0
+/nhap-diem/80/ket-qua-hoc-tap 5 66113 0 0
+/api/nhap-diem/110/hoc-ky 10 11245 0 0
+/api/lop-hoc/117/hoc-ky 16 17533 0 0
+/api/mon-hoc/1336 1 191 0 0
+/api/lop-hoc/121/hoc-ky 3 1869 0 0
+/nhap-diem/85 2 6888 0 0
+/api/lop-hoc/63 16 4736 0 0
+/user/change-password 2 6013 0 0
+/api/nhap-diem/80/hoc-ky 9 12686 0 1
+/api/mon-hoc/298 2 438 0 0
+/api/lop-hoc/110/hoc-ky 7 8340 0 0
+/api/lop-hoc/72/update-sync-mon-hoc-by-kdt 1 6 0 0
+/nhap-diem/65/ket-qua-hoc-tap 3 35806 0 0
+/api/nhap-diem/98/bang-diem 6 4909 0 0
+/nhap-diem/118 4 13691 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg2IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjIzNiJ9 1 3368 0 0
+/api/lop-hoc/117/them-sinh-vien-excel 1 0 0 0
+/api/mon-hoc/418 1 240 0 0
+/nhap-diem/112 21 71526 0 0
+/nhap-diem/66 27 91951 0 0
+/api/lop-hoc/119 9 2385 0 0
+/api/nhap-diem/95/hoc-ky 2 2726 0 0
+/api/nhap-diem/112/bang-diem 19 21338 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQwOSJ9 2 6730 0 0
+/api/lop-hoc/120/them-sinh-vien-excel 1 0 0 0
+/api/nhap-diem/86/hoc-ky 10 15004 0 0
+/api/user/2192 1 237 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgyIiwiaG9jX2t5IjozLCJtaF9pZCI6IjM0NCJ9 1 3368 0 0
+/api/lop-hoc/115/hoc-ky-tab0 1 125 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjQyMiJ9 1 3364 0 0
+/api/nhat-ky 12 16618 0 0
+/api/nhap-diem/66/bang-diem 26 17926 0 0
+/lop-hoc/120/them-sinh-vien-excel 1 3357 0 0
+/api/khoa-dao-tao/62/updateSyncMonHocTheoNN 2 12 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI5OCJ9 2 6736 0 0
+/api/nhap-diem/79/bang-diem 3 2630 0 0
+/api/lop-hoc 5 791 1 0
+/api/lop-hoc/67/hoc-ky 26 29401 0 0
+/api/mon-hoc/996 1 193 0 0
+/api/mon-hoc/240 1 224 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc3IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjI5NiJ9 1 3368 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjQyMyJ9 1 3365 0 0
+/api/nhap-diem/118/hoc-ky 4 4044 0 2
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ1IiwiaG9jX2t5Ijo1LCJtaF9pZCI6Ijg0OSJ9 1 3364 0 0
+/api/mon-hoc/840 2 382 0 0
+/api/khoa-dao-tao/80/updateSyncMonHocTheoNN 2 12 0 0
+/api/nhap-diem/63/hoc-ky 7 10258 0 0
+/khoa-dao-tao/123/hoc-ky 1 3356 0 0
+/api/lop-hoc/118/ds-sinh-vien 5 6044 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk4IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkyOCJ9 2 6737 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY5IiwiaG9jX2t5IjozLCJtaF9pZCI6IjgyOCJ9 1 3365 0 0
+/api/mon-hoc/767 2 374 0 0
+/nhat-ky/113/lop-hoc 1 5340 0 0
+/khoa-dao-tao/121/hoc-ky 9 30207 0 0
+/api/lop-hoc/49 13 3872 0 0
+/api/nhap-diem/101/bang-diem 10 7685 0 0
+/khoa-dao-tao/74/hoc-ky 2 6695 0 0
+/api/sinh-vien/2017 1 270 0 0
+/sinh-vien 7 23317 1 0
+/api/nhap-diem/116/hoc-ky 10 11851 0 0
+/api/lop-hoc/119/hoc-ky 3 3060 0 0
+/api/mon-hoc/422 1 238 0 0
+/api/mon-hoc/401 4 856 0 0
+/api/lop-hoc/110 20 5496 0 0
+/nhap-diem/101/ket-qua-hoc-tap 1 9780 0 1
+/api/lop-hoc/81 14 3976 0 0
+/api/lop-hoc/102 6 1620 0 0
+/api/lop-hoc/121 9 2523 0 0
+/api/khoa-dao-tao/116/hoc-ky 8 11624 0 0
+/api/mon-hoc/426 4 820 0 0
+/api/lop-hoc/83/ds-sinh-vien 2 5091 0 0
+/nhap-diem/74/ket-qua-hoc-tap 6 94060 0 0
+/api/lop-hoc/117 21 5633 0 0
+/api/lop-hoc/101/ds-sinh-vien 2 2621 0 0
+/api/nhap-diem/75/hoc-ky 2 3349 0 0
+/nhap-diem/38/ket-qua-hoc-tap/export 1 13223 0 0
+/api/lop-hoc/49/hoc-ky 6 7610 0 0
+/api/mon-hoc/451 2 370 0 0
+/nhap-diem/81/ket-qua-hoc-tap 9 164991 0 0
+/api/khoa-dao-tao/getSyncMonHocTheoNN 21 9419 0 1
+/api/sinh-vien/2015 1 267 0 0
+/nhap-diem/63 7 24148 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjQyNiJ9 1 3365 0 0
+/lop-hoc/117/them-sinh-vien-excel 1 3356 0 0
+/api/lop-hoc/122/ds-sinh-vien 4 5549 0 0
+/lop-hoc/112/hoc-ky 5 16919 0 0
+/api/mon-hoc/17 1 238 0 0
+/api/nhap-diem/75/bang-diem 2 1557 0 0
+/api/khoa-dao-tao/123/hoc-ky 1 1056 0 0
+/api/lop-hoc/72 12 3268 0 0
+/api/nhap-diem/72/hoc-ky 8 8667 0 0
+/api/khoa-dao-tao/125/hoc-ky 6 10635 0 0
+/api/nhap-diem/100/hoc-ky 3 3185 0 0
+/api/dot-xet-tot-nghiep/all 7 2254 0 0
+/api/khoa-dao-tao/120/hoc-ky 5 5216 0 0
+/api/lop-hoc/121/ds-sinh-vien 2 1742 0 0
+/api/nhap-diem/39/hoc-ky 1 2309 0 0
+/khoa-dao-tao/81/hoc-ky 1 3349 0 0
+/api/lop-hoc/97/ds-sinh-vien 2 4120 0 0
+/khoa-dao-tao/44/hoc-ky 2 6860 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQ0MSJ9 2 6415 0 0
+/api/lop-hoc/64 1 319 0 0
+/nhap-diem/121 3 10245 0 0
+/api/khoa-dao-tao/122/hoc-ky 5 8625 0 0
+/api/mon-hoc/1199 1 194 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMiIsImhvY19reSI6MSwibWhfaWQiOiIyMjMifQ== 1 3372 0 0
+/api/nhap-diem/82/bang-diem 2 1769 0 0
+/lop-hoc/97 1 3401 0 0
+/api/lop-hoc/72/hoc-ky 2 1951 0 0
+/api/khoa-dao-tao/43 10 2520 0 0
+/api/mon-hoc/175 1 179 0 0
+/api/mon-hoc/784 3 666 0 0
+/api/mon-hoc/344 1 214 0 0
+/nhap-diem/97 3 10347 0 0
+/api/lop-hoc/103/ds-sinh-vien 2 3596 0 0
+/nhap-diem/80 8 27216 0 0
+/api/nhap-diem/84/hoc-ky 3 4259 0 0
+/api/mon-hoc/928 3 609 0 0
+/api/sinh-vien/2010 1 267 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc5IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI4MSJ9 1 3369 0 0
+/nhap-diem/114 2 6806 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQxNSJ9 1 3366 0 0
+/api/nhap-diem/102/hoc-ky 4 4708 0 0
+/nhap-diem/119/ket-qua-hoc-tap 1 9197 0 0
+/api/lop-hoc/116/hoc-ky-tab0 1 162 0 0
+/nhap-diem/79/ket-qua-hoc-tap 6 77633 0 0
+/api/khoa-dao-tao/123 2 474 0 0
+/api/lop-hoc/all 47 110288 0 0
+/api/nhap-diem/70/hoc-ky 4 6708 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgxIiwiaG9jX2t5IjoxLCJtaF9pZCI6IjMzNSJ9 1 3369 0 0
+/api/khoa-dao-tao/80 7 1897 0 0
+/api/lop-hoc/113 21 6157 0 0
+/api/sinh-vien 7 12161 0 0
+/api/dot-xet-tot-nghiep 2 1704 0 0
+/api/dot-thi/all/dot-xet-tn 2 12 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY4IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc1MCJ9 1 3364 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExOSIsImhvY19reSI6MSwibWhfaWQiOiIzMzEifQ== 1 3372 0 0
+/api/lop-hoc/64/ds-sinh-vien 2 3055 0 0
+/api/nhap-diem/103/hoc-ky 5 5555 0 0
+/api/nhap-diem/118/bang-diem 2 1509 0 0
+/api/khoa-dao-tao/81/hoc-ky 3 2209 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyMSIsImhvY19reSI6MSwibWhfaWQiOiIxNzUifQ== 1 3373 0 0
+/nhap-diem/116 10 34036 0 0
+/api/mon-hoc/19 1 230 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6IjgwIiwiaG9jX2t5IjoyfQ== 1 3052 0 0
+/api/nhap-diem/76/hoc-ky 3 4169 0 0
+/api/lop-hoc/118/them-sinh-vien-excel 1 0 0 0
+/lop-hoc/117 3 10132 0 0
+/api/lop-hoc/62/ds-sinh-vien 2 4950 0 0
+/api/lop-hoc/95 3 867 0 0
+/api/mon-hoc/772 1 203 0 0
+/api/lop-hoc/122 15 4200 0 0
+/nhap-diem/102 3 10334 0 0
+/api/nhap-diem/77/hoc-ky 10 13144 0 0
+/api/mon-hoc/763 1 196 0 0
+/api/lop-hoc/101 15 3975 0 0
+/api/lop-hoc/83 1 296 0 0
+/api/khoa-dao-tao/62 8 2019 0 0
+/nhap-diem/100/ket-qua-hoc-tap 2 19576 0 0
+/api/mon-hoc/22 1 253 0 0
+/api/lop-hoc/119/them-sinh-vien-excel 1 0 0 0
+/nhap-diem/97/ket-qua-hoc-tap 3 38434 0 1
+/api/mon-hoc/402 7 1274 0 0
+/nganh-nghe 15 50746 0 0
+/api/mon-hoc/7 1 202 0 0
+/api/mon-hoc/417 2 458 0 0
+/api/nhap-diem/76/bang-diem 3 2592 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzMzIn0= 3 10095 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQ0NCJ9 2 6730 0 0
+/api/lop-hoc/70 7 2058 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMCIsImhvY19reSI6MSwibWhfaWQiOiIzMzEifQ== 1 3372 0 0
+/api/nhap-diem/71/bang-diem 14 11255 0 0
+/lop-hoc/100 1 3416 0 0
+/api/nhap-diem/68/bang-diem 8 5090 0 0
+/api/khoa-dao-tao/74/updateSyncMonHocTheoNN 1 6 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjozLCJtaF9pZCI6IjIxIn0= 1 3368 0 0
+/api/nhap-diem/70/bang-diem 2 1909 0 0
+/api/lop-hoc/100/ds-sinh-vien 2 2324 0 0
+/api/mon-hoc/307 1 192 0 0
+/nhat-ky/116/lop-hoc 1 5518 0 0
+/api/khoa-dao-tao/81/updateSyncMonHocTheoNN 1 6 0 0
+/api/nganh-nghe/18 1 124 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQwNSJ9 1 3366 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjM5OCJ9 1 3364 0 0
+/lop-hoc/70 2 6836 0 0
+/api/nhap-diem/98/hoc-ky 8 9669 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzM2In0= 1 3367 0 0
+/api/nhap-diem/113/hoc-ky 11 13803 0 0
+/lop-hoc/46/hoc-ky 9 30464 0 0
+/api/khoa-dao-tao/duplicate/97 1 6 0 0
+/api/mon-hoc/331 3 540 0 0
+/api/lop-hoc/75 5 1470 0 0
+/api/lop-hoc/84/ds-sinh-vien 2 5131 0 0
+/api/khoa-dao-tao/44 2 492 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMyIsImhvY19reSI6MSwibWhfaWQiOiIxMDAwIn0= 1 3370 0 0
+/api/mon-hoc/1374 2 376 0 0
+/lop-hoc/119/hoc-ky 2 6731 0 0
+/lop-hoc/74 2 6832 0 0
+/nhap-diem/98 7 24128 0 0
+/lop-hoc/68/hoc-ky 4 13385 0 0
+/khoa-dao-tao/45/hoc-ky 3 10107 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI4MSJ9 1 3369 0 0
+/lop-hoc/120 2 6756 0 0
+/api/nhap-diem/79/hoc-ky 6 7860 0 0
+/api/nhap-diem/94/hoc-ky 1 1342 0 0
+/api/excel/import-mon-hoc 1 639 0 0
+/api/mon-hoc/929 2 396 0 0
+/api/lop-hoc/69 22 6336 0 0
+/lop-hoc/115/hoc-ky 5 16751 0 0
+/api/mon-hoc/323 9 1899 0 0
+/api/mon-hoc/238 1 229 0 0
+/nhap-diem/122/ket-qua-hoc-tap 1 16729 0 0
+/nhap-diem/52 3 10344 0 0
+/tra-cuu-diem/xuat-danh-sach 18 1063514 0 2
+/api/mon-hoc/838 1 205 0 0
+/nhap-diem/84/ket-qua-hoc-tap 4 51103 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjgxIiwiaG9jX2t5IjozLCJtaF9pZCI6IjM0MyJ9 1 3372 0 0
+/api/lop-hoc/71/hoc-ky-tab0 4 649 0 0
+/api/dot-thi 7 7148 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc5IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjI5NiJ9 1 3369 0 0
+/api/mon-hoc/958 2 398 0 0
+/api/nganh-nghe 15 10130 0 0
+/api/lop-hoc/113/hoc-ky-tab0 1 168 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk4IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkyOSJ9 1 3371 0 0
+/lop-hoc/120/hoc-ky 1 3364 0 0
+/api/nhap-diem/77/bang-diem 8 7172 0 1
+/lop-hoc/119 2 6754 0 0
+/lop-hoc/67/hoc-ky 19 63817 0 0
+/api/lop-hoc/120/hoc-ky-tab0 1 122 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk3IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjMwNyJ9 1 3369 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY5IiwiaG9jX2t5IjozLCJtaF9pZCI6IjgzOCJ9 1 3365 0 0
+/api/sinh-vien/cap-nhat-quyet-dinh-sinh-vien 22 0 0 0
+/api/lop-hoc/76 5 1575 0 0
+/api/nhap-diem/82/hoc-ky 2 2419 0 1
+/api/lop-hoc/84 6 1710 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg0IiwiaG9jX2t5IjozLCJtaF9pZCI6IjE4OCJ9 2 6734 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY4IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc0OCJ9 1 3364 0 0
+/api/mon-hoc/1332 4 804 0 0
+/api/mon-hoc/404 2 400 0 0
+/api/lop-hoc/98/ds-sinh-vien 2 3057 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQxNiJ9 2 6730 0 0
+/lop-hoc/68 1 3379 0 0
+/api/mon-hoc/856 1 181 0 0
+/lop-hoc/119/them-sinh-vien-excel 1 3356 0 0
+/lop-hoc/64 1 3416 0 0
+/nhap-diem/81 9 31018 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ5IiwiaG9jX2t5Ijo1LCJtaF9pZCI6Ijc2MSJ9 1 3365 0 0
+/lop-hoc/72/hoc-ky 1 3347 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjQ0MyJ9 1 3364 0 0
+/api/lop-hoc/110/hoc-ky-tab0 1 162 0 0
+/api/mon-hoc/443 1 198 0 0
+/lop-hoc/62 1 3419 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6MSwibWhfaWQiOiI5NTgifQ== 2 6746 0 0
+/nhap-diem/79/ket-qua-hoc-tap/export 2 27656 0 0
+/api/nhap-diem/99/hoc-ky 4 4820 0 0
+/api/nhap-diem/74/hoc-ky 10 16717 0 0
+/api/khoa-dao-tao/80/hoc-ky 10 9330 0 0
+/nhat-ky/68/lop-hoc 1 5666 0 0
+/api/khoa-dao-tao/96/hoc-ky 1 1207 0 0
+/api/khoa-dao-tao/125 5 1211 0 0
+/api/lop-hoc/68/hoc-ky 6 6522 0 0
+/nhap-diem/72 7 23856 0 0
+/khoa-dao-tao/96/hoc-ky 1 3384 0 0
+/api/nhap-diem/121/bang-diem 2 1660 0 0
+/nhap-diem/86 9 31019 0 0
+/lop-hoc/117/hoc-ky 7 23544 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcyIiwiaG9jX2t5IjoxLCJtaF9pZCI6IjU5NCJ9 1 3367 0 0
+/api/mon-hoc/732 1 180 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc3IiwiaG9jX2t5IjoxfQ== 2 6114 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY4IiwiaG9jX2t5IjozLCJtaF9pZCI6IjczMiJ9 1 3366 0 0
+/api/nhap-diem/67/bang-diem 43 50278 0 0
+/api/user/current/password 1 35 0 0
+/nhat-ky/110/lop-hoc 1 5383 0 0
+/api/lop-hoc/117/hoc-ky-tab0 1 162 0 0
+/api/lop-hoc/122/hoc-ky 8 7482 0 0
+/api/nhap-diem/119/hoc-ky 3 3013 0 0
+/api/mon-hoc/419 1 239 0 0
+/api/lop-hoc/68 22 6262 0 0
+/api/nhap-diem/49/bang-diem 3 1909 1 1
+/api/lop-hoc/118 9 2403 0 0
+/api/nhap-diem/100/bang-diem 2 1186 0 0
+/api/lop-hoc/96 1 286 0 0
+/api/mon-hoc/335 1 195 0 0
+/api/nhap-diem/85/hoc-ky 2 2694 0 0
+/api/mon-hoc/781 4 932 0 0
+/lop-hoc/81 2 6833 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcwIiwiaG9jX2t5IjozLCJtaF9pZCI6IjE3In0= 1 3371 0 0
+/lop-hoc/118/them-sinh-vien-excel 1 3356 0 0
+/user/create 1 3393 0 1
+/api/nhap-diem/97/hoc-ky 3 3323 0 0
+/nhap-diem/65 1 3452 0 0
+/api/lop-hoc/102/ds-sinh-vien 2 2356 0 0
+/nhap-diem/39 1 3406 0 0
+/api/lop-hoc/113/hoc-ky 5 6414 0 0
+/api/khoa-dao-tao/74 3 729 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY5IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjgzMiJ9 3 10095 0 0
+/api/lop-hoc/122/them-sinh-vien-excel 1 0 0 0
+/khoa-dao-tao/37/hoc-ky 6 20598 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk5IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkyOSJ9 1 3371 0 0
+/lop-hoc/83 1 3417 0 0
+/api/user/3058 1 234 0 0
+/api/lop-hoc/get-sync-mon-hoc-by-kdt 24 5234 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY5IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijg0MCJ9 2 6730 0 0
+/api/nhap-diem/85/bang-diem 3 1743 0 0
+/api/nhap-diem/110/bang-diem 5 2025 0 0
+/api/lop-hoc/39 1 259 0 0
+/api/lop-hoc/46 38 11735 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMyIsImhvY19reSI6MSwibWhfaWQiOiIxMzc0In0= 2 6733 0 0
+/api/lop-hoc/81/ds-sinh-vien 4 7241 0 0
+/nhap-diem/99 4 13786 0 0
+/api/nhap-diem/101/hoc-ky 9 9780 0 0
+/api/khoa-dao-tao/duplicate/123 1 6 0 0
+/api/nhap-diem/62/hoc-ky 3 4023 0 1
+/nhap-diem/83/ket-qua-hoc-tap 7 114344 0 0
+/api/lop-hoc/114/hoc-ky 5 6598 0 0
+/lop-hoc/118 3 10170 0 0
+/api/mon-hoc/2 1 188 0 0
+/api/lop-hoc/46/hoc-ky 12 19429 0 0
+/api/lop-hoc/71/update-sync-mon-hoc-by-kdt 3 18 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg2IiwiaG9jX2t5IjoyLCJtaF9pZCI6IjIzOCJ9 1 3372 0 0
+/dot-xet-tot-nghiep/22/danh-sach-xet-tot-nghiep/export 1 19971 0 1
+/khoa-dao-tao/122/hoc-ky 5 16781 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc1IiwiaG9jX2t5IjozLCJtaF9pZCI6IjE5In0= 1 3369 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQyNiJ9 2 6732 0 0
+/nhat-ky/114/lop-hoc 1 5585 0 0
+/khoa-dao-tao/125/hoc-ky 5 16796 0 0
+/api/nhap-diem/74/bang-diem 6 6454 0 0
+/api/lop-hoc/74/ds-sinh-vien 4 8657 0 0
+/api/lop-hoc/85 3 882 0 0
+/api/khoa-dao-tao/43/hoc-ky 11 14064 0 0
+/api/khoa-dao-tao/122 7 1624 0 0
+/api/sinh-vien/2018 1 266 0 0
+/api/mon-hoc/them-excel 1 0 0 0
+/api/mon-hoc/398 1 190 0 0
+/api/excel/import-user 6 5444 0 0
+/lop-hoc/49/hoc-ky 4 13482 0 0
+/api/lop-hoc/100 5 1365 0 0
+/lop-hoc/122 3 10246 0 0
+/api/nhap-diem/1790/bang-diem 1 0 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQwMSJ9 4 13456 0 0
+/api/lop-hoc/116 34 10114 0 0
+/api/excel/import-ren-luyen-score 2 1104 0 0
+/khoa-dao-tao/116/hoc-ky 8 27440 0 0
+/api/mon-hoc/21 1 248 0 0
+/api/lop-hoc/68/ds-sinh-vien 1 1592 0 0
+/api/mon-hoc/436 4 386 0 0
+/api/lop-hoc/112 36 10362 0 0
+/api/lop-hoc/80 13 4108 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijc0IiwiaG9jX2t5IjozLCJtaF9pZCI6IjIifQ== 1 3366 0 0
+/api/mon-hoc/432 1 195 0 0
+/api/nhap-diem/65/hoc-ky 1 1542 0 0
+/api/nhap-diem/71/hoc-ky 22 29338 0 1
+/api/mon-hoc/444 2 384 0 0
+/api/mon-hoc/997 1 202 0 0
+/api/khoa-dao-tao/44/hoc-ky 3 2199 0 0
+/nhap-diem/70/ket-qua-hoc-tap 3 48079 0 0
+/api/mon-hoc/453 1 196 0 0
+/api/nhap-diem/1789/bang-diem 1 0 0 0
+/api/mon-hoc/178 1 175 0 0
+/api/mon-hoc/766 1 218 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMCIsImhvY19reSI6MSwibWhfaWQiOiIxMTk5In0= 1 3365 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQ1MSJ9 2 6731 0 0
+/dot-thi 7 23803 0 0
+/nhap-diem/113 11 37463 0 0
+/api/lop-hoc/112/hoc-ky-tab0 1 175 0 0
+/lop-hoc/102 1 3416 0 0
+/api/lop-hoc/86 15 4260 0 0
+/api/khoa-dao-tao/72 14 3544 0 0
+/api/lop-hoc/74 15 4470 0 0
+/dot-xet-tot-nghiep/9 1 3405 0 0
+/nhap-diem/79 6 20671 0 0
+/nhap-diem/45 5 17018 0 0
+/nhap-diem/118/ket-qua-hoc-tap 1 9238 0 0
+/nhap-diem/82/ket-qua-hoc-tap 11 149293 0 0
+/dot-xet-tot-nghiep/ket-qua-hoc-tap/40/22 1 15432 0 0
+/api/lop-hoc/68/update-sync-mon-hoc-by-kdt 2 12 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQxNyJ9 2 6728 0 0
+/khoa-dao-tao/24/hoc-ky 1 3415 0 0
+/nhap-diem/77/ket-qua-hoc-tap/export 3 44026 0 1
+/api/nhap-diem/113/bang-diem 13 4516 0 0
+/api/mon-hoc/429 1 206 0 0
+/api/lop-hoc/112/hoc-ky 5 7060 0 0
+/nhap-diem/71 18 61381 0 0
+/api/mon-hoc/4 1 200 0 0
+/api/lop-hoc/117/ds-sinh-vien 12 7066 0 0
+/nhap-diem/86/ket-qua-hoc-tap 3 35785 0 0
+/api/nhap-diem/112/hoc-ky 21 28135 0 0
+/api/lop-hoc/62 4 1132 0 1
+/api/lop-hoc/116/hoc-ky 23 29189 0 0
+/api/khoa-dao-tao/24 1 232 0 0
+/api/nhap-diem/119/bang-diem 2 1374 0 0
+/api/nhap-diem/117/hoc-ky 1 1044 0 0
+/api/nhap-diem/114/hoc-ky 2 2512 0 0
+/api/mon-hoc/1373 1 195 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc4OCJ9 4 13458 0 0
+/api/lop-hoc/75/ds-sinh-vien 3 4849 0 0
+/api/mon-hoc/30 1 182 0 0
+/lop-hoc/113/hoc-ky 5 16751 0 0
+/api/mon-hoc/1000 1 200 0 0
+/api/lop-hoc/97 5 1470 0 0
+/api/mon-hoc/1371 2 430 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQzNiJ9 3 10091 0 0
+/lop-hoc/122/hoc-ky 3 10122 0 0
+/api/lop-hoc/67/hoc-ky-tab0 3 413 0 0
+/api/nhap-diem/102/bang-diem 2 1162 0 0
+/api/lop-hoc/77 15 4740 0 0
+/api/mon-hoc/236 1 190 0 0
+/nhap-diem/76 3 10332 0 0
+/api/nganh-nghe/30 1 144 0 0
+/api/lop-hoc/82/ds-sinh-vien 2 3735 0 0
+/api/khoa-dao-tao/121 9 2115 0 0
+/nhap-diem/82 2 6892 0 0
+/nhap-diem/101 9 31002 0 0
+/nhap-diem/ren-luyen/eyJsaF9pZCI6Ijc3IiwiaG9jX2t5IjoyfQ== 1 3057 0 0
+/api/nhap-diem/97/bang-diem 2 1980 0 0
+/lop-hoc/66/hoc-ky 6 20194 0 0
+/api/mon-hoc/832 3 570 0 0
+/api/nhap-diem/63/bang-diem 12 9355 0 2
+/api/lop-hoc/45 12 3524 0 0
+/api/lop-hoc/114 7 1866 0 0
+/api/mon-hoc/748 1 188 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjI0MSJ9 1 3369 0 0
+/api/nhap-diem/45/hoc-ky 5 7080 0 0
+/api/lop-hoc/121/hoc-ky-tab0 1 123 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijg1IiwiaG9jX2t5IjozLCJtaF9pZCI6Ijg1NiJ9 1 3367 0 0
+/api/nhap-diem/122/hoc-ky 3 2758 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQxOCJ9 1 3366 0 0
+/api/mon-hoc/415 1 229 0 0
+/nhap-diem/67 43 146548 0 0
+/nhat-ky/112/lop-hoc 1 6079 0 0
+/nhap-diem/100 3 10334 0 0
+/api/lop-hoc/45/hoc-ky 6 7192 0 0
+/api/mon-hoc/281 2 362 0 0
+/dot-xet-tot-nghiep 2 6848 0 0
+/nhap-diem/62/ket-qua-hoc-tap 5 98029 0 1
+/api/lop-hoc/94 1 289 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMyIsImhvY19reSI6MSwibWhfaWQiOiI5OTYifQ== 1 3372 0 0
+/api/khoa-dao-tao/74/hoc-ky 4 3703 0 0
+/api/nhap-diem/81/bang-diem 4 4131 0 0
+/api/nhap-diem/80/bang-diem 7 5563 0 1
+/api/mon-hoc/1333 3 666 0 0
+/nhap-diem/119 3 10302 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjYzIiwiaG9jX2t5IjozLCJtaF9pZCI6IjMyMyJ9 9 30320 0 0
+/api/mon-hoc/1331 2 384 0 0
+/nhap-diem/122 3 10239 0 0
+/khoa-dao-tao/43/hoc-ky 10 34365 0 0
+/nhap-diem/80/ket-qua-hoc-tap/export 3 41013 0 0
+/api/nhap-diem/49/hoc-ky 6 10443 0 0
+/api/lop-hoc/66/update-sync-mon-hoc-by-kdt 1 6 0 0
+/api/mon-hoc/409 2 494 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjQwNSJ9 2 6726 0 0
+/nhap-diem/46 15 51080 0 0
+/api/lop-hoc/79 8 2528 0 0
+/api/nhap-diem/52/hoc-ky 3 7812 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQ1MyJ9 1 3364 0 0
+/nhat-ky/71/lop-hoc 2 11396 0 0
+/api/khoa-dao-tao/72/hoc-ky 16 15612 0 0
+/api/khoa-dao-tao/45/hoc-ky 4 4019 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY3IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQwMiJ9 6 20190 0 0
+/api/lop-hoc/120/hoc-ky 2 1837 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc2NyJ9 1 3367 0 0
+/api/mon-hoc/188 2 384 0 0
+/api/khoa-dao-tao/24/hoc-ky 1 1196 0 0
+/api/sinh-vien/2016 1 263 0 0
+/api/nhap-diem/81/hoc-ky 10 12104 0 0
+/api/mon-hoc/1200 2 380 0 0
+/api/lop-hoc/65 1 283 0 0
+/api/nhap-diem/69/bang-diem 14 9435 0 0
+/api/mon-hoc/343 1 187 0 0
+/nhap-diem/103 5 17215 0 0
+/api/khoa-dao-tao/96 1 266 0 0
+/api/khoa-dao-tao/37/hoc-ky 6 10080 0 0
+/api/nhap-diem/46/hoc-ky 20 36750 0 0
+/nhap-diem/74 10 34470 0 0
+/nhap-diem/112/ket-qua-hoc-tap 2 40399 0 1
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcyIiwiaG9jX2t5IjozLCJtaF9pZCI6IjU5NCJ9 1 3367 0 0
+/api/excel/import-score 69 60547 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMyIsImhvY19reSI6MSwibWhfaWQiOiIxMzczIn0= 1 3367 0 0
+/api/mon-hoc/10 1 210 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6MSwibWhfaWQiOiIzMCJ9 1 3367 0 0
+/api/mon-hoc/594 2 362 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6Ijk5IiwiaG9jX2t5IjoxLCJtaF9pZCI6IjkyOCJ9 1 3368 0 0
+/khoa-dao-tao/62/hoc-ky 5 16804 0 0
+/mon-hoc/ImportExcel 3 10195 0 0
+/nhat-ky/115/lop-hoc 1 5461 0 0
+/lop-hoc/122/them-sinh-vien-excel 1 3359 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc4MSJ9 4 13456 0 0
+/forgot-password 2 7978 2 2
+/lop-hoc/37/hoc-ky 3 10155 0 0
+/api/khoa-dao-tao/97 1 244 0 0
+/nhap-diem/75 2 6898 0 0
+/nhap-diem/46/ket-qua-hoc-tap 6 147813 0 1
+/nhap-diem/49 6 20419 0 0
+/nhap-diem/38/ket-qua-hoc-tap 3 54979 0 0
+/lop-hoc/121 2 6758 0 0
+/api/nhap-diem/52/bang-diem 3 4286 0 0
+/api/khoa-dao-tao/116 8 1920 0 0
+/nhap-diem/68 12 40856 0 0
+/api/lop-hoc/115 8 2240 0 0
+/nhap-diem/37/ket-qua-hoc-tap 1 17300 0 0
+/api/mon-hoc/441 2 472 0 0
+/api/mon-hoc/435 4 892 0 0
+/api/nhap-diem/68/hoc-ky 13 16640 0 0
+/nhap-diem/62 3 10351 1 0
+/api/lop-hoc/99 6 1812 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMSIsImhvY19reSI6MSwibWhfaWQiOiI5NTcifQ== 2 6746 0 0
+/api/mon-hoc/223 1 179 0 0
+/lop-hoc/116/hoc-ky 22 73715 1 0
+/lop-hoc/101 1 3378 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMCIsImhvY19reSI6MSwibWhfaWQiOiIxMjAwIn0= 2 6727 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzMyIn0= 4 13461 0 0
+/api/khoa-dao-tao/37 6 1530 0 0
+/nhap-diem/117 1 3414 0 0
+/api/lop-hoc/121/them-sinh-vien-excel 1 0 0 0
+/api/lop-hoc/119/ds-sinh-vien 2 1437 0 0
+/api/lop-hoc/70/ds-sinh-vien 3 6418 0 0
+/nhap-diem/75/ket-qua-hoc-tap 2 28121 0 0
+/api/khoa-dao-tao/72/updateSyncMonHocTheoNN 1 6 0 0
+/api/mon-hoc/828 1 175 0 0
+/api/nhap-diem/69/hoc-ky 15 15545 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyMiIsImhvY19reSI6MSwibWhfaWQiOiIxNzgifQ== 1 3369 1 0
+/api/nhap-diem/46/bang-diem 12 18194 0 0
+/lop-hoc/84 1 3419 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjQ2IiwiaG9jX2t5Ijo0LCJtaF9pZCI6IjQyNiJ9 1 3363 0 0
+/api/lop-hoc/71/hoc-ky 14 15818 0 0
+/api/lop-hoc/120/ds-sinh-vien 2 912 0 0
+/lop-hoc/82 1 3419 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEwMyIsImhvY19reSI6MSwibWhfaWQiOiI5OTcifQ== 1 3372 0 0
+/api/lop-hoc/115/hoc-ky 5 6004 0 0
+/api/nhap-diem/72/bang-diem 5 2382 0 0
+/api/khoa-dao-tao/121/hoc-ky 12 10263 0 0
+/nhap-diem/77/ket-qua-hoc-tap 5 77087 0 0
+/lop-hoc/96 1 3415 0 0
+/khoa-dao-tao/80/hoc-ky 5 16745 0 0
+/nhap-diem/110 10 34034 0 0
+/api/lop-hoc/66/hoc-ky-tab0 1 147 0 0
+/lop-hoc/121/hoc-ky 1 3366 0 0
+/api/lop-hoc/71 49 15620 0 1
+/nhap-diem/98/ket-qua-hoc-tap 1 11047 0 0
+/lop-hoc/80 2 6835 0 0
+/api/lop-hoc/67/update-sync-mon-hoc-by-kdt 3 18 0 0
+/api/khoa-dao-tao/62/hoc-ky 10 8123 0 0
+/api/lop-hoc/37 3 867 0 0
+/api/khoa-dao-tao/45 3 722 0 0
+/api/nhap-diem/67/hoc-ky 45 63042 0 0
+/api/nhap-diem/66/hoc-ky 27 33551 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjozLCJtaF9pZCI6Ijc4NCJ9 3 10090 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjcxIiwiaG9jX2t5IjoxLCJtaF9pZCI6Ijc3MiJ9 1 3362 0 0
+/api/sinh-vien/2011 1 263 0 0
+/lop-hoc/71/hoc-ky 8 26904 0 0
+/api/mon-hoc/450 2 410 0 0
+/nhap-diem/74/ket-qua-hoc-tap/export 1 13799 0 1
+/api/mon-hoc/416 2 456 0 0
+/api/lop-hoc/82 4 1136 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjUyIiwiaG9jX2t5IjoyLCJtaF9pZCI6IjEwIn0= 1 3368 0 0
+/api/lop-hoc/66/hoc-ky 7 6819 0 0
+/lop-hoc/75 2 6837 0 0
+/api/mon-hoc/788 4 804 0 0
+/api/sinh-vien/1267 1 346 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMyIsImhvY19reSI6MSwibWhfaWQiOiIxMzcxIn0= 2 6733 0 0
+/nhap-diem/64/ket-qua-hoc-tap 4 44035 0 0
+/api/lop-hoc/120 4 1108 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjUyIiwiaG9jX2t5IjozLCJtaF9pZCI6IjIyIn0= 1 3369 0 0
+/api/nhap-diem/121/hoc-ky 3 2780 0 0
+/api/mon-hoc/296 3 564 0 0
+/nhap-diem/70 4 13758 0 0
+/api/lop-hoc/37/hoc-ky 3 5082 0 0
+/api/nhap-diem/103/bang-diem 6 6479 0 0
+/api/nhap-diem/122/bang-diem 2 2120 0 0
+/nhap-diem/94 1 3450 0 0
+/api/lop-hoc/80/ds-sinh-vien 3 4689 0 0
+/api/user/paginate 3 3762 0 0
+/nhap-diem/95 2 6896 0 0
+/api/mon-hoc/241 1 224 0 0
+/lop-hoc/121/them-sinh-vien-excel 1 3359 0 0
+/api/mon-hoc/761 1 225 0 0
+/api/lop-hoc/103 9 2484 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjY2IiwiaG9jX2t5IjozLCJtaF9pZCI6IjQ1MCJ9 2 6731 0 0
+/api/nhap-diem/95/bang-diem 2 1406 0 0
+/nhap-diem/mon-hoc/eyJsaF9pZCI6IjExMiIsImhvY19reSI6MSwibWhfaWQiOiIxMzMxIn0= 2 6733 0 0
+/api/lop-hoc/98 12 3708 0 0
+/api/lop-hoc/52 5 1455 0 0
+/api/lop-hoc/66 48 14343 0 0
+/api/sinh-vien/2014 1 269 0 0
+/api/nhap-diem/84/bang-diem 3 4057 0 0
+/khoa-dao-tao/120/hoc-ky 4 13408 0 0
+/lop-hoc/110/hoc-ky 7 23452 0 0
+/api/mon-hoc/423 1 254 0 0
+END_SIDER

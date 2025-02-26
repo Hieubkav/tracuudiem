@@ -1,0 +1,642 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	1974	10	108	71	21994218
+D	28758022	28772847
+19970	244	10	0	662244
+19970	245	20	0	1549678
+19970	247	2	0	1787
+19970	248	169	2	1643439
+19970	249	101	0	235311
+19970	250	131	0	486094
+19970	251	102	0	636281
+19970	252	165	0	443208
+19970	253	98	0	443037
+19970	254	163	0	315043
+19970	255	185	0	823282
+19970	256	261	0	1692787
+19970	257	154	2	2191401
+19970	258	154	4	1309585
+19970	259	62	1	83652
+19970	260	5	0	5118
+19970	266	13	0	638174
+19970	268	1	0	1522
+19970	284	1	0	1523
+19971	2	1	0	1523
+19971	34	8	0	70466
+19971	80	47	0	3224734
+19971	81	8	0	413537
+19971	83	1	0	0
+19971	84	22	0	1317607
+19971	85	1	0	1523
+19971	123	1	0	1521
+19971	148	6	0	630293
+19971	149	3	0	2482
+19971	198	1	0	1523
+19971	249	4	0	5267
+19972	1	1	0	1520
+19972	2	9	0	636126
+19972	3	3	0	3743
+19972	91	5	0	304710
+19972	153	8	0	640651
+19972	270	25	0	1072585
+19972	271	4	1	45255
+19973	4	1	0	1522
+19973	16	1	0	1523
+19974	10	1	0	1523
+19975	5	1	0	1522
+19975	33	1	0	1524
+19976	7	1	0	1522
+19977	9	1	0	1525
+19978	12	1	0	1521
+19978	236	1	0	1524
+19978	237	7	0	437710
+19979	34	1	0	1525
+19981	19	1	0	1523
+19981	23	1	0	1522
+1	3	0	0	0	28758076	0	0	28758063	0	0	1380	/api/nhap-diem/129/bang-diem-dot-thi?mh_id=885&dt_id=43
+1	1	0	0	0	28758061	0	0	28758061	0	0	173	/api/sinh-vien/2211
+1	0	0	0	1	0	0	28766882	0	0	28766882	0	/.git/config?38.108.182.96
+1	1	0	0	0	28758082	0	0	28758082	0	0	3653	/dot-thi/nhap-diem/113/43
+1	1	0	0	0	28758065	0	0	28758065	0	0	58978	/tra-cuu-diem/xuat-danh-sach?sv_id=1999&lhId=116&hoc_ky=1
+1	73	0	0	0	28758091	0	0	28758040	0	0	9563	/api/he-dao-tao/all
+1	2	0	0	0	28758086	0	0	28758077	0	0	5806	/api/dot-xet-tot-nghiep/7/danhsachsinhvien
+1	2	0	0	0	28758042	0	0	28758040	0	0	7094	/user/2178/edit
+1	13	0	0	0	28758091	0	0	28758061	0	0	47000	/lop-hoc
+1	1	0	0	0	28758077	0	0	28758077	0	0	3580	/dot-thi/43/danh-sach-sinh-vien?search=&loai_thi=-1&loai=false&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	10	0	0	0	28758054	0	0	28758044	0	0	11540	/api/dot-xet-tot-nghiep?search=&tunam=2024&dennam=2024&chuongtrinh=5
+1	2	0	0	0	28758082	0	0	28758054	0	0	1548	/api/dot-xet-tot-nghiep?search=&tunam=2024&dennam=2024&chuongtrinh=4
+1	1	0	0	0	28758060	0	0	28758060	0	0	3625	/nhap-diem?search=C&nienkhoa=-1&chuongtrinh=4
+1	1	0	0	0	28758084	0	0	28758084	0	0	1483	/api/nhap-diem?chuongtrinh=4&nienkhoa=-1&search=
+1	2	0	0	3	28758086	0	28758080	28758082	0	28758078	32138	/dot-xet-tot-nghiep/7/danh-sach-sinh-vien-thi-dat-tn/export?loai=true
+1	15	0	0	0	28761031	0	0	28758024	0	0	270420	/fonts/vendor/bootstrap3/dist/glyphicons-halflings-regular.woff2?be810be3a3e14c682a257d6eff341fe4
+1	2	0	0	0	28758076	0	0	28758063	0	0	7186	/dot-thi/nhap-diem-excel/129/43
+1	25	0	0	0	28769505	0	0	28758080	0	0	1167296	/css/admin.css?v2.2.37
+1	2	0	0	0	28758044	0	0	28758042	0	0	101504	/css/admin.css?v2.2.36
+1	2	0	0	0	28761033	0	0	28761032	0	0	108178	/nhap-diem/46/ket-qua-hoc-tap?semester=123456&sorttotnghiep=false
+1	3	0	0	0	28758026	0	0	28758024	0	0	152256	/css/admin.css?v2.2.32
+1	0	0	0	5	0	0	28770029	0	0	28758130	0	/.env
+1	1	0	0	0	28758066	0	0	28758066	0	0	666	/api/nhap-diem?search=C-+KML15A&nienkhoa=-1&chuongtrinh=-1
+1	2	0	0	0	28758083	0	0	28758068	0	0	18969	/nhap-diem/72/ket-qua-hoc-tap
+1	1	0	0	0	28758044	0	0	28758044	0	0	704	/api/lop-hoc/dot-thi-lop-hoc/46
+1	14	0	0	0	28758082	0	0	28758060	0	0	11476	/api/lop-hoc/dot-thi-lop-hoc/43
+1	1	0	0	0	28758044	0	0	28758044	0	0	712	/api/lop-hoc/dot-thi-lop-hoc/41
+1	0	0	0	1	0	0	28758130	0	0	28758130	0	/config.json
+1	1	0	0	0	28758065	0	0	28758065	0	0	668	/api/nhap-diem/116/bang-diem?hocky=1&bd_type=2
+1	15	0	0	0	28761031	0	0	28758086	0	0	3786525	/images/favicon/android-chrome-512x512.png?v2.2.37
+1	0	0	0	1	0	0	28758129	0	0	28758129	0	/about
+1	7	0	0	0	28758057	0	0	28758053	0	0	5264	/api/lop-hoc/dot-thi-lop-hoc/36
+1	2	0	0	0	28758061	0	0	28758061	0	0	2013	/api/lop-hoc/129/ds-sinh-vien
+1	4	0	0	0	28758026	0	0	28758024	0	0	1009740	/images/favicon/android-chrome-512x512.png?v2.2.32
+1	1	0	0	0	28758069	0	0	28758069	0	0	11790	/nhap-diem/72/ket-qua-hoc-tap?semester=34&sorttotnghiep=false
+1	1	0	0	0	28758055	0	0	28758055	0	0	3668	/dot-thi/nhap-diem/46/36
+1	75	0	9	2	28772756	28761032	28758985	28758024	28758040	28758027	114230	/login
+1	1	0	0	0	28758068	0	0	28758068	0	0	666	/api/nhap-diem?chuongtrinh=-1&nienkhoa=-1&search=C- KML15A
+1	2	0	0	0	28758065	0	0	28758064	0	0	3404	/api/nhap-diem/116/hoc-ky?semester=123456
+1	1	1	0	0	28758040	0	0	28758040	0	0	8828	/?utm_campaign=zalo&utm_medium=zalo&utm_source=zalo
+1	3	0	0	0	28758083	0	0	28758082	0	0	2457	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/9
+1	3	0	0	0	28758073	0	0	28758073	0	0	1797	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/8
+1	1	0	0	0	28758076	0	0	28758076	0	0	3581	/dot-thi/43/danh-sach-sinh-vien?search=&loai_thi=-1&loai=2
+1	1	0	0	0	28758077	0	0	28758077	0	0	1153	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/7
+1	0	0	0	1	0	0	28758130	0	0	28758130	0	/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+1	2	0	0	0	28758055	0	0	28758055	0	0	572	/api/nhap-diem/46/bang-diem-dot-thi?mh_id=886&dt_id=36
+1	0	0	1	0	0	28758082	0	0	28758082	0	0	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/9/
+1	1	0	0	0	28758056	0	0	28758056	0	0	566	/api/dot-thi/36/danhsachsinhvien?search=&loai_thi=-1&loai=false
+1	1	0	0	0	28758061	0	0	28758061	0	0	3613	/dot-xet-tot-nghiep/31/danh-sach-sinh-vien?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	1	0	0	0	28758082	0	0	28758082	0	0	323	/api/nhap-diem/113/bang-diem-dot-thi?mh_id=887&dt_id=43
+1	0	0	0	1	0	0	28758069	0	0	28758069	0	/nhap-diem/72/ket-qua-hoc-tap/export?semester=56
+1	3	0	0	0	28758083	0	0	28758082	0	0	10854	/dot-xet-tot-nghiep/9
+1	2	0	0	0	28758073	0	0	28758073	0	0	7238	/dot-xet-tot-nghiep/8
+1	0	0	1	0	0	28758073	0	0	28758073	0	0	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/8/
+1	0	0	0	1	0	0	28758129	0	0	28758129	0	/server
+1	1	0	0	0	28758077	0	0	28758077	0	0	3616	/dot-xet-tot-nghiep/7
+1	1	0	0	0	28761033	0	0	28761033	0	0	26139	/nhap-diem/46/ket-qua-hoc-tap/export?semester=123456
+1	1	0	0	0	28758083	0	0	28758083	0	0	5599	/nhap-diem/127/ket-qua-hoc-tap?semester=3&sorttotnghiep=false
+1	1	0	0	0	28758055	0	0	28758055	0	0	15934	/dot-thi/36/danh-sach-xet-thi-tot-nghiep/export?lh_id=46
+1	1	0	0	0	28758065	0	0	28758065	0	0	12834	/nhap-diem/116/ket-qua-hoc-tap?semester=1
+1	0	0	1	0	0	28758077	0	0	28758077	0	0	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/7/
+1	3	0	0	0	28758048	0	0	28758048	0	0	10839	/dot-xet-tot-nghiep/31/danh-sach-sinh-vien?search=&loai=false
+1	0	0	2	0	0	28758039	0	0	28758026	0	0	/?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	1	0	0	0	28758092	0	0	28758092	0	0	13759	/nhap-diem/70/ket-qua-hoc-tap?semester=3&sorttotnghiep=false
+1	1	0	0	0	28758069	0	0	28758069	0	0	12804	/nhap-diem/72/ket-qua-hoc-tap/export?semester=34
+1	2	0	0	0	28758079	0	0	28758058	0	0	41746	/dot-thi/36/diem-mon-hoc-dot-thi-theo-lop-full/export?lh_id=46
+1	0	0	1	0	0	28758057	0	0	28758057	0	0	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/32/
+1	1	0	0	0	28758094	0	0	28758094	0	0	1399	/api/nhap-diem?search=&nienkhoa=-1&chuongtrinh=5
+1	3	0	0	0	28758095	0	0	28758081	0	0	4449	/api/nhap-diem?search=&nienkhoa=-1&chuongtrinh=4
+1	1	0	0	0	28758093	0	0	28758093	0	0	39013	/nhap-diem/70/ket-qua-hoc-tap?semester=123456&sorttotnghiep=false
+1	2	0	0	0	28758071	0	0	28758071	0	0	7296	/nhap-diem/124
+1	1	0	0	0	28758083	0	0	28758083	0	0	59048	/tra-cuu-diem/xuat-danh-sach?sv_id=2174&lhId=127&hoc_ky=
+1	2	0	0	0	28758071	0	0	28758071	0	0	2434	/api/nhap-diem/124/hoc-ky?semester=123456
+1	0	0	2	0	0	28758053	0	0	28758041	0	0	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/31/
+1	2	0	0	0	28758065	0	0	28758064	0	0	7296	/nhap-diem/116
+1	31	0	0	0	28758086	0	0	28758047	0	0	24645	/api/quyet-dinh/all/2
+1	31	0	0	0	28758086	0	0	28758047	0	0	35840	/api/quyet-dinh/all/1
+1	91	0	0	0	28758091	0	0	28758041	0	0	108017	/api/quyet-dinh/all/0
+1	1	0	0	0	28758084	0	0	28758084	0	0	28066	/nhap-diem/112/ket-qua-hoc-tap?semester=12&sorttotnghiep=false
+1	1	0	0	0	28758069	0	0	28758069	0	0	12542	/nhap-diem/72/ket-qua-hoc-tap/export?semester=12
+1	1	0	0	0	28758066	0	0	28758066	0	0	3625	/nhap-diem?search=C-+KML15A&nienkhoa=-1&chuongtrinh=-1
+1	1	0	0	0	28758054	0	0	28758054	0	0	1170	/api/dot-xet-tot-nghiep?chuongtrinh=5&dennam=2024&search=&tunam=2024
+1	1	0	0	0	28758083	0	0	28758083	0	0	10984	/nhap-diem/127/ket-qua-hoc-tap?semester=2&sorttotnghiep=false
+1	2	0	0	0	28758076	0	0	28758075	0	0	7162	/dot-thi/43/danh-sach-sinh-vien?search=&loai_thi=-1&loai=true
+1	6	0	0	0	28758086	0	0	28758057	0	0	6972	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/32
+1	14	0	0	0	28758091	0	0	28758041	0	0	13285	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/31
+1	1	0	0	0	28758056	0	0	28758056	0	0	189723	/dot-thi/36/danh-sach-sinh-vien/export?search=&loai_thi=-1&loai=false&type_excel=2
+1	1	0	0	0	28758064	0	0	28758064	0	0	3593	/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4OTR9
+1	1	0	0	0	28761037	0	0	28761037	0	0	14483	/nhap-diem/74/ket-qua-hoc-tap/export?semester=
+1	1	0	0	0	28758027	0	0	28758027	0	0	33	/_ignition/health-check
+1	2	0	0	0	28758083	0	0	28758083	0	0	1448	/api/mon-hoc/all-by-khoa-dao-tao?kdt_id=134
+1	2	0	0	0	28758092	0	0	28758092	0	0	30570	/nhap-diem/70/ket-qua-hoc-tap?semester=2&sorttotnghiep=false
+1	1	0	0	0	28758076	0	0	28758076	0	0	5765	/dot-thi/ket-qua-diem-thi-tn/129/43
+1	34	0	0	0	28761032	0	0	28758040	0	0	50605	/api/nhap-diem
+1	1	0	0	0	28758068	0	0	28758068	0	0	3622	/lop-hoc?search=&nienkhoa=-1&chuongtrinh=4
+1	1	0	0	0	28758068	0	0	28758068	0	0	3625	/nhap-diem?chuongtrinh=-1&nienkhoa=-1&search=C- KML15A
+1	0	0	0	1	0	0	28758049	0	0	28758049	0	/tra-cuu-diem/xuat-danh-sach?sv_id=1251&lhId=70&hoc_ky=123456&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	1	0	0	0	28758076	0	0	28758076	0	0	1579	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/15
+1	1	0	0	0	28758084	0	0	28758084	0	0	5615	/nhap-diem/72/ket-qua-hoc-tap?semester=6&sorttotnghiep=false
+1	1	0	0	0	28758044	0	0	28758044	0	0	3629	/dot-thi/46
+1	1	0	0	0	28758057	0	0	28758057	0	0	761	/api/dot-thi?chuongtrinh=4&dennam=2024&search=&tunam=2024
+1	0	0	0	1	0	0	28758130	0	0	28758130	0	/s/33e27393e2431313e2838313/_/
+1	1	0	0	0	28758068	0	0	28758068	0	0	11392	/nhap-diem/72/ket-qua-hoc-tap/export?semester=
+1	13	0	0	0	28758082	0	0	28758060	0	0	46735	/dot-thi/43
+1	1	0	0	0	28758072	0	0	28758072	0	0	0	/api/dot-thi/49
+1	1	0	0	0	28758071	0	0	28758071	0	0	0	/api/dot-thi/48
+1	1	0	0	0	28758044	0	0	28758044	0	0	3630	/dot-thi/41
+1	2	0	0	0	28758086	0	0	28758078	0	0	7276	/dot-xet-tot-nghiep/32/danh-sach-sinh-vien
+1	7	0	0	0	28758057	0	0	28758053	0	0	25396	/dot-thi/36
+1	1	0	0	0	28758057	0	0	28758057	0	0	3619	/dot-thi?chuongtrinh=4&dennam=2024&search=&tunam=2024
+1	1	0	0	0	28758057	0	0	28758057	0	0	281	/api/dot-thi/43
+1	2	0	0	0	28758056	0	0	28758053	0	0	7172	/dot-thi/36/danh-sach-sinh-vien
+1	1	0	0	3	28758092	0	28758093	28758092	0	28758093	19194	/nhap-diem/70/ket-qua-hoc-tap?semester=1&sorttotnghiep=false
+1	2	0	0	0	28758089	0	0	28758042	0	0	7154	/nhap-diem?search=&nienkhoa=-1&chuongtrinh=-1
+1	1	0	0	0	28758083	0	0	28758083	0	0	12514	/nhap-diem/127/ket-qua-hoc-tap/export?semester=
+1	0	0	0	1	0	0	28758859	0	0	28758859	0	/static/admin/javascript/hetong.js
+1	2	0	0	0	28758084	0	0	28758069	0	0	15493	/nhap-diem/72/ket-qua-hoc-tap?semester=5&sorttotnghiep=false
+1	3	0	0	0	28758076	0	0	28758063	0	0	1380	/api/nhap-diem/129/bang-diem-dot-thi?mh_id=886&dt_id=43
+1	77	0	1	0	28761032	28761031	0	28758041	28761031	0	277941	/dot-xet-tot-nghiep
+1	5	0	1	0	28758053	28758051	0	28758047	28758051	0	18065	/dot-xet-tot-nghiep/31/danh-sach-sinh-vien
+1	1	0	0	0	28758080	0	0	28758080	0	0	316	/api/dot-thi/all?chuongtrinh=5
+1	3	0	0	0	28758081	0	0	28758060	0	0	671	/api/dot-thi/all?chuongtrinh=4
+1	12	0	0	0	28761031	0	0	28758026	0	0	3156	/site.webmanifest
+1	1	0	0	0	28758073	0	0	28758073	0	0	1341	/api/nganh-nghe/all?hedaotao=undefined
+1	3	0	0	0	28758079	0	0	28758057	0	0	175854	/tra-cuu-diem/xuat-danh-sach?sv_id=696&lhId=46&hoc_ky=123456
+1	1	0	0	0	28758069	0	0	28758069	0	0	11109	/nhap-diem/72/ket-qua-hoc-tap?semester=12&sorttotnghiep=false
+1	0	0	0	1	0	0	28758130	0	0	28758130	0	/server-status
+1	1	0	0	0	28761032	0	0	28761032	0	0	6	/api/dot-thi/all/dot-xet-tn?chuongtrinh=undefined
+1	2	0	0	0	28758083	0	0	28758068	0	0	18933	/nhap-diem/72/ket-qua-hoc-tap?semester=4&sorttotnghiep=false
+1	1	0	0	0	28758082	0	0	28758082	0	0	3591	/dot-thi/nhap-diem-excel/113/43
+1	1	0	0	0	28758066	0	0	28758066	0	0	12916	/nhap-diem/116/ket-qua-hoc-tap
+1	1	0	0	0	28761032	0	0	28761032	0	0	19426	/nhap-diem/46/ket-qua-hoc-tap?semester=1&sorttotnghiep=false
+1	1	0	0	0	28758082	0	0	28758082	0	0	15639	/dot-xet-tot-nghiep/ket-qua-hoc-tap/40/22
+1	1	0	0	0	28758084	0	0	28758084	0	0	20658	/nhap-diem/112/ket-qua-hoc-tap
+1	0	0	0	1	0	0	28758859	0	0	28758859	0	/Public/home/js/check.js
+1	1	0	0	0	28758084	0	0	28758084	0	0	3625	/nhap-diem?chuongtrinh=4&nienkhoa=-1&search=
+1	0	0	0	1	0	0	28758130	0	0	28758130	0	/.DS_Store
+1	1	0	0	0	28758082	0	0	28758082	0	0	212	/api/dot-thi/43/dsmon?lh_id=113&dt_id=43
+1	15	0	0	0	28758095	0	0	28758042	0	0	9588	/api/dot-xet-tot-nghiep/all?chuongtrinh=5
+1	2	0	0	0	28761037	0	0	28758089	0	0	9632	/images/default/sinhvien-nam.svg?v2.2.37
+1	62	0	0	0	28758096	0	0	28758040	0	0	24526	/api/dot-xet-tot-nghiep/all?chuongtrinh=4
+1	1	0	0	0	28758082	0	0	28758082	0	0	323	/api/nhap-diem/113/bang-diem-dot-thi?mh_id=885&dt_id=43
+1	0	0	0	1	0	0	28758130	0	0	28758130	0	/telescope/requests
+1	2	0	0	0	28758041	0	0	28758040	0	0	9632	/images/default/sinhvien-nam.svg?v2.2.32
+1	2	0	0	0	28758079	0	0	28758058	0	0	31308	/dot-xet-tot-nghiep/36/danh-sach-xet-tot-nghiep/export?lh_id=46
+1	2	0	0	0	28758045	0	0	28758043	0	0	48679	/dot-thi/41/diem-mon-hoc-dot-thi-theo-lop-full/export?lh_id=70
+1	0	0	1	0	0	28758076	0	0	28758076	0	0	/api/lop-hoc/dot-xet-tot-nghiep-lop-hoc/15/
+1	6	0	0	0	28758095	0	0	28758044	0	0	7096	/api/dot-thi?search=&tunam=2024&dennam=2024&chuongtrinh=5
+1	9	0	0	0	28758095	0	0	28758054	0	0	7413	/api/dot-thi?search=&tunam=2024&dennam=2024&chuongtrinh=4
+1	8	0	0	0	28758054	0	0	28758044	0	0	28975	/dot-xet-tot-nghiep?search=&tunam=2024&dennam=2024&chuongtrinh=5
+1	1	0	0	0	28758068	0	0	28758068	0	0	9924	/nhap-diem/72/ket-qua-hoc-tap?semester=3&sorttotnghiep=false
+1	2	0	0	0	28758082	0	0	28758054	0	0	7244	/dot-xet-tot-nghiep?search=&tunam=2024&dennam=2024&chuongtrinh=4
+1	1	0	0	0	28758082	0	0	28758082	0	0	1274	/api/dot-xet-tot-nghiep/9/danhsachsinhvien
+1	1	0	0	0	28758083	0	0	28758083	0	0	59042	/tra-cuu-diem/xuat-danh-sach?sv_id=2173&lhId=127&hoc_ky=
+1	5	0	0	0	28758664	0	0	28758026	0	0	242165	/images/favicon/apple-touch-icon.png
+1	1	0	0	0	28761032	0	0	28761032	0	0	19230	/nhap-diem/46/ket-qua-hoc-tap/export?semester=12
+1	35	0	0	0	28761032	0	0	28758040	0	0	126421	/nhap-diem
+1	4	0	0	0	28758095	0	0	28758044	0	0	14470	/dot-thi?search=&tunam=2024&dennam=2024&chuongtrinh=5
+1	6	0	0	0	28758095	0	0	28758054	0	0	21708	/dot-thi?search=&tunam=2024&dennam=2024&chuongtrinh=4
+1	1	0	0	0	28758077	0	0	28758077	0	0	224	/api/dot-thi/43/danhsachsinhvien?search=&loai_thi=-1&loai=false&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	0	0	0	1	0	0	28758129	0	0	28758129	0	/debug/default/view?panel=config
+1	12	0	0	0	28758091	0	0	28758061	0	0	35532	/api/khoa-dao-tao/all?hedaotao=undefined
+1	1	0	0	0	28758066	0	0	28758066	0	0	12770	/nhap-diem/116/ket-qua-hoc-tap/export?semester=
+1	2	0	0	0	28758057	0	0	28758055	0	0	11626	/dot-thi/ket-qua-diem-thi-tn/46/36
+1	2	0	0	0	28758057	0	0	28758045	0	0	0	/api/dot-xet-tot-nghiep/cap-nhat-dot-xet-cho-dot-thi
+1	1	0	0	0	28758062	0	0	28758062	0	0	15009	/dot-thi/43/danh-sach-xet-thi-tot-nghiep/export?lh_id=129
+1	7	0	0	0	28761032	0	0	28758080	0	0	800100	/images/default/user_avatar.png?v2.2.37
+1	2	0	0	0	28758056	0	0	28758053	0	0	1220	/api/dot-thi/36/danhsachsinhvien
+1	2	0	0	0	28758044	0	0	28758042	0	0	228600	/images/default/user_avatar.png?v2.2.36
+1	2	0	0	0	28758041	0	0	28758040	0	0	228600	/images/default/user_avatar.png?v2.2.32
+1	1	0	0	0	28758076	0	0	28758076	0	0	224	/api/dot-thi/43/danhsachsinhvien?search=&loai_thi=-1&loai=2
+1	2	0	0	0	28758083	0	0	28758068	0	0	19230	/nhap-diem/72/ket-qua-hoc-tap?semester=2&sorttotnghiep=false
+1	2	0	0	0	28758080	0	0	28758047	0	0	0	/api/dot-xet-tot-nghiep/cap-nhat-xltn
+1	1	0	0	0	28758082	0	0	28758082	0	0	13103	/dot-xet-tot-nghiep/9/danh-sach-sinh-vien-thi-dat-tn/export?loai=true
+1	2	0	0	0	28758055	0	0	28758055	0	0	460	/api/nhap-diem/46/bang-diem-dot-thi
+1	1	0	0	0	28758061	0	0	28758061	0	0	3591	/lop-hoc/129
+1	6	0	0	0	28758086	0	0	28758057	0	0	21774	/dot-xet-tot-nghiep/32
+1	13	0	0	0	28758091	0	0	28758041	0	0	47153	/dot-xet-tot-nghiep/31
+1	1	0	0	0	28758081	0	0	28758081	0	0	15319	/dot-thi/43/danh-sach-xet-thi-tot-nghiep/export?lh_id=113
+1	2	0	0	0	28758062	0	0	28758060	0	0	16666	/dot-thi/ket-qua-hoc-tap/129/43
+1	0	0	1	0	0	28758083	0	0	28758083	0	0	/dot-xet-tot-nghiep/9/danh-sach-sinh-vien-thi-dat-tn/export?loai=false
+1	2	0	0	0	28758076	0	0	28758075	0	0	1744	/api/dot-thi/43/danhsachsinhvien?search=&loai_thi=-1&loai=true
+1	1	0	0	0	28758083	0	0	28758083	0	0	3569	/lop-hoc/129/hoc-ky
+1	0	0	0	1	0	0	28758067	0	0	28758067	0	/nhap-diem/116/ket-qua-hoc-tap/export?semester=5
+1	0	0	0	1	0	0	28758067	0	0	28758067	0	/nhap-diem/116/ket-qua-hoc-tap/export?semester=4
+1	2	0	0	0	28758081	0	0	28758060	0	0	410	/api/dot-thi/cap-nhat-dot-thi-cho-lop
+1	0	0	0	1	0	0	28758067	0	0	28758067	0	/nhap-diem/116/ket-qua-hoc-tap/export?semester=3
+1	5	0	0	0	28758042	0	0	28758040	0	0	1270	/api/user/2178
+1	1	0	0	5	28758070	0	28758068	28758070	0	28758066	11928	/nhap-diem/116/ket-qua-hoc-tap/export?semester=2
+1	1	0	0	0	28758065	0	0	28758065	0	0	12771	/nhap-diem/116/ket-qua-hoc-tap/export?semester=1
+1	1	0	0	0	28758071	0	0	28758071	0	0	998	/api/nhap-diem/124/bang-diem?mh_id=78&hocky=1&bd_type=1
+1	1	0	0	0	28758076	0	0	28758076	0	0	3622	/dot-xet-tot-nghiep/15
+1	1	0	0	0	28761037	0	0	28761037	0	0	17033	/nhap-diem/74/ket-qua-hoc-tap
+1	1	0	0	1	28758084	0	28758069	28758084	0	28758069	10845	/nhap-diem/72/ket-qua-hoc-tap/export?semester=5
+1	1	0	0	0	28758094	0	0	28758094	0	0	3623	/nhap-diem?search=&nienkhoa=-1&chuongtrinh=5
+1	2	0	0	0	28758084	0	0	28758068	0	0	22696	/nhap-diem/72/ket-qua-hoc-tap/export?semester=4
+1	1	0	0	0	28758067	0	0	28758067	0	0	10458	/nhap-diem/116/ket-qua-hoc-tap?semester=2&sorttotnghiep=false&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	1	0	0	0	28758068	0	0	28758068	0	0	11449	/nhap-diem/72/ket-qua-hoc-tap/export?semester=3
+1	3	0	0	0	28758095	0	0	28758081	0	0	10873	/nhap-diem?search=&nienkhoa=-1&chuongtrinh=4
+1	2	0	0	0	28758083	0	0	28758068	0	0	22586	/nhap-diem/72/ket-qua-hoc-tap/export?semester=2
+1	1	0	0	0	28758091	0	0	28758091	0	0	19233	/nhap-diem/70/ket-qua-hoc-tap
+1	23	0	0	6	28769505	0	28758091	28758080	0	28758090	6230554	/js/admin.js?v2.2.37
+1	2	0	0	0	28758044	0	0	28758042	0	0	637911	/js/admin.js?v2.2.36
+1	1	0	0	0	28758077	0	0	28758077	0	0	12658	/dot-xet-tot-nghiep/ket-qua-hoc-tap/49/27
+1	2	0	0	0	28758083	0	0	28758083	0	0	198	/api/dot-xet-tot-nghiep/9/danhsachsinhvien?search=&loai=false
+1	1	0	0	0	28758068	0	0	28758068	0	0	5634	/nhap-diem/116/ket-qua-hoc-tap?semester=6&sorttotnghiep=false
+1	1	0	0	0	28758077	0	0	28758077	0	0	17608	/dot-xet-tot-nghiep/27/danh-sach-xet-tot-nghiep/export?lh_id=49
+1	3	0	0	0	28758026	0	0	28758024	0	0	944237	/js/admin.js?v2.2.32
+1	1	0	0	0	28758091	0	0	28758091	0	0	640	/api/nhap-diem?search=T-OTO57C&nienkhoa=-1&chuongtrinh=-1
+1	11	0	0	0	28758091	0	0	28758061	0	0	20521	/api/lop-hoc/paginate
+1	1	0	0	0	28758073	0	0	28758073	0	0	901	/api/mon-hoc
+1	1	0	0	0	28758091	0	0	28758091	0	0	3545	/nhap-diem?search=T-OTO57C&nienkhoa=-1&chuongtrinh=-1
+1	1	0	0	0	28758082	0	0	28758082	0	0	5622	/dot-thi/ket-qua-diem-thi-tn/113/43
+1	2	0	0	0	28758083	0	0	28758083	0	0	7204	/dot-xet-tot-nghiep/9/danh-sach-sinh-vien?search=&loai=false
+1	13	0	0	0	28758094	0	0	28758044	0	0	5362	/api/dot-thi/all/dot-xet-tn?chuongtrinh=5
+1	0	0	0	1	0	0	28758129	0	0	28758129	0	/.vscode/sftp.json
+1	69	0	0	0	28758102	0	0	28758041	0	0	19003	/api/dot-thi/all/dot-xet-tn?chuongtrinh=4
+1	2	0	0	0	28758076	0	0	28758063	0	0	7304	/dot-thi/nhap-diem/129/43
+1	3	0	0	0	28758076	0	0	28758075	0	0	672	/api/dot-thi/43/danhsachsinhvien?search=&loai_thi=-1&loai=false
+1	1	0	0	0	28758064	0	0	28758064	0	0	3593	/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODZ9
+1	1	0	0	0	28758073	0	0	28758073	0	0	196	/api/dot-xet-tot-nghiep/8
+1	1	0	0	0	28758073	0	0	28758073	0	0	271	/api/dot-xet-tot-nghiep/7
+1	1	0	0	0	28758060	0	0	28758060	0	0	1499	/api/nhap-diem?search=C&nienkhoa=-1&chuongtrinh=4
+1	8	0	0	0	28760446	0	0	28758413	0	0	7656	/images/favicon/favicon-16x16.png
+1	1	0	0	0	28758084	0	0	28758084	0	0	11676	/nhap-diem/112/ket-qua-hoc-tap?semester=56&sorttotnghiep=false
+1	1	0	0	0	28758067	0	0	28758067	0	0	8416	/nhap-diem/116/ket-qua-hoc-tap?semester=5&sorttotnghiep=false
+1	4	0	0	0	28758081	0	0	28758074	0	0	20	/api/dot-thi/updateQd-trang-thai/43
+1	2	0	0	0	28758086	0	0	28758078	0	0	1036	/api/dot-xet-tot-nghiep/32/danhsachsinhvien
+1	1	0	0	0	28758082	0	0	28758082	0	0	0	/api/dot-thi/xoa-lop-hoc/113/43
+1	2	0	0	0	28758056	0	0	28758053	0	0	379686	/dot-thi/36/danh-sach-sinh-vien/export?search=&loai_thi=-1&loai=true&type_excel=1
+1	8	0	0	0	28758083	0	0	28758061	0	0	2152	/api/lop-hoc/129
+1	1	0	0	0	28758082	0	0	28758082	0	0	3602	/dot-xet-tot-nghiep/9/danh-sach-sinh-vien
+1	1	0	0	0	28758081	0	0	28758081	0	0	5	/api/dot-thi/updateQd-trang-thai/36
+1	278	0	0	0	28761032	0	0	28758042	0	0	35134	/api/he-dao-tao/all?filter_role=1
+1	2	0	0	0	28758045	0	0	28758044	0	0	2270	/api/dot-thi?chuongtrinh=5&dennam=2024&search=&tunam=2024
+1	1	0	0	0	28758054	0	0	28758054	0	0	3622	/dot-xet-tot-nghiep?chuongtrinh=5&dennam=2024&search=&tunam=2024
+1	70	0	0	0	28758096	0	0	28758040	0	0	85869	/api/dot-thi
+1	5	0	0	0	28758061	0	0	28758047	0	0	63663	/dot-xet-tot-nghiep/31/danh-sach-sinh-vien-thi-dat-tn/export?loai=true
+1	3	0	0	0	28758071	0	0	28758071	0	0	918	/api/lop-hoc/124
+1	1	0	0	0	28758073	0	0	28758073	0	0	3632	/mon-hoc
+1	1	0	0	0	28758071	0	0	28758071	0	0	176	/api/mon-hoc/78
+1	1	0	0	0	28758068	0	0	28758068	0	0	615	/api/nhap-diem?search=CTHY14A&nienkhoa=-1&chuongtrinh=-1
+1	1	0	0	0	28761032	0	0	28761032	0	0	25864	/nhap-diem/46/ket-qua-hoc-tap?semester=12&sorttotnghiep=false
+1	1	0	0	0	28758068	0	0	28758068	0	0	3625	/nhap-diem?search=CTHY14A&nienkhoa=-1&chuongtrinh=-1
+1	2	0	0	0	28758045	0	0	28758044	0	0	7238	/dot-thi?chuongtrinh=5&dennam=2024&search=&tunam=2024
+1	3	0	0	0	28758065	0	0	28758064	0	0	924	/api/lop-hoc/116
+1	1	0	0	0	28758082	0	0	28758082	0	0	290	/api/lop-hoc/113
+1	1	0	0	0	28758068	0	0	28758068	0	0	1808	/api/lop-hoc/paginate?search=&nienkhoa=-1&chuongtrinh=4
+1	0	0	1	0	0	28758044	0	0	28758044	0	0	/api/lop-hoc/dot-thi-lop-hoc/46/
+1	2	0	0	0	28758076	0	0	28758063	0	0	920	/api/nhap-diem/129/bang-diem-dot-thi?mh_id=887&dt_id=43
+1	1	0	0	0	28758044	0	0	28758044	0	0	0	/api/dot-xet-tot-nghiep/xoa-lop-du-xet/31?lh_id=70&dt_id=41
+1	1	0	0	0	28758064	0	0	28758064	0	0	3593	/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODV9
+1	48	0	0	0	28758091	0	0	28758041	0	0	142128	/api/khoa-dao-tao/all
+1	1	0	0	0	28761032	0	0	28761032	0	0	16507	/nhap-diem/46/ket-qua-hoc-tap/export?semester=1
+1	1	0	0	0	28758067	0	0	28758067	0	0	9010	/nhap-diem/116/ket-qua-hoc-tap?semester=4&sorttotnghiep=false
+1	0	0	0	5	0	0	28768399	0	0	28758130	0	/.git/config
+1	1	0	0	0	28758084	0	0	28758084	0	0	14776	/nhap-diem/112/ket-qua-hoc-tap/export?semester=56
+1	74	0	0	0	28761032	0	0	28758041	0	0	83519	/api/dot-xet-tot-nghiep
+1	64	0	0	0	28758096	0	0	28758040	0	0	230607	/dot-thi
+1	1	0	0	0	28758055	0	0	28758055	0	0	212	/api/dot-thi/36/dsmon?lh_id=46&dt_id=36
+1	8	0	0	0	28761032	0	0	28758040	0	0	617280	/fonts/vendor/font-awesome/fontawesome-webfont.woff2?20fd1704ea223900efa9fd4e869efb08
+1	0	0	1	0	0	28758060	0	0	28758060	0	0	/api/lop-hoc/dot-thi-lop-hoc/43/
+1	0	0	1	0	0	28758130	0	0	28758130	0	0	/?rest_route=/wp/v2/users/
+1	0	0	2	0	0	28758048	0	0	28758048	0	0	/dot-xet-tot-nghiep/31/danh-sach-sinh-vien-thi-dat-tn/export?loai=false
+1	1	0	0	0	28758080	0	0	28758080	0	0	2903	/api/dot-xet-tot-nghiep/7/danhsachsinhvien?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	1	0	0	0	28758084	0	0	28758084	0	0	16690	/nhap-diem/112/ket-qua-hoc-tap/export?semester=34
+1	0	0	0	1	0	0	28758130	0	0	28758130	0	/_all_dbs
+1	1	0	0	0	28758073	0	0	28758073	0	0	0	/api/dot-xet-tot-nghiep/xoa-lop-du-xet/8?lh_id=39&dt_id=16
+1	1	0	0	0	28758067	0	0	28758067	0	0	9079	/nhap-diem/116/ket-qua-hoc-tap?semester=3&sorttotnghiep=false
+1	0	0	0	1	0	0	28758129	0	0	28758129	0	/v2/_catalog
+1	9	0	0	1	28760446	0	28758022	28758027	0	28758022	0	/favicon.ico
+1	2	0	0	0	28758076	0	0	28758063	0	0	424	/api/dot-thi/43/dsmon?lh_id=129&dt_id=43
+1	0	0	1	0	0	28758044	0	0	28758044	0	0	/api/lop-hoc/dot-thi-lop-hoc/41/
+1	2	0	1	0	28758086	28758078	0	28758077	28758078	0	7246	/dot-xet-tot-nghiep/7/danh-sach-sinh-vien
+1	1	0	0	0	28758082	0	0	28758082	0	0	323	/api/nhap-diem/113/bang-diem-dot-thi?mh_id=886&dt_id=43
+1	1	0	0	0	28758084	0	0	28758084	0	0	18992	/nhap-diem/112/ket-qua-hoc-tap/export?semester=12
+1	1	0	0	0	28758069	0	0	28758069	0	0	7954	/nhap-diem/72/ket-qua-hoc-tap?semester=56&sorttotnghiep=false
+1	0	0	6	0	0	28758095	0	0	28758089	0	0	/logout
+1	0	0	5	0	0	28772739	0	0	28762612	0	0	/?38.108.182.96
+1	1	0	0	3	28758079	0	28758077	28758079	0	28758075	189470	/dot-thi/43/danh-sach-sinh-vien/export?search=&loai_thi=-1&loai=false&type_excel=2
+1	25	0	0	0	28769505	0	0	28758080	0	0	21164	/css/admin2.css?v2.2.37
+1	1	0	0	0	28758074	0	0	28758074	0	0	103733	/dot-thi/43/danh-sach-sinh-vien/export?search=&loai_thi=-1&loai=false&type_excel=0
+1	2	0	0	0	28758044	0	0	28758042	0	0	1924	/css/admin2.css?v2.2.36
+1	2	0	0	0	28758075	0	0	28758063	0	0	380458	/dot-thi/43/danh-sach-sinh-vien/export?search=&loai_thi=-1&loai=true&type_excel=1
+1	3	0	0	0	28758026	0	0	28758024	0	0	2886	/css/admin2.css?v2.2.32
+1	106	0	0	0	28761032	0	0	28758040	0	0	30104	/api/nien-khoa/all
+1	3	0	0	0	28758080	0	0	28758057	0	0	30438	/dot-xet-tot-nghiep/ket-qua-hoc-tap/46/36
+1	2	0	0	0	28758045	0	0	28758042	0	0	38284	/dot-xet-tot-nghiep/41/danh-sach-xet-tot-nghiep/export?lh_id=70
+1	3	0	1	0	28758066	28758067	0	28758066	28758067	0	31470	/nhap-diem/116/ket-qua-hoc-tap?semester=2&sorttotnghiep=false
+1	1	0	0	0	28758064	0	0	28758064	0	0	129	/api/nhap-diem/129/bang-diem-dot-thi?mh_id=894&dt_id=43
+1	3	0	1	0	28758076	28758075	0	28758075	28758075	0	10743	/dot-thi/43/danh-sach-sinh-vien?search=&loai_thi=-1&loai=false
+1	0	0	1	0	0	28758053	0	0	28758053	0	0	/api/lop-hoc/dot-thi-lop-hoc/36/
+1	0	0	1	0	0	28758061	0	0	28758061	0	0	/api/lop-hoc/129/ds-sinh-vien/
+1	1	0	1	0	28758080	28758086	0	28758080	28758086	0	3623	/dot-xet-tot-nghiep/7/danh-sach-sinh-vien?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	2	0	0	0	28758042	0	0	28758040	0	0	3268	/api/user/paginate
+1	0	0	0	1	0	0	28758130	0	0	28758130	0	/login.action
+1	2	0	0	0	28758050	0	0	28758050	0	0	488	/api/dot-xet-tot-nghiep/31
+1	2	0	0	0	28758083	0	0	28758069	0	0	22040	/nhap-diem/127/ket-qua-hoc-tap
+1	9	9	62	11	28761037	28772847	28767925	28758041	28758024	28758022	79402	/
+1	2	0	0	0	28758093	0	0	28758092	0	0	54346	/nhap-diem/70/ket-qua-hoc-tap?semester=12&sorttotnghiep=false
+1	3	0	0	0	28758048	0	0	28758048	0	0	333	/api/dot-xet-tot-nghiep/31/danhsachsinhvien?search=&loai=false
+1	1	0	0	0	28758061	0	0	28758061	0	0	1072	/api/dot-xet-tot-nghiep/31/danhsachsinhvien?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+1	2	0	0	0	28758055	0	0	28758055	0	0	614	/api/lop-hoc/46
+1	1	0	0	0	28758056	0	0	28758056	0	0	3586	/dot-thi/36/danh-sach-sinh-vien?search=&loai_thi=-1&loai=false
+1	1	0	0	0	28758081	0	0	28758081	0	0	7987	/dot-thi/ket-qua-hoc-tap/113/43
+1	4	0	0	0	28758082	0	0	28758063	0	0	740	/api/mon-hoc/894
+1	5	0	0	0	28758076	0	0	28758063	0	0	2616	/api/dot-thi/43/danhsachsinhvien
+1	1	0	1	4	28758053	28758046	28758052	28758053	28758046	28758046	60139	/tra-cuu-diem/xuat-danh-sach?sv_id=1251&lhId=70&hoc_ky=123456
+1	3	0	0	0	28758076	0	0	28758063	0	0	10743	/dot-thi/43/danh-sach-sinh-vien
+1	1	0	0	1	28758086	0	28758078	28758086	0	28758078	11423	/dot-xet-tot-nghiep/32/danh-sach-sinh-vien-thi-dat-tn/export?loai=true
+1	5	0	0	0	28758053	0	0	28758047	0	0	5360	/api/dot-xet-tot-nghiep/31/danhsachsinhvien
+1	1	0	0	0	28759488	0	0	28759488	0	0	2786	/images/favicon/favicon-32x32.png?38.108.182.96
+1	2	0	0	0	28758042	0	0	28758040	0	0	7054	/user
+1	3	0	0	0	28758064	0	0	28758055	0	0	606	/api/mon-hoc/886
+1	1	0	0	0	28758064	0	0	28758064	0	0	192	/api/mon-hoc/885
+1	2	0	0	0	28758089	0	0	28758042	0	0	2887	/api/nhap-diem?search=&nienkhoa=-1&chuongtrinh=-1
+1	8	0	1	0	28758091	28758048	0	28758042	28758048	0	116166	/dot-xet-tot-nghiep/ket-qua-hoc-tap/70/41
+1	17	0	0	0	28760446	0	0	28758024	0	0	47362	/images/favicon/favicon-32x32.png
+1	1	0	0	0	28758084	0	0	28758084	0	0	13238	/nhap-diem/112/ket-qua-hoc-tap?semester=34&sorttotnghiep=false
+1	2	0	0	0	28758083	0	0	28758083	0	0	1620	/api/lop-hoc/129/hoc-ky
+1	1	0	0	0	28769505	0	0	28769505	0	0	1520	/login?38.108.182.96
+1	1	0	0	0	28758061	0	0	28758061	0	0	2561	/api/lop-hoc/all
+1	1	0	0	0	28758065	0	0	28758065	0	0	3571	/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MX0=
+1	2	0	0	0	28758055	0	0	28758055	0	0	7196	/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4Nn0=
+1	1	0	0	0	28758071	0	0	28758071	0	0	3571	/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MSwibWhfaWQiOjc4fQ==
+1	1	0	0	0	28758083	0	0	28758083	0	0	12512	/nhap-diem/127/ket-qua-hoc-tap/export?semester=2
+1	1	0	0	0	28758054	0	0	28758054	0	0	8504	/dot-thi/ket-qua-hoc-tap/46/36
+3	4	0	0	0	28758066	0	0	28758066	0	0	13997	https://democea.ttdat.id.vn/nhap-diem?search=C-+KML15A&nienkhoa=-1&chuongtrinh=-1
+3	3	0	0	0	28758064	0	0	28758064	0	0	583	https://democea.ttdat.id.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4OTR9
+3	14	0	0	0	28758095	0	0	28758081	0	0	22819	https://democea.ttdat.id.vn/nhap-diem?search=&nienkhoa=-1&chuongtrinh=4
+3	70	0	0	1	28758093	0	28758091	28758061	0	28758091	121515	https://democea.ttdat.id.vn/lop-hoc
+3	15	0	0	2	28758076	0	28758075	28758075	0	28758075	20855	https://democea.ttdat.id.vn/dot-thi/43/danh-sach-sinh-vien?search=&loai_thi=-1&loai=false
+3	1	0	0	1	28758067	0	28758067	28758067	0	28758067	9010	https://democea.ttdat.id.vn/nhap-diem/116/ket-qua-hoc-tap?semester=3&sorttotnghiep=false
+3	10	0	0	1	28758087	0	28758078	28758078	0	28758078	22365	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/32/danh-sach-sinh-vien
+3	18	0	1	0	28758083	28758082	0	28758082	28758082	0	39009	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/9
+3	14	0	1	0	28758073	28758073	0	28758073	28758073	0	18167	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/8
+3	6	0	1	0	28758077	28758077	0	28758077	28758077	0	9339	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/7
+3	6	0	0	0	28758060	0	0	28758060	0	0	5993	https://democea.ttdat.id.vn/nhap-diem?search=C&nienkhoa=-1&chuongtrinh=4
+3	3	0	0	1	28758084	0	28758069	28758069	0	28758069	27569	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap?semester=5&sorttotnghiep=false
+3	1	0	0	2	28758070	0	28758068	28758070	0	28758067	11928	https://democea.ttdat.id.vn/nhap-diem/116/ket-qua-hoc-tap?semester=2&sorttotnghiep=false&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+3	4	0	0	0	28758042	0	0	28758040	0	0	10362	https://democea.ttdat.id.vn/user
+3	3	0	0	0	28758082	0	0	28758082	0	0	7398	https://democea.ttdat.id.vn/dot-thi/nhap-diem/113/43
+3	5	0	0	0	28758083	0	0	28758069	0	0	145207	https://democea.ttdat.id.vn/nhap-diem/127/ket-qua-hoc-tap
+3	1	0	0	1	28758069	0	28758069	28758069	0	28758069	3619	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap?semester=56&sorttotnghiep=false
+3	8	0	0	0	28758045	0	0	28758044	0	0	11066	https://democea.ttdat.id.vn/dot-thi?chuongtrinh=5&dennam=2024&search=&tunam=2024
+3	6	0	1	0	28758044	28758044	0	28758044	28758044	0	8886	https://democea.ttdat.id.vn/dot-thi/46
+3	5	0	0	0	28758054	0	0	28758054	0	0	5456	https://democea.ttdat.id.vn/dot-xet-tot-nghiep?chuongtrinh=5&dennam=2024&search=&tunam=2024
+3	1	0	1	0	28758643	28758643	0	28758643	28758643	0	1528	https://www.google.ie/
+3	4	0	0	0	28758071	0	0	28758071	0	0	5128	https://democea.ttdat.id.vn/nhap-diem/mon-hoc/eyJsaF9pZCI6IjEyNCIsImhvY19reSI6MSwibWhfaWQiOjc4fQ==
+3	4	0	0	0	28758068	0	0	28758068	0	0	4706	https://democea.ttdat.id.vn/nhap-diem?chuongtrinh=-1&nienkhoa=-1&search=C- KML15A
+3	81	0	1	0	28758082	28758060	0	28758060	28758060	0	239512	https://democea.ttdat.id.vn/dot-thi/43
+3	8	0	0	0	28758089	0	0	28758042	0	0	10806	https://democea.ttdat.id.vn/nhap-diem?search=&nienkhoa=-1&chuongtrinh=-1
+3	6	0	1	0	28758045	28758044	0	28758044	28758044	0	8894	https://democea.ttdat.id.vn/dot-thi/41
+3	2	0	0	0	28758084	0	0	28758084	0	0	18395	https://democea.ttdat.id.vn/nhap-diem/112/ket-qua-hoc-tap?semester=56&sorttotnghiep=false
+3	1	0	0	0	28761037	0	0	28761037	0	0	14483	https://democea.ttdat.id.vn/nhap-diem/74/ket-qua-hoc-tap
+3	6	0	0	0	28758057	0	0	28758056	0	0	197062	https://democea.ttdat.id.vn/dot-thi/36/danh-sach-sinh-vien?search=&loai_thi=-1&loai=false
+3	3	0	0	0	28758083	0	0	28758068	0	0	30622	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap
+3	2	0	0	0	28758066	0	0	28758066	0	0	23254	https://democea.ttdat.id.vn/nhap-diem/116/ket-qua-hoc-tap
+3	10	0	1	0	28758083	28758083	0	28758083	28758083	0	13702	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/9/danh-sach-sinh-vien?search=&loai=false
+3	1	0	0	0	28758092	0	0	28758092	0	0	15285	https://democea.ttdat.id.vn/nhap-diem/70/ket-qua-hoc-tap
+3	42	0	1	0	28758057	28758053	0	28758053	28758053	0	71794	https://democea.ttdat.id.vn/dot-thi/36
+3	21	0	0	1	28772756	0	28758022	28758041	0	28758022	171075	https://democea.ttdat.id.vn/
+3	1	0	0	0	28758084	0	0	28758084	0	0	28066	https://democea.ttdat.id.vn/nhap-diem/112/ket-qua-hoc-tap
+3	37	0	1	0	28758086	28758057	0	28758057	28758057	0	72781	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/32
+3	81	0	2	0	28758091	28758053	0	28758041	28758041	0	188490	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/31
+3	28	0	0	0	28758053	0	0	28758047	0	0	86408	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/31/danh-sach-sinh-vien
+3	2	0	0	3	28758067	0	28758067	28758066	0	28758066	12701	https://democea.ttdat.id.vn/nhap-diem/116/ket-qua-hoc-tap?semester=2&sorttotnghiep=false
+3	18	0	0	0	28761032	0	0	28758087	0	0	679296	https://democea.ttdat.id.vn/css/admin.css?v2.2.37
+3	2	0	0	0	28758069	0	0	28758069	0	0	20758	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap?semester=34&sorttotnghiep=false
+3	5	0	0	0	28758061	0	0	28758061	0	0	16949	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/31/danh-sach-sinh-vien?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+3	11	0	0	2	28758086	0	28758078	28758077	0	28758078	35403	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/7/danh-sach-sinh-vien
+3	4	0	0	0	28758084	0	0	28758068	0	0	38189	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap?semester=4&sorttotnghiep=false
+3	4	0	0	0	28758041	0	0	28758024	0	0	190376	https://democea.ttdat.id.vn/css/admin.css?v2.2.32
+3	44	0	0	0	28758054	0	0	28758044	0	0	42967	https://democea.ttdat.id.vn/dot-xet-tot-nghiep?search=&tunam=2024&dennam=2024&chuongtrinh=5
+3	20	0	0	0	28758095	0	0	28758044	0	0	24818	https://democea.ttdat.id.vn/dot-thi?search=&tunam=2024&dennam=2024&chuongtrinh=5
+3	2	0	0	0	28761032	0	0	28761032	0	0	42371	https://democea.ttdat.id.vn/nhap-diem/46/ket-qua-hoc-tap?semester=1&sorttotnghiep=false
+3	2	0	0	0	28758084	0	0	28758084	0	0	28366	https://democea.ttdat.id.vn/nhap-diem/112/ket-qua-hoc-tap?semester=34&sorttotnghiep=false
+3	5	0	0	0	28758076	0	0	28758076	0	0	6947	https://democea.ttdat.id.vn/dot-thi/43/danh-sach-sinh-vien?search=&loai_thi=-1&loai=2
+3	31	0	0	0	28758095	0	0	28758054	0	0	32605	https://democea.ttdat.id.vn/dot-thi?search=&tunam=2024&dennam=2024&chuongtrinh=4
+3	10	0	0	0	28758082	0	0	28758054	0	0	9867	https://democea.ttdat.id.vn/dot-xet-tot-nghiep?search=&tunam=2024&dennam=2024&chuongtrinh=4
+3	6	0	1	0	28758077	28758076	0	28758076	28758076	0	18800	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/15
+3	2	0	0	0	28758057	0	0	28758056	0	0	7253	https://democea.ttdat.id.vn/dot-thi/ket-qua-diem-thi-tn/46/36
+3	4	0	0	0	28758055	0	0	28758055	0	0	11039	https://democea.ttdat.id.vn/dot-thi/nhap-diem/46/36
+3	4	0	0	0	28758084	0	0	28758084	0	0	22556	https://democea.ttdat.id.vn/nhap-diem?chuongtrinh=4&nienkhoa=-1&search=
+3	5	0	0	0	28758082	0	0	28758082	0	0	1444	https://democea.ttdat.id.vn/dot-thi/nhap-diem-excel/113/43
+3	2	0	0	0	28758082	0	0	28758081	0	0	18914	https://democea.ttdat.id.vn/dot-thi/ket-qua-hoc-tap/113/43
+3	6	0	0	0	28758071	0	0	28758071	0	0	10236	https://democea.ttdat.id.vn/nhap-diem/124
+3	18	0	0	0	28758076	0	0	28758063	0	0	403281	https://democea.ttdat.id.vn/dot-thi/43/danh-sach-sinh-vien
+3	0	0	0	1	0	0	28758093	0	0	28758093	0	https://democea.ttdat.id.vn/nhap-diem/70/ket-qua-hoc-tap?semester=123456&sorttotnghiep=false
+3	2	0	0	0	28758069	0	0	28758069	0	0	24332	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap?semester=12&sorttotnghiep=false
+3	6	0	0	0	28758065	0	0	28758064	0	0	20425	https://democea.ttdat.id.vn/nhap-diem/116
+3	10	0	0	1	28758087	0	28758080	28758080	0	28758080	498356	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/7/danh-sach-sinh-vien?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+3	2	0	0	0	28758093	0	0	28758092	0	0	58207	https://democea.ttdat.id.vn/nhap-diem/70/ket-qua-hoc-tap?semester=12&sorttotnghiep=false
+3	1	0	0	0	28758092	0	0	28758092	0	0	27173	https://democea.ttdat.id.vn/nhap-diem/70/ket-qua-hoc-tap?semester=3&sorttotnghiep=false
+3	2	0	0	0	28758077	0	0	28758077	0	0	21227	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/49/27
+3	2	0	0	0	28758084	0	0	28758084	0	0	32230	https://democea.ttdat.id.vn/nhap-diem/112/ket-qua-hoc-tap?semester=12&sorttotnghiep=false
+3	2	0	0	1	28758068	0	28758067	28758068	0	28758067	9259	https://democea.ttdat.id.vn/nhap-diem/116/ket-qua-hoc-tap?semester=5&sorttotnghiep=false
+3	11	0	0	0	28758080	0	0	28758057	0	0	266312	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/46/36
+3	2	0	0	0	28758055	0	0	28758055	0	0	19565	https://democea.ttdat.id.vn/dot-thi/ket-qua-hoc-tap/46/36
+3	119	8	10	2	28769505	28761032	28758985	28758024	28758040	28758027	11352239	https://democea.ttdat.id.vn/login
+3	1	0	0	0	28758076	0	0	28758076	0	0	3595	https://democea.ttdat.id.vn/dot-thi/ket-qua-diem-thi-tn/129/43
+3	5	0	0	1	28758079	0	28758077	28758077	0	28758077	192836	https://democea.ttdat.id.vn/dot-thi/43/danh-sach-sinh-vien?search=&loai_thi=-1&loai=false&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+3	3	0	0	0	28758064	0	0	28758064	0	0	931	https://democea.ttdat.id.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODZ9
+3	1	0	0	0	28758083	0	0	28758083	0	0	3625	https://democea.ttdat.id.vn/nhap-diem/127/ket-qua-hoc-tap?semester=3&sorttotnghiep=false
+3	2	0	0	0	28758068	0	0	28758068	0	0	20921	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap?semester=3&sorttotnghiep=false
+3	4	0	0	0	28758057	0	0	28758057	0	0	4924	https://democea.ttdat.id.vn/dot-thi?chuongtrinh=4&dennam=2024&search=&tunam=2024
+3	15	0	2	0	28758048	28758048	0	28758048	28758048	0	20547	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/31/danh-sach-sinh-vien?search=&loai=false
+3	2	0	0	0	28761033	0	0	28761032	0	0	73304	https://democea.ttdat.id.vn/nhap-diem/46/ket-qua-hoc-tap?semester=12&sorttotnghiep=false
+3	4	0	0	0	28758073	0	0	28758073	0	0	5998	https://democea.ttdat.id.vn/mon-hoc
+3	10	0	0	0	28758076	0	0	28758063	0	0	29249	https://democea.ttdat.id.vn/dot-thi/nhap-diem/129/43
+3	7	0	3	1	28758086	28758086	28758049	28758026	28758026	28758049	25850	https://jp.zaloapp.com/
+3	7	0	0	0	28758083	0	0	28758083	0	0	7225	https://democea.ttdat.id.vn/lop-hoc/129/hoc-ky
+3	2	0	0	0	28758093	0	0	28758092	0	0	40932	https://democea.ttdat.id.vn/nhap-diem/70/ket-qua-hoc-tap?semester=2&sorttotnghiep=false
+3	142	0	0	0	28761032	0	0	28758040	0	0	675176	https://democea.ttdat.id.vn/nhap-diem
+3	1	0	0	1	28758067	0	28758067	28758067	0	28758067	8416	https://democea.ttdat.id.vn/nhap-diem/116/ket-qua-hoc-tap?semester=4&sorttotnghiep=false
+3	1	0	0	0	28758082	0	0	28758082	0	0	3618	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/40/22
+3	9	0	0	0	28758042	0	0	28758040	0	0	15722	https://democea.ttdat.id.vn/user/2178/edit
+3	6	0	0	0	28758083	0	0	28758082	0	0	21121	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/9/danh-sach-sinh-vien
+3	1	0	0	0	28758084	0	0	28758084	0	0	3625	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap?semester=6&sorttotnghiep=false
+3	2	0	0	0	28758083	0	0	28758083	0	0	18111	https://democea.ttdat.id.vn/nhap-diem/127/ket-qua-hoc-tap?semester=2&sorttotnghiep=false
+3	4	0	0	0	28758083	0	0	28758068	0	0	41971	https://democea.ttdat.id.vn/nhap-diem/72/ket-qua-hoc-tap?semester=2&sorttotnghiep=false
+3	1	0	0	0	28758049	0	0	28758049	0	0	0	https://democea.ttdat.id.vn/tra-cuu-diem/xuat-danh-sach?sv_id=1251&lhId=70&hoc_ky=123456&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
+3	3	0	0	0	28758066	0	0	28758065	0	0	82242	https://democea.ttdat.id.vn/nhap-diem/116/ket-qua-hoc-tap?semester=1
+3	3	0	0	0	28758064	0	0	28758064	0	0	921	https://democea.ttdat.id.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjEyOSIsImRvdF90aGkiOiI0MyIsIm1oX2lkIjo4ODV9
+3	11	0	0	0	28758076	0	0	28758075	0	0	15204	https://democea.ttdat.id.vn/dot-thi/43/danh-sach-sinh-vien?search=&loai_thi=-1&loai=true
+3	4	0	0	0	28758091	0	0	28758091	0	0	20258	https://democea.ttdat.id.vn/nhap-diem?search=T-OTO57C&nienkhoa=-1&chuongtrinh=-1
+3	9	0	1	0	28758061	28758061	0	28758061	28758061	0	11777	https://democea.ttdat.id.vn/lop-hoc/129
+3	2	0	0	0	28761033	0	0	28761032	0	0	45565	https://democea.ttdat.id.vn/nhap-diem/46/ket-qua-hoc-tap?semester=123456&sorttotnghiep=false
+3	8	0	0	0	28758055	0	0	28758055	0	0	2050	https://democea.ttdat.id.vn/nhap-diem/dot-thi/eyJsaF9pZCI6IjQ2IiwiZG90X3RoaSI6IjM2IiwibWhfaWQiOjg4Nn0=
+3	13	0	0	4	28758091	0	28758052	28758042	0	28758046	183417	https://democea.ttdat.id.vn/dot-xet-tot-nghiep/ket-qua-hoc-tap/70/41
+3	6	0	0	0	28758068	0	0	28758068	0	0	9996	https://democea.ttdat.id.vn/lop-hoc?search=&nienkhoa=-1&chuongtrinh=4
+3	374	0	8	5	28761032	28758094	28758091	28758041	28758089	28758090	2523713	https://democea.ttdat.id.vn/dot-xet-tot-nghiep
+3	275	0	4	0	28758096	28758095	0	28758040	28758094	0	870132	https://democea.ttdat.id.vn/dot-thi
+3	4	0	0	0	28758068	0	0	28758068	0	0	10521	https://democea.ttdat.id.vn/nhap-diem?search=CTHY14A&nienkhoa=-1&chuongtrinh=-1
+3	10	0	0	0	28758076	0	0	28758063	0	0	3668	https://democea.ttdat.id.vn/dot-thi/nhap-diem-excel/129/43
+3	3	0	0	0	28758063	0	0	28758061	0	0	22226	https://democea.ttdat.id.vn/dot-thi/ket-qua-hoc-tap/129/43
+3	1	0	0	0	28758082	0	0	28758082	0	0	3595	https://democea.ttdat.id.vn/dot-thi/ket-qua-diem-thi-tn/113/43
+3	1	0	0	0	28758092	0	0	28758092	0	0	15285	https://democea.ttdat.id.vn/nhap-diem/70/ket-qua-hoc-tap?semester=1&sorttotnghiep=false
+3	3	0	0	0	28758040	0	0	28758040	0	0	122740	https://democea.ttdat.id.vn/?utm_campaign=zalo&utm_medium=zalo&utm_source=zalo
+3	12	0	0	0	28758056	0	0	28758053	0	0	394398	https://democea.ttdat.id.vn/dot-thi/36/danh-sach-sinh-vien
+3	3	0	0	0	28758065	0	0	28758065	0	0	4624	https://democea.ttdat.id.vn/nhap-diem/ren-luyen/eyJsaF9pZCI6IjExNiIsImhvY19reSI6MX0=
+3	4	0	0	0	28758095	0	0	28758094	0	0	5437	https://democea.ttdat.id.vn/nhap-diem?search=&nienkhoa=-1&chuongtrinh=5
+4	2	0	1	1	28758985	28758985	28758985	28758985	28758985	28758985	1525	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6523.4 Safari/537.36
+4	0	0	0	1	0	0	28767052	0	0	28767052	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.2.20
+4	1	0	1	0	28759234	28759234	0	28759234	28759234	0	1523	Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+4	7	0	1	0	28758642	28758642	0	28758642	28758642	0	633085	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+4	0	0	0	4	0	0	28767925	0	0	28761550	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+4	13	0	2	0	28758086	28758086	0	28758026	28758026	0	1245559	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0
+4	0	0	0	1	0	0	28758130	0	0	28758130	0	Mozilla/5.0 (l9scan/2.0.33e27393e2431313e2838313; +https://leakix.net)
+4	0	0	1	0	0	28772847	0	0	28772847	0	0	Mozilla/5.0 (Kubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+4	8	0	0	0	28760446	0	0	28760446	0	0	640651	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+4	18	0	2	0	28758660	28758133	0	28758133	28758133	0	1268475	Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+4	0	0	1	0	0	28758650	0	0	28758650	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+4	7	0	0	0	28759692	0	0	28759692	0	0	633084	Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+4	1	0	2	0	28758667	28758667	0	28758667	28758667	0	1523	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+4	0	0	0	1	0	0	28767059	0	0	28767059	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+4	9	0	9	0	28772739	28772739	0	28758250	28758250	0	13701	Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0
+4	0	0	0	1	0	0	28768399	0	0	28768399	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+4	8	0	1	0	28758643	28758643	0	28758643	28758643	0	633344	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/122.0.0.0 Safari/537.36
+4	1	0	1	0	28758142	28758142	0	28758142	28758142	0	1522	Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot) Zeno/5aed272 warc/v0.8.43
+4	0	0	1	0	0	28765810	0	0	28765810	0	0	BlackBerry7520/4.0.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/5.0.3.3 UP.Link/5.1.2.12 (Google WAP Proxy/1.0)
+4	1	0	1	2	28758859	28758859	28758859	28758859	28758859	28758859	1521	Mozilla/5.0 (Linux; Android 11; M2004J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+4	4	0	1	0	28759488	28759488	0	28759488	28759488	0	5267	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+4	1	0	1	0	28758025	28758024	0	28758025	28758024	0	1526	facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot
+4	8	0	1	0	28758664	28758664	0	28758664	28758664	0	53963	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+4	2	0	1	0	28758131	28758131	0	28758131	28758131	0	1523	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+4	1	0	2	0	28758658	28758653	0	28758658	28758650	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1
+4	6	0	0	0	28758661	0	0	28758661	0	0	630296	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+4	3	0	1	0	28769505	28769504	0	28759694	28769504	0	4564	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+4	3	0	0	0	28759695	0	0	28759694	0	0	5265	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+4	0	0	0	1	0	0	28764339	0	0	28764339	0	Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+4	1	0	1	0	28759696	28758650	0	28759696	28758650	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+4	1	0	2	14	28758131	28758131	28758130	28758131	28758130	28758129	1524	Go-http-client/1.1
+4	12	0	3	0	28760137	28760137	0	28758643	28758643	0	936531	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+4	4	0	0	0	28769505	0	0	28769505	0	0	384476	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/126.0.6478.126 Safari/537.36
+4	1787	10	42	42	28761037	28761032	28758093	28758024	28758024	28758022	12079660	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+4	0	0	0	1	0	0	28761805	0	0	28761805	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+4	14	0	1	0	28758643	28758643	0	28758643	28758643	0	1230632	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+4	4	0	4	0	28772756	28772756	0	28761202	28761202	0	6094	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+4	1	0	0	0	28758025	0	0	28758025	0	0	252435	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 _zbot
+4	7	0	1	0	28758985	28758984	0	28758984	28758984	0	631250	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.114 Safari/537.36
+4	2	0	1	0	28758643	28758643	0	28758643	28758643	0	3044	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+4	1	0	0	0	28769505	0	0	28769505	0	0	962	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+4	1	0	0	0	28769505	0	0	28769505	0	0	50752	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+4	0	0	1	0	0	28767204	0	0	28767204	0	0	Mozilla/5.0 (Maemo; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1
+4	0	0	0	1	0	0	28770029	0	0	28770029	0	Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Safari/605.1.15 Epiphany/605.1.15
+4	4	0	0	0	28758642	0	0	28758642	0	0	52176	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+4	3	0	1	0	28758644	28758644	0	28758644	28758644	0	21076	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+4	8	0	2	0	28758413	28758413	0	28758413	28758413	0	70466	Mozilla/5.0 (Macintosh; Intel Mac OS X 14.1; rv:109.0) Gecko/20100101 Firefox/120.0
+4	0	0	0	1	0	0	28766882	0	0	28766882	0	Mozilla/5.0 (SS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+4	0	0	1	0	0	28758129	0	0	28758129	0	0	Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA615981) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.3161.98 Mobile Safari/537.3
+4	8	0	7	0	28758078	28758078	0	28758026	28758041	0	12174	WhatsApp/2
+4	0	0	2	0	0	28758129	0	0	28758129	0	0	Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.3
+4	4	0	1	0	28758646	28758646	0	28758646	28758646	0	53703	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+4	4	0	0	0	28758647	0	0	28758647	0	0	359834	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+4	1	0	0	0	28758026	0	0	28758026	0	0	48433	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Zalo/24.8.4 Chrome/108.0.5359.215 Electron/22.3.9 Safari/537.36
+4	0	0	2	0	0	28760617	0	0	28760617	0	0	curl/7.61.1
+4	1	0	1	0	28758643	28758643	0	28758643	28758643	0	1528	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.65 Safari/537.36
+5	1	0	1	0	28764027	28764027	0	28764027	28764027	0	1522	104.166.80.111
+5	6	0	0	0	28758661	0	0	28758661	0	0	630296	18.205.105.240
+5	0	0	1	1	0	28772847	28767052	0	28772847	28767052	0	195.178.110.21
+5	1	0	2	0	28758658	28758653	0	28758658	28758650	0	0	2400:6180:100:d0::393:d001
+5	1	0	1	0	28761202	28761202	0	28761202	28761202	0	1523	144.126.201.9
+5	7	0	0	0	28759692	0	0	28759692	0	0	633084	2400:6180:0:d0::284:c001
+5	8	0	0	0	28760446	0	0	28760446	0	0	640651	94.134.183.49
+5	8	0	0	0	28758660	0	0	28758660	0	0	633348	45.81.148.24
+5	5	0	1	0	28760137	28760137	0	28760137	28760137	0	304710	94.102.63.27
+5	0	0	2	0	0	28758129	0	0	28758129	0	0	2604:a880:cad:d0::d9d:e001
+5	1	0	0	0	28759694	0	0	28759694	0	0	1520	185.253.96.19
+5	0	0	3	15	0	28758130	28758130	0	28758129	28758129	0	147.182.149.75
+5	1	0	1	0	28766925	28766925	0	28766925	28766925	0	1525	104.166.80.241
+5	0	0	1	0	0	28767204	0	0	28767204	0	0	3.35.216.22
+5	269	2	8	22	28761037	28761032	28758091	28758024	28758024	28758022	5486070	116.100.123.108
+5	3	0	0	0	28759488	0	0	28759488	0	0	3743	2602:80d:1002::1e
+5	0	0	0	1	0	0	28768399	0	0	28768399	0	195.178.110.135
+5	1	0	1	0	28759488	28759488	0	28759488	28759488	0	1524	167.94.145.110
+5	0	0	1	0	0	28758650	0	0	28758650	0	0	212.102.35.60
+5	8	0	1	0	28758133	28758133	0	28758133	28758133	0	633341	107.172.166.76
+5	8	0	1	0	28769505	28769504	0	28769504	28769504	0	439234	168.119.80.126
+5	3	0	1	0	28758644	28758644	0	28758644	28758644	0	21076	173.239.214.26
+5	0	0	0	1	0	0	28761805	0	0	28761805	0	179.43.188.122
+5	0	0	0	1	0	0	28758859	0	0	28758859	0	47.251.15.21
+5	0	0	1	0	0	28758650	0	0	28758650	0	0	172.111.197.5
+5	0	0	0	1	0	0	28767059	0	0	28767059	0	3.145.57.200
+5	0	0	0	4	0	0	28767925	0	0	28761550	0	141.11.89.158
+5	1	0	0	0	28758025	0	0	28758025	0	0	252435	49.213.78.31
+5	1	0	1	0	28761141	28761141	0	28761141	28761141	0	1522	104.166.80.209
+5	9	0	2	0	28758643	28758643	0	28758643	28758643	0	634872	212.143.94.254
+5	1	0	1	0	28768380	28768380	0	28768380	28768380	0	1521	104.166.80.194
+5	1	0	1	0	28759234	28759234	0	28759234	28759234	0	1523	87.236.176.221
+5	1	0	1	0	28758643	28758643	0	28758643	28758643	0	1522	95.164.100.197
+5	1	0	1	0	28758667	28758667	0	28758667	28758667	0	1523	49.109.149.105
+5	0	0	0	1	0	0	28758859	0	0	28758859	0	47.88.94.161
+5	2	0	1	0	28758131	28758131	0	28758131	28758131	0	1523	169.150.201.7
+5	8	0	2	0	28758646	28758643	0	28758643	28758643	0	634607	94.102.49.206
+5	7	0	1	0	28758643	28758643	0	28758643	28758643	0	615317	85.254.112.52
+5	0	0	2	0	0	28758129	0	0	28758129	0	0	2a03:b0c0:3:d0::d09:a001
+5	9	0	2	1	28758985	28758985	28758985	28758984	28758984	28758985	632775	40.80.158.10
+5	1	0	1	0	28758025	28758024	0	28758025	28758024	0	1526	15.235.162.57
+5	2	0	1	0	28758133	28758133	0	28758133	28758133	0	1786	107.173.234.194
+5	3	0	0	0	28759695	0	0	28759694	0	0	5265	146.190.13.187
+5	8	0	1	0	28758664	28758664	0	28758664	28758664	0	53963	35.94.24.76
+5	4	0	0	0	28758642	0	0	28758642	0	0	52176	34.201.36.184
+5	4	0	0	0	28758647	0	0	28758647	0	0	359834	194.195.214.252
+5	7	0	0	0	28758643	0	0	28758643	0	0	615315	159.148.128.147
+5	1	0	0	0	28758646	0	0	28758646	0	0	957	80.82.70.198
+5	1	0	1	0	28769930	28769930	0	28769930	28769930	0	1525	147.182.156.247
+5	1	0	1	0	28758224	28758224	0	28758224	28758224	0	1523	135.148.100.196
+5	0	0	0	1	0	0	28764339	0	0	28764339	0	45.148.10.206
+5	1	0	1	0	28758142	28758142	0	28758142	28758142	0	1522	207.241.236.83
+5	1	0	0	0	28758643	0	0	28758643	0	0	1522	79.98.181.145
+5	0	0	1	0	0	28758667	0	0	28758667	0	0	106.155.0.209
+5	0	0	1	0	0	28760617	0	0	28760617	0	0	104.152.52.63
+5	0	0	1	0	0	28760617	0	0	28760617	0	0	104.152.52.60
+5	1	0	1	0	28758131	28758131	0	28758131	28758131	0	1524	178.252.171.20
+5	7	0	1	0	28758642	28758642	0	28758642	28758642	0	633085	95.211.199.150
+5	1540	8	43	20	28758102	28758095	28758093	28758026	28758026	28758027	7899756	113.180.86.96
+5	1	0	0	0	28758646	0	0	28758646	0	0	48433	93.174.93.114
+5	0	0	1	0	0	28765810	0	0	28765810	0	0	3.16.50.169
+5	1	0	1	0	28759686	28759686	0	28759686	28759686	0	1520	104.166.80.66
+5	1	0	1	0	28758646	28758646	0	28758646	28758646	0	1527	89.248.171.23
+5	8	0	2	0	28758413	28758413	0	28758413	28758413	0	70466	104.166.80.64
+5	1	0	1	0	28772739	28772739	0	28772739	28772739	0	1523	104.166.80.62
+5	1	0	1	0	28762612	28762612	0	28762612	28762612	0	1523	104.166.80.8
+5	0	0	0	1	0	0	28766882	0	0	28766882	0	195.178.110.35
+5	0	0	0	1	0	0	28770029	0	0	28770029	0	45.148.10.172
+5	1	0	1	0	28764168	28764168	0	28764168	28764168	0	1524	188.166.9.179
+5	1	0	1	0	28772756	28772756	0	28772756	28772756	0	1522	164.90.199.58
+5	1	0	1	0	28765477	28765477	0	28765477	28765477	0	1522	104.166.80.117
+5	1	0	0	0	28759696	0	0	28759696	0	0	0	2a12:5940:c826::2
+5	1	0	1	0	28758859	28758859	0	28758859	28758859	0	1521	47.254.76.138
+5	1	0	1	0	28758250	28758250	0	28758250	28758250	0	1523	104.166.80.49
+5	1	0	0	0	28758643	0	0	28758643	0	0	18028	38.108.182.96
+z	0	28	0	28760446	0
+z	1	6	0	28761032	31
+z	2	6	0	28758083	486
+z	3	841	0	28769505	275293
+z	4	888	10	28772756	2318931
+z	5	143	0	28769505	4290140
+z	6	62	0	28769505	15109337
+c	200	1966	28772756
+c	301	12	28758082
+c	302	96	28772847
+c	304	8	28760137
+c	403	21	28770029
+c	404	26	28758859
+c	499	1	28758985
+c	500	23	28758080
